@@ -1,0 +1,528 @@
+[
+  {
+    "ids": [
+      0,
+      15,
+      33
+    ],
+    "doc_id": "votes_fgxc0224_page1",
+    "pii_type": "Person Name",
+    "value": "Ms. L. J. Beasley",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.24697650969028473,
+      0.1554698646068573,
+      0.4154687598347664,
+      0.1696305926889181
+    ],
+    "source_file": "votes_fgxc0224_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      1,
+      16,
+      34
+    ],
+    "doc_id": "votes_fgxc0224_page1",
+    "pii_type": "Person Name",
+    "value": "Mr. G. W. McKenna",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.5413845181465149,
+      0.1553668975830078,
+      0.70987818390131,
+      0.16771135944873095
+    ],
+    "source_file": "votes_fgxc0224_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      2,
+      17,
+      35
+    ],
+    "doc_id": "votes_fgxc0224_page1",
+    "pii_type": "Person Name",
+    "value": "Mr. E. M. Blackmer",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.24695274233818054,
+      0.17034809291362762,
+      0.42485305666923523,
+      0.18312674295157194
+    ],
+    "source_file": "votes_fgxc0224_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      3,
+      18,
+      36
+    ],
+    "doc_id": "votes_fgxc0224_page1",
+    "pii_type": "Person Name",
+    "value": "Mr. G. C. Pennell",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.24695274233818054,
+      0.1699363887310028,
+      0.7078947722911835,
+      0.18288272991776466
+    ],
+    "source_file": "votes_fgxc0224_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      4,
+      19,
+      37
+    ],
+    "doc_id": "votes_fgxc0224_page1",
+    "pii_type": "Person Name",
+    "value": "Mr. D. N. Iauco",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.24692094326019287,
+      0.18525195121765137,
+      0.39535173401236534,
+      0.1980176204815507
+    ],
+    "source_file": "votes_fgxc0224_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      5,
+      20,
+      38
+    ],
+    "doc_id": "votes_fgxc0224_page1",
+    "pii_type": "Person Name",
+    "value": "Mr. R. M. Sanders",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.24692094326019287,
+      0.18525195121765137,
+      0.709402434527874,
+      0.19762342888861895
+    ],
+    "source_file": "votes_fgxc0224_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      6,
+      21,
+      39
+    ],
+    "doc_id": "votes_fgxc0224_page1",
+    "pii_type": "Person Name",
+    "value": "Ms. A. Jardine",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.24704252183437347,
+      0.2003197968006134,
+      0.38555147498846054,
+      0.2130443500354886
+    ],
+    "source_file": "votes_fgxc0224_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      7,
+      22,
+      40
+    ],
+    "doc_id": "votes_fgxc0224_page1",
+    "pii_type": "Person Name",
+    "value": "Mr. S. R. Strawsburg",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.5413234829902649,
+      0.20024263858795166,
+      0.7392244711518288,
+      0.2146634552627802
+    ],
+    "source_file": "votes_fgxc0224_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      8,
+      23,
+      41
+    ],
+    "doc_id": "votes_fgxc0224_page1",
+    "pii_type": "Person Name",
+    "value": "Mr. A. A. Lyon",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.24693141877651215,
+      0.2153426706790924,
+      0.38547443971037865,
+      0.22986954171210527
+    ],
+    "source_file": "votes_fgxc0224_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      9,
+      24,
+      42
+    ],
+    "doc_id": "votes_fgxc0224_page1",
+    "pii_type": "Person Name",
+    "value": "Mr. T. W. Robertson",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.24693141877651215,
+      0.21490293741226196,
+      0.7293786704540253,
+      0.2275671400129795
+    ],
+    "source_file": "votes_fgxc0224_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      10,
+      25,
+      43
+    ],
+    "doc_id": "votes_fgxc0224_page1",
+    "pii_type": "Person Name",
+    "value": "William P. Whitlatch",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.24645306169986725,
+      0.2594831883907318,
+      0.4435705691576004,
+      0.2725361716002226
+    ],
+    "source_file": "votes_fgxc0224_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      11,
+      27,
+      44
+    ],
+    "doc_id": "votes_fgxc0224_page1",
+    "pii_type": "Organization Name",
+    "value": "Kroger Company",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.5730302333831787,
+      0.6767139434814453,
+      0.7112104073166847,
+      0.6915311561897397
+    ],
+    "source_file": "votes_fgxc0224_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      12,
+      28,
+      45
+    ],
+    "doc_id": "votes_fgxc0224_page1",
+    "pii_type": "Organization Name",
+    "value": "Wetterau",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.5396592020988464,
+      0.7364051342010498,
+      0.618950791656971,
+      0.748415713198483
+    ],
+    "source_file": "votes_fgxc0224_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "ids": [
+      13,
+      29,
+      46
+    ],
+    "doc_id": "votes_fgxc0224_page1",
+    "pii_type": "Date",
+    "value": "February 7, 1991",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.43555891513824463,
+      0.09669697284698486,
+      0.5911808051168919,
+      0.1114469775930047
+    ],
+    "source_file": "votes_fgxc0224_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      14,
+      30
+    ],
+    "doc_id": "votes_fgxc0224_page1",
+    "pii_type": "Date",
+    "value": "February 4, 1991",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      0.6696718335151672,
+      0.5261059403419495,
+      0.8343030400574207,
+      0.5407552225515246
+    ],
+    "source_file": "votes_fgxc0224_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      26
+    ],
+    "doc_id": "votes_fgxc0224_page1",
+    "pii_type": "Person Name",
+    "value": "Yancey Ford",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      0.3046722412109375,
+      0.6319593191146851,
+      0.42026352882385254,
+      0.6464069569483399
+    ],
+    "source_file": "votes_fgxc0224_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "ids": [
+      31
+    ],
+    "doc_id": "votes_fgxc0224_page1",
+    "pii_type": "Contract Number",
+    "value": "RUR",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      0.7600437998771667,
+      0.018023459240794182,
+      0.866186648607254,
+      0.05472138337790966
+    ],
+    "source_file": "votes_fgxc0224_page1.csv",
+    "votes": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "ids": [
+      32
+    ],
+    "doc_id": "votes_fgxc0224_page1",
+    "pii_type": "Contract Number",
+    "value": "No 408 By",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      0.6642272472381592,
+      0.12116481363773346,
+      0.8585173338651657,
+      0.15008104965090752
+    ],
+    "source_file": "votes_fgxc0224_page1.csv",
+    "votes": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ]
+  }
+]

@@ -1,0 +1,365 @@
+[
+    {
+        "ids": [
+            0,
+            8,
+            16,
+            20
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "Gaworski, Charles L.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            928,
+            573,
+            1386,
+            621
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            9,
+            17,
+            27
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "Gaworski, Charles L.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            488,
+            1356,
+            944,
+            1402
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            10,
+            18,
+            31
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "Raj Raj:",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            308,
+            1632,
+            395,
+            1681
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            11,
+            19,
+            32
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "Chuck",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            307,
+            2022,
+            450,
+            2061
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            7,
+            12,
+            15,
+            34,
+            38
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number",
+            "Location"
+        ],
+        "value": "PM3009480642",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2762,
+            4090,
+            3169,
+            4136
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            13,
+            21,
+            36
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "Thursday, May 20, 2004 2:16 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            926,
+            629,
+            1662,
+            678
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 0.9999987397789659
+    },
+    {
+        "ids": [
+            6,
+            14,
+            28,
+            37
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "Friday, June 08, 2001 9:24 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            486,
+            1409,
+            1169,
+            1460
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 0.9999987397789659
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Location",
+        "value": "FW: aldehyde data",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            927,
+            682,
+            1349,
+            733
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            23
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Location",
+        "value": "DSS:",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            307,
+            798,
+            424,
+            839
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Location",
+        "value": "Aldehydes.xls (28",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            320,
+            1100,
+            638,
+            1144
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            25
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Location",
+        "value": "KB)",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            455,
+            1149,
+            517,
+            1192
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            26
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Location",
+        "value": "Original Message",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            404,
+            1299,
+            795,
+            1349
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            29
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Location",
+        "value": "'Rajendran, N'",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            486,
+            1465,
+            798,
+            1515
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            30
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Location",
+        "value": "aldehyde data",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            665,
+            1522,
+            977,
+            1571
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            33
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Location",
+        "value": "1",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1640,
+            3880,
+            1657,
+            3913
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            35
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Location",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fglw0150",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            757,
+            4316,
+            2641,
+            4390
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 0.11727918502265558
+    }
+]

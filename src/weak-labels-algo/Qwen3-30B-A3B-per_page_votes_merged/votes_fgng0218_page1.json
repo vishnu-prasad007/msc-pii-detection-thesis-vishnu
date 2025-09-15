@@ -1,0 +1,196 @@
+[
+    {
+        "ids": [
+            0,
+            9,
+            17
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Person Name",
+        "value": "Burns, Denise H",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.19483822584152222,
+            0.10727866739034653,
+            0.29513745848089457,
+            0.11823262646794319
+        ],
+        "source_file": "votes_fgng0218_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            10,
+            18
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Person Name",
+        "value": "Ingrid Schleimer",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16902200877666473,
+            0.12945546209812164,
+            0.27316105365753174,
+            0.14066369365900755
+        ],
+        "source_file": "votes_fgng0218_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            11,
+            19
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Person Name",
+        "value": "Perry, Ellie",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2964189052581787,
+            0.14029182493686676,
+            0.3666204586625099,
+            0.1518748914822936
+        ],
+        "source_file": "votes_fgng0218_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            12,
+            20
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Person Name",
+        "value": "Christiansen, Tammy A",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3705909252166748,
+            0.1402759552001953,
+            0.5156398778781295,
+            0.15187533758580685
+        ],
+        "source_file": "votes_fgng0218_page1.csv"
+    },
+    {
+        "ids": [
+            4
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Organization Name",
+        "value": "Marlboro",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.24649395048618317,
+            0.15126746892929077,
+            0.3003571853041649,
+            0.16091639455407858
+        ],
+        "source_file": "votes_fgng0218_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            13,
+            21
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Organization Name",
+        "value": "BENSON & HEDGES Benson Hedges",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.23953139781951904,
+            0.19461940228939056,
+            0.33478355780243874,
+            0.20170090440660715
+        ],
+        "source_file": "votes_fgng0218_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            14,
+            22
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Date",
+        "value": "Friday, April 07, 2000 2:12 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.19451233744621277,
+            0.11829356104135513,
+            0.3815158884972334,
+            0.1297027561813593
+        ],
+        "source_file": "votes_fgng0218_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            15,
+            23
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Contract Number",
+        "value": "2080650519 - E",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.78789883852005,
+            0.9224104285240173,
+            0.9265322117134929,
+            0.935541776008904
+        ],
+        "source_file": "votes_fgng0218_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            16,
+            24
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Contract Number",
+        "value": "2080650519-E",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.058437444269657135,
+            0.9628215432167053,
+            0.16355694830417633,
+            0.9732767026871443
+        ],
+        "source_file": "votes_fgng0218_page1.csv"
+    }
+]

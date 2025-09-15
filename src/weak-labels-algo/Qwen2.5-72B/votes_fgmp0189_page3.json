@@ -1,0 +1,297 @@
+[
+    {
+        "ids": [
+            0,
+            13,
+            25
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Susan White",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            609,
+            624,
+            978,
+            683
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            1
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Susan White",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            611,
+            949,
+            980,
+            1010
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.031693920967088056
+    },
+    {
+        "ids": [
+            2,
+            14,
+            26
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Steve McQuilkin",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            613,
+            1522,
+            1077,
+            1587
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            3,
+            15,
+            27
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Jan",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1338,
+            1605,
+            1442,
+            1662
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            4,
+            16,
+            28
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Anita Scism",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2082,
+            1685,
+            2420,
+            1745
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            5,
+            17,
+            29
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Frank Tursi",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            616,
+            2011,
+            941,
+            2071
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            6,
+            18,
+            30
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Andy Schindler",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1484,
+            2010,
+            1913,
+            2085
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            7,
+            19,
+            31
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Steve Goldstone",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2054,
+            2009,
+            2547,
+            2071
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            8,
+            20,
+            32
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Jason Wright",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1176,
+            2173,
+            1556,
+            2247
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            9,
+            21,
+            33
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Organization Name",
+        "value": "RJR",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2007,
+            624,
+            2131,
+            683
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.991968246240452
+    },
+    {
+        "ids": [
+            10,
+            22,
+            34
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Organization Name",
+        "value": "RJR",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1694,
+            703,
+            1818,
+            763
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.991968246240452
+    },
+    {
+        "ids": [
+            11,
+            23,
+            35
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Organization Name",
+        "value": "RJR",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2220,
+            950,
+            2345,
+            1010
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.991968246240452
+    },
+    {
+        "ids": [
+            12,
+            24,
+            36
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Contract Number",
+        "value": "RJR0000000046027194",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            64,
+            4483,
+            771,
+            4546
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.9892306065093162
+    }
+]

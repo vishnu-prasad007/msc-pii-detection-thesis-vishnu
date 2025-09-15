@@ -1,0 +1,134 @@
+[
+    {
+        "ids": [
+            0,
+            6,
+            12
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Person Name",
+        "value": "Christopher J. Ferraro, President",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.41831299662590027,
+            0.3117554783821106,
+            0.6631891950964928,
+            0.32788075134158134
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            1,
+            7,
+            13
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Person Name",
+        "value": "Edmistoor",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.17762117087841034,
+            0.43259939551353455,
+            0.35751214623451233,
+            0.47747085615992546
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            2,
+            10,
+            14
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Organization Name",
+        "value": "THE AFFINITY MANAGEMENT GROUP, INC.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3905382752418518,
+            0.24127085506916046,
+            0.7899661287665367,
+            0.25728918705135584
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            3,
+            8,
+            15
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Organization Name",
+        "value": "EDNA'S",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2122042328119278,
+            0.08345886319875717,
+            0.2865912839770317,
+            0.09854292869567871
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            4,
+            9,
+            16
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Organization Name",
+        "value": "EDNA'S",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2770148813724518,
+            0.41587725281715393,
+            0.3526652008295059,
+            0.43332651257514954
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            5,
+            11,
+            17
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Contract Number",
+        "value": "3-AO-V",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.10870096832513809,
+            0.8995035886764526,
+            0.15829933434724808,
+            0.9097404051572084
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    }
+]

@@ -1,0 +1,251 @@
+[
+    {
+        "ids": [
+            0,
+            11,
+            21
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": "Person Name",
+        "value": "William P. Buckley",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            639,
+            741,
+            1099,
+            784
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            1,
+            12,
+            22
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": "Person Name",
+        "value": "William A. Cannell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            640,
+            784,
+            1093,
+            822
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            2,
+            13,
+            23
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": "Person Name",
+        "value": "Richard E. Scanlan",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            642,
+            869,
+            1100,
+            907
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            3,
+            14,
+            24
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": "Person Name",
+        "value": "Michael G. Griffin",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            489,
+            1165,
+            948,
+            1201
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            4,
+            15,
+            25
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": "Person Name",
+        "value": "Bernard",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1891,
+            1250,
+            2066,
+            1286
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            5,
+            16,
+            26
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": "Person Name",
+        "value": "J. Ruggieri",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            414,
+            1292,
+            693,
+            1334
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            6
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": "Person Name",
+        "value": "Griffin",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1357,
+            1333,
+            1532,
+            1369
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 0.12241525286457304
+    },
+    {
+        "ids": [
+            7,
+            17,
+            27
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": "Location",
+        "value": "New York",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1102,
+            1249,
+            1324,
+            1285
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 0.9965290942566549
+    },
+    {
+        "ids": [
+            8,
+            18,
+            28
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": "Organization Name",
+        "value": "Griffin Media Group",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            773,
+            1165,
+            1531,
+            1207
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 0.9937329907926641
+    },
+    {
+        "ids": [
+            9,
+            19,
+            29
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": "Date",
+        "value": "April 8, 1985",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            412,
+            447,
+            742,
+            490
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            10,
+            20,
+            30
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": "Contract Number",
+        "value": "TCAL0194840",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1679,
+            2849,
+            1985,
+            2889
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 0.9354416064716374
+    }
+]

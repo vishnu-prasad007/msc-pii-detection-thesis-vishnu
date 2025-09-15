@@ -1,0 +1,111 @@
+[
+    {
+        "ids": [
+            0,
+            4,
+            8
+        ],
+        "doc_id": "votes_fhbd0057_page2",
+        "pii_type": "Person Name",
+        "value": "Isabelle Delage",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            165,
+            324,
+            403,
+            350
+        ],
+        "source_file": "votes_fhbd0057_page2.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            1,
+            5,
+            9
+        ],
+        "doc_id": "votes_fhbd0057_page2",
+        "pii_type": "Person Name",
+        "value": "Isabelle D.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            108,
+            493,
+            276,
+            516
+        ],
+        "source_file": "votes_fhbd0057_page2.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            2,
+            6,
+            10
+        ],
+        "doc_id": "votes_fhbd0057_page2",
+        "pii_type": "Person Name",
+        "value": "Diane L.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            249,
+            691,
+            371,
+            710
+        ],
+        "source_file": "votes_fhbd0057_page2.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            3
+        ],
+        "doc_id": "votes_fhbd0057_page2",
+        "pii_type": "Contract Number",
+        "value": "CAN/22",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            311,
+            377,
+            405,
+            401
+        ],
+        "source_file": "votes_fhbd0057_page2.csv",
+        "probability": 0.042854705629468436
+    },
+    {
+        "ids": [
+            7,
+            11
+        ],
+        "doc_id": "votes_fhbd0057_page2",
+        "pii_type": "Contract Number",
+        "value": "CAN/22 on Tobacco Product Packaging",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            311,
+            374,
+            864,
+            401
+        ],
+        "source_file": "votes_fhbd0057_page2.csv",
+        "probability": 0.8040093629396275
+    }
+]

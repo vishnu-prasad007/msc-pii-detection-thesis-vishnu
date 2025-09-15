@@ -1,0 +1,924 @@
+[
+    {
+        "ids": [
+            0,
+            34,
+            70
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Person Name",
+        "value": "Margaret Crandall",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            149,
+            229,
+            505,
+            267
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9997390584202765
+    },
+    {
+        "ids": [
+            1,
+            35
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Person Name",
+        "value": "Jeff Hood",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            279,
+            2386,
+            493,
+            2423
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9441355554870619
+    },
+    {
+        "ids": [
+            2,
+            3,
+            36,
+            74
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Person Name",
+        "value": "Jeff Jeff.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            151,
+            1369,
+            252,
+            1401
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9997390584202765
+    },
+    {
+        "ids": [
+            4,
+            42
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Person Name",
+        "value": "Crandall, Margaret A",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            235,
+            717,
+            663,
+            755
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9441355554870619
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Person Name",
+        "value": "Hood, Jeff [mailto:Jeff.Hood@Maritz.com]",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            277,
+            635,
+            1123,
+            673
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.026342329866584975
+    },
+    {
+        "ids": [
+            6,
+            40,
+            76
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Person Name",
+        "value": "Margaret Crandall",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            148,
+            1980,
+            505,
+            2018
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9997390584202765
+    },
+    {
+        "ids": [
+            7,
+            37
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Person Name",
+        "value": "Jeff",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            151,
+            2998,
+            237,
+            3029
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9441355554870619
+    },
+    {
+        "ids": [
+            8,
+            38,
+            79
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Person Name",
+        "value": "Jeff Hood",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            151,
+            3079,
+            340,
+            3112
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9997390584202765
+    },
+    {
+        "ids": [
+            9,
+            43
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Person Name",
+        "value": "Wessler, Michael",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            232,
+            758,
+            591,
+            795
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9441355554870619
+    },
+    {
+        "ids": [
+            10,
+            44
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Person Name",
+        "value": "Brendel, Diane",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1344,
+            758,
+            1655,
+            795
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9441355554870619
+    },
+    {
+        "ids": [
+            11,
+            45
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Person Name",
+        "value": "McGrath, Mindy",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            383,
+            799,
+            700,
+            838
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9441355554870619
+    },
+    {
+        "ids": [
+            12,
+            46
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Person Name",
+        "value": "Borchelt, Aaron",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            727,
+            799,
+            1045,
+            836
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9441355554870619
+    },
+    {
+        "ids": [
+            13,
+            47
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Person Name",
+        "value": "Wessler, Michael",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            233,
+            1613,
+            588,
+            1649
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9441355554870619
+    },
+    {
+        "ids": [
+            14,
+            48
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Person Name",
+        "value": "Brendel, Diane",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1344,
+            1613,
+            1655,
+            1649
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9441355554870619
+    },
+    {
+        "ids": [
+            15,
+            50
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Person Name",
+        "value": "Wessler, Michael",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            232,
+            2510,
+            588,
+            2547
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9441355554870619
+    },
+    {
+        "ids": [
+            16,
+            51
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Person Name",
+        "value": "Brendel, Diane",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1344,
+            2510,
+            1660,
+            2546
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9441355554870619
+    },
+    {
+        "ids": [
+            17,
+            52,
+            80
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Phone Number",
+        "value": "800.634.1515 ex. 43493",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            235,
+            433,
+            703,
+            465
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9999978866788498
+    },
+    {
+        "ids": [
+            18,
+            53,
+            81
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Phone Number",
+        "value": "314.654.3493",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            340,
+            474,
+            594,
+            506
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9999978866788498
+    },
+    {
+        "ids": [
+            19,
+            54,
+            82
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Phone Number",
+        "value": "314-651-4982",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            300,
+            515,
+            553,
+            547
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9999978866788498
+    },
+    {
+        "ids": [
+            20,
+            55,
+            83
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Phone Number",
+        "value": "314.654.7129",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            282,
+            555,
+            534,
+            588
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9999978866788498
+    },
+    {
+        "ids": [
+            21,
+            56,
+            84
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Phone Number",
+        "value": "800.634.1515 ex. 43493",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            235,
+            2184,
+            703,
+            2216
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9999978866788498
+    },
+    {
+        "ids": [
+            22,
+            57,
+            85
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Phone Number",
+        "value": "314.654.3493",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            342,
+            2224,
+            596,
+            2257
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9999978866788498
+    },
+    {
+        "ids": [
+            23,
+            58,
+            86
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Phone Number",
+        "value": "314-651-4982",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            299,
+            2265,
+            556,
+            2297
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9999978866788498
+    },
+    {
+        "ids": [
+            24,
+            59,
+            87
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Phone Number",
+        "value": "314.654.7129",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            280,
+            2306,
+            533,
+            2338
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9999978866788498
+    },
+    {
+        "ids": [
+            25,
+            88
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Location",
+        "value": "Bldg. 10-4-s",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            704,
+            392,
+            960,
+            431
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.8663276207379208
+    },
+    {
+        "ids": [
+            26,
+            89
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Location",
+        "value": "Bldg. 10-4-s",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            704,
+            2142,
+            959,
+            2181
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.8663276207379208
+    },
+    {
+        "ids": [
+            27,
+            62,
+            90
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Organization Name",
+        "value": "Covidien",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            149,
+            392,
+            320,
+            425
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9930561197603293
+    },
+    {
+        "ids": [
+            28,
+            63,
+            91
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            378,
+            392,
+            644,
+            425
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9930561197603293
+    },
+    {
+        "ids": [
+            29,
+            64
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Organization Name",
+        "value": "Covidien",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            150,
+            2142,
+            320,
+            2175
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.8563370501933503
+    },
+    {
+        "ids": [
+            30,
+            65
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            380,
+            2142,
+            642,
+            2175
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.8563370501933503
+    },
+    {
+        "ids": [
+            31,
+            66,
+            92
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Date",
+        "value": "Monday, April 09, 2012 1:15 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            277,
+            678,
+            920,
+            716
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9998803392147021
+    },
+    {
+        "ids": [
+            32,
+            67,
+            93
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Date",
+        "value": "Thursday, April 05, 2012 10:59 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            275,
+            1531,
+            985,
+            1571
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9998803392147021
+    },
+    {
+        "ids": [
+            33,
+            68,
+            94
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Date",
+        "value": "Thursday, April 05, 2012 10:54 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            276,
+            2427,
+            983,
+            2467
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.9998803392147021
+    },
+    {
+        "ids": [
+            39,
+            72
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Person Name",
+        "value": "Margaret A",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            447,
+            720,
+            663,
+            755
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.8716119401630902
+    },
+    {
+        "ids": [
+            41,
+            71
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Person Name",
+        "value": "Hood, Jeff Hood",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            277,
+            636,
+            493,
+            673
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.8716119401630902
+    },
+    {
+        "ids": [
+            49
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Person Name",
+        "value": "Crandall, Margaret A",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            235,
+            2468,
+            664,
+            2507
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.02907629948630639
+    },
+    {
+        "ids": [
+            60
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Location",
+        "value": "Covidien / Mallinckrodt - Bldg. 10-4-s",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            149,
+            391,
+            960,
+            431
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.027559355011781562
+    },
+    {
+        "ids": [
+            61
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Location",
+        "value": "Covidien / Mallinckrodt - Bldg. 10-4-s",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            150,
+            2142,
+            959,
+            2181
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.027559355011781562
+    },
+    {
+        "ids": [
+            69,
+            95
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Contract Number",
+        "value": "MNKOI 0000326894",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            2088,
+            3305,
+            2469,
+            3340
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.7866297151697789
+    },
+    {
+        "ids": [
+            73
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Person Name",
+        "value": "Margaret,",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            213,
+            923,
+            399,
+            959
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.010751105769101325
+    },
+    {
+        "ids": [
+            75
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Person Name",
+        "value": "Jeff",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            363,
+            1573,
+            451,
+            1605
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.010751105769101325
+    },
+    {
+        "ids": [
+            77
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Person Name",
+        "value": "Jeff",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            406,
+            2386,
+            493,
+            2419
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.010751105769101325
+    },
+    {
+        "ids": [
+            78
+        ],
+        "doc_id": "votes_fhvc0235_page2",
+        "pii_type": "Person Name",
+        "value": "Margaret A",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            446,
+            2471,
+            664,
+            2507
+        ],
+        "source_file": "votes_fhvc0235_page2.csv",
+        "probability": 0.010751105769101325
+    }
+]

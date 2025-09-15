@@ -1,0 +1,568 @@
+[
+    {
+        "ids": [
+            0,
+            21,
+            37
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Person Name",
+        "value": "Cardetti, Lisa M",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16960430145263672,
+            0.0683155283331871,
+            0.28210601303726435,
+            0.08137098886072636
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            1,
+            22,
+            38
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Person Name",
+        "value": "Ramsaran, Elva",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.14852596819400787,
+            0.09855759888887405,
+            0.2652905583381653,
+            0.1110644955188036
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            2,
+            23,
+            39
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Person Name",
+        "value": "Kayich, Natalie",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2704522907733917,
+            0.0982942208647728,
+            0.38224010542035103,
+            0.11128914449363947
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            3,
+            24,
+            40
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Person Name",
+        "value": "Longenecker, Jacob",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.38710924983024597,
+            0.0979895144701004,
+            0.5300222337245941,
+            0.1112466249614954
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            4,
+            25,
+            41
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Person Name",
+        "value": "Vorderstrasse, Kevin",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.28065693378448486,
+            0.11358659714460373,
+            0.4284464865922928,
+            0.12618821021169424
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            5,
+            26,
+            42
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Person Name",
+        "value": "Elval",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.27507099509239197,
+            0.16112852096557617,
+            0.3091318756341934,
+            0.17160453461110592
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            6,
+            43
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Person Name",
+        "value": "Jake",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.17528226971626282,
+            0.2280852198600769,
+            0.2066304162144661,
+            0.23835540190339088
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            7,
+            28
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Person Name",
+        "value": "Lisa Cardetti I",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.11768289655447006,
+            0.6505813002586365,
+            0.21788608562201262,
+            0.6632408872246742
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            8,
+            27,
+            45
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Person Name",
+        "value": "Ramsaran, Elva",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1703234612941742,
+            0.7866297960281372,
+            0.28121686913073063,
+            0.7992837838828564
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            9,
+            29,
+            49
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Email Address",
+        "value": "isa.cardetti@mallinckrodt.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.12128158658742905,
+            0.7168980240821838,
+            0.3460250124335289,
+            0.7287724539637566
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Phone Number",
+        "value": "O: 816.214.5286 M: 314.452.2845",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.11796953529119492,
+            0.7005382776260376,
+            0.37875090539455414,
+            0.7108078449964523
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            11,
+            32,
+            52
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Location",
+        "value": "675 McDonnell Blvd. Hazelwood, MO 63042",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.11759840697050095,
+            0.6839230060577393,
+            0.45088452100753784,
+            0.6955012939870358
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            12,
+            53
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Organization Name",
+        "value": "Enclara",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.22021344304084778,
+            0.12854479253292084,
+            0.2728160507977009,
+            0.1394820176064968
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            13
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Organization Name",
+        "value": "Enclara",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.24370664358139038,
+            0.19449873268604279,
+            0.30852148681879044,
+            0.20489792339503765
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            14
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Organization Name",
+        "value": "Enclara",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.5650886297225952,
+            0.22811003029346466,
+            0.6215719319880009,
+            0.24016463663429022
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            15
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Organization Name",
+        "value": "Enclara",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.817719042301178,
+            0.3126336634159088,
+            0.8667525798082352,
+            0.3222057456150651
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            16,
+            54
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Organization Name",
+        "value": "CVS",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.6183164715766907,
+            0.19471918046474457,
+            0.6464864164590836,
+            0.2047938061878085
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            17
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Organization Name",
+        "value": "CVS",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.7582245469093323,
+            0.32104477286338806,
+            0.7845584079623222,
+            0.330295423977077
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            18,
+            33,
+            55
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt Pharmaceuticals Specialty Generics",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.11784671992063522,
+            0.6670525074005127,
+            0.483742393553257,
+            0.6794184036552906
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            19,
+            34,
+            56
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Date",
+        "value": "Wednesday, April 19, 2017 1:18 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16511070728302002,
+            0.08347205817699432,
+            0.42358326725661755,
+            0.09650599956512451
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            20,
+            35,
+            57
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Date",
+        "value": "Wednesday, April 19, 2017 12:32 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16498138010501862,
+            0.8013452887535095,
+            0.43241287395358086,
+            0.8144014282152057
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            30,
+            50
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Phone Number",
+        "value": "816.214.5286",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.13829562067985535,
+            0.7005382776260376,
+            0.23782410472631454,
+            0.7108050417155027
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            31,
+            51
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Phone Number",
+        "value": "314.452.2845",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.2786575257778168,
+            0.7006707191467285,
+            0.37875090539455414,
+            0.7108078449964523
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            36,
+            58
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Contract Number",
+        "value": "MNKOI 0004610367",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.8186656832695007,
+            0.9855560064315796,
+            0.9680995345115662,
+            0.9963974570855498
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            44
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Person Name",
+        "value": "Lisa Cardetti I Director - National Accounts",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.11768289655447006,
+            0.6505813002586365,
+            0.4304967224597931,
+            0.6632408872246742
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            46
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Person Name",
+        "value": "Kayich, Natalie",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.27181118726730347,
+            0.8166857957839966,
+            0.3827021196484566,
+            0.8295155204832554
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            47
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Person Name",
+        "value": "Longenecker, Jacob",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.3882429301738739,
+            0.816642165184021,
+            0.5308503694832325,
+            0.8293463662266731
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    },
+    {
+        "ids": [
+            48
+        ],
+        "doc_id": "votes_fgbf0249_page2",
+        "pii_type": "Person Name",
+        "value": "Vorderstrasse, Kevin",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.2807009518146515,
+            0.831649899482727,
+            0.42855046689510345,
+            0.8438500137999654
+        ],
+        "source_file": "votes_fgbf0249_page2.csv"
+    }
+]

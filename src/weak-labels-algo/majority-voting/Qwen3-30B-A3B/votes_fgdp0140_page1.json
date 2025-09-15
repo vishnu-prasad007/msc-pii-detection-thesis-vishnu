@@ -1,0 +1,234 @@
+[
+    {
+        "ids": [
+            0,
+            10,
+            19
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. J. M. Mosely",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            217,
+            470,
+            399,
+            491
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            11,
+            20
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. Mosely",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            273,
+            605,
+            396,
+            626
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            12,
+            21
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Person Name",
+        "value": "John W. Boenigle",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            550,
+            894,
+            835,
+            960
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            13,
+            22
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Person Name",
+        "value": "John W. Boenigk",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            551,
+            942,
+            719,
+            964
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            24
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Location",
+        "value": "RICHMOND, VIRCINIA",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            475,
+            160,
+            666,
+            174
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            5,
+            14,
+            25
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Location",
+        "value": "400 Petersburg Turnpike",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            218,
+            537,
+            474,
+            558
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            15,
+            26
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Location",
+        "value": "Richmond-24, Virginia",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            217,
+            559,
+            453,
+            581
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            7,
+            16,
+            23,
+            27
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "MEDICAL COLLEGE OF VIRGINIA",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            391,
+            100,
+            751,
+            115
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            8,
+            17,
+            28
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Organization Name",
+        "value": "The American Tobacco Company",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            218,
+            492,
+            531,
+            514
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            9,
+            18,
+            29
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Date",
+        "value": "October 11, 1955",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            705,
+            180,
+            881,
+            202
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 1.0
+    }
+]

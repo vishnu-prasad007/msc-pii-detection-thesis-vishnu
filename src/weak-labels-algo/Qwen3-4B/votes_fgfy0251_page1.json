@@ -1,0 +1,390 @@
+[
+    {
+        "ids": [
+            0,
+            13,
+            27
+        ],
+        "doc_id": "votes_fgfy0251_page1",
+        "pii_type": "Person Name",
+        "value": "Falcone, Melissa M",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            421,
+            271,
+            741,
+            308
+        ],
+        "source_file": "votes_fgfy0251_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            1
+        ],
+        "doc_id": "votes_fgfy0251_page1",
+        "pii_type": "Person Name",
+        "value": "Diane",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            571,
+            373,
+            668,
+            404
+        ],
+        "source_file": "votes_fgfy0251_page1.csv",
+        "probability": 0.12241525286457304
+    },
+    {
+        "ids": [
+            2,
+            15,
+            29
+        ],
+        "doc_id": "votes_fgfy0251_page1",
+        "pii_type": "Person Name",
+        "value": "Michael Wessler Wessler,",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            421,
+            423,
+            707,
+            462
+        ],
+        "source_file": "votes_fgfy0251_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            3,
+            16,
+            30
+        ],
+        "doc_id": "votes_fgfy0251_page1",
+        "pii_type": "Person Name",
+        "value": "Diane",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            213,
+            708,
+            333,
+            740
+        ],
+        "source_file": "votes_fgfy0251_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            4,
+            17,
+            31
+        ],
+        "doc_id": "votes_fgfy0251_page1",
+        "pii_type": "Person Name",
+        "value": "Melissa Falcone",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            148,
+            1013,
+            467,
+            1046
+        ],
+        "source_file": "votes_fgfy0251_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            5,
+            18,
+            32
+        ],
+        "doc_id": "votes_fgfy0251_page1",
+        "pii_type": "Email Address",
+        "value": "Melissa.Falcone@covidien.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            758,
+            270,
+            1304,
+            308
+        ],
+        "source_file": "votes_fgfy0251_page1.csv",
+        "probability": 0.9999175004418573
+    },
+    {
+        "ids": [
+            6,
+            19,
+            33
+        ],
+        "doc_id": "votes_fgfy0251_page1",
+        "pii_type": "Email Address",
+        "value": "Diane.Brendel@covidien.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            679,
+            372,
+            1201,
+            411
+        ],
+        "source_file": "votes_fgfy0251_page1.csv",
+        "probability": 0.9999175004418573
+    },
+    {
+        "ids": [
+            7,
+            20,
+            34
+        ],
+        "doc_id": "votes_fgfy0251_page1",
+        "pii_type": "Email Address",
+        "value": "Michael.Wessler@Covidien.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            721,
+            423,
+            1287,
+            461
+        ],
+        "source_file": "votes_fgfy0251_page1.csv",
+        "probability": 0.9999175004418573
+    },
+    {
+        "ids": [
+            8,
+            21
+        ],
+        "doc_id": "votes_fgfy0251_page1",
+        "pii_type": "Phone Number",
+        "value": "(314) 654-8579",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            152,
+            1243,
+            448,
+            1279
+        ],
+        "source_file": "votes_fgfy0251_page1.csv",
+        "probability": 0.88982395688024
+    },
+    {
+        "ids": [
+            9,
+            22
+        ],
+        "doc_id": "votes_fgfy0251_page1",
+        "pii_type": "Phone Number",
+        "value": "(314) 654-7129",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            153,
+            1282,
+            447,
+            1318
+        ],
+        "source_file": "votes_fgfy0251_page1.csv",
+        "probability": 0.88982395688024
+    },
+    {
+        "ids": [
+            10,
+            37
+        ],
+        "doc_id": "votes_fgfy0251_page1",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            152,
+            1090,
+            422,
+            1127
+        ],
+        "source_file": "votes_fgfy0251_page1.csv",
+        "probability": 0.7749052148181887
+    },
+    {
+        "ids": [
+            11,
+            25,
+            39
+        ],
+        "doc_id": "votes_fgfy0251_page1",
+        "pii_type": "Date",
+        "value": "11/16/2012 8:40:48 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            421,
+            320,
+            825,
+            359
+        ],
+        "source_file": "votes_fgfy0251_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            12,
+            26,
+            40
+        ],
+        "doc_id": "votes_fgfy0251_page1",
+        "pii_type": "Contract Number",
+        "value": "MNKOI 0005210985",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2087,
+            3304,
+            2469,
+            3340
+        ],
+        "source_file": "votes_fgfy0251_page1.csv",
+        "probability": 0.9354416064716374
+    },
+    {
+        "ids": [
+            14,
+            28
+        ],
+        "doc_id": "votes_fgfy0251_page1",
+        "pii_type": "Person Name",
+        "value": "Brendel, Diane",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            420,
+            372,
+            668,
+            409
+        ],
+        "source_file": "votes_fgfy0251_page1.csv",
+        "probability": 0.5683589493486256
+    },
+    {
+        "ids": [
+            23
+        ],
+        "doc_id": "votes_fgfy0251_page1",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt, the Pharmaceuticals business of Covidien",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            152,
+            1090,
+            1300,
+            1127
+        ],
+        "source_file": "votes_fgfy0251_page1.csv",
+        "probability": 0.050651127642433146
+    },
+    {
+        "ids": [
+            24,
+            38
+        ],
+        "doc_id": "votes_fgfy0251_page1",
+        "pii_type": "Organization Name",
+        "value": "Covidien",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1130,
+            1090,
+            1300,
+            1122
+        ],
+        "source_file": "votes_fgfy0251_page1.csv",
+        "probability": 0.7199208585003751
+    },
+    {
+        "ids": [
+            35
+        ],
+        "doc_id": "votes_fgfy0251_page1",
+        "pii_type": "Location",
+        "value": "675 McDonnell Blvd.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            150,
+            1128,
+            548,
+            1163
+        ],
+        "source_file": "votes_fgfy0251_page1.csv",
+        "probability": 0.0366199020835172
+    },
+    {
+        "ids": [
+            36
+        ],
+        "doc_id": "votes_fgfy0251_page1",
+        "pii_type": "Location",
+        "value": "Hazelwood, MO 63042",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            150,
+            1167,
+            553,
+            1204
+        ],
+        "source_file": "votes_fgfy0251_page1.csv",
+        "probability": 0.0366199020835172
+    }
+]

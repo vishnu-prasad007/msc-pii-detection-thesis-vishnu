@@ -1,0 +1,333 @@
+[
+    {
+        "ids": [
+            0,
+            12,
+            26
+        ],
+        "doc_id": "votes_fgbf0249_page5",
+        "pii_type": "Person Name",
+        "value": "Longenecker, Jacob",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            979,
+            157,
+            1356,
+            200
+        ],
+        "source_file": "votes_fgbf0249_page5.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            1,
+            14,
+            28
+        ],
+        "doc_id": "votes_fgbf0249_page5",
+        "pii_type": "Person Name",
+        "value": "Meisner, Randy J",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            976,
+            208,
+            1290,
+            252
+        ],
+        "source_file": "votes_fgbf0249_page5.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            2,
+            29
+        ],
+        "doc_id": "votes_fgbf0249_page5",
+        "pii_type": "Person Name",
+        "value": "Lisa",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            900,
+            703,
+            969,
+            737
+        ],
+        "source_file": "votes_fgbf0249_page5.csv",
+        "probability": 0.8128964067822458
+    },
+    {
+        "ids": [
+            3,
+            17
+        ],
+        "doc_id": "votes_fgbf0249_page5",
+        "pii_type": "Email Address",
+        "value": "lisa.cardetti@mallinckrodt.com",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            901,
+            1037,
+            1487,
+            1078
+        ],
+        "source_file": "votes_fgbf0249_page5.csv",
+        "probability": 0.8805174883280957
+    },
+    {
+        "ids": [
+            4,
+            18,
+            30
+        ],
+        "doc_id": "votes_fgbf0249_page5",
+        "pii_type": "Phone Number",
+        "value": "816.214.5286",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            953,
+            983,
+            1207,
+            1017
+        ],
+        "source_file": "votes_fgbf0249_page5.csv",
+        "probability": 0.9990904025042505
+    },
+    {
+        "ids": [
+            5,
+            19,
+            31
+        ],
+        "doc_id": "votes_fgbf0249_page5",
+        "pii_type": "Phone Number",
+        "value": "314.452.2845",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1313,
+            983,
+            1564,
+            1016
+        ],
+        "source_file": "votes_fgbf0249_page5.csv",
+        "probability": 0.9990904025042505
+    },
+    {
+        "ids": [
+            6,
+            20,
+            32
+        ],
+        "doc_id": "votes_fgbf0249_page5",
+        "pii_type": "Location",
+        "value": "675 McDonnell Blvd. I Hazelwood, MO 63042",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            899,
+            926,
+            1750,
+            966
+        ],
+        "source_file": "votes_fgbf0249_page5.csv",
+        "probability": 0.996034042417568
+    },
+    {
+        "ids": [
+            7,
+            21,
+            33
+        ],
+        "doc_id": "votes_fgbf0249_page5",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt Pharmaceuticals Specialty Generics",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            900,
+            870,
+            1833,
+            912
+        ],
+        "source_file": "votes_fgbf0249_page5.csv",
+        "probability": 0.9900025300515797
+    },
+    {
+        "ids": [
+            8,
+            22,
+            34
+        ],
+        "doc_id": "votes_fgbf0249_page5",
+        "pii_type": "Date",
+        "value": "Monday, April 17, 2017 10:08 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1023,
+            1357,
+            1636,
+            1400
+        ],
+        "source_file": "votes_fgbf0249_page5.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            9,
+            23,
+            35
+        ],
+        "doc_id": "votes_fgbf0249_page5",
+        "pii_type": "Date",
+        "value": "Friday, April 14, 2017 8:21 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1009,
+            2193,
+            1568,
+            2235
+        ],
+        "source_file": "votes_fgbf0249_page5.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            10,
+            24,
+            36
+        ],
+        "doc_id": "votes_fgbf0249_page5",
+        "pii_type": "Date",
+        "value": "Friday, April 14, 2017 8:14 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1023,
+            2704,
+            1581,
+            2748
+        ],
+        "source_file": "votes_fgbf0249_page5.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            11,
+            25,
+            37
+        ],
+        "doc_id": "votes_fgbf0249_page5",
+        "pii_type": "Contract Number",
+        "value": "MNKOI 0004610370",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2087,
+            3304,
+            2469,
+            3340
+        ],
+        "source_file": "votes_fgbf0249_page5.csv",
+        "probability": 0.9662050027718209
+    },
+    {
+        "ids": [
+            13,
+            27
+        ],
+        "doc_id": "votes_fgbf0249_page5",
+        "pii_type": "Person Name",
+        "value": "Kayich, Natalie",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1369,
+            157,
+            1641,
+            200
+        ],
+        "source_file": "votes_fgbf0249_page5.csv",
+        "probability": 0.6937625365640808
+    },
+    {
+        "ids": [
+            15
+        ],
+        "doc_id": "votes_fgbf0249_page5",
+        "pii_type": "Person Name",
+        "value": "Vorderstrasse, Kevin",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1020,
+            2138,
+            1403,
+            2177
+        ],
+        "source_file": "votes_fgbf0249_page5.csv",
+        "probability": 0.04056118529657932
+    },
+    {
+        "ids": [
+            16
+        ],
+        "doc_id": "votes_fgbf0249_page5",
+        "pii_type": "Person Name",
+        "value": "Barb",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1432,
+            2416,
+            1517,
+            2451
+        ],
+        "source_file": "votes_fgbf0249_page5.csv",
+        "probability": 0.04056118529657932
+    }
+]

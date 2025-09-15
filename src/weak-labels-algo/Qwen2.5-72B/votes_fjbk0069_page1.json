@@ -1,0 +1,238 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            14
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Person Name",
+        "value": "Lee Stitzenberger",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            416,
+            644,
+            748,
+            675
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            1,
+            8,
+            15
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Person Name",
+        "value": "Jim Pontarelli",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            416,
+            677,
+            686,
+            703
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            2,
+            9,
+            16
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Person Name",
+        "value": "Chip Nielsen",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            418,
+            741,
+            652,
+            772
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            3,
+            10,
+            19
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Location",
+        "value": "SACRAMENTO, CALIFORNIA 95814",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            187,
+            434,
+            496,
+            451
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9986946830029205
+    },
+    {
+        "ids": [
+            4,
+            12
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Location",
+        "value": "650 CALIFORNIA STREET, SUITE 2650 SAN FRANCISCO, CALIFORNIA 94108",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            285,
+            409,
+            1536,
+            449
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9625537506968606
+    },
+    {
+        "ids": [
+            5,
+            13,
+            21
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Organization Name",
+        "value": "LAW OFFICES OF",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            780,
+            252,
+            936,
+            269
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.991968246240452
+    },
+    {
+        "ids": [
+            6,
+            24
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Contract Number",
+        "value": "6797.01",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            233,
+            1807,
+            364,
+            1830
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.5896099726336257
+    },
+    {
+        "ids": [
+            11,
+            20
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Location",
+        "value": "MILL VALLEY, CALIFORNIA 94941",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            680,
+            409,
+            1038,
+            429
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.6447497277481936
+    },
+    {
+        "ids": [
+            17,
+            18
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Phone Number",
+        "value": "FAX (415) 388-6874",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            270,
+            493,
+            1442,
+            511
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.016206854352572606
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Organization Name",
+        "value": "Californians for Statewide Smoking",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            227,
+            966,
+            1206,
+            995
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.05362073959906603
+    },
+    {
+        "ids": [
+            23
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Date",
+        "value": "September 27, 1995",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            678,
+            518,
+            1024,
+            545
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.014176043750420723
+    }
+]

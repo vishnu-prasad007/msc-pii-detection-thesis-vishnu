@@ -1,0 +1,546 @@
+[
+    {
+        "ids": [
+            0,
+            16,
+            33
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Person Name",
+        "value": "Dr. S. Sears",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            440,
+            1170,
+            798,
+            1206
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            1,
+            17
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Person Name",
+        "value": "Dr. Sears",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            682,
+            1270,
+            948,
+            1306
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+        ],
+        "probability": 0.9999815718217152
+    },
+    {
+        "ids": [
+            2,
+            19,
+            44
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Person Name",
+        "value": "A. Rodgman",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1691,
+            1520,
+            1993,
+            1564
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            3,
+            20,
+            34
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Person Name",
+        "value": "Dr. W. M. Hildebolt",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            284,
+            1816,
+            855,
+            1856
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            4,
+            21,
+            35
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Person Name",
+        "value": "Mr. B. V. Hardin",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            281,
+            1867,
+            769,
+            1906
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            5,
+            22,
+            36
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Person Name",
+        "value": "Dr. A. W. Hayes",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            284,
+            1919,
+            736,
+            1965
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            6,
+            23,
+            37
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Person Name",
+        "value": "Mr. D. R. Pugh",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            281,
+            1970,
+            708,
+            2015
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            7,
+            24,
+            38
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Person Name",
+        "value": "Dr. W. S. Simmons",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            285,
+            2019,
+            795,
+            2057
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            8,
+            25,
+            39
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Person Name",
+        "value": "Dr. M. E. Stowe",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            284,
+            2069,
+            737,
+            2107
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            9,
+            26,
+            40
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Person Name",
+        "value": "Dr. C. E. Teague, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            283,
+            2120,
+            906,
+            2164
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            10,
+            27,
+            41
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Person Name",
+        "value": "Mr. H. C. Threatt, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            281,
+            2169,
+            935,
+            2212
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            11,
+            28,
+            42
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Person Name",
+        "value": "Mr. W. D. Dahne",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            280,
+            2219,
+            736,
+            2257
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            12,
+            29,
+            43
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Person Name",
+        "value": "Mr. T. H. Eskew",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            280,
+            2270,
+            738,
+            2308
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            13,
+            30,
+            45
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Organization Name",
+        "value": "Kepner-Tregoe Course",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            438,
+            1068,
+            1038,
+            1114
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "votes": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "probability": 8.40545460302756e-05
+    },
+    {
+        "ids": [
+            14,
+            46
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Organization Name",
+        "value": "Kepner-Tregoe courses",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            288,
+            1219,
+            1843,
+            1264
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "votes": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "probability": 8.40545460302756e-05
+    },
+    {
+        "ids": [
+            15,
+            32
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Contract Number",
+        "value": "0165",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            2456,
+            2920,
+            2498,
+            3040
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "votes": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "probability": 4.346260835575876e-05
+    },
+    {
+        "ids": [
+            18
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Person Name",
+        "value": "Alan",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1663,
+            1389,
+            1953,
+            1528
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+        ],
+        "probability": 0.9999815718217152
+    },
+    {
+        "ids": [
+            31
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Organization Name",
+        "value": "Kepner-Tregoe",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            288,
+            1219,
+            673,
+            1264
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0
+        ],
+        "probability": 0.9988465469674134
+    }
+]

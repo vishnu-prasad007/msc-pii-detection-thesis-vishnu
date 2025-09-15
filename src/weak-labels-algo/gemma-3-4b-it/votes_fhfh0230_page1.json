@@ -1,0 +1,465 @@
+[
+    {
+        "ids": [
+            0,
+            20,
+            40
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Person Name",
+        "value": "Ms Jane Brody",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            272,
+            870,
+            669,
+            915
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.9996925870572029
+    },
+    {
+        "ids": [
+            1,
+            41
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Person Name",
+        "value": "Mensink",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            2039,
+            1738,
+            2253,
+            1778
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.8770622722777679
+    },
+    {
+        "ids": [
+            2,
+            7,
+            18,
+            22,
+            25,
+            38,
+            43,
+            49
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": [
+            "Location",
+            "Email Address",
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "Tel. (508) 481-0400",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1861,
+            579,
+            2180,
+            617
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            8,
+            19,
+            23,
+            26,
+            39,
+            44,
+            50
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": [
+            "Location",
+            "Email Address",
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "(508)460-1209 Fax",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1862,
+            623,
+            2171,
+            662
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Location",
+        "value": "One Pine Hill Drive",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1853,
+            443,
+            2183,
+            475
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.07791851794929727
+    },
+    {
+        "ids": [
+            5,
+            47,
+            63
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "P.O. Box 9102",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1898,
+            489,
+            2137,
+            521
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.9380064794334654
+    },
+    {
+        "ids": [
+            6,
+            29,
+            48
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Location",
+        "value": "Southborough, Massachusetts 01772-9102",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1674,
+            533,
+            2359,
+            571
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.9756927193958248
+    },
+    {
+        "ids": [
+            9,
+            14,
+            32,
+            51,
+            57,
+            64
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name",
+            "Location"
+        ],
+        "value": "New York Times NEW YORK TIMES",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            275,
+            921,
+            699,
+            961
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            10,
+            27,
+            52
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Location",
+        "value": "229 W. 43rd St.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            277,
+            972,
+            720,
+            1013
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.9756927193958248
+    },
+    {
+        "ids": [
+            11,
+            24,
+            28,
+            53,
+            65
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": [
+            "Email Address",
+            "Contract Number",
+            "Location"
+        ],
+        "value": "New York NY 10036-3959 NEW YORK",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            274,
+            1023,
+            940,
+            1063
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            12,
+            30,
+            45,
+            55,
+            61
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name",
+            "Location"
+        ],
+        "value": "HARVARD MEDICAL SCHOOL",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1050,
+            197,
+            1765,
+            237
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            13,
+            31,
+            46,
+            56,
+            62
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name",
+            "Location"
+        ],
+        "value": "NEW ENGLAND REGIONAL PRIMATE RESEARCH CENTER",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1051,
+            290,
+            2101,
+            330
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            15,
+            33,
+            58
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Organization Name",
+        "value": "NEW YORK",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            274,
+            1024,
+            517,
+            1063
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.9843362849023228
+    },
+    {
+        "ids": [
+            16,
+            34,
+            59
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Date",
+        "value": "April 1, 1993",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1613,
+            716,
+            2006,
+            761
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.9980073602097371
+    },
+    {
+        "ids": [
+            17,
+            35
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Date",
+        "value": "March",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            2096,
+            1229,
+            2253,
+            1268
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.7820679824536267
+    },
+    {
+        "ids": [
+            21
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Person Name",
+        "value": "Jane",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            430,
+            1127,
+            567,
+            1165
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.02509929741123842
+    },
+    {
+        "ids": [
+            36,
+            37,
+            60
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Date",
+        "value": "25-30 years ago",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            600,
+            2653,
+            1083,
+            2698
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.8599315297695811
+    },
+    {
+        "ids": [
+            42
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Person Name",
+        "value": "Katan (Arterio Thrombosis 1992;12:911-9)",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            412,
+            1788,
+            1686,
+            1835
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.01304547292523457
+    },
+    {
+        "ids": [
+            54
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Location",
+        "value": "Jane Brody",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            369,
+            870,
+            669,
+            915
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.15157377707122235
+    }
+]

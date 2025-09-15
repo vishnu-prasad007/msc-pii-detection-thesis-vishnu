@@ -1,0 +1,686 @@
+[
+    {
+        "ids": [
+            0,
+            11,
+            25
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Person Name",
+        "value": "William H. Taft IV",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.14345604181289673,
+            0.379707396030426,
+            0.3530700895935297,
+            0.3920312076807022
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            12,
+            26
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Person Name",
+        "value": "Weinberger",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5506599545478821,
+            0.7314638495445251,
+            0.6666639372706413,
+            0.7445572735741735
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            3,
+            14,
+            31,
+            55
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": [
+            "Location",
+            "Organization Name"
+        ],
+        "value": "U.S. Army ARMY",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4557933807373047,
+            0.11092761158943176,
+            0.5595950558781624,
+            0.12212115433067083
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            15,
+            56
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Organization Name",
+        "value": "Department of Defense",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.35350674390792847,
+            0.3336351215839386,
+            0.6064433678984642,
+            0.3478387799113989
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            18,
+            45,
+            58
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": [
+            "Location",
+            "Organization Name"
+        ],
+        "value": "U.S. Army",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4587068259716034,
+            0.5404009819030762,
+            0.5617062970995903,
+            0.5526775065809488
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            20,
+            52
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": [
+            "Location",
+            "Organization Name"
+        ],
+        "value": "DoD",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7599387168884277,
+            0.8498169779777527,
+            0.7954166159033775,
+            0.8604305842891335
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            21,
+            35,
+            59
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "March 1, 1986",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2603479027748108,
+            0.30509600043296814,
+            0.4191059432923794,
+            0.31730124447494745
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            22,
+            60
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Date",
+        "value": "March 11, 1986",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.39903199672698975,
+            0.37912067770957947,
+            0.568125419318676,
+            0.39118724688887596
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            23,
+            44,
+            61
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "June 11, 1986",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.23743967711925507,
+            0.540460467338562,
+            0.39732061326503754,
+            0.5524259032681584
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            24,
+            53,
+            62
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "TIMN 353405",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7352181673049927,
+            0.9320210218429565,
+            0.915548786520958,
+            0.9522014763206244
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            13,
+            27,
+            54
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": [
+            "Location",
+            "Email Address"
+        ],
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fhxh0140",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.22074784338474274,
+            0.9808133244514465,
+            0.77906633913517,
+            0.9973880313336849
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            16
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Organization Name",
+        "value": "Department of Defense",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.3073016107082367,
+            0.3938264548778534,
+            0.5487260818481445,
+            0.40765335224568844
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            17
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Organization Name",
+        "value": "DOD",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.14463292062282562,
+            0.42528587579727173,
+            0.17972663044929504,
+            0.43569802585989237
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            19,
+            57
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Organization Name",
+        "value": "Defense Department",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.5859826803207397,
+            0.5688664317131042,
+            0.7929728850722313,
+            0.5819131843745708
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            28
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Location",
+        "value": "1",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.9826925992965698,
+            0.010039025917649269,
+            0.9872707067988813,
+            0.017904309555888176
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            29
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Location",
+        "value": "DISCUSSION PAPER",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.42194682359695435,
+            0.08070602267980576,
+            0.6063711196184158,
+            0.0915641663596034
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            30
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Location",
+        "value": "TOBACCO CESSATION PROGRAM",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.3629440665245056,
+            0.09579142183065414,
+            0.6525535508990288,
+            0.10674078296869993
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            32
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Location",
+        "value": "Background",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.4566613733768463,
+            0.16979777812957764,
+            0.5707311108708382,
+            0.1825822526589036
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            33
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Location",
+        "value": "The Senate FY 86 Defense Appropriations Bill",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.20155124366283417,
+            0.2134079784154892,
+            0.7100007645785809,
+            0.22784700524061918
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            34
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Location",
+        "value": "provision to require DOD",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.1450461894273758,
+            0.22984173893928528,
+            0.42165181785821915,
+            0.2440352151170373
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            36
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Location",
+        "value": "William H. Taft IV on March 11, 1986",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.14345604181289673,
+            0.37912067770957947,
+            0.568125419318676,
+            0.3920312076807022
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            37
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Location",
+        "value": "Department of Defense Health Promotion Policy",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.3073016107082367,
+            0.3935580253601074,
+            0.8341846764087677,
+            0.40765335224568844
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            38
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Location",
+        "value": "education",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.7365264296531677,
+            0.4520232379436493,
+            0.8382972404360771,
+            0.4627021932974458
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            39
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Location",
+        "value": "alcohol and drug abuse prevention",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.1444045752286911,
+            0.4816611409187317,
+            0.7000014781951904,
+            0.49637781269848347
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            40
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Location",
+        "value": "physical fitness",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.1448875516653061,
+            0.49725276231765747,
+            0.33842385560274124,
+            0.5110575892031193
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            41
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Location",
+        "value": "nutrition",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.3536505401134491,
+            0.49710437655448914,
+            0.46723756939172745,
+            0.508894944563508
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            42
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Location",
+        "value": "stress management",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.48123040795326233,
+            0.49738940596580505,
+            0.6863188743591309,
+            0.5091905174776912
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            43
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Location",
+        "value": "hypertension",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.3526500463485718,
+            0.5116822719573975,
+            0.501080334186554,
+            0.525283956900239
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            46
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Location",
+        "value": "Discussion",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.45871204137802124,
+            0.6284788250923157,
+            0.5735716298222542,
+            0.6393892662599683
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            47
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Location",
+        "value": "Army Tobacco Cessation Program",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.24909691512584686,
+            0.6732556819915771,
+            0.5980886369943619,
+            0.687170097604394
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            48
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Location",
+        "value": "Directive 1010.10",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.45782920718193054,
+            0.7020012140274048,
+            0.6629263684153557,
+            0.7134080491960049
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            49
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Location",
+        "value": "Secretary Weinberger",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.43598660826683044,
+            0.7314638495445251,
+            0.6666639372706413,
+            0.7447763876989484
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            50
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Location",
+        "value": "military commissaries",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.6209582090377808,
+            0.7602980136871338,
+            0.8626181930303574,
+            0.7743763737380505
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            51
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Location",
+        "value": "Directive 1010.10",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.20480108261108398,
+            0.8058676719665527,
+            0.4027840867638588,
+            0.8177138632163405
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    }
+]

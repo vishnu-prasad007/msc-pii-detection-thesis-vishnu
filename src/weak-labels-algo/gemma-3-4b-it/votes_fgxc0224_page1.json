@@ -1,0 +1,634 @@
+[
+    {
+        "ids": [
+            0,
+            16,
+            24,
+            33,
+            56,
+            83
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": [
+            "Email Address",
+            "Contract Number",
+            "Person Name",
+            "Phone Number"
+        ],
+        "value": "Ms. L. J. Beasley",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            840,
+            684,
+            1413,
+            746
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            17,
+            25,
+            34,
+            57,
+            66,
+            84
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": [
+            "Contract Number",
+            "Person Name",
+            "Phone Number",
+            "Email Address",
+            "Location"
+        ],
+        "value": "Mr. G. W. McKenna",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1841,
+            684,
+            2414,
+            738
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            18,
+            26,
+            35,
+            58,
+            67,
+            85
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": [
+            "Contract Number",
+            "Person Name",
+            "Phone Number",
+            "Email Address",
+            "Location"
+        ],
+        "value": "Mr. E. M. Blackmer",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            840,
+            750,
+            1445,
+            806
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            19,
+            27,
+            38,
+            59,
+            68,
+            86
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": [
+            "Contract Number",
+            "Person Name",
+            "Phone Number",
+            "Email Address",
+            "Location"
+        ],
+        "value": "Ms. A. Jardine",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            840,
+            881,
+            1311,
+            937
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            20,
+            28,
+            39,
+            60,
+            69,
+            87
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": [
+            "Contract Number",
+            "Person Name",
+            "Phone Number",
+            "Email Address",
+            "Location"
+        ],
+        "value": "Mr. A. A. Lyon",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            840,
+            948,
+            1311,
+            1011
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            21,
+            30,
+            40,
+            61,
+            70,
+            88
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": [
+            "Contract Number",
+            "Person Name",
+            "Phone Number",
+            "Email Address",
+            "Location"
+        ],
+        "value": "Mr. T. W. Robertson",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            840,
+            946,
+            2481,
+            1001
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            22,
+            31,
+            41,
+            62,
+            71,
+            89
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": [
+            "Contract Number",
+            "Person Name",
+            "Phone Number",
+            "Email Address",
+            "Location"
+        ],
+        "value": "William P. Whitlatch",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            838,
+            1142,
+            1509,
+            1199
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            7,
+            23,
+            43,
+            50,
+            54,
+            63
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name",
+            "Person Name",
+            "Phone Number"
+        ],
+        "value": "Yancey Ford",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1036,
+            2781,
+            1429,
+            2844
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            8,
+            44,
+            53,
+            65,
+            82
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "No 408 By",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2259,
+            533,
+            2920,
+            660
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.9987247217900991
+    },
+    {
+        "ids": [
+            9,
+            45,
+            72
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Location",
+        "value": "Cincinnati",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2710,
+            2978,
+            3036,
+            3032
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.9756927193958248
+    },
+    {
+        "ids": [
+            10,
+            46,
+            73
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Location",
+        "value": "St. Louis CAM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2405,
+            3239,
+            2868,
+            3293
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.9756927193958248
+    },
+    {
+        "ids": [
+            11,
+            42,
+            49,
+            77
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": [
+            "Organization Name",
+            "Phone Number"
+        ],
+        "value": "JWJ",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2451,
+            1861,
+            2553,
+            1916
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            12,
+            47,
+            75
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Organization Name",
+        "value": "Kroger Company",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1949,
+            2978,
+            2419,
+            3043
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.9843362849023228
+    },
+    {
+        "ids": [
+            13,
+            48,
+            76
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Organization Name",
+        "value": "Wetterau",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1835,
+            3240,
+            2105,
+            3293
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.9843362849023228
+    },
+    {
+        "ids": [
+            14,
+            78
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Organization Name",
+        "value": "Executive Committee",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1509,
+            2316,
+            2142,
+            2370
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.6970026252676942
+    },
+    {
+        "ids": [
+            15,
+            51,
+            79
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Date",
+        "value": "February 4, 1991",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2278,
+            2315,
+            2837,
+            2379
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.9980073602097371
+    },
+    {
+        "ids": [
+            29
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Email Address",
+        "value": "Mr. R. M. Sanders",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            840,
+            815,
+            2413,
+            870
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.06620864289453628
+    },
+    {
+        "ids": [
+            32,
+            52,
+            64,
+            74,
+            80
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": [
+            "Location",
+            "Organization Name",
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "RUR",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            2585,
+            79,
+            2946,
+            241
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.3000000000004
+    },
+    {
+        "ids": [
+            36
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Phone Number",
+        "value": "Mr. G. C. Pennell",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            840,
+            748,
+            2408,
+            805
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.14139476828087144
+    },
+    {
+        "ids": [
+            37
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Phone Number",
+        "value": "Mr. D. N. Iauco",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            840,
+            815,
+            1345,
+            871
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.14139476828087144
+    },
+    {
+        "ids": [
+            55
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Contract Number",
+        "value": "CAM",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            2741,
+            3239,
+            2868,
+            3292
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.26090111733760796
+    },
+    {
+        "ids": [
+            81
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Contract Number",
+        "value": "SECRET",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            2540,
+            261,
+            2976,
+            422
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.054906893014309066
+    },
+    {
+        "ids": [
+            90
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Contract Number",
+        "value": "BUSINESS INFORMATION AND ANALYSIS SIGNIFICANT ACTIVITIES",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            840,
+            1335,
+            2715,
+            1394
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.054906893014309066
+    },
+    {
+        "ids": [
+            91
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Contract Number",
+        "value": "BUSINESS PLANNING",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            438,
+            1598,
+            1008,
+            1651
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.054906893014309066
+    },
+    {
+        "ids": [
+            92
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Contract Number",
+        "value": "SALES PLANNING",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            436,
+            2581,
+            904,
+            2633
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.054906893014309066
+    }
+]

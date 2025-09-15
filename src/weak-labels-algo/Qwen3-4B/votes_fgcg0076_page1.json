@@ -1,0 +1,209 @@
+[
+    {
+        "ids": [
+            0,
+            6,
+            12
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Person Name",
+        "value": "DALE HILL",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            365,
+            504,
+            526,
+            531
+        ],
+        "source_file": "votes_fgcg0076_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            1,
+            7,
+            13
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Person Name",
+        "value": "Cindy Arterbery",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            364,
+            578,
+            569,
+            610
+        ],
+        "source_file": "votes_fgcg0076_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            2,
+            8,
+            14,
+            21
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "RICHMOND, VIRGINIA",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            776,
+            391,
+            954,
+            410
+        ],
+        "source_file": "votes_fgcg0076_page1.csv",
+        "probability": 0.9991601006789272
+    },
+    {
+        "ids": [
+            3,
+            9,
+            15,
+            18
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "PHILIP MORRIS U.S.A.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            646,
+            223,
+            1086,
+            260
+        ],
+        "source_file": "votes_fgcg0076_page1.csv",
+        "probability": 0.9994792922522238
+    },
+    {
+        "ids": [
+            4,
+            10,
+            16,
+            20
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "LEAF BLENDING GROUP",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            713,
+            329,
+            1019,
+            358
+        ],
+        "source_file": "votes_fgcg0076_page1.csv",
+        "probability": 0.9994792922522238
+    },
+    {
+        "ids": [
+            5,
+            11,
+            17
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Date",
+        "value": "June 26, 1995 Date:",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1047,
+            509,
+            1316,
+            540
+        ],
+        "source_file": "votes_fgcg0076_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            19
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Contract Number",
+        "value": "I NTER.OFFICE . CORRESPONDENCE",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            581,
+            294,
+            1150,
+            317
+        ],
+        "source_file": "votes_fgcg0076_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Contract Number",
+        "value": "From: Cindy Arterbery",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            212,
+            578,
+            569,
+            610
+        ],
+        "source_file": "votes_fgcg0076_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            23
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Contract Number",
+        "value": "Subject: . 1993 LOW COST COMPOSITE SMOKING RESULTS",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            212,
+            652,
+            1108,
+            685
+        ],
+        "source_file": "votes_fgcg0076_page1.csv",
+        "probability": 0.18724450043103621
+    }
+]

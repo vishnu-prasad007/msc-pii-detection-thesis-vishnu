@@ -1,0 +1,870 @@
+[
+    {
+        "ids": [
+            0,
+            23,
+            53
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Person Name",
+        "value": "Dr. G. R. Di Marco",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.23834945261478424,
+            0.24960528314113617,
+            0.4501441977918148,
+            0.26140389312058687
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            24,
+            54
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Person Name",
+        "value": "Alan Rodgman",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.23714441061019897,
+            0.27993905544281006,
+            0.3795824274420738,
+            0.29374401085078716
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            25,
+            55
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Person Name",
+        "value": "H. Cullman (PM)",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.34069883823394775,
+            0.6164065599441528,
+            0.518778707832098,
+            0.6304682465270162
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            26,
+            56
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Person Name",
+        "value": "R. L. o. Ely (BAT)",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5383045077323914,
+            0.6168923377990723,
+            0.7564328089356422,
+            0.6308776084333658
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            27,
+            57
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Person Name",
+        "value": "T. C. H.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.34069883823394775,
+            0.6174076199531555,
+            0.8298480063676834,
+            0.628439168445766
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            58
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Person Name",
+        "value": "King (Imperial)",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.11739369481801987,
+            0.6319692730903625,
+            0.3034731149673462,
+            0.646124261431396
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            59
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Person Name",
+        "value": "A. whist (PM)",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.3165183961391449,
+            0.6314111948013306,
+            0.47619687020778656,
+            0.645821531303227
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            60
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Person Name",
+        "value": "C. Vogel (Reemtsma)",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.4934437572956085,
+            0.632273256778717,
+            0.7202896922826767,
+            0.6458767242729664
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            30
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. Don Hoel (Shook,",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.618391215801239,
+            0.6472500562667847,
+            0.8530178517103195,
+            0.6609516758471727
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            9
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Person Name",
+        "value": "Dr. Adelkofer",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.11625108867883682,
+            0.6782629489898682,
+            0.5926987491548061,
+            0.6894310805946589
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Person Name",
+        "value": "Dr. Klus",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.2817857563495636,
+            0.6783145070075989,
+            0.5926987491548061,
+            0.6893968638032675
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            11,
+            31,
+            66
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Person Name",
+        "value": "Dr. Osdene Drs.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5508220791816711,
+            0.678295373916626,
+            0.6790408566594124,
+            0.6893580770120025
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            12
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Person Name",
+        "value": "Dr. Green",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.5508220791816711,
+            0.678466796875,
+            0.7971047163009644,
+            0.6893580770120025
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            13,
+            68
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Person Name",
+        "value": "Dr. Ingebrethsen",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.34019529819488525,
+            0.8026953935623169,
+            0.5383283197879791,
+            0.8161269528791308
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            14,
+            69
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Person Name",
+        "value": "Dr. Oldaker",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.34019529819488525,
+            0.8023450374603271,
+            0.6780837625265121,
+            0.8134377300739288
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            15,
+            35,
+            70
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. Heavner",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.735666036605835,
+            0.8026062846183777,
+            0.8686679378151894,
+            0.8133270004764199
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            16,
+            36
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Person Name",
+        "value": "Reynolds",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.7479355931282043,
+            0.8936196565628052,
+            0.843646377325058,
+            0.9075578078627586
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            17,
+            37,
+            71
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Location",
+        "value": "Wistor-Salem.N.C 27102",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.621487557888031,
+            0.07574226707220078,
+            0.847782202064991,
+            0.08927174936980009
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            18
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Organization Name",
+        "value": "R.J.Reynolds Tobacco Company",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.6232204437255859,
+            0.05653374269604683,
+            0.9631145969033241,
+            0.07604865729808807
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            19,
+            50,
+            76
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "RUR",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1321374475955963,
+            0.05554310232400894,
+            0.23535703867673874,
+            0.09323218837380409
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            20
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Organization Name",
+        "value": "Infotab Board of Directors",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.1167803630232811,
+            0.5094246864318848,
+            0.42470506578683853,
+            0.5211193142458797
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            21,
+            48,
+            74
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Date",
+        "value": "April 17, 1986",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6225802302360535,
+            0.21896252036094666,
+            0.7889020629227161,
+            0.23341938853263855
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            22,
+            49,
+            75
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Date",
+        "value": "8 April, 1986",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.48273882269859314,
+            0.5248251557350159,
+            0.6413088850677013,
+            0.5389243988320231
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            28,
+            61
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Person Name",
+        "value": "R. J.",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.7365016341209412,
+            0.6323657631874084,
+            0.7940679378807545,
+            0.6438969019800425
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            29,
+            63
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Person Name",
+        "value": "D. Webb (Rothmans)",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.3408840000629425,
+            0.6474031805992126,
+            0.5487653315067291,
+            0.6609804751351476
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            32,
+            67
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Person Name",
+        "value": "Green",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.7371127605438232,
+            0.678466796875,
+            0.7971047163009644,
+            0.6892408039420843
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            33
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Person Name",
+        "value": "Drs. Ingebrethsen",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.34019529819488525,
+            0.8026953935623169,
+            0.5383283197879791,
+            0.8161269528791308
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            34
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Person Name",
+        "value": "Oldaker",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.5954243540763855,
+            0.8023450374603271,
+            0.6780837625265121,
+            0.8134242203086615
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            38
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Organization Name",
+        "value": "Infotab",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.6322429776191711,
+            0.6016083359718323,
+            0.713928572833538,
+            0.6130273221060634
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            39
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Organization Name",
+        "value": "Rothmans",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.437730997800827,
+            0.6475666165351868,
+            0.5487653315067291,
+            0.6609804751351476
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            40
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Organization Name",
+        "value": "Verband",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.44551214575767517,
+            0.6775686740875244,
+            0.5358431190252304,
+            0.6908397516235709
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            41
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Organization Name",
+        "value": "Tobacco Institute",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.16445299983024597,
+            0.6926248669624329,
+            0.3728939890861511,
+            0.706224150955677
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            42
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Organization Name",
+        "value": "Indoor Air Quality Round Table",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.17678214609622955,
+            0.7706136107444763,
+            0.5264367796480656,
+            0.78508195374161
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            43,
+            72
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": [
+            "Location",
+            "Organization Name"
+        ],
+        "value": "University of Massachusetts",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.19863377511501312,
+            0.8327558040618896,
+            0.5252020806074142,
+            0.8462945409119129
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            44
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Organization Name",
+        "value": "Harvard School of Public Health",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.11473071575164795,
+            0.8474961519241333,
+            0.4872862994670868,
+            0.8606505785137415
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            45
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Organization Name",
+        "value": "Pierce Foundation",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.5493399500846863,
+            0.8473465442657471,
+            0.747518502175808,
+            0.8588709281757474
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            46
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Organization Name",
+        "value": "State of New York Health Department",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.3388775587081909,
+            0.8785391449928284,
+            0.7564749270677567,
+            0.8925058608874679
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            47
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Organization Name",
+        "value": "University of Massachusetts Medical School",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.11416076123714447,
+            0.8936957120895386,
+            0.6046658679842949,
+            0.9077544687315822
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            51
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Contract Number",
+        "value": "Infotab",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.1167803630232811,
+            0.5101364850997925,
+            0.20218149572610855,
+            0.5211193142458797
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            52
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Contract Number",
+        "value": "LN",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.834333598613739,
+            0.9533628821372986,
+            0.8600597325712442,
+            0.9694371819496155
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            62
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Person Name",
+        "value": "Marcotullio (RJR)",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.1158670037984848,
+            0.6474401950836182,
+            0.3245862051844597,
+            0.6612292639911175
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            64
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Person Name",
+        "value": "Adelkofer",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.11625108867883682,
+            0.6782629489898682,
+            0.2236318364739418,
+            0.6894310805946589
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            65
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": "Person Name",
+        "value": "Klus",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.2817857563495636,
+            0.6783145070075989,
+            0.3287714906036854,
+            0.6893968638032675
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    },
+    {
+        "ids": [
+            73,
+            77
+        ],
+        "doc_id": "votes_fgyk0087_page1",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "RUR",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.623343825340271,
+            0.15209607779979706,
+            0.7002018839120865,
+            0.17705210112035275
+        ],
+        "source_file": "votes_fgyk0087_page1.csv"
+    }
+]

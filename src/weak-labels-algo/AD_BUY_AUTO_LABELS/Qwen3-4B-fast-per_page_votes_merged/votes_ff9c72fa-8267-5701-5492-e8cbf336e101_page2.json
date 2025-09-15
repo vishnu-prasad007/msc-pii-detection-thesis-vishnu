@@ -1,0 +1,398 @@
+[
+  {
+    "ids": [
+      0,
+      18,
+      36
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Phone Number",
+    "value": "(810) 233-3130",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      164,
+      107,
+      259,
+      119
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      1
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Location",
+    "value": "2302 Lapeer Road",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      164,
+      69,
+      282,
+      80
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      2,
+      19,
+      37
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Location",
+    "value": "Flint, MI 48503",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      165,
+      82,
+      262,
+      93
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      3,
+      20,
+      38
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "WJRT",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      164,
+      56,
+      204,
+      65
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      4,
+      22,
+      39
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "Gray Television Group, Inc.",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      420,
+      792,
+      521,
+      799
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      5,
+      23,
+      40
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "Gray Media Group, Inc.",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      420,
+      792,
+      575,
+      799
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      6,
+      24,
+      41
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "WideOrbit",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      772,
+      822,
+      811,
+      829
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      7,
+      25,
+      43
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Date",
+    "value": "05/22/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      650,
+      20,
+      694,
+      28
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      8,
+      9,
+      26,
+      27,
+      44,
+      45
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Date",
+    "value": "05/22/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      673,
+      96,
+      717,
+      104
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      10,
+      28,
+      46
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Date",
+    "value": "05/15/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      423,
+      129,
+      469,
+      137
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      11,
+      29,
+      47
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Date",
+    "value": "05/21/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      476,
+      129,
+      520,
+      137
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      12,
+      30,
+      48
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Date",
+    "value": "04/27/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      24,
+      182,
+      73,
+      191
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      13,
+      31,
+      49
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Date",
+    "value": "05/21/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      83,
+      182,
+      137,
+      191
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      14,
+      32,
+      33,
+      50,
+      53
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": [
+      "Contract Number",
+      "Invoice Number"
+    ],
+    "value": "1601132 /",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      570,
+      64,
+      632,
+      73
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      15,
+      35,
+      51,
+      52
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": [
+      "Contract Number",
+      "Invoice Number"
+    ],
+    "value": "220125",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      681,
+      129,
+      719,
+      137
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      16
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Invoice Number",
+    "value": "Alt Order #",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      680,
+      52,
+      734,
+      59
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      17,
+      34
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Invoice Number",
+    "value": "Estimate #",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      681,
+      117,
+      733,
+      125
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      21,
+      42
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "America First Action",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      423,
+      96,
+      531,
+      104
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  }
+]

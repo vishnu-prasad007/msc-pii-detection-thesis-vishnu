@@ -1,0 +1,310 @@
+[
+    {
+        "ids": [
+            0,
+            14,
+            28
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Person Name",
+        "value": "Lee Stitzenberger",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.24064774811267853,
+            0.2810666859149933,
+            0.43282441794872284,
+            0.29446742217987776
+        ],
+        "source_file": "votes_fjbk0069_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            15,
+            29
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Person Name",
+        "value": "Jim Pontarelli",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.24081027507781982,
+            0.2954784035682678,
+            0.39710181951522827,
+            0.3067553984001279
+        ],
+        "source_file": "votes_fjbk0069_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            16,
+            30
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Person Name",
+        "value": "Chip Nielsen",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.24201616644859314,
+            0.32312455773353577,
+            0.37715180218219757,
+            0.3370364224538207
+        ],
+        "source_file": "votes_fjbk0069_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            17,
+            31
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Phone Number",
+        "value": "FAX 1910) 446-6106",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1564527004957199,
+            0.21642647683620453,
+            0.24133674055337906,
+            0.2230874877423048
+        ],
+        "source_file": "votes_fjbk0069_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            18,
+            32
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Location",
+        "value": "SACRAMENTO",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16053305566310883,
+            0.1645851582288742,
+            0.23546666651964188,
+            0.17119210213422775
+        ],
+        "source_file": "votes_fjbk0069_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            19,
+            33
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Location",
+        "value": "SAN FRANCISCO",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7448797225952148,
+            0.16142259538173676,
+            0.8342352733016014,
+            0.16858832631260157
+        ],
+        "source_file": "votes_fjbk0069_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            20,
+            34
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Location",
+        "value": "MILL VALLEY, CALIFORNIA 94941",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3934074640274048,
+            0.17840123176574707,
+            0.6009533274918795,
+            0.1871414566412568
+        ],
+        "source_file": "votes_fjbk0069_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            21,
+            35
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Location",
+        "value": "SAN FRANCISCO, CALIFORNIA 94108",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4868507981300354,
+            0.1785525381565094,
+            0.8890198152512312,
+            0.19598868349567056
+        ],
+        "source_file": "votes_fjbk0069_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            22,
+            36
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Location",
+        "value": "650 CALIFORNIA STREET, SUITE 2650",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16483542323112488,
+            0.1785525381565094,
+            0.888748325407505,
+            0.18755625933408737
+        ],
+        "source_file": "votes_fjbk0069_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            23,
+            37
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Location",
+        "value": "SACRAMENTO, CALIFORNIA 95814",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1081831082701683,
+            0.18928328156471252,
+            0.2868130952119827,
+            0.19669558061286807
+        ],
+        "source_file": "votes_fjbk0069_page1.csv"
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Location",
+        "value": "Marin County",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.5664975643157959,
+            0.5478120446205139,
+            0.7023381814360619,
+            0.5602022968232632
+        ],
+        "source_file": "votes_fjbk0069_page1.csv"
+    },
+    {
+        "ids": [
+            11,
+            25,
+            38
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Organization Name",
+        "value": "Californians for Statewide Smoking",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1316317915916443,
+            0.42127177119255066,
+            0.6976930648088455,
+            0.43426839355379343
+        ],
+        "source_file": "votes_fjbk0069_page1.csv"
+    },
+    {
+        "ids": [
+            12,
+            24,
+            26,
+            39
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "September 27, 1995",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.39255034923553467,
+            0.2258518934249878,
+            0.5926545932888985,
+            0.23793831933289766
+        ],
+        "source_file": "votes_fjbk0069_page1.csv"
+    },
+    {
+        "ids": [
+            13,
+            27,
+            40
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Contract Number",
+        "value": "6797.01",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.13481761515140533,
+            0.7884283661842346,
+            0.21089328080415726,
+            0.798498434945941
+        ],
+        "source_file": "votes_fjbk0069_page1.csv"
+    }
+]

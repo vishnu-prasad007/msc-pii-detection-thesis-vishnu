@@ -1,0 +1,373 @@
+[
+  {
+    "ids": [
+      0,
+      11,
+      24
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3",
+    "pii_type": "Phone Number",
+    "value": "(215) 977-1900",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      164,
+      94,
+      259,
+      106
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      1,
+      13
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3",
+    "pii_type": "Location",
+    "value": "1555 Hamilton St",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      165,
+      69,
+      276,
+      78
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      2,
+      12,
+      25
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3",
+    "pii_type": "Location",
+    "value": "Philadelphia, PA 19130",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      165,
+      82,
+      318,
+      93
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      3,
+      26
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3",
+    "pii_type": "Organization Name",
+    "value": "KYW-TV",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      165,
+      56,
+      219,
+      65
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      4,
+      27
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3",
+    "pii_type": "Organization Name",
+    "value": "CBS",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      264,
+      799,
+      282,
+      805
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      5,
+      28
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3",
+    "pii_type": "Organization Name",
+    "value": "WideOrbit",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      773,
+      822,
+      811,
+      828
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      6,
+      15,
+      29
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3",
+    "pii_type": "Date",
+    "value": "05/26/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      650,
+      20,
+      694,
+      28
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      7,
+      16,
+      30
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3",
+    "pii_type": "Date",
+    "value": "05/21/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      673,
+      96,
+      717,
+      104
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      8,
+      17,
+      31
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3",
+    "pii_type": "Date",
+    "value": "05/22/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      747,
+      96,
+      790,
+      104
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      9,
+      37
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3",
+    "pii_type": "Invoice Number",
+    "value": "Alt Order #",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      680,
+      52,
+      734,
+      59
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      10,
+      38
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3",
+    "pii_type": "Invoice Number",
+    "value": "Estimate #",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      681,
+      117,
+      733,
+      125
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      14,
+      36,
+      39
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3",
+    "pii_type": [
+      "Location",
+      "Contract Number",
+      "Invoice Number"
+    ],
+    "value": "302226",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      572,
+      65,
+      609,
+      72
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      18,
+      32
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3",
+    "pii_type": "Date",
+    "value": "05/23/20",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      424,
+      129,
+      468,
+      137
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      19,
+      33
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3",
+    "pii_type": "Date",
+    "value": "05/26/20",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      476,
+      129,
+      520,
+      137
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      20,
+      34
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3",
+    "pii_type": "Date",
+    "value": "04/27/20",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      24,
+      182,
+      73,
+      191
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      21,
+      35
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3",
+    "pii_type": "Date",
+    "value": "05/26/20",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      83,
+      182,
+      137,
+      191
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      22
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3",
+    "pii_type": "Contract Number",
+    "value": "Contract / Revision Alt Order #",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      558,
+      52,
+      734,
+      59
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      23
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3",
+    "pii_type": "Person Name",
+    "value": "Nina For PA",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      424,
+      96,
+      487,
+      104
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page3.csv"
+  }
+]

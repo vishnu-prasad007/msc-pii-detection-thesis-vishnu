@@ -1,0 +1,258 @@
+[
+    {
+        "ids": [
+            0,
+            10,
+            20
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": "Person Name",
+        "value": "Dr. A. W. Spears",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.11735627800226212,
+            0.07668308168649673,
+            0.2455790936946869,
+            0.0908764349296689
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    },
+    {
+        "ids": [
+            1,
+            11,
+            21
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": "Person Name",
+        "value": "Haney Bell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4536001682281494,
+            0.2362477034330368,
+            0.534515418112278,
+            0.25030424632132053
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    },
+    {
+        "ids": [
+            2,
+            12,
+            22
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": "Person Name",
+        "value": "Jack Reilly",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.45409202575683594,
+            0.30012932419776917,
+            0.5334138162434101,
+            0.3137062285095453
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    },
+    {
+        "ids": [
+            3,
+            13,
+            23
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": "Person Name",
+        "value": "Ron Milstein",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4478641748428345,
+            0.44236475229263306,
+            0.5405703112483025,
+            0.45335779432207346
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    },
+    {
+        "ids": [
+            4,
+            14,
+            25
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": "Person Name",
+        "value": "Michael Shannon",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4478083550930023,
+            0.5534610748291016,
+            0.5720226727426052,
+            0.5648979172110558
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    },
+    {
+        "ids": [
+            5,
+            15,
+            24
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": "Person Name",
+        "value": "Haney Bell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4501749277114868,
+            0.7433326840400696,
+            0.5300248526036739,
+            0.7573488475754857
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    },
+    {
+        "ids": [
+            6,
+            16,
+            27
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": "Organization Name",
+        "value": "National Tobacco Council",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18153369426727295,
+            0.37892720103263855,
+            0.3743997551500797,
+            0.3920308966189623
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    },
+    {
+        "ids": [
+            7,
+            17,
+            28
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": "Organization Name",
+        "value": "Tobacco Industry Testing Laboratory",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.24804124236106873,
+            0.37892720103263855,
+            0.6454726979136467,
+            0.3927960880100727
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    },
+    {
+        "ids": [
+            8,
+            18,
+            29
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": "Organization Name",
+        "value": "Lorillard Political Action Committee",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1815829873085022,
+            0.39472055435180664,
+            0.4505750462412834,
+            0.4078992856666446
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    },
+    {
+        "ids": [
+            9,
+            19,
+            31
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": "Date",
+        "value": "August 9, 1999",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.11735495179891586,
+            0.10899344831705093,
+            0.22743858397006989,
+            0.12239517085254192
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    },
+    {
+        "ids": [
+            26
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": "Person Name",
+        "value": "Ron",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.16888006031513214,
+            0.8543801307678223,
+            0.20027796179056168,
+            0.8653453001752496
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    },
+    {
+        "ids": [
+            30
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": "Organization Name",
+        "value": "FEC",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.4542747735977173,
+            0.3949817419052124,
+            0.4876280389726162,
+            0.4059285596013069
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    }
+]

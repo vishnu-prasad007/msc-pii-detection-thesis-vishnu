@@ -1,0 +1,558 @@
+[
+    {
+        "ids": [
+            0,
+            17,
+            36,
+            58
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "Jim Morgan",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            337,
+            313,
+            491,
+            346
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            18,
+            37,
+            61
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "G. C. Bible",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            333,
+            1059,
+            485,
+            1086
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            19,
+            38,
+            62
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "W. I. Campbell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            333,
+            1092,
+            541,
+            1124
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            20,
+            39,
+            63
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "J. F. Cullman 3rd",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            332,
+            1124,
+            580,
+            1151
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            21,
+            40,
+            64
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "W. H. Dunn",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            333,
+            1156,
+            495,
+            1182
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            22,
+            41,
+            65
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "M. S. Goldberg",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            333,
+            1188,
+            539,
+            1220
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            23,
+            42,
+            66
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "J. M. Keenan",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            332,
+            1221,
+            516,
+            1247
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            7,
+            24,
+            43,
+            67
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "H. Maxwell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            332,
+            1253,
+            486,
+            1280
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            8,
+            25,
+            44,
+            68
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "R. P. Mayer",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            332,
+            1286,
+            501,
+            1317
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            9,
+            26,
+            45,
+            69
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "M. A. Miles",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            332,
+            1318,
+            488,
+            1344
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            10,
+            27,
+            46,
+            70
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "R. W. Murray",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            332,
+            1350,
+            516,
+            1382
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            11,
+            28,
+            47,
+            71
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "M. H. Bring",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            333,
+            1416,
+            495,
+            1447
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            12,
+            29,
+            48,
+            72
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "C. L. Fuller",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            333,
+            1447,
+            495,
+            1474
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            13,
+            30,
+            49,
+            73
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "H. G. Storr",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            332,
+            1480,
+            484,
+            1507
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            14,
+            15,
+            31,
+            32,
+            50,
+            51,
+            56
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number",
+            "Location"
+        ],
+        "value": "120 PARK AVENUE, NEW YORK, NY 10017-5592",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            940,
+            117,
+            1549,
+            147
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            16,
+            35,
+            54,
+            57
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Contract Number",
+            "Date"
+        ],
+        "value": "October 15, 1992",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1185,
+            213,
+            1411,
+            243
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            33,
+            52,
+            55
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "PHILIP MORRIS MANAGEMENT CORP.",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            195,
+            77,
+            952,
+            110
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            34
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Organization Name",
+        "value": "https://www.industrydocuments.ucsf.edu",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            382,
+            2113,
+            1359,
+            2151
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.07003450320163163
+    },
+    {
+        "ids": [
+            53
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Organization Name",
+        "value": "Corporate Products Committee",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            544,
+            212,
+            940,
+            246
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.023593355075766473
+    },
+    {
+        "ids": [
+            59
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Contract Number",
+        "value": "1993 CALENDAR",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            338,
+            414,
+            580,
+            441
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.03864965855267409
+    },
+    {
+        "ids": [
+            60
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Contract Number",
+        "value": "Junior",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            866,
+            870,
+            1364,
+            1074
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.03864965855267409
+    },
+    {
+        "ids": [
+            74
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Contract Number",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fhcy0038",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            382,
+            2113,
+            1359,
+            2151
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.03864965855267409
+    }
+]

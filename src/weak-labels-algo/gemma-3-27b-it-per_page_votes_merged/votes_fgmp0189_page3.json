@@ -1,0 +1,153 @@
+[
+    {
+        "ids": [
+            0,
+            6,
+            13
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Phone Number",
+        "value": "70071 5263",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.018600156530737877,
+            0.9760270714759827,
+            0.1225179098546505,
+            0.9885292276740074
+        ],
+        "source_file": "votes_fgmp0189_page3.csv"
+    },
+    {
+        "ids": [
+            1,
+            10,
+            14
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": [
+            "Location",
+            "Organization Name"
+        ],
+        "value": "Tobaccoville",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7329360246658325,
+            0.27342572808265686,
+            0.8423226624727249,
+            0.2861985759809613
+        ],
+        "source_file": "votes_fgmp0189_page3.csv"
+    },
+    {
+        "ids": [
+            2,
+            7
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Organization Name",
+        "value": "RJR",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.6070552468299866,
+            0.1334511786699295,
+            0.6447007805109024,
+            0.14592187199741602
+        ],
+        "source_file": "votes_fgmp0189_page3.csv"
+    },
+    {
+        "ids": [
+            3,
+            8
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Organization Name",
+        "value": "RJR",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.5124077200889587,
+            0.15018399059772491,
+            0.5498561300337315,
+            0.16308505274355412
+        ],
+        "source_file": "votes_fgmp0189_page3.csv"
+    },
+    {
+        "ids": [
+            4,
+            9
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Organization Name",
+        "value": "RJR",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.671476423740387,
+            0.20305372774600983,
+            0.7092607691884041,
+            0.21596559323370457
+        ],
+        "source_file": "votes_fgmp0189_page3.csv"
+    },
+    {
+        "ids": [
+            5,
+            11,
+            12,
+            16
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "RJR0000000046027194",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.01940491609275341,
+            0.9583040475845337,
+            0.2333031129091978,
+            0.9717414658516645
+        ],
+        "source_file": "votes_fgmp0189_page3.csv"
+    },
+    {
+        "ids": [
+            15
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Location",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fgmp0189",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.2761733829975128,
+            0.9818781614303589,
+            0.7918697893619537,
+            0.9976108279079199
+        ],
+        "source_file": "votes_fgmp0189_page3.csv"
+    }
+]

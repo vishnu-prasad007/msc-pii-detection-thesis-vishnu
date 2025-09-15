@@ -1,0 +1,458 @@
+[
+  {
+    "ids": [
+      0,
+      19,
+      34
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Person Name",
+    "value": "Ronni Kassal",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      451,
+      143,
+      498,
+      152
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      1,
+      20,
+      35
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Person Name",
+    "value": "ALEXIS HOFFMAN",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      451,
+      158,
+      521,
+      167
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      2,
+      21,
+      36
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Person Name",
+    "value": "MIKKIE BASELICE",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      603,
+      158,
+      670,
+      167
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      3,
+      22,
+      37
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Person Name",
+    "value": "Charlotte Kokel",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      192,
+      361,
+      246,
+      371
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      4,
+      23,
+      38
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Phone Number",
+    "value": "312-755-3936",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      451,
+      169,
+      501,
+      179
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      5,
+      24,
+      39
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Phone Number",
+    "value": "312-755-3834",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      603,
+      169,
+      651,
+      179
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      6,
+      25,
+      41
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Location",
+    "value": "Chicago, IL 60654",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      293,
+      127,
+      358,
+      138
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      7,
+      26,
+      43
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Location",
+    "value": "New York, NY 10019",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      19,
+      176,
+      94,
+      186
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      8,
+      27,
+      44
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "AL MEDIA",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      293,
+      73,
+      331,
+      82
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      9,
+      28
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "KATZ TELEVISION",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      21,
+      103,
+      221,
+      128
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      10,
+      29,
+      45
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "Nielsen",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      603,
+      127,
+      629,
+      136
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      11
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "WBTW",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      603,
+      58,
+      629,
+      66
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      12,
+      30,
+      46
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Date",
+    "value": "6/8/2020 at 9:02 AM",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      451,
+      42,
+      523,
+      51
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      13,
+      47
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Date",
+    "value": "6/6/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      451,
+      58,
+      477,
+      68
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      14,
+      48
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Date",
+    "value": "6/8/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      480,
+      58,
+      502,
+      68
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      15,
+      49
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Date",
+    "value": "06/08/20 9:02 AM",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      17,
+      361,
+      80,
+      371
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      16,
+      31,
+      50
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Date",
+    "value": "06/08/2020 at 09:02 AM",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      62,
+      816,
+      159,
+      827
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      17
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "26932832",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      293,
+      42,
+      329,
+      51
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      18,
+      33
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Person Name",
+    "value": "Jaime Harrison",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      451,
+      73,
+      504,
+      82
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      32,
+      51
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Contract # 26932832",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      249,
+      42,
+      329,
+      51
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      40
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Location",
+    "value": "222 W. Ontario Street,",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      293,
+      100,
+      372,
+      112
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      42
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Location",
+    "value": "125 West 55th St",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      19,
+      165,
+      80,
+      174
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  }
+]

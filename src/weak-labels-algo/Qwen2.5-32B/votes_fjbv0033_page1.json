@@ -1,0 +1,296 @@
+[
+    {
+        "ids": [
+            0,
+            9,
+            18
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. Kloepfer",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            539,
+            330,
+            884,
+            374
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            1,
+            10,
+            19
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Person Name",
+        "value": "Paul Knopick",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            542,
+            421,
+            887,
+            468
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            2,
+            11,
+            21
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Person Name",
+        "value": "Tom Humber",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            416,
+            2385,
+            693,
+            2424
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            3,
+            23
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Organization Name",
+        "value": "UPI",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1079,
+            753,
+            1167,
+            789
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 0.8132620043598049
+    },
+    {
+        "ids": [
+            4,
+            24
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Organization Name",
+        "value": "National Cancer Institute",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            678,
+            987,
+            1418,
+            1024
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 0.8132620043598049
+    },
+    {
+        "ids": [
+            5,
+            25
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Organization Name",
+        "value": "FTC",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1480,
+            1594,
+            1568,
+            1631
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 0.8132620043598049
+    },
+    {
+        "ids": [
+            6,
+            15,
+            26
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Date",
+        "value": "August 4, 1981",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            539,
+            518,
+            938,
+            565
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            7,
+            16,
+            27
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Date",
+        "value": "2/19/81",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1910,
+            1497,
+            2132,
+            1541
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            8,
+            17
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Contract Number",
+        "value": "T109721082",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            2144,
+            3121,
+            2424,
+            3166
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 0.7414301971243858
+    },
+    {
+        "ids": [
+            12
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Location",
+        "value": "Hong Kong",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1680,
+            754,
+            1959,
+            798
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 0.020121446344818404
+    },
+    {
+        "ids": [
+            13
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Location",
+        "value": "Hong Kong",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            536,
+            940,
+            792,
+            985
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 0.020121446344818404
+    },
+    {
+        "ids": [
+            14
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Location",
+        "value": "Hong Kong",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1798,
+            1639,
+            2052,
+            1685
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 0.020121446344818404
+    },
+    {
+        "ids": [
+            20
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Person Name",
+        "value": "PK",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            638,
+            384,
+            734,
+            427
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 0.019094487779212622
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Person Name",
+        "value": "PK/gd",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            277,
+            2242,
+            416,
+            2289
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 0.019094487779212622
+    }
+]

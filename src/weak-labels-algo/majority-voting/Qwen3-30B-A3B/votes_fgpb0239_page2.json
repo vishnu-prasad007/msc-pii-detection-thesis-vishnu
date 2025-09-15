@@ -1,0 +1,691 @@
+[
+    {
+        "ids": [
+            0,
+            50
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Person Name",
+        "value": "Trudy",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            747,
+            161,
+            866,
+            203
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            1,
+            20,
+            51
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Person Name",
+        "value": "Hightower, Annette",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1022,
+            657,
+            1424,
+            699
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            21,
+            52
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Person Name",
+        "value": "Annette Hightower",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            898,
+            1929,
+            1199,
+            1964
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            22,
+            53
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Email Address",
+        "value": "ahightower@innovatix.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1430,
+            656,
+            2002,
+            698
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            23,
+            54
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Email Address",
+        "value": "Jane.WILLIAMS@mallinckrodt.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1333,
+            769,
+            2031,
+            808
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            24,
+            55
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Email Address",
+        "value": "ahightower@innovatix.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1581,
+            2089,
+            2093,
+            2129
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            25,
+            56
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Phone Number",
+        "value": "212-901-1307",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            944,
+            2090,
+            1208,
+            2124
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            7,
+            26,
+            57
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Phone Number",
+        "value": "646-638-0792",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1272,
+            2089,
+            1535,
+            2123
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            8,
+            27,
+            58
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Location",
+        "value": "Innovatix, LLC I 555 W. 57th Street, 12th Floor New York, NY 10019",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            900,
+            2032,
+            2184,
+            2074
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            9,
+            38,
+            60
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Innovatix, LLC",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            900,
+            1884,
+            1116,
+            1916
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            10,
+            29,
+            61
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt, Inc.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1870,
+            1194,
+            2153,
+            1235
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            11,
+            30,
+            62
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt, Inc.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1870,
+            1261,
+            2153,
+            1301
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            12,
+            31,
+            63
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt, Inc.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1870,
+            1328,
+            2153,
+            1368
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            13,
+            32,
+            64
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt, Inc.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1869,
+            1394,
+            2153,
+            1433
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            14,
+            33,
+            65
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt, Inc.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1869,
+            1461,
+            2154,
+            1501
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            15,
+            34,
+            66
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt, Inc.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1869,
+            1528,
+            2153,
+            1567
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            16,
+            35,
+            67
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt, Inc.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1869,
+            1594,
+            2154,
+            1633
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            17,
+            36,
+            68
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt, Inc.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1870,
+            1661,
+            2154,
+            1700
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            18,
+            37,
+            69
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt, Inc.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1869,
+            1728,
+            2154,
+            1767
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            19,
+            40,
+            71
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Date",
+        "value": "November 11, 2013, 10:26:17 AM EST",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1013,
+            714,
+            1719,
+            753
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            28,
+            59
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Innovatix",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1420,
+            273,
+            1601,
+            307
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            39,
+            70
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Innovatix, LLC",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            900,
+            2033,
+            1158,
+            2073
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            41,
+            72
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406900076",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1598,
+            1193,
+            1828,
+            1228
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            42,
+            73
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406907576",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1598,
+            1260,
+            1827,
+            1295
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            43,
+            74
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406036501",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1598,
+            1328,
+            1824,
+            1362
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            44,
+            75
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406036562",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1599,
+            1394,
+            1826,
+            1428
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            45,
+            76
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406036601",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1599,
+            1462,
+            1823,
+            1494
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            46,
+            77
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406036662",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1600,
+            1529,
+            1824,
+            1561
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            47,
+            78
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406345434",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1599,
+            1595,
+            1826,
+            1627
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            48,
+            79
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406577101",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1599,
+            1662,
+            1823,
+            1694
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            49,
+            80
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406577162",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1599,
+            1728,
+            1826,
+            1761
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.6666666666666666
+    }
+]

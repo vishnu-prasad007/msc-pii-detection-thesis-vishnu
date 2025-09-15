@@ -1,0 +1,1444 @@
+[
+    {
+        "ids": [
+            0,
+            67,
+            129
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Ellerbe, Gloria",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2733049690723419,
+            0.11263342946767807,
+            0.3679557852447033,
+            0.1236880412325263
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            68,
+            130
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Calantzopoulos, Andre",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2735835015773773,
+            0.13883450627326965,
+            0.4267274737358093,
+            0.1509582344442606
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            69,
+            131
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Camilleri, Louis",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4305984377861023,
+            0.13868603110313416,
+            0.5366789624094963,
+            0.1504054218530655
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            70,
+            132
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "De Lisi, Nancy",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5412343144416809,
+            0.1386251151561737,
+            0.6403619758784771,
+            0.15112223103642464
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            71,
+            133
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Degola, Paolo",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6445810198783875,
+            0.13866262137889862,
+            0.7415214329957962,
+            0.15107373520731926
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            72,
+            134
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Deromedi, Roger",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.745674729347229,
+            0.13869233429431915,
+            0.8620595559477806,
+            0.15109475795179605
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            73,
+            135
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Devitre, Dinyar",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2738478481769562,
+            0.15226323902606964,
+            0.3759760148823261,
+            0.16400355473160744
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            74,
+            136
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Frost, Madeline",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3810674548149109,
+            0.15198810398578644,
+            0.4867035895586014,
+            0.163335339166224
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            75,
+            137
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Haben, Mary Kay",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4908522367477417,
+            0.15203948318958282,
+            0.6081514749675989,
+            0.1641449946910143
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            76,
+            138
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Holden, Betsy",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6128337383270264,
+            0.1522630751132965,
+            0.7084823288023472,
+            0.1641664244234562
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            77,
+            139
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Holsenbeck, Penn",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7135035395622253,
+            0.1522994339466095,
+            0.8356610350310802,
+            0.16354011557996273
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            11,
+            78,
+            140
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "King, Martin",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5169335603713989,
+            0.1655334085226059,
+            0.5963017791509628,
+            0.17766418680548668
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            12,
+            79,
+            141
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Kunz, Jean-Claude",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6633237600326538,
+            0.16571125388145447,
+            0.7924185246229172,
+            0.17664197366684675
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            13,
+            80,
+            142
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Mulligan, John",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.32440927624702454,
+            0.17860974371433258,
+            0.513426523655653,
+            0.19086714647710323
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            14,
+            81,
+            143
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Nelson, John R. \"Jack\"",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.428212434053421,
+            0.17836923897266388,
+            0.586788184940815,
+            0.19010756816715002
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            15,
+            82,
+            144
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Parrish, Steve",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5912843346595764,
+            0.17836309969425201,
+            0.6879653818905354,
+            0.1902016820386052
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            16,
+            83,
+            145
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Pellegrini, Matteo",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6927253007888794,
+            0.17854298651218414,
+            0.8073258250951767,
+            0.190966977737844
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            17,
+            84,
+            146
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Pettie, Mark",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2737515866756439,
+            0.19190208613872528,
+            0.35683321580290794,
+            0.20317487232387066
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            18,
+            85,
+            147
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Pleuhs, Gerhard",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3612774908542633,
+            0.19197535514831543,
+            0.46880970150232315,
+            0.20317954197525978
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            19,
+            86,
+            148
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Roberts, Hugh",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.540744423866272,
+            0.19194310903549194,
+            0.6388266496360302,
+            0.20401974953711033
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            20,
+            87,
+            149
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Rolli, Nicholas",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.643193781375885,
+            0.19191335141658783,
+            0.7417478375136852,
+            0.20339587796479464
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            21,
+            88,
+            150
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Scully, James",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7457698583602905,
+            0.19212253391742706,
+            0.8412319347262383,
+            0.20404701307415962
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            22,
+            89,
+            151
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Searer, Rick",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.273899644613266,
+            0.20493288338184357,
+            0.35914237797260284,
+            0.21627429500222206
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            23,
+            90,
+            152
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Sneed, Paula",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3637600839138031,
+            0.20500300824642181,
+            0.45630237460136414,
+            0.2163280202075839
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            24,
+            91,
+            153
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Toscano, Frank",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.609778881072998,
+            0.20493434369564056,
+            0.7159955054521561,
+            0.21632942464202642
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            25,
+            92,
+            154
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Waldemer, Hermann",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7198992967605591,
+            0.20493745803833008,
+            0.8619145676493645,
+            0.2162798624485731
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            26,
+            93,
+            155
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Wall, Chuck",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2721644937992096,
+            0.2179938405752182,
+            0.3577980101108551,
+            0.22990501392632723
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            27,
+            94,
+            156
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Webb, William",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3615511357784271,
+            0.21800008416175842,
+            0.46400708332657814,
+            0.22973411343991756
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            28,
+            95,
+            157
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Zielinski, Miroslaw",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4676225781440735,
+            0.21794100105762482,
+            0.5887804180383682,
+            0.22995764296501875
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            29,
+            96,
+            158
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Calenti, Maurizio",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3835553228855133,
+            0.23118583858013153,
+            0.49837783724069595,
+            0.24288679473102093
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            30,
+            97,
+            159
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Carlisle, Brian",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5025487542152405,
+            0.23146359622478485,
+            0.5990776009857655,
+            0.2426213761791587
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            31,
+            98,
+            160
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Carothers, Paul",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6028918623924255,
+            0.2313954085111618,
+            0.7096577398478985,
+            0.24356307089328766
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            32,
+            99,
+            161
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Collamore, Tom",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.713837206363678,
+            0.2313876897096634,
+            0.8240251764655113,
+            0.24341330397874117
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            33,
+            100,
+            162
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Dilley, Chris",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.382906973361969,
+            0.24471557140350342,
+            0.46633993834257126,
+            0.2569463858380914
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            34,
+            101,
+            163
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Gray, Mary",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.593989908695221,
+            0.24485933780670166,
+            0.6723985411226749,
+            0.257015909999609
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            35,
+            102,
+            164
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Greenberg, David",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.676121175289154,
+            0.24487796425819397,
+            0.796931367367506,
+            0.2567437198013067
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            36,
+            103,
+            165
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Izant, Julian",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.32950934767723083,
+            0.25809532403945923,
+            0.4116038456559181,
+            0.2695468617603183
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            37,
+            104,
+            166
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Keane, Denise",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7553362846374512,
+            0.25784265995025635,
+            0.8555394746363163,
+            0.2696022428572178
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            38
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Kellogg, Timothy",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.27372345328330994,
+            0.27119845151901245,
+            0.38884152844548225,
+            0.2833705907687545
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            39
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Kelsey, Kevin",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.39291152358055115,
+            0.27133283019065857,
+            0.48727815598249435,
+            0.28347139712423086
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            40
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Kenny, Michael",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.49208498001098633,
+            0.27114883065223694,
+            0.5957217440009117,
+            0.2836038311943412
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            41,
+            105,
+            167
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Kuepfer, Marco",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6005038022994995,
+            0.2713300883769989,
+            0.7065316550433636,
+            0.2832150850445032
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            42,
+            106,
+            168
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Lindon, Tim",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.710706353187561,
+            0.2712987959384918,
+            0.7925192173570395,
+            0.28252577036619186
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            43,
+            107,
+            169
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Maxwell, Hamish",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.449849009513855,
+            0.28427428007125854,
+            0.5654486753046513,
+            0.2959254030138254
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            44,
+            108,
+            170
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Mazza, Maryann",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5699394345283508,
+            0.28427183628082275,
+            0.6824450641870499,
+            0.2963029434904456
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            45,
+            109,
+            171
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "McCrea, James",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6872440576553345,
+            0.2844253480434418,
+            0.7943279556930065,
+            0.2958431337028742
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            46,
+            110,
+            172
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Mudd, Michael",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3289003074169159,
+            0.29766109585762024,
+            0.42870917171239853,
+            0.3088694903999567
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            47,
+            111,
+            173
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Mulderig, John",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4335898756980896,
+            0.29754820466041565,
+            0.5343887656927109,
+            0.3096099514514208
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            48,
+            112,
+            174
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Newman, Robin",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5384733080863953,
+            0.2976025938987732,
+            0.6473320312798023,
+            0.3090456882491708
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            49,
+            113,
+            175
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Ohlemeyer, William",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6515104174613953,
+            0.29754748940467834,
+            0.7859687693417072,
+            0.3095830325037241
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            50,
+            114,
+            176
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Pellegrino, Phil",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3328571319580078,
+            0.31056350469589233,
+            0.4362333733588457,
+            0.3227776577696204
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            51,
+            115,
+            177
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Reiman, Andre",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4405507445335388,
+            0.31078749895095825,
+            0.543440368026495,
+            0.3217331161722541
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            52,
+            116,
+            178
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Rissman, Steve",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5472477674484253,
+            0.3108063042163849,
+            0.655768658965826,
+            0.32147699501365423
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            53,
+            117,
+            179
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Ruiz, Jon",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6599404811859131,
+            0.3107514977455139,
+            0.7259173728525639,
+            0.3217062707990408
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            54,
+            118,
+            180
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Scarpa, Michele",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7304593324661255,
+            0.31053784489631653,
+            0.8394602835178375,
+            0.3225305313244462
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            55,
+            181
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Scruggs, John",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.27379748225212097,
+            0.3244263827800751,
+            0.37155938893556595,
+            0.3362229987978935
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            56,
+            119,
+            182
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Soto, Illeana",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3757818937301636,
+            0.32434093952178955,
+            0.4622599929571152,
+            0.33542606327682734
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            57,
+            120,
+            183
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Walls, Tina",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4663638174533844,
+            0.3241789937019348,
+            0.5445285812020302,
+            0.33569514099508524
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            58,
+            121,
+            184
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Person Name",
+        "value": "Washington, Shuanise",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.548955500125885,
+            0.32421696186065674,
+            0.6975927799940109,
+            0.3361733015626669
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            59,
+            122,
+            185
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Email Address",
+        "value": "jshea@hunton.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4171872138977051,
+            0.2580462694168091,
+            0.5455905050039291,
+            0.27007479313760996
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            60,
+            123,
+            186
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Email Address",
+        "value": "JWHITSON@HUNTON.COM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5505029559135437,
+            0.25805768370628357,
+            0.7507730424404144,
+            0.2699281666427851
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            61,
+            124,
+            187
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Phone Number",
+        "value": "ext. 4043",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.09041861444711685,
+            0.48404818773269653,
+            0.15141696855425835,
+            0.49341417104005814
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            62,
+            63,
+            125,
+            188
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": [
+            "Location",
+            "Organization Name"
+        ],
+        "value": "PMI-LA",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5924995541572571,
+            0.21796923875808716,
+            0.651199322193861,
+            0.23003273550421
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            64,
+            126,
+            189
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Organization Name",
+        "value": "KFNA",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.46923670172691345,
+            0.16567742824554443,
+            0.5125998072326183,
+            0.17671378515660763
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            65,
+            127,
+            190
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Date",
+        "value": "Thursday, June 17, 2004 7:28 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.27358078956604004,
+            0.1257326751947403,
+            0.495516711845994,
+            0.13770562410354614
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    },
+    {
+        "ids": [
+            66,
+            128,
+            191
+        ],
+        "doc_id": "votes_fhnm0001_page1",
+        "pii_type": "Contract Number",
+        "value": "AC5001029858",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.8160644769668579,
+            0.9509259462356567,
+            0.936024896800518,
+            0.9624922713264823
+        ],
+        "source_file": "votes_fhnm0001_page1.csv"
+    }
+]

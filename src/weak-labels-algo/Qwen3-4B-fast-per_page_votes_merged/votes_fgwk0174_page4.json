@@ -1,0 +1,130 @@
+[
+    {
+        "ids": [
+            0,
+            5,
+            11
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Person Name",
+        "value": "Timothy M. Finnegan, Esq.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1592749059200287,
+            0.0623973086476326,
+            0.40495648235082626,
+            0.07796063553541899
+        ],
+        "source_file": "votes_fgwk0174_page4.csv"
+    },
+    {
+        "ids": [
+            1,
+            6,
+            12
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Person Name",
+        "value": "Frank G. Colby",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.574226438999176,
+            0.47289329767227173,
+            0.7120022661983967,
+            0.48844835348427296
+        ],
+        "source_file": "votes_fgwk0174_page4.csv"
+    },
+    {
+        "ids": [
+            2,
+            7,
+            13
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Person Name",
+        "value": "Max Crohn, Esq.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.20659570395946503,
+            0.5591134428977966,
+            0.3516296297311783,
+            0.5738509548828006
+        ],
+        "source_file": "votes_fgwk0174_page4.csv"
+    },
+    {
+        "ids": [
+            3,
+            8,
+            14
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Person Name",
+        "value": "Dr. Charles Nystrom, RJRT",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.21779277920722961,
+            0.5896215438842773,
+            0.46440714597702026,
+            0.6045568315312266
+        ],
+        "source_file": "votes_fgwk0174_page4.csv"
+    },
+    {
+        "ids": [
+            4,
+            9,
+            15
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Date",
+        "value": "June 23, 1983",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7520964741706848,
+            0.06428253650665283,
+            0.8821357116103172,
+            0.07838189881294966
+        ],
+        "source_file": "votes_fgwk0174_page4.csv"
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Contract Number",
+        "value": "4",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.5659136772155762,
+            0.06354866921901703,
+            0.5773943299427629,
+            0.07542827259749174
+        ],
+        "source_file": "votes_fgwk0174_page4.csv"
+    }
+]

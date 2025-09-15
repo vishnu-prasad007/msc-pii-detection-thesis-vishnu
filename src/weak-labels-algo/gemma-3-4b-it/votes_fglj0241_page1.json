@@ -1,0 +1,115 @@
+[
+    {
+        "ids": [
+            0,
+            3,
+            7,
+            8
+        ],
+        "doc_id": "votes_fglj0241_page1",
+        "pii_type": [
+            "Email Address",
+            "Phone Number"
+        ],
+        "value": "Danielle.Nolan@Covidien.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            717,
+            324,
+            1246,
+            363
+        ],
+        "source_file": "votes_fglj0241_page1.csv",
+        "probability": NaN
+    },
+    {
+        "ids": [
+            1,
+            4,
+            9
+        ],
+        "doc_id": "votes_fglj0241_page1",
+        "pii_type": "Date",
+        "value": "8/21/2012 11:49:15 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            419,
+            271,
+            825,
+            311
+        ],
+        "source_file": "votes_fglj0241_page1.csv",
+        "probability": 0.9980073602097371
+    },
+    {
+        "ids": [
+            2,
+            5,
+            10
+        ],
+        "doc_id": "votes_fglj0241_page1",
+        "pii_type": "Date",
+        "value": "June 4-5 2012",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            491,
+            426,
+            1172,
+            458
+        ],
+        "source_file": "votes_fglj0241_page1.csv",
+        "probability": 0.9980073602097371
+    },
+    {
+        "ids": [
+            6,
+            11
+        ],
+        "doc_id": "votes_fglj0241_page1",
+        "pii_type": "Contract Number",
+        "value": "FCR 2012",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            420,
+            376,
+            575,
+            407
+        ],
+        "source_file": "votes_fglj0241_page1.csv",
+        "probability": 0.5079515526551848
+    },
+    {
+        "ids": [
+            12
+        ],
+        "doc_id": "votes_fglj0241_page1",
+        "pii_type": "Contract Number",
+        "value": "MNKOI 0003190897",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            2087,
+            3304,
+            2469,
+            3340
+        ],
+        "source_file": "votes_fglj0241_page1.csv",
+        "probability": 0.054906893014309066
+    }
+]

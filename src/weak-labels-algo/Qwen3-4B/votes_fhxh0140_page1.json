@@ -1,0 +1,176 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            14
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Person Name",
+        "value": "Secretary Weinberger",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1109,
+            2392,
+            1696,
+            2435
+        ],
+        "source_file": "votes_fhxh0140_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            1,
+            8,
+            15
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Organization Name",
+        "value": "U.S. ARMY",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1160,
+            363,
+            1424,
+            399
+        ],
+        "source_file": "votes_fhxh0140_page1.csv",
+        "probability": 0.9937329907926641
+    },
+    {
+        "ids": [
+            2,
+            9,
+            16
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Organization Name",
+        "value": "U.S. Army",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1167,
+            1767,
+            1429,
+            1807
+        ],
+        "source_file": "votes_fhxh0140_page1.csv",
+        "probability": 0.9937329907926641
+    },
+    {
+        "ids": [
+            3,
+            17
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Date",
+        "value": "March 1, 1986",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            662,
+            998,
+            1066,
+            1038
+        ],
+        "source_file": "votes_fhxh0140_page1.csv",
+        "probability": 0.8701436970236002
+    },
+    {
+        "ids": [
+            4,
+            10
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Date",
+        "value": "June 11, 1986",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            604,
+            1767,
+            1011,
+            1806
+        ],
+        "source_file": "votes_fhxh0140_page1.csv",
+        "probability": 0.9200745704644497
+    },
+    {
+        "ids": [
+            5,
+            11,
+            18
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Contract Number",
+        "value": "TIMN 353405",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1870,
+            3048,
+            2329,
+            3114
+        ],
+        "source_file": "votes_fhxh0140_page1.csv",
+        "probability": 0.9354416064716374
+    },
+    {
+        "ids": [
+            6,
+            12
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Person Name",
+        "value": "William H. Taft IV",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            365,
+            1242,
+            898,
+            1282
+        ],
+        "source_file": "votes_fhxh0140_page1.csv",
+        "probability": 0.5683589493486256
+    },
+    {
+        "ids": [
+            13
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Person Name",
+        "value": "Weinberger",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            367,
+            2301,
+            663,
+            2344
+        ],
+        "source_file": "votes_fhxh0140_page1.csv",
+        "probability": 0.01521708200355711
+    }
+]

@@ -1,0 +1,327 @@
+[
+    {
+        "ids": [
+            0,
+            13,
+            42
+        ],
+        "doc_id": "votes_fjgh0000_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Mr. II. E. Wright, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            167,
+            217,
+            380,
+            237
+        ],
+        "source_file": "votes_fjgh0000_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            14,
+            29,
+            43
+        ],
+        "doc_id": "votes_fjgh0000_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "R. S. Sprinkle, III",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            167,
+            278,
+            361,
+            297
+        ],
+        "source_file": "votes_fjgh0000_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            15,
+            30
+        ],
+        "doc_id": "votes_fjgh0000_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. J. T. Ashworth",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            217,
+            1009,
+            402,
+            1026
+        ],
+        "source_file": "votes_fjgh0000_page1.csv",
+        "probability": 0.9996925870572029
+    },
+    {
+        "ids": [
+            3,
+            16,
+            31
+        ],
+        "doc_id": "votes_fjgh0000_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. John G. Brooks",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            217,
+            1031,
+            401,
+            1047
+        ],
+        "source_file": "votes_fjgh0000_page1.csv",
+        "probability": 0.9996925870572029
+    },
+    {
+        "ids": [
+            4,
+            17,
+            32
+        ],
+        "doc_id": "votes_fjgh0000_page1",
+        "pii_type": "Person Name",
+        "value": "Dr. R. M. Irby, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            218,
+            1051,
+            410,
+            1069
+        ],
+        "source_file": "votes_fjgh0000_page1.csv",
+        "probability": 0.9996925870572029
+    },
+    {
+        "ids": [
+            5,
+            18,
+            33
+        ],
+        "doc_id": "votes_fjgh0000_page1",
+        "pii_type": "Person Name",
+        "value": "Dr. E. c. Cogbill",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            217,
+            1072,
+            390,
+            1089
+        ],
+        "source_file": "votes_fjgh0000_page1.csv",
+        "probability": 0.9996925870572029
+    },
+    {
+        "ids": [
+            6,
+            19,
+            34
+        ],
+        "doc_id": "votes_fjgh0000_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. B. F. Price",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            216,
+            1091,
+            371,
+            1107
+        ],
+        "source_file": "votes_fjgh0000_page1.csv",
+        "probability": 0.9996925870572029
+    },
+    {
+        "ids": [
+            7,
+            20,
+            35
+        ],
+        "doc_id": "votes_fjgh0000_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. R. s. Sprinkle, III",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            217,
+            1112,
+            452,
+            1130
+        ],
+        "source_file": "votes_fjgh0000_page1.csv",
+        "probability": 0.9996925870572029
+    },
+    {
+        "ids": [
+            8,
+            9,
+            23,
+            25,
+            39,
+            44
+        ],
+        "doc_id": "votes_fjgh0000_page1",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "New York",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            450,
+            787,
+            534,
+            802
+        ],
+        "source_file": "votes_fjgh0000_page1.csv",
+        "probability": 0.9998412938516642
+    },
+    {
+        "ids": [
+            10,
+            11,
+            26,
+            27,
+            36,
+            38,
+            45,
+            46
+        ],
+        "doc_id": "votes_fjgh0000_page1",
+        "pii_type": [
+            "Date",
+            "Location",
+            "Phone Number"
+        ],
+        "value": "December 6, 1972",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            166,
+            157,
+            331,
+            176
+        ],
+        "source_file": "votes_fjgh0000_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            12,
+            22,
+            24,
+            28,
+            41,
+            47
+        ],
+        "doc_id": "votes_fjgh0000_page1",
+        "pii_type": [
+            "Phone Number",
+            "Location",
+            "Contract Number"
+        ],
+        "value": "ATX02 0182293",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            760,
+            1389,
+            932,
+            1409
+        ],
+        "source_file": "votes_fjgh0000_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            21,
+            40
+        ],
+        "doc_id": "votes_fjgh0000_page1",
+        "pii_type": [
+            "Email Address",
+            "Location"
+        ],
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fjgh0000",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            249,
+            1543,
+            959,
+            1571
+        ],
+        "source_file": "votes_fjgh0000_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            37
+        ],
+        "doc_id": "votes_fjgh0000_page1",
+        "pii_type": "Phone Number",
+        "value": "ODL",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            166,
+            928,
+            199,
+            944
+        ],
+        "source_file": "votes_fjgh0000_page1.csv",
+        "probability": 0.0724693832224822
+    }
+]

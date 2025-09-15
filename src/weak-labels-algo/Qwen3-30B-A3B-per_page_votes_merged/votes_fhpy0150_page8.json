@@ -1,0 +1,264 @@
+[
+    {
+        "ids": [
+            0,
+            12,
+            24
+        ],
+        "doc_id": "votes_fhpy0150_page8",
+        "pii_type": "Person Name",
+        "value": "L. Chambers",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.15243905782699585,
+            0.28233325481414795,
+            0.24675414711236954,
+            0.29379500821232796
+        ],
+        "source_file": "votes_fhpy0150_page8.csv"
+    },
+    {
+        "ids": [
+            1,
+            13,
+            25
+        ],
+        "doc_id": "votes_fhpy0150_page8",
+        "pii_type": "Person Name",
+        "value": "C. Connell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.15301792323589325,
+            0.299125075340271,
+            0.23102308437228203,
+            0.31039518397301435
+        ],
+        "source_file": "votes_fhpy0150_page8.csv"
+    },
+    {
+        "ids": [
+            2,
+            14,
+            26
+        ],
+        "doc_id": "votes_fhpy0150_page8",
+        "pii_type": "Person Name",
+        "value": "R. Cox",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1533590853214264,
+            0.3161167502403259,
+            0.20411896705627441,
+            0.32695786003023386
+        ],
+        "source_file": "votes_fhpy0150_page8.csv"
+    },
+    {
+        "ids": [
+            3,
+            15,
+            27
+        ],
+        "doc_id": "votes_fhpy0150_page8",
+        "pii_type": "Person Name",
+        "value": "W. Dwyer",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.15315689146518707,
+            0.33257606625556946,
+            0.22883344069123268,
+            0.34617683570832014
+        ],
+        "source_file": "votes_fhpy0150_page8.csv"
+    },
+    {
+        "ids": [
+            4,
+            16,
+            28
+        ],
+        "doc_id": "votes_fhpy0150_page8",
+        "pii_type": "Person Name",
+        "value": "F. Hsu",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.15321335196495056,
+            0.34905707836151123,
+            0.20170044712722301,
+            0.36019274964928627
+        ],
+        "source_file": "votes_fhpy0150_page8.csv"
+    },
+    {
+        "ids": [
+            5,
+            17,
+            29
+        ],
+        "doc_id": "votes_fhpy0150_page8",
+        "pii_type": "Person Name",
+        "value": "K. Podraza",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1534656137228012,
+            0.36583083868026733,
+            0.23350254818797112,
+            0.37703457567840815
+        ],
+        "source_file": "votes_fhpy0150_page8.csv"
+    },
+    {
+        "ids": [
+            6,
+            18,
+            30
+        ],
+        "doc_id": "votes_fhpy0150_page8",
+        "pii_type": "Person Name",
+        "value": "J. Whidby",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.15343314409255981,
+            0.38220182061195374,
+            0.2275490052998066,
+            0.3958005756139755
+        ],
+        "source_file": "votes_fhpy0150_page8.csv"
+    },
+    {
+        "ids": [
+            7,
+            19,
+            31
+        ],
+        "doc_id": "votes_fhpy0150_page8",
+        "pii_type": "Organization Name",
+        "value": "Philip Morris USA",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6851274967193604,
+            0.0569232776761055,
+            0.7982931882143021,
+            0.06856860220432281
+        ],
+        "source_file": "votes_fhpy0150_page8.csv"
+    },
+    {
+        "ids": [
+            8,
+            20,
+            32
+        ],
+        "doc_id": "votes_fhpy0150_page8",
+        "pii_type": "Date",
+        "value": "10/29/97",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3488173186779022,
+            0.11494134366512299,
+            0.41128038987517357,
+            0.12651738338172436
+        ],
+        "source_file": "votes_fhpy0150_page8.csv"
+    },
+    {
+        "ids": [
+            9,
+            21,
+            33
+        ],
+        "doc_id": "votes_fhpy0150_page8",
+        "pii_type": "Date",
+        "value": "11/12/97",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4478040039539337,
+            0.1152043268084526,
+            0.513620987534523,
+            0.12837070878595114
+        ],
+        "source_file": "votes_fhpy0150_page8.csv"
+    },
+    {
+        "ids": [
+            10,
+            22
+        ],
+        "doc_id": "votes_fhpy0150_page8",
+        "pii_type": "Contract Number",
+        "value": "P0622",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.24411599338054657,
+            0.8714368343353271,
+            0.28297044336795807,
+            0.8810855969786644
+        ],
+        "source_file": "votes_fhpy0150_page8.csv"
+    },
+    {
+        "ids": [
+            11,
+            23,
+            34
+        ],
+        "doc_id": "votes_fhpy0150_page8",
+        "pii_type": "Contract Number",
+        "value": "PM303052398681",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7583695650100708,
+            0.925173282623291,
+            0.9411412477493286,
+            0.9416630286723375
+        ],
+        "source_file": "votes_fhpy0150_page8.csv"
+    }
+]

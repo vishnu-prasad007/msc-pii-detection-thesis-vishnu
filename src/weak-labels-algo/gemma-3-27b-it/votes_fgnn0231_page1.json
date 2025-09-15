@@ -1,0 +1,454 @@
+[
+    {
+        "ids": [
+            0,
+            9,
+            19,
+            29
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "BRIAN M. LAWRENCE",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            725,
+            983,
+            1415,
+            1032
+        ],
+        "source_file": "votes_fgnn0231_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            10,
+            20,
+            30
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "JERRY W. REDDING",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2263,
+            983,
+            2908,
+            1035
+        ],
+        "source_file": "votes_fgnn0231_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            11,
+            21,
+            39
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "Ken Shu",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            569,
+            2860,
+            855,
+            2911
+        ],
+        "source_file": "votes_fgnn0231_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            12,
+            22,
+            40
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "Milly Wong",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            568,
+            2923,
+            974,
+            2986
+        ],
+        "source_file": "votes_fgnn0231_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            13,
+            23,
+            41
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "Dwo Lymn",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            572,
+            2993,
+            896,
+            3051
+        ],
+        "source_file": "votes_fgnn0231_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            14,
+            24,
+            42
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "Jerry W. Redding",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1943,
+            2990,
+            2596,
+            3054
+        ],
+        "source_file": "votes_fgnn0231_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            15,
+            25,
+            43
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "Gary Dull",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            570,
+            3056,
+            931,
+            3116
+        ],
+        "source_file": "votes_fgnn0231_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            7,
+            16,
+            32,
+            45
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": [
+            "Location",
+            "Organization Name"
+        ],
+        "value": "Takasago",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1307,
+            1243,
+            1627,
+            1301
+        ],
+        "source_file": "votes_fgnn0231_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            8,
+            18,
+            28,
+            46
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "March 12, 1991",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2260,
+            785,
+            2824,
+            845
+        ],
+        "source_file": "votes_fgnn0231_page1.csv",
+        "probability": 0.9999987397789659
+    },
+    {
+        "ids": [
+            17
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": "Organization Name",
+        "value": "Reynolds",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            318,
+            200,
+            1330,
+            460
+        ],
+        "source_file": "votes_fgnn0231_page1.csv",
+        "probability": 0.07003450320163163
+    },
+    {
+        "ids": [
+            26
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": "Location",
+        "value": "RgReynolds",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            318,
+            200,
+            1330,
+            460
+        ],
+        "source_file": "votes_fgnn0231_page1.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            27
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": "Location",
+        "value": "Tobacco Company",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            927,
+            393,
+            1317,
+            451
+        ],
+        "source_file": "votes_fgnn0231_page1.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            31
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": "Location",
+        "value": "1-menthyl",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            2590,
+            1174,
+            2939,
+            1237
+        ],
+        "source_file": "votes_fgnn0231_page1.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            33
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": "Location",
+        "value": "10 and",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            2705,
+            1243,
+            2947,
+            1293
+        ],
+        "source_file": "votes_fgnn0231_page1.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            34
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": "Location",
+        "value": "20mg/cigarette",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            329,
+            1306,
+            919,
+            1369
+        ],
+        "source_file": "votes_fgnn0231_page1.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            35
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": "Location",
+        "value": "1-menthyl glucoside",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1988,
+            1435,
+            2752,
+            1494
+        ],
+        "source_file": "votes_fgnn0231_page1.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            36
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": "Location",
+        "value": "5mg of 1-menthyl glucoside",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1256,
+            1758,
+            2338,
+            1820
+        ],
+        "source_file": "votes_fgnn0231_page1.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            37
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": "Location",
+        "value": "3 and 6mg/cigarette",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            918,
+            2273,
+            1739,
+            2335
+        ],
+        "source_file": "votes_fgnn0231_page1.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            38
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": "Location",
+        "value": "1-menthyl glucoside",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1245,
+            2337,
+            2003,
+            2399
+        ],
+        "source_file": "votes_fgnn0231_page1.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            44
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": "Location",
+        "value": "ttps://www.industrydocuments.ucsf.edu/docs/fgnn0231",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            977,
+            4316,
+            2644,
+            4387
+        ],
+        "source_file": "votes_fgnn0231_page1.csv",
+        "probability": 0.11727918502265558
+    }
+]

@@ -1,0 +1,290 @@
+[
+    {
+        "ids": [
+            0,
+            9,
+            20,
+            32
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "Collett Thach",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            897,
+            1114,
+            1257,
+            1173
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            10,
+            21,
+            33
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "Valerie Vaughan",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            896,
+            1197,
+            1343,
+            1268
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            11,
+            22,
+            34
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "Leonard Jones",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            892,
+            1280,
+            1276,
+            1338
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            12,
+            23,
+            35
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "Don Kisling",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            894,
+            1442,
+            1219,
+            1515
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            13,
+            24
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Person Name",
+        "value": "Kelli Scruggs",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1846,
+            3572,
+            2218,
+            3645
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 0.9997390584202765
+    },
+    {
+        "ids": [
+            5,
+            14,
+            25,
+            29
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "Lorillard",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1378,
+            288,
+            1960,
+            479
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            15,
+            26,
+            30
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "TOBACCO COMPANY",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1611,
+            433,
+            1935,
+            472
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            7,
+            18,
+            27
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Date",
+        "value": "March 26, 1999",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            501,
+            868,
+            924,
+            938
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 0.9998803392147021
+    },
+    {
+        "ids": [
+            8,
+            19,
+            28
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Date",
+        "value": "March 19, 1999",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            716,
+            2100,
+            1152,
+            2170
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 0.9998803392147021
+    },
+    {
+        "ids": [
+            16
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Organization Name",
+        "value": "Lorillard'",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            2448,
+            3571,
+            2701,
+            3631
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 0.08045625298154675
+    },
+    {
+        "ids": [
+            17
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Organization Name",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fjfw0152",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            720,
+            4594,
+            2613,
+            4667
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 0.08045625298154675
+    },
+    {
+        "ids": [
+            31
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Contract Number",
+        "value": "MEMORANDUM",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1418,
+            555,
+            1930,
+            616
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 0.13971670040541243
+    }
+]

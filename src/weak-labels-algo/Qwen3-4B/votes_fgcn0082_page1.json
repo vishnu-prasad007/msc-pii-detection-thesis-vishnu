@@ -1,0 +1,280 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            13,
+            19
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Chaikin, Karen",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            146,
+            370,
+            373,
+            403
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            8,
+            14
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Person Name",
+        "value": "Chaikin, Karen",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            482,
+            437,
+            658,
+            464
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            2,
+            9,
+            15
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Person Name",
+        "value": "Mohrmann, Christine",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            481,
+            499,
+            731,
+            524
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            3,
+            16
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Person Name",
+        "value": "Chris",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            263,
+            623,
+            345,
+            652
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.8622531513884912
+    },
+    {
+        "ids": [
+            4,
+            6,
+            10,
+            12,
+            18
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "2071863150",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1340,
+            294,
+            1550,
+            347
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            11,
+            17
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Date",
+        "value": "Tuesday, September 28, 1999 4:02 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            482,
+            469,
+            948,
+            496
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            20
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Contract Number",
+        "value": "From: Chaikin, Karen",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            147,
+            437,
+            658,
+            464
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            21
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Contract Number",
+        "value": "Sent: Tuesday, September 28, 1999 4:02 PM",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            147,
+            468,
+            948,
+            496
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Contract Number",
+        "value": "To: Mohrmann, Christine",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            146,
+            499,
+            731,
+            524
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            23
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Contract Number",
+        "value": "Subject: RE: State Laws",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            147,
+            529,
+            667,
+            559
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Contract Number",
+        "value": "Thanks Chris. Assume copies of the laws for the states listed below are also included in the mailing?",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            147,
+            622,
+            1581,
+            658
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            25
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Contract Number",
+        "value": "KC",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            148,
+            699,
+            196,
+            727
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            26
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Contract Number",
+        "value": "Youth Smoking Prevention",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            147,
+            738,
+            517,
+            774
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.18724450043103621
+    }
+]

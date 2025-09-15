@@ -1,0 +1,113 @@
+[
+    {
+        "ids": [
+            0,
+            4,
+            8
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Phone Number",
+        "value": "621915825",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            824,
+            1366,
+            1007,
+            1391
+        ],
+        "source_file": "votes_fjbw0138_page1.csv",
+        "probability": 0.9990904025042505
+    },
+    {
+        "ids": [
+            1,
+            5,
+            9
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Organization Name",
+        "value": "B&W",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            156,
+            153,
+            278,
+            199
+        ],
+        "source_file": "votes_fjbw0138_page1.csv",
+        "probability": 0.9900025300515797
+    },
+    {
+        "ids": [
+            2,
+            6,
+            11
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Date",
+        "value": "09/03/96",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            677,
+            1335,
+            763,
+            1354
+        ],
+        "source_file": "votes_fjbw0138_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            3,
+            7,
+            12
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Contract Number",
+        "value": "C #2311 (CC)",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            677,
+            1309,
+            812,
+            1333
+        ],
+        "source_file": "votes_fjbw0138_page1.csv",
+        "probability": 0.9662050027718209
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Organization Name",
+        "value": "CARLTON",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            318,
+            366,
+            461,
+            390
+        ],
+        "source_file": "votes_fjbw0138_page1.csv",
+        "probability": 0.0658539807578667
+    }
+]

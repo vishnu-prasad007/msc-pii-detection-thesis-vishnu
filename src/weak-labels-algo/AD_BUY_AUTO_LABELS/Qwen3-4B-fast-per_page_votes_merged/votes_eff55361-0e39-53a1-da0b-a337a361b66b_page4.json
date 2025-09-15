@@ -1,0 +1,327 @@
+[
+  {
+    "ids": [
+      0,
+      15,
+      28
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": "Person Name",
+    "value": "Vignarajah/D/Mayor",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      506,
+      85,
+      604,
+      95
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  },
+  {
+    "ids": [
+      1,
+      16,
+      29
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": "Person Name",
+    "value": "Thiru Mayor",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      506,
+      110,
+      566,
+      120
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  },
+  {
+    "ids": [
+      2,
+      17,
+      30
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": "Location",
+    "value": "PO Box 90024",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      165,
+      70,
+      257,
+      80
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  },
+  {
+    "ids": [
+      3,
+      18,
+      31
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": "Location",
+    "value": "Prescott, AZ 86304-9024",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      164,
+      83,
+      327,
+      94
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  },
+  {
+    "ids": [
+      4,
+      19,
+      33
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": "Organization Name",
+    "value": "WBAL-TV11",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      164,
+      58,
+      242,
+      67
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  },
+  {
+    "ids": [
+      5,
+      20,
+      34
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": "Organization Name",
+    "value": "WBALTV",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      48,
+      111,
+      151,
+      134
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  },
+  {
+    "ids": [
+      6,
+      21,
+      35
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": "Organization Name",
+    "value": "WideOrbit",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      771,
+      805,
+      809,
+      812
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  },
+  {
+    "ids": [
+      7
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": "Date",
+    "value": "May 2020",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      709,
+      60,
+      758,
+      69
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  },
+  {
+    "ids": [
+      8,
+      22,
+      36,
+      38
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": "Date",
+    "value": "05/03/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      506,
+      72,
+      550,
+      80
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  },
+  {
+    "ids": [
+      9,
+      23,
+      37
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": "Date",
+    "value": "04/27/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      709,
+      72,
+      752,
+      80
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  },
+  {
+    "ids": [
+      10,
+      24,
+      39
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": "Date",
+    "value": "04/28/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      56,
+      179,
+      100,
+      187
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  },
+  {
+    "ids": [
+      11,
+      25,
+      40
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": "Date",
+    "value": "05/03/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      121,
+      179,
+      165,
+      187
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  },
+  {
+    "ids": [
+      12,
+      14,
+      26,
+      27,
+      41,
+      42
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": [
+      "Contract Number",
+      "Invoice Number"
+    ],
+    "value": "2007974-1",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      506,
+      60,
+      558,
+      67
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  },
+  {
+    "ids": [
+      13
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": "Contract Number",
+    "value": "Thiru Mayor 4.25",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      506,
+      110,
+      590,
+      120
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  },
+  {
+    "ids": [
+      32
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": "Organization Name",
+    "value": "DUPLICATE",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      280,
+      28,
+      559,
+      59
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  }
+]

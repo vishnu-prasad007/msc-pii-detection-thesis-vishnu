@@ -1,0 +1,456 @@
+[
+    {
+        "ids": [
+            0,
+            15,
+            26,
+            34,
+            47,
+            57,
+            65,
+            71,
+            83
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": [
+            "Email Address",
+            "Organization Name",
+            "Person Name",
+            "Location"
+        ],
+        "value": "J. L. HENDRICKS",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3323417007923126,
+            0.22760191559791565,
+            0.5045752599835396,
+            0.23938850592821836
+        ],
+        "source_file": "votes_fhlv0084_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            16,
+            27,
+            35,
+            48,
+            58,
+            66,
+            72,
+            84
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": [
+            "Email Address",
+            "Organization Name",
+            "Person Name",
+            "Location"
+        ],
+        "value": "F. E. McKeown",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3338182270526886,
+            0.25971493124961853,
+            0.48182104527950287,
+            0.27180159743875265
+        ],
+        "source_file": "votes_fhlv0084_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            17,
+            28,
+            36,
+            49,
+            59,
+            67,
+            73,
+            85
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": [
+            "Email Address",
+            "Organization Name",
+            "Person Name",
+            "Location"
+        ],
+        "value": "J. R. Roudebush",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.33353322744369507,
+            0.27587631344795227,
+            0.48827720433473587,
+            0.2876829132437706
+        ],
+        "source_file": "votes_fhlv0084_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            18,
+            29,
+            37,
+            50,
+            60,
+            68,
+            74,
+            86
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": [
+            "Email Address",
+            "Organization Name",
+            "Person Name",
+            "Location"
+        ],
+        "value": "J. V. Fagg",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3327940106391907,
+            0.2922540009021759,
+            0.43729792535305023,
+            0.3061611223965883
+        ],
+        "source_file": "votes_fhlv0084_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            19,
+            30,
+            51,
+            61,
+            87
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "C. E. Smoot, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.33334556221961975,
+            0.32424089312553406,
+            0.4949355609714985,
+            0.337545664049685
+        ],
+        "source_file": "votes_fhlv0084_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            8,
+            20,
+            31,
+            40,
+            52,
+            62,
+            75,
+            88
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name",
+            "Location"
+        ],
+        "value": "M. E. Nichols",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.45848146080970764,
+            0.48510241508483887,
+            0.5924824476242065,
+            0.49612239841371775
+        ],
+        "source_file": "votes_fhlv0084_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            11,
+            21,
+            32,
+            43,
+            53,
+            63,
+            78,
+            89
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name",
+            "Location"
+        ],
+        "value": "J. E. Richards",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.45842862129211426,
+            0.5484481453895569,
+            0.59932079911232,
+            0.5596797531470656
+        ],
+        "source_file": "votes_fhlv0084_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            25,
+            38,
+            39,
+            56,
+            69,
+            93
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "680074521",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.0008791696163825691,
+            0.9536209106445312,
+            0.10212076565949246,
+            0.964683573693037
+        ],
+        "source_file": "votes_fhlv0084_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            41,
+            76
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": "Location",
+        "value": "P. O. Box 994",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4589903652667999,
+            0.5008363723754883,
+            0.5857900064438581,
+            0.5117443166673183
+        ],
+        "source_file": "votes_fhlv0084_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            42,
+            77
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": "Location",
+        "value": "N. Little Rock, Arkansas 72115",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4574553668498993,
+            0.516633152961731,
+            0.7595124468207359,
+            0.5294893635436893
+        ],
+        "source_file": "votes_fhlv0084_page1.csv"
+    },
+    {
+        "ids": [
+            12,
+            44,
+            79
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": "Location",
+        "value": "c/o Holiday Inn",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.45930954813957214,
+            0.5637404918670654,
+            0.6002787258476019,
+            0.5775002911686897
+        ],
+        "source_file": "votes_fhlv0084_page1.csv"
+    },
+    {
+        "ids": [
+            13,
+            45,
+            70,
+            80
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": [
+            "Phone Number",
+            "Location"
+        ],
+        "value": "111 W. Pershing",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4611889123916626,
+            0.5802002549171448,
+            0.6143975183367729,
+            0.5934722684323788
+        ],
+        "source_file": "votes_fhlv0084_page1.csv"
+    },
+    {
+        "ids": [
+            14,
+            46,
+            81
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": "Location",
+        "value": "N. Little Rock, Arkansas 72114",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4590148329734802,
+            0.5959435105323792,
+            0.7626249380409718,
+            0.6086709033697844
+        ],
+        "source_file": "votes_fhlv0084_page1.csv"
+    },
+    {
+        "ids": [
+            22,
+            33,
+            54,
+            64,
+            82,
+            90
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": [
+            "Person Name",
+            "Organization Name",
+            "Location"
+        ],
+        "value": "C.E.S.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5778462290763855,
+            0.6753376126289368,
+            0.6425235718488693,
+            0.6867510648444295
+        ],
+        "source_file": "votes_fhlv0084_page1.csv"
+    },
+    {
+        "ids": [
+            23,
+            55,
+            91
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": "Organization Name",
+        "value": "Holiday Inn",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.49665671586990356,
+            0.5644460916519165,
+            0.6002787258476019,
+            0.5775002911686897
+        ],
+        "source_file": "votes_fhlv0084_page1.csv"
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": "Date",
+        "value": "July 21, 1976",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.3340453803539276,
+            0.35697370767593384,
+            0.4568701796233654,
+            0.37078047078102827
+        ],
+        "source_file": "votes_fhlv0084_page1.csv"
+    },
+    {
+        "ids": [
+            92
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": "Contract Number",
+        "value": "MEMORANDUM",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.41545578837394714,
+            0.17913740873336792,
+            0.5629623681306839,
+            0.19012438785284758
+        ],
+        "source_file": "votes_fhlv0084_page1.csv"
+    }
+]

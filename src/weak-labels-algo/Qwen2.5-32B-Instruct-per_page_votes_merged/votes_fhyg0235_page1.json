@@ -1,0 +1,214 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            17
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Person Name",
+        "value": "Missy Henry",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3400867283344269,
+            0.23892562091350555,
+            0.4420068599283695,
+            0.2536446126177907
+        ],
+        "source_file": "votes_fhyg0235_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            8
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Person Name",
+        "value": "Diana Walker",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.2767000198364258,
+            0.294691801071167,
+            0.39689477533102036,
+            0.3065320663154125
+        ],
+        "source_file": "votes_fhyg0235_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            9,
+            10,
+            18
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "Diana.Walker@fda.hhs.gov",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.21240772306919098,
+            0.37202173471450806,
+            0.4460234194993973,
+            0.3870200663805008
+        ],
+        "source_file": "votes_fhyg0235_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            11,
+            19
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Phone Number",
+        "value": "301-796-4029",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.28321561217308044,
+            0.34617602825164795,
+            0.39629240334033966,
+            0.35822859965264797
+        ],
+        "source_file": "votes_fhyg0235_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            12,
+            20
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt Inc.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1465136557817459,
+            0.11685823649168015,
+            0.2991742193698883,
+            0.12940563075244427
+        ],
+        "source_file": "votes_fhyg0235_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            13,
+            21
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Date",
+        "value": "03.22.10",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.20318734645843506,
+            0.16196638345718384,
+            0.27285484224557877,
+            0.1739147985354066
+        ],
+        "source_file": "votes_fhyg0235_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            16
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Contract Number",
+        "value": "021217 NDA",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.2885901629924774,
+            0.18775182962417603,
+            0.39666159078478813,
+            0.19928839802742004
+        ],
+        "source_file": "votes_fhyg0235_page1.csv"
+    },
+    {
+        "ids": [
+            14,
+            22
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Date",
+        "value": "4/2010",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.5304131507873535,
+            0.48050060868263245,
+            0.5895065739750862,
+            0.4924454325810075
+        ],
+        "source_file": "votes_fhyg0235_page1.csv"
+    },
+    {
+        "ids": [
+            15,
+            23
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Date",
+        "value": "March 12, 2010",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.34951308369636536,
+            0.7210312485694885,
+            0.48162926360964775,
+            0.7354418411850929
+        ],
+        "source_file": "votes_fhyg0235_page1.csv"
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Contract Number",
+        "value": "43514",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.44644254446029663,
+            0.23931361734867096,
+            0.4961097165942192,
+            0.2510661808773875
+        ],
+        "source_file": "votes_fhyg0235_page1.csv"
+    }
+]

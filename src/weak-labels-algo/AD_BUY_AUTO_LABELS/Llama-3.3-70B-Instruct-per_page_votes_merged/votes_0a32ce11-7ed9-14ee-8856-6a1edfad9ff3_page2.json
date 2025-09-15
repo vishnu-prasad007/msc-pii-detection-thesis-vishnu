@@ -1,0 +1,925 @@
+[
+  {
+    "ids": [
+      0,
+      23
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Person Name",
+    "value": "Brant Fink",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      115,
+      343,
+      171,
+      352
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      1,
+      24
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Person Name",
+    "value": "Chrissie Hastie",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      114,
+      439,
+      198,
+      448
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      2,
+      25
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Person Name",
+    "value": "Henry Nicholas",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      57,
+      520,
+      144,
+      531
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      3,
+      12,
+      26
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Email Address",
+    "value": "bfink@strategicmediaplacement.co",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      591,
+      343,
+      784,
+      353
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      4,
+      13,
+      27
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Email Address",
+    "value": "chrissie@incompliance.net",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      590,
+      438,
+      739,
+      449
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      5,
+      14,
+      28,
+      37
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": [
+      "Date",
+      "Phone Number"
+    ],
+    "value": "740.201.5500",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      398,
+      343,
+      475,
+      352
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      6,
+      15,
+      29,
+      38
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": [
+      "Date",
+      "Phone Number"
+    ],
+    "value": "702.259.5559",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      398,
+      438,
+      475,
+      447
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      7,
+      16,
+      30
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Location",
+    "value": "7669 Stagers Loop, Delaware, OH 43015",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      114,
+      323,
+      341,
+      334
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      8,
+      17,
+      31
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Location",
+    "value": "5315 Wall Street #135, Madison, WI 53718",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      113,
+      419,
+      349,
+      429
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      9,
+      18,
+      36
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "Marsy's Law for Wisconsin, LLC",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      102,
+      400,
+      278,
+      411
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      10,
+      19,
+      35
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "Federal Election Commission",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      513,
+      366,
+      689,
+      376
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      11,
+      20,
+      68
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": [
+      "Date",
+      "Contract Number"
+    ],
+    "value": "Date of election:",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      56,
+      699,
+      159,
+      709
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      21,
+      72
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Invoice Number",
+    "value": "Invoice INVOICE",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      267,
+      107,
+      319,
+      118
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      22,
+      32
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": [
+      "Person Name",
+      "Organization Name"
+    ],
+    "value": "Strategic Media Placement",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      90,
+      84,
+      238,
+      95
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      33
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "Marsy's Law for Wisconsin, LLC",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      225,
+      285,
+      401,
+      296
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      34
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "Strategic Media Placement",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      147,
+      305,
+      295,
+      315
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      39
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "ISSUE (Non-candidate) ADVERTISEMENT",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      243,
+      41,
+      595,
+      56
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      40
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "AGREEMENT FORM",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      330,
+      59,
+      506,
+      71
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      41
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "See Order for proposed",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      589,
+      86,
+      760,
+      100
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      42
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "See Invoice for actual schedule and charges.",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      76,
+      107,
+      388,
+      121
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      43
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "Check one:",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      77,
+      130,
+      158,
+      142
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      44
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "Ad communicates a message relating to any political matter of national importance by referring to",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      119,
+      153,
+      690,
+      165
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      45
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "a legally qualified candidate for federal office; (2) an election to federal office; (3) a national legislative",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      137,
+      165,
+      725,
+      178
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      46
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "subject of controversy or discussion at the national level.",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      120,
+      191,
+      447,
+      203
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      47
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "Ad does NOT communicate a message relating to any political matter of national importance (e.g., relates",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      119,
+      210,
+      739,
+      222
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      48
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "only to a state or local issue).",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      120,
+      223,
+      287,
+      235
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      49
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "ALL QUESTIONS/BLOCKS MUST BE COMPLETED",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      228,
+      256,
+      612,
+      268
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      50
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "Station time requested by: Marsy's Law for Wisconsin, LLC",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      56,
+      283,
+      401,
+      296
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      51
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "Agency name: Strategic Media Placement",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      56,
+      305,
+      295,
+      317
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      52
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "Address: 7669 Stagers Loop, Delaware, OH 43015",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      56,
+      323,
+      341,
+      334
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      53
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "Contact: Brant Fink    Phone number: 740.201.5500    Email: bfink@strategicmediaplacement.co",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      56,
+      343,
+      784,
+      353
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      54
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "Name of advertiser/sponsor (list entity's full legal name as disclosed to the Federal Election Commission [for federal",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      56,
+      366,
+      715,
+      378
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      55
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "Name: Marsy's Law for Wisconsin, LLC",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      56,
+      400,
+      278,
+      411
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      56
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "Address: 5315 Wall Street #135, Madison, WI 53718",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      56,
+      419,
+      349,
+      430
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      57
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "Contact: Chrissie Hastie    Phone number: 702.259.5559    Email: chrissie@incompliance.net",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      56,
+      438,
+      739,
+      449
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      58
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "Station is authorized to announce the time as paid for by such person or entity.",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      56,
+      458,
+      542,
+      470
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      59
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "List ALL of the chief executive officers or members of the executive committee or board of directors or other governing",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      55,
+      478,
+      787,
+      490
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      60
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "group(s) of the advertiser/sponsor (Use separate page if necessary.):",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      55,
+      490,
+      471,
+      503
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      61
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "Chrissie Hastie, Treasurer",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      57,
+      509,
+      202,
+      519
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      62
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "Henry Nicholas, Chairman",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      57,
+      520,
+      202,
+      531
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      63
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "By signing below, advertiser/sponsor represents that those listed above are the only executive officers, members of the",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      56,
+      575,
+      730,
+      587
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      64
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "executive committee and board of directors or other governing group(s).",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      56,
+      587,
+      481,
+      600
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      65
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "If ad refers to a federal candidate(s) or federal election, list ALL of the following:    N/A",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      56,
+      612,
+      725,
+      625
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      66
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "Name(s) of every candidate referred to:",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      56,
+      639,
+      299,
+      652
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      67
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "Office(s) sought by such candidate(s) (no acronyms or abbreviations):",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      56,
+      669,
+      478,
+      682
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      69
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "Clearly identify EVERY political matter of national importance referred to in the    N/A",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      56,
+      722,
+      724,
+      735
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      70
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "ad (no acronyms); use separate page if necessary:",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      56,
+      735,
+      361,
+      748
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      71
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Invoice Number",
+    "value": "ISSUE",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      243,
+      42,
+      294,
+      54
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  }
+]

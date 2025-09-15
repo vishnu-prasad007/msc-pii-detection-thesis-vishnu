@@ -1,0 +1,170 @@
+[
+    {
+        "ids": [
+            0,
+            9
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": "Person Name",
+        "value": "Mr. Jones",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            802,
+            1244,
+            1041,
+            1280
+        ],
+        "source_file": "votes_fhcw0027_page3.csv",
+        "probability": 0.8128964067822458
+    },
+    {
+        "ids": [
+            1
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": "Person Name",
+        "value": "(Miss Edwards)",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1316,
+            1475,
+            1687,
+            1515
+        ],
+        "source_file": "votes_fhcw0027_page3.csv",
+        "probability": 0.07499590648417652
+    },
+    {
+        "ids": [
+            2
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": "Organization Name",
+        "value": "BATCo",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            55,
+            3303,
+            246,
+            3348
+        ],
+        "source_file": "votes_fhcw0027_page3.csv",
+        "probability": 0.1028057144625539
+    },
+    {
+        "ids": [
+            3,
+            6,
+            11
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": "Organization Name",
+        "value": "Mayo Clinic",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            644,
+            3305,
+            964,
+            3364
+        ],
+        "source_file": "votes_fhcw0027_page3.csv",
+        "probability": 0.9900025300515797
+    },
+    {
+        "ids": [
+            4,
+            7,
+            12
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": "Date",
+        "value": "28 March 2002",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            978,
+            3306,
+            1377,
+            3355
+        ],
+        "source_file": "votes_fhcw0027_page3.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            5,
+            10
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": "Organization Name",
+        "value": "BATCo",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1047,
+            834,
+            1203,
+            867
+        ],
+        "source_file": "votes_fhcw0027_page3.csv",
+        "probability": 0.6158181671030045
+    },
+    {
+        "ids": [
+            8,
+            13
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "BATCo/Machado",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            840,
+            366,
+            1183,
+            402
+        ],
+        "source_file": "votes_fhcw0027_page3.csv",
+        "probability": 0.006453085108742145
+    },
+    {
+        "ids": [
+            14
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": "Contract Number",
+        "value": "BATCo document for Mayo Clinic",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            55,
+            3303,
+            964,
+            3364
+        ],
+        "source_file": "votes_fhcw0027_page3.csv",
+        "probability": 0.06019907678829865
+    }
+]

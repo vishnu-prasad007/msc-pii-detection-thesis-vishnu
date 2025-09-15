@@ -1,0 +1,594 @@
+[
+    {
+        "ids": [
+            0,
+            17,
+            34
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Person Name",
+        "value": "WILLIAMSON BROWN .",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3325710594654083,
+            0.054308582097291946,
+            0.4677828475832939,
+            0.06252226419746876
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            18,
+            35,
+            45
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "L. R: LEWIS",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16879485547542572,
+            0.09168285876512527,
+            0.2665075436234474,
+            0.10278527718037367
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            19,
+            36,
+            46
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "I. E. WHITEHAIR",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.411817342042923,
+            0.09297602623701096,
+            0.5421189442276955,
+            0.10324324294924736
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            20,
+            37,
+            47
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "M. L. Reynolds",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16909371316432953,
+            0.13144275546073914,
+            0.29210373014211655,
+            0.14274639543145895
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            21,
+            38,
+            48
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "L. E. Gravely",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.19559355080127716,
+            0.13090305030345917,
+            0.5190259367227554,
+            0.14332619681954384
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            22,
+            39,
+            49
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "W. Deines",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6472850441932678,
+            0.1305832415819168,
+            0.7274174690246582,
+            0.14057743269950151
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            23,
+            40,
+            50
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "A. J. Mellman",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1688438206911087,
+            0.14438846707344055,
+            0.2841751202940941,
+            0.15485719125717878
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            24,
+            41,
+            51
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "H. Woertz",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4057183861732483,
+            0.1442459672689438,
+            0.4841156229376793,
+            0.15412238147109747
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            25,
+            42,
+            52
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "T. Riehl",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1694292575120926,
+            0.1580396592617035,
+            0.23973257839679718,
+            0.1680007567629218
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            26,
+            43,
+            53
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "J. D. Woods",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4060969948768616,
+            0.15710018575191498,
+            0.5007420517504215,
+            0.16762378625571728
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            27,
+            44,
+            65
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": [
+            "Location",
+            "Organization Name"
+        ],
+        "value": "BROWN . WILLIAMSON TOBACCO COMPORATION",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3325710594654083,
+            0.054288700222969055,
+            0.616252064704895,
+            0.06252226419746876
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            11,
+            67
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Organization Name",
+        "value": "MSA",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.5471611022949219,
+            0.541338324546814,
+            0.5745583288371563,
+            0.5507617862895131
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            12,
+            29,
+            55,
+            68
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "February 1, 1985",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6111403703689575,
+            0.18521463871002197,
+            0.7536069005727768,
+            0.19607332162559032
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            13,
+            30,
+            59,
+            70
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "December, 1984. 1984",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.25133654475212097,
+            0.6080034375190735,
+            0.3811929449439049,
+            0.6194826858118176
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            14,
+            31,
+            71
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Contract Number",
+        "value": "1984-78AP",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5807907581329346,
+            0.19670243561267853,
+            0.6577325016260147,
+            0.20678857620805502
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            15,
+            32,
+            72
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Contract Number",
+        "value": "1981-142",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2418043315410614,
+            0.32927295565605164,
+            0.3261486366391182,
+            0.3404309554025531
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            16,
+            33,
+            73
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Contract Number",
+        "value": "465664996",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7282232046127319,
+            0.8380381464958191,
+            0.8690016865730286,
+            0.852863016538322
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            28,
+            58,
+            66
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": [
+            "Location",
+            "Organization Name"
+        ],
+        "value": "Salem Lights",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.17067652940750122,
+            0.3165363073348999,
+            0.27529478818178177,
+            0.3280920321121812
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            54
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Location",
+        "value": "B. R. PELLETT/smc",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.16988080739974976,
+            0.1840008944272995,
+            0.3181452304124832,
+            0.19495900440961123
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            56
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Location",
+        "value": "BELAIR KS PRODUCT M\u00d3NITOR - Typline 1984-78AP",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.17073087394237518,
+            0.19670243561267853,
+            0.6577325016260147,
+            0.21531879156827927
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            57,
+            69
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "November, 1982",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.6496421098709106,
+            0.2757866084575653,
+            0.7793666645884514,
+            0.2881405921652913
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            60
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Location",
+        "value": "Salem Lights",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.4460243880748749,
+            0.7147027254104614,
+            0.5499123856425285,
+            0.7266112398356199
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            61
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Location",
+        "value": "Salem Lights",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.3063017725944519,
+            0.7420178055763245,
+            0.4114309959113598,
+            0.7537401365116239
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            62
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Location",
+        "value": "Salem Lights",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.6203394532203674,
+            0.7675226926803589,
+            0.7253797873854637,
+            0.7795663941651583
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            63
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Location",
+        "value": "Salem Lights",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.17538854479789734,
+            0.8083907961845398,
+            0.2803589105606079,
+            0.8204932538792491
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            64
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Location",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fgvd0138",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.2734324634075165,
+            0.9798332452774048,
+            0.8021884262561798,
+            0.9971495699137449
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    }
+]

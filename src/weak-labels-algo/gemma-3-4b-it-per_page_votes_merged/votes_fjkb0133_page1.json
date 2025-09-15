@@ -1,0 +1,428 @@
+[
+    {
+        "ids": [
+            0,
+            10,
+            23,
+            37,
+            47,
+            58
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name",
+            "Phone Number"
+        ],
+        "value": "G. Maresca",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6145263314247131,
+            0.13310599327087402,
+            0.7097112610936165,
+            0.14559081569314003
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            11,
+            24,
+            38,
+            48,
+            59
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name",
+            "Phone Number"
+        ],
+        "value": "K. Noone",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6133632659912109,
+            0.14950118958950043,
+            0.6938755214214325,
+            0.16206090338528156
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            12,
+            25,
+            39,
+            60
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "B. Adler",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6139286160469055,
+            0.18706142902374268,
+            0.6847067512571812,
+            0.1992790400981903
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            13,
+            26,
+            40,
+            61
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "A. Evans",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.612937331199646,
+            0.20731058716773987,
+            0.6892356723546982,
+            0.21954490151256323
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            14,
+            27,
+            41,
+            62
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "G. Fous",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6136807203292847,
+            0.22720681130886078,
+            0.680579699575901,
+            0.23945516347885132
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            15,
+            28,
+            42,
+            49,
+            63
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name",
+            "Phone Number"
+        ],
+        "value": "J. Powers",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6132556200027466,
+            0.24799422919750214,
+            0.6921370849013329,
+            0.2600727556273341
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            16,
+            29,
+            43,
+            50,
+            64
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name",
+            "Phone Number"
+        ],
+        "value": "R. Reifenheiser",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6139885187149048,
+            0.2680259644985199,
+            0.7433276474475861,
+            0.28052918612957
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            17,
+            30,
+            44,
+            51,
+            65
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name",
+            "Phone Number"
+        ],
+        "value": "J. Sargent",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6133425235748291,
+            0.2892622649669647,
+            0.6953565888106823,
+            0.30473188031464815
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            18,
+            31,
+            45,
+            52,
+            66
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name",
+            "Phone Number"
+        ],
+        "value": "M. Schan",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6141452789306641,
+            0.3091445565223694,
+            0.6910923682153225,
+            0.32182736974209547
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            32,
+            33,
+            46,
+            53,
+            55
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": [
+            "Phone Number",
+            "Email Address",
+            "Location"
+        ],
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fjkb0133",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.20752756297588348,
+            0.9798617959022522,
+            0.7932088822126389,
+            0.9974306430667639
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            19,
+            34,
+            68
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Date",
+        "value": "November 24, 1992",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16630642116069794,
+            0.16480404138565063,
+            0.325386643409729,
+            0.18002785928547382
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            20,
+            35,
+            69
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Date",
+        "value": "1993",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1671857386827469,
+            0.1848730444908142,
+            0.20482806861400604,
+            0.19753639493137598
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            21
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Date",
+        "value": "1st quarter 1993",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.6068302989006042,
+            0.3668731153011322,
+            0.741204135119915,
+            0.38233166839927435
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            22,
+            36,
+            70
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Contract Number",
+        "value": "1993 Crown's of London",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1671857386827469,
+            0.1848730444908142,
+            0.3677404895424843,
+            0.19819290470331907
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            54,
+            56
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "MEMOFROM",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.06495873630046844,
+            0.04620661959052086,
+            0.3760911673307419,
+            0.07956970855593681
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            57
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Organization Name",
+        "value": "LCFX",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.06351275742053986,
+            0.08210345357656479,
+            0.2013775110244751,
+            0.11405526474118233
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            67
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Organization Name",
+        "value": "https://www.industrydocuments.ucsf.edu",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.20752756297588348,
+            0.9798617959022522,
+            0.7932088822126389,
+            0.9974306430667639
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    }
+]

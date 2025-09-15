@@ -1,0 +1,298 @@
+[
+    {
+        "ids": [
+            0,
+            9,
+            18,
+            30
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "W. Bell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1894848346710205,
+            0.5442581176757812,
+            0.2602614499628544,
+            0.5543099157512188
+        ],
+        "source_file": "votes_fgvk0122_page3.csv"
+    },
+    {
+        "ids": [
+            1,
+            10,
+            19,
+            31
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "W. Callaham",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18939515948295593,
+            0.5606326460838318,
+            0.3003230020403862,
+            0.5708591677248478
+        ],
+        "source_file": "votes_fgvk0122_page3.csv"
+    },
+    {
+        "ids": [
+            2,
+            11,
+            20,
+            32
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "S. Clark",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1903935968875885,
+            0.5771132111549377,
+            0.269485667347908,
+            0.5871577253565192
+        ],
+        "source_file": "votes_fgvk0122_page3.csv"
+    },
+    {
+        "ids": [
+            3,
+            12,
+            21,
+            33
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "R. Cox",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1891271322965622,
+            0.5938986539840698,
+            0.2502884529531002,
+            0.6039352342486382
+        ],
+        "source_file": "votes_fgvk0122_page3.csv"
+    },
+    {
+        "ids": [
+            4,
+            13,
+            22,
+            34
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "D. Spruill",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18912020325660706,
+            0.6103494763374329,
+            0.2889847755432129,
+            0.6221138807013631
+        ],
+        "source_file": "votes_fgvk0122_page3.csv"
+    },
+    {
+        "ids": [
+            5,
+            14,
+            23,
+            35
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "H. Spielberg",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18943868577480316,
+            0.6269689798355103,
+            0.30886054039001465,
+            0.6393766542896628
+        ],
+        "source_file": "votes_fgvk0122_page3.csv"
+    },
+    {
+        "ids": [
+            6,
+            7,
+            8,
+            15,
+            16,
+            17,
+            24,
+            36,
+            38
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number",
+            "Location"
+        ],
+        "value": "2031158486",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.737896203994751,
+            0.9372082352638245,
+            0.9176222234964371,
+            0.9568666014820337
+        ],
+        "source_file": "votes_fgvk0122_page3.csv"
+    },
+    {
+        "ids": [
+            25
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": "Location",
+        "value": "NI",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.7862607836723328,
+            0.08177855610847473,
+            0.82587019354105,
+            0.12003413960337639
+        ],
+        "source_file": "votes_fgvk0122_page3.csv"
+    },
+    {
+        "ids": [
+            26
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": "Location",
+        "value": "it",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.8202202916145325,
+            0.09582985192537308,
+            0.889837920665741,
+            0.17272114753723145
+        ],
+        "source_file": "votes_fgvk0122_page3.csv"
+    },
+    {
+        "ids": [
+            27
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": "Location",
+        "value": "RL",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.8072792291641235,
+            0.17809906601905823,
+            0.8273957967758179,
+            0.18705538474023342
+        ],
+        "source_file": "votes_fgvk0122_page3.csv"
+    },
+    {
+        "ids": [
+            28
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": "Location",
+        "value": "RL",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.8368895053863525,
+            0.27714231610298157,
+            0.8575964719057083,
+            0.28651133459061384
+        ],
+        "source_file": "votes_fgvk0122_page3.csv"
+    },
+    {
+        "ids": [
+            29
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": "Location",
+        "value": "Brt/Bur/Mt",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.6291196346282959,
+            0.29233604669570923,
+            0.7280159518122673,
+            0.3031285675242543
+        ],
+        "source_file": "votes_fgvk0122_page3.csv"
+    },
+    {
+        "ids": [
+            37
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": "Location",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fgvk122",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.2230328619480133,
+            0.9811115860939026,
+            0.7827035486698151,
+            0.997580498456955
+        ],
+        "source_file": "votes_fgvk0122_page3.csv"
+    }
+]

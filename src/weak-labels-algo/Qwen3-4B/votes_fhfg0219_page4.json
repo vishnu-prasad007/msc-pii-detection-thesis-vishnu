@@ -1,0 +1,695 @@
+[
+    {
+        "ids": [
+            0,
+            17,
+            33
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": "Person Name",
+        "value": "Dr. A. W. Spears",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            423,
+            373,
+            853,
+            435
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            1,
+            11,
+            18,
+            28,
+            34,
+            44,
+            55
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Haney Bell Bell*",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1539,
+            1084,
+            1845,
+            1143
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            12,
+            19,
+            29,
+            35,
+            45,
+            57
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Haney Bell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1553,
+            1358,
+            1832,
+            1420
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            13,
+            20,
+            30,
+            36,
+            46,
+            61
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Haney Bell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1554,
+            2059,
+            1833,
+            2118
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            14,
+            21,
+            31,
+            37,
+            47,
+            63
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Haney Bell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1553,
+            2336,
+            1832,
+            2397
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            22,
+            38,
+            66
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Ron Milstein",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1543,
+            2682,
+            1867,
+            2734
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            23,
+            39,
+            68
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "James Wilson",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1555,
+            2964,
+            1898,
+            3013
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            7,
+            24,
+            40,
+            70
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Michael Shannon",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1553,
+            3173,
+            1986,
+            3222
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            8,
+            25,
+            41,
+            72
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Ron Milstein",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1553,
+            3451,
+            1877,
+            3501
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            9,
+            26,
+            42
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": "Person Name",
+        "value": "Michael Shannon",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1552,
+            3521,
+            1984,
+            3570
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": "Person Name",
+        "value": "Ron",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            405,
+            3938,
+            534,
+            3990
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 0.12241525286457304
+    },
+    {
+        "ids": [
+            15,
+            27,
+            43,
+            50
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "Page Four",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            424,
+            445,
+            671,
+            505
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 0.9994792922522238
+    },
+    {
+        "ids": [
+            16,
+            32,
+            48,
+            51
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": [
+            "Contract Number",
+            "Date"
+        ],
+        "value": "August 9, 1999",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            424,
+            515,
+            793,
+            575
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            49
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": "Contract Number",
+        "value": "Dr. A. W. Spears, et al",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            423,
+            373,
+            970,
+            435
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            52
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": "Contract Number",
+        "value": "Marketing:",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            423,
+            726,
+            683,
+            779
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            53
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": "Contract Number",
+        "value": "Advertising Review-By Brand (Including Brand-Specific",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            646,
+            873,
+            2033,
+            935
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            54
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": "Contract Number",
+        "value": "Point-of-Sale and Consumer Promotion Materials)",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            659,
+            945,
+            1879,
+            1005
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            56
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": "Contract Number",
+        "value": "Trademark and Trademark Registration",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            641,
+            1222,
+            1601,
+            1281
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            58
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": "Contract Number",
+        "value": "Marketing Services (NOT Including Brand-Specific",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            417,
+            1499,
+            1665,
+            1556
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            59
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": "Contract Number",
+        "value": "Material Review Covered Elsewhere):",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            417,
+            1570,
+            1338,
+            1619
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            60
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": "Contract Number",
+        "value": "Promotion",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1002,
+            1920,
+            1281,
+            1969
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            62
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": "Contract Number",
+        "value": "Market Planning and Information:",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            412,
+            2196,
+            1236,
+            2253
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            64
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": "Contract Number",
+        "value": "Master Settlement Agreement:",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            410,
+            2474,
+            1149,
+            2530
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            65
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": "Contract Number",
+        "value": "General Compliance",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            636,
+            2614,
+            1137,
+            2674
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            67
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": "Contract Number",
+        "value": "Attorneys' Fees (Arbitration and Liquidation) Matters",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            632,
+            2822,
+            1941,
+            2883
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            69
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": "Contract Number",
+        "value": "Lobbying and Lobbyist Reporting",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            631,
+            3032,
+            1457,
+            3095
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            71
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": "Contract Number",
+        "value": "Growers Issues",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            698,
+            3312,
+            1071,
+            3362
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            73
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": "Contract Number",
+        "value": "Michael Shannon 4",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1552,
+            3521,
+            3057,
+            3578
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            74
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": "Contract Number",
+        "value": "4",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            2976,
+            3592,
+            3054,
+            3640
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            75
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": "Contract Number",
+        "value": "*Ron will serve as Haney's backup for matters requiring attention when he is unavailable.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            405,
+            3938,
+            2561,
+            3999
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            76
+        ],
+        "doc_id": "votes_fhfg0219_page4",
+        "pii_type": "Contract Number",
+        "value": "Source: https://www.industrydocuments.ucsf.edu/docs/fhfg0219",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            763,
+            4317,
+            2649,
+            4387
+        ],
+        "source_file": "votes_fhfg0219_page4.csv",
+        "probability": 0.18724450043103621
+    }
+]

@@ -1,0 +1,632 @@
+[
+    {
+        "ids": [
+            0,
+            26,
+            54
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Person Name",
+        "value": "DALE HILL",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.21142125129699707,
+            0.21975106000900269,
+            0.3046649917960167,
+            0.23157715052366257
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            27,
+            55
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Person Name",
+        "value": "Cindy Arterbery",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.21056970953941345,
+            0.2521299123764038,
+            0.3291041776537895,
+            0.2661863900721073
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            28,
+            57
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Location",
+        "value": "RICHMOND, VIRGINIA",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.44901782274246216,
+            0.1704590618610382,
+            0.5518381670117378,
+            0.1787886107340455
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            29,
+            56,
+            59
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": [
+            "Location",
+            "Organization Name"
+        ],
+        "value": "PHILIP MORRIS U.S.A.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3735588490962982,
+            0.09730054438114166,
+            0.628589853644371,
+            0.11345122195780277
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            32,
+            60
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Date",
+        "value": "June 26, 1995",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6613514423370361,
+            0.22252286970615387,
+            0.7615289650857449,
+            0.23581800982356071
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            33,
+            61
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Contract Number",
+        "value": "3651",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.32246920466423035,
+            0.43214792013168335,
+            0.3647807128727436,
+            0.44384111650288105
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            34,
+            62
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Contract Number",
+        "value": "3654",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3663693964481354,
+            0.4322734475135803,
+            0.4079804979264736,
+            0.44391944352537394
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            35,
+            63
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Contract Number",
+        "value": "3657",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4117218255996704,
+            0.43253833055496216,
+            0.4530295617878437,
+            0.44458968192338943
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            36,
+            64
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Contract Number",
+        "value": "3660",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4559321403503418,
+            0.4327998459339142,
+            0.4972168505191803,
+            0.44464896712452173
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            37,
+            65
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Contract Number",
+        "value": "3762",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5007843375205994,
+            0.4328816831111908,
+            0.5411244444549084,
+            0.44478683453053236
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            38,
+            66
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Contract Number",
+        "value": "3765",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5465855598449707,
+            0.4332486093044281,
+            0.5864490494132042,
+            0.4449125500395894
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            11,
+            39,
+            67
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Contract Number",
+        "value": "3768",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5899222493171692,
+            0.4332120716571808,
+            0.6306705735623837,
+            0.44500898756086826
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            12,
+            40,
+            68
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Contract Number",
+        "value": "3770",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6326838731765747,
+            0.433799684047699,
+            0.6701240427792072,
+            0.4446970634162426
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            13,
+            41,
+            69
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Contract Number",
+        "value": "3652",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3206305205821991,
+            0.5625981688499451,
+            0.36161456257104874,
+            0.5741276694461703
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            14,
+            42,
+            70
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Contract Number",
+        "value": "3655",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3658953607082367,
+            0.5627747178077698,
+            0.4070480912923813,
+            0.5744273867458105
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            15,
+            43,
+            71
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Contract Number",
+        "value": "3658",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4104251265525818,
+            0.5630306601524353,
+            0.45109422132372856,
+            0.5746584674343467
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            16,
+            44,
+            72
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Contract Number",
+        "value": "3661",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.45466527342796326,
+            0.5632540583610535,
+            0.495404202491045,
+            0.5743649797514081
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            17,
+            45,
+            73
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Contract Number",
+        "value": "3763",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.49949827790260315,
+            0.5630012154579163,
+            0.5403576567769051,
+            0.5743479765951633
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            18,
+            46,
+            74
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Contract Number",
+        "value": "3766",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5441207885742188,
+            0.5633813142776489,
+            0.584460087120533,
+            0.5749439774081111
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            19,
+            47,
+            75
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Contract Number",
+        "value": "3769",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5887477993965149,
+            0.5638471841812134,
+            0.6305585838854313,
+            0.575385432690382
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            20,
+            48,
+            76
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Contract Number",
+        "value": "3770",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.633307158946991,
+            0.5641822218894958,
+            0.6693987250328064,
+            0.5745308138430119
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            21,
+            49,
+            77
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Contract Number",
+        "value": "3650",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3060309886932373,
+            0.6927575469017029,
+            0.34804099425673485,
+            0.7042556749656796
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            22,
+            50,
+            78
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Contract Number",
+        "value": "3653",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.35126566886901855,
+            0.6929765343666077,
+            0.3919799253344536,
+            0.704831107519567
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            23,
+            51,
+            79
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Contract Number",
+        "value": "3659",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.39598071575164795,
+            0.6932460069656372,
+            0.43698154762387276,
+            0.7049881126731634
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            24,
+            52,
+            80
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Contract Number",
+        "value": "3761",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4400912821292877,
+            0.6932365894317627,
+            0.48108261078596115,
+            0.7049886239692569
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            25,
+            53,
+            81
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Contract Number",
+        "value": "3764",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4848809838294983,
+            0.6933575868606567,
+            0.5255628451704979,
+            0.7049309108406305
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            30
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Organization Name",
+        "value": "LEAF BLENDING GROUP",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.41237974166870117,
+            0.14362497627735138,
+            0.5894414819777012,
+            0.1564106848090887
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            31
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Organization Name",
+        "value": "https://www.industrydocuments.ucsf.edu",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.2872481942176819,
+            0.9810581803321838,
+            0.7805924117565155,
+            0.9975110609084368
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    },
+    {
+        "ids": [
+            58
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Location",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fgcg0076",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.2872481942176819,
+            0.9810581803321838,
+            0.7805924117565155,
+            0.9975110609084368
+        ],
+        "source_file": "votes_fgcg0076_page1.csv"
+    }
+]

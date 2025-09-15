@@ -1,0 +1,170 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            14
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. Clyde W. Fitzgerald",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.12969090044498444,
+            0.11967863887548447,
+            0.40083108097314835,
+            0.13318870961666107
+        ],
+        "source_file": "votes_fhyg0091_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            8,
+            15
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": "Person Name",
+        "value": "J. H. Sherrill, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.12552180886268616,
+            0.8669039011001587,
+            0.3466515950858593,
+            0.8800169927999377
+        ],
+        "source_file": "votes_fhyg0091_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            9,
+            16
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. R. A. Blevins, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18311388790607452,
+            0.944492518901825,
+            0.4427541345357895,
+            0.9567975318059325
+        ],
+        "source_file": "votes_fhyg0091_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            10,
+            17
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. T. P. Haller",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18310368061065674,
+            0.9601142406463623,
+            0.37217018753290176,
+            0.9715726980939507
+        ],
+        "source_file": "votes_fhyg0091_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            12,
+            18
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": "Organization Name",
+        "value": "APPLE WINE",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18837498128414154,
+            0.15020540356636047,
+            0.30621127039194107,
+            0.16198113933205605
+        ],
+        "source_file": "votes_fhyg0091_page1.csv"
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": "Organization Name",
+        "value": "Marketing Research Department",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.12332231551408768,
+            0.8829550743103027,
+            0.46612274646759033,
+            0.8966722255572677
+        ],
+        "source_file": "votes_fhyg0091_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            13,
+            19
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": "Date",
+        "value": "October 31, 1972",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5449659824371338,
+            0.07351988554000854,
+            0.7341028414666653,
+            0.0861313994973898
+        ],
+        "source_file": "votes_fhyg0091_page1.csv"
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": "Phone Number",
+        "value": "3434",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.9357734322547913,
+            0.9267565011978149,
+            0.9497290384024382,
+            0.9592971093952656
+        ],
+        "source_file": "votes_fhyg0091_page1.csv"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "ids": [
+            0,
+            5,
+            10
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Person Name",
+        "value": "Plaia, Gina",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2622278332710266,
+            0.09254661947488785,
+            0.3456990197300911,
+            0.10582512244582176
+        ],
+        "source_file": "votes_fgjj0009_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            6,
+            11
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Person Name",
+        "value": "Elfar, Deb",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2416338473558426,
+            0.12189418822526932,
+            0.31785281375050545,
+            0.13543375674635172
+        ],
+        "source_file": "votes_fgjj0009_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            7,
+            12
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Person Name",
+        "value": "Rush, Sonya",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2426183968782425,
+            0.13641278445720673,
+            0.3390537202358246,
+            0.1513153724372387
+        ],
+        "source_file": "votes_fgjj0009_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            8
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Person Name",
+        "value": "Deb",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.28609538078308105,
+            0.12189418822526932,
+            0.31785281375050545,
+            0.13380475156009197
+        ],
+        "source_file": "votes_fgjj0009_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            9,
+            13
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Date",
+        "value": "Thu, Mar 24, 1994 5:07 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.37195730209350586,
+            0.09237484633922577,
+            0.5813826061785221,
+            0.10604079533368349
+        ],
+        "source_file": "votes_fgjj0009_page1.csv"
+    }
+]

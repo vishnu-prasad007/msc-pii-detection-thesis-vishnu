@@ -1,0 +1,96 @@
+[
+    {
+        "ids": [
+            0,
+            3,
+            8
+        ],
+        "doc_id": "votes_fhbd0057_page2",
+        "pii_type": "Person Name",
+        "value": "Isabelle Delage",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            165,
+            324,
+            403,
+            350
+        ],
+        "source_file": "votes_fhbd0057_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            4,
+            9
+        ],
+        "doc_id": "votes_fhbd0057_page2",
+        "pii_type": "Person Name",
+        "value": "Isabelle D.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            108,
+            493,
+            276,
+            516
+        ],
+        "source_file": "votes_fhbd0057_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            5,
+            10
+        ],
+        "doc_id": "votes_fhbd0057_page2",
+        "pii_type": "Person Name",
+        "value": "Diane L.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            249,
+            691,
+            371,
+            710
+        ],
+        "source_file": "votes_fhbd0057_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            7,
+            11
+        ],
+        "doc_id": "votes_fhbd0057_page2",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "2085785372",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1203,
+            292,
+            1412,
+            332
+        ],
+        "source_file": "votes_fhbd0057_page2.csv",
+        "probability": 0.6666666666666666
+    }
+]

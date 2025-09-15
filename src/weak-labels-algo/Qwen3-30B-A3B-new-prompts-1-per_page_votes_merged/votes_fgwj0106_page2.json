@@ -1,0 +1,258 @@
+[
+    {
+        "ids": [
+            0,
+            10,
+            21
+        ],
+        "doc_id": "votes_fgwj0106_page2",
+        "pii_type": "Person Name",
+        "value": "Keith Eckberg",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4020315706729889,
+            0.08132664859294891,
+            0.553973987698555,
+            0.09569206926971674
+        ],
+        "source_file": "votes_fgwj0106_page2.csv"
+    },
+    {
+        "ids": [
+            1,
+            11,
+            22
+        ],
+        "doc_id": "votes_fgwj0106_page2",
+        "pii_type": "Person Name",
+        "value": "J. Cunningham",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2477135956287384,
+            0.6146170496940613,
+            0.3993247300386429,
+            0.6292202807962894
+        ],
+        "source_file": "votes_fgwj0106_page2.csv"
+    },
+    {
+        "ids": [
+            2,
+            12,
+            23
+        ],
+        "doc_id": "votes_fgwj0106_page2",
+        "pii_type": "Person Name",
+        "value": "B. Cutler",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.24804286658763885,
+            0.6305304765701294,
+            0.3527762368321419,
+            0.6422835001721978
+        ],
+        "source_file": "votes_fgwj0106_page2.csv"
+    },
+    {
+        "ids": [
+            3,
+            13,
+            24
+        ],
+        "doc_id": "votes_fgwj0106_page2",
+        "pii_type": "Person Name",
+        "value": "F. Goehl",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.24799247086048126,
+            0.6448848247528076,
+            0.3409360945224762,
+            0.6566887404769659
+        ],
+        "source_file": "votes_fgwj0106_page2.csv"
+    },
+    {
+        "ids": [
+            4,
+            14,
+            25
+        ],
+        "doc_id": "votes_fgwj0106_page2",
+        "pii_type": "Person Name",
+        "value": "J. Sully",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.24814876914024353,
+            0.6600070595741272,
+            0.3413985073566437,
+            0.6738464962691069
+        ],
+        "source_file": "votes_fgwj0106_page2.csv"
+    },
+    {
+        "ids": [
+            5,
+            15,
+            26
+        ],
+        "doc_id": "votes_fgwj0106_page2",
+        "pii_type": "Person Name",
+        "value": "M. Mancuso",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.24750174582004547,
+            0.6756139397621155,
+            0.3647993728518486,
+            0.6866979207843542
+        ],
+        "source_file": "votes_fgwj0106_page2.csv"
+    },
+    {
+        "ids": [
+            6,
+            16,
+            27
+        ],
+        "doc_id": "votes_fgwj0106_page2",
+        "pii_type": "Person Name",
+        "value": "T. Walsh",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2478538155555725,
+            0.6903073787689209,
+            0.34195632860064507,
+            0.7026329878717661
+        ],
+        "source_file": "votes_fgwj0106_page2.csv"
+    },
+    {
+        "ids": [
+            7,
+            17,
+            28
+        ],
+        "doc_id": "votes_fgwj0106_page2",
+        "pii_type": "Person Name",
+        "value": "J. Woods",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.24788151681423187,
+            0.706367015838623,
+            0.34101952984929085,
+            0.7183734560385346
+        ],
+        "source_file": "votes_fgwj0106_page2.csv"
+    },
+    {
+        "ids": [
+            8
+        ],
+        "doc_id": "votes_fgwj0106_page2",
+        "pii_type": "Organization Name",
+        "value": "Stout Industries - Keith Eckberg",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.18076132237911224,
+            0.08132664859294891,
+            0.553973987698555,
+            0.09569206926971674
+        ],
+        "source_file": "votes_fgwj0106_page2.csv"
+    },
+    {
+        "ids": [
+            9,
+            20,
+            31
+        ],
+        "doc_id": "votes_fgwj0106_page2",
+        "pii_type": "Date",
+        "value": "11/4/85",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4586205780506134,
+            0.4311385154724121,
+            0.5465543493628502,
+            0.4438563296571374
+        ],
+        "source_file": "votes_fgwj0106_page2.csv"
+    },
+    {
+        "ids": [
+            18,
+            30
+        ],
+        "doc_id": "votes_fgwj0106_page2",
+        "pii_type": "Organization Name",
+        "value": "PM INC",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.05172333866357803,
+            0.054310016334056854,
+            0.08650899305939674,
+            0.06076304195448756
+        ],
+        "source_file": "votes_fgwj0106_page2.csv"
+    },
+    {
+        "ids": [
+            19,
+            29
+        ],
+        "doc_id": "votes_fgwj0106_page2",
+        "pii_type": "Organization Name",
+        "value": "Stout Industries",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.18076132237911224,
+            0.08148687332868576,
+            0.36588504165410995,
+            0.09387813229113817
+        ],
+        "source_file": "votes_fgwj0106_page2.csv"
+    }
+]

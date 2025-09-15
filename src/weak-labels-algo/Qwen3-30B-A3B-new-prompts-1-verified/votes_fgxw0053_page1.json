@@ -1,0 +1,265 @@
+[
+    {
+        "ids": [
+            0,
+            10
+        ],
+        "doc_id": "votes_fgxw0053_page1",
+        "pii_type": "Person Name",
+        "value": "Dave Beran",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            290,
+            416,
+            443,
+            441
+        ],
+        "source_file": "votes_fgxw0053_page1.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999997859950661
+    },
+    {
+        "ids": [
+            1,
+            11
+        ],
+        "doc_id": "votes_fgxw0053_page1",
+        "pii_type": "Person Name",
+        "value": "Tom Saloun",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            290,
+            480,
+            448,
+            505
+        ],
+        "source_file": "votes_fgxw0053_page1.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999997859950661
+    },
+    {
+        "ids": [
+            2,
+            12
+        ],
+        "doc_id": "votes_fgxw0053_page1",
+        "pii_type": "Person Name",
+        "value": "R. Anise",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            344,
+            1510,
+            459,
+            1537
+        ],
+        "source_file": "votes_fgxw0053_page1.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            3,
+            7,
+            13
+        ],
+        "doc_id": "votes_fgxw0053_page1",
+        "pii_type": "Location",
+        "value": "120 PARK AVENUE, NEW YORK, NY 10017-5592",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            911,
+            361,
+            1472,
+            387
+        ],
+        "source_file": "votes_fgxw0053_page1.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0
+        ],
+        "probability": 0.9999002094346842
+    },
+    {
+        "ids": [
+            4,
+            8,
+            14
+        ],
+        "doc_id": "votes_fgxw0053_page1",
+        "pii_type": "Organization Name",
+        "value": "PHILIP MORRIS USA",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            118,
+            323,
+            493,
+            355
+        ],
+        "source_file": "votes_fgxw0053_page1.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999892338036044
+    },
+    {
+        "ids": [
+            5,
+            15
+        ],
+        "doc_id": "votes_fgxw0053_page1",
+        "pii_type": "Organization Name",
+        "value": "IRI",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1080,
+            639,
+            1126,
+            664
+        ],
+        "source_file": "votes_fgxw0053_page1.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+        ],
+        "probability": 0.9998521211121829
+    },
+    {
+        "ids": [
+            6,
+            9,
+            18
+        ],
+        "doc_id": "votes_fgxw0053_page1",
+        "pii_type": "Date",
+        "value": "November 11, 1992",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1108,
+            413,
+            1366,
+            443
+        ],
+        "source_file": "votes_fgxw0053_page1.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.999999713175462
+    },
+    {
+        "ids": [
+            16
+        ],
+        "doc_id": "votes_fgxw0053_page1",
+        "pii_type": "Organization Name",
+        "value": "SPACE",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1205,
+            1185,
+            1304,
+            1210
+        ],
+        "source_file": "votes_fgxw0053_page1.csv",
+        "votes": [
+            0,
+            0,
+            0,
+            1,
+            1,
+            0
+        ],
+        "probability": 0.11625077719617423
+    },
+    {
+        "ids": [
+            17
+        ],
+        "doc_id": "votes_fgxw0053_page1",
+        "pii_type": "Organization Name",
+        "value": "InfoScan",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1083,
+            1249,
+            1198,
+            1274
+        ],
+        "source_file": "votes_fgxw0053_page1.csv",
+        "votes": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+        ],
+        "probability": 0.11037545261282805
+    }
+]

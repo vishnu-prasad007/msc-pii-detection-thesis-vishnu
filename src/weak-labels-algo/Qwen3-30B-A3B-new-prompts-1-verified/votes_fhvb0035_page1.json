@@ -1,0 +1,517 @@
+[
+    {
+        "ids": [
+            0,
+            17,
+            28
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. Edward A. Horrigam, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            323,
+            600,
+            772,
+            627
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999997859950661
+    },
+    {
+        "ids": [
+            1,
+            18,
+            29
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Person Name",
+        "value": "Linc Ball",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            863,
+            985,
+            1014,
+            1007
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            0,
+            1,
+            1
+        ],
+        "probability": 0.9999711360443471
+    },
+    {
+        "ids": [
+            2,
+            19,
+            30
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Person Name",
+        "value": "Jim Davis",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            930,
+            1067,
+            1083,
+            1089
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999997859950661
+    },
+    {
+        "ids": [
+            3,
+            20,
+            31
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Location",
+        "value": "401- North Main Street",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            324,
+            681,
+            677,
+            704
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999997426401738
+    },
+    {
+        "ids": [
+            4,
+            21,
+            32
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Location",
+        "value": "Winston-Salem North Carolina 27102",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            324,
+            708,
+            915,
+            732
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999997426401738
+    },
+    {
+        "ids": [
+            5,
+            22,
+            33
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Location",
+        "value": "66\u00a3 Fitth Avenue. New York. New York 10019",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            306,
+            1738,
+            702,
+            1759
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            0,
+            0
+        ],
+        "probability": 0.9945940550414095
+    },
+    {
+        "ids": [
+            6,
+            23,
+            34
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Organization Name",
+        "value": "Lorillard",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            306,
+            120,
+            738,
+            239
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999159454539699
+    },
+    {
+        "ids": [
+            7,
+            24,
+            35
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Organization Name",
+        "value": "R. J. Reynolds Tobacco Company",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            323,
+            655,
+            830,
+            681
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999159454539699
+    },
+    {
+        "ids": [
+            8,
+            25,
+            36
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Organization Name",
+        "value": "N.A.T.D./TI N.A.T.D.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            662,
+            764,
+            849,
+            787
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0
+        ],
+        "probability": 0.356245838390667
+    },
+    {
+        "ids": [
+            9,
+            37
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Organization Name",
+        "value": "N.A.T.D./TI N.A.T.D.",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            322,
+            1012,
+            507,
+            1037
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0
+        ],
+        "probability": 0.356245838390667
+    },
+    {
+        "ids": [
+            10,
+            38
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Organization Name",
+        "value": "N.A.T.D.",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            778,
+            1232,
+            908,
+            1252
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999159454539699
+    },
+    {
+        "ids": [
+            11,
+            39
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Organization Name",
+        "value": "TI",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            879,
+            1259,
+            913,
+            1280
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "votes": [
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+        ],
+        "probability": 0.44111197476261665
+    },
+    {
+        "ids": [
+            12,
+            40
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Organization Name",
+        "value": "N.A.T.D.",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            557,
+            1393,
+            689,
+            1413
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999159454539699
+    },
+    {
+        "ids": [
+            13,
+            41
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Organization Name",
+        "value": "Lorillard LorilTard",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            809,
+            1501,
+            962,
+            1524
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "votes": [
+            0,
+            1,
+            1,
+            1,
+            0,
+            0
+        ],
+        "probability": 0.3096744132280079
+    },
+    {
+        "ids": [
+            14,
+            42
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Organization Name",
+        "value": "N.A.T.D.",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            471,
+            1528,
+            602,
+            1552
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999159454539699
+    },
+    {
+        "ids": [
+            15,
+            26,
+            43
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Organization Name",
+        "value": "A OF LOEWS THEATRES.INC.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            305,
+            1711,
+            608,
+            1731
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "votes": [
+            0,
+            1,
+            1,
+            0,
+            1,
+            0
+        ],
+        "probability": 0.369769050148209
+    },
+    {
+        "ids": [
+            16,
+            27,
+            44
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Date",
+        "value": "March 15, 1982",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            932,
+            436,
+            1171,
+            461
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.999999713175462
+    }
+]

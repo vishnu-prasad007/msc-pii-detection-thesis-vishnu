@@ -1,0 +1,335 @@
+[
+    {
+        "ids": [
+            0,
+            14,
+            27,
+            39
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Dr. A. W. Spears Spears, et al",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.11735627800226212,
+            0.07668308168649673,
+            0.2800326216965914,
+            0.0908764349296689
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    },
+    {
+        "ids": [
+            1,
+            7,
+            15,
+            21,
+            28,
+            33,
+            41
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Haney Bell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4536001682281494,
+            0.2362477034330368,
+            0.534515418112278,
+            0.25030424632132053
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    },
+    {
+        "ids": [
+            2,
+            16,
+            29,
+            42
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Jack Reilly",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.45409202575683594,
+            0.30012932419776917,
+            0.5334138162434101,
+            0.3137062285095453
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    },
+    {
+        "ids": [
+            3,
+            17,
+            30,
+            45
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Ron Milstein",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4478641748428345,
+            0.44236475229263306,
+            0.5405703112483025,
+            0.45335779432207346
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    },
+    {
+        "ids": [
+            4,
+            18,
+            31,
+            46
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Michael Shannon",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4478083550930023,
+            0.5534610748291016,
+            0.5720226727426052,
+            0.5648979172110558
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    },
+    {
+        "ids": [
+            5,
+            11,
+            19,
+            25,
+            32,
+            34,
+            47
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Haney Bell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4501749277114868,
+            0.7433326840400696,
+            0.5300248526036739,
+            0.7573488475754857
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    },
+    {
+        "ids": [
+            6,
+            20,
+            40
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "Page Three",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.11695743352174759,
+            0.09282906353473663,
+            0.19908250868320465,
+            0.106849473901093
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    },
+    {
+        "ids": [
+            8,
+            22,
+            35
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": "Organization Name",
+        "value": "National Tobacco Council",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18153369426727295,
+            0.37892720103263855,
+            0.3743997551500797,
+            0.3920308966189623
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    },
+    {
+        "ids": [
+            9,
+            23,
+            36
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": "Organization Name",
+        "value": "Tobacco Industry Testing Laboratory",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.24804124236106873,
+            0.37892720103263855,
+            0.6454726979136467,
+            0.3927960880100727
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    },
+    {
+        "ids": [
+            10,
+            24,
+            37
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": "Organization Name",
+        "value": "Lorillard Political Action Committee",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1815829873085022,
+            0.39472055435180664,
+            0.4505750462412834,
+            0.4078992856666446
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    },
+    {
+        "ids": [
+            12,
+            26,
+            38
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": "Date",
+        "value": "August 9, 1999",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.11735495179891586,
+            0.10899344831705093,
+            0.22743858397006989,
+            0.12239517085254192
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    },
+    {
+        "ids": [
+            13,
+            48
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": "Contract Number",
+        "value": "8",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.9133521914482117,
+            0.7622780799865723,
+            0.9367829505354166,
+            0.7722059767693281
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    },
+    {
+        "ids": [
+            43
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": "Contract Number",
+        "value": "National Tobacco Council, Tobacco Industry Testing Laboratory",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.18153369426727295,
+            0.37892720103263855,
+            0.6454726979136467,
+            0.3927960880100727
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    },
+    {
+        "ids": [
+            44
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": "Contract Number",
+        "value": "Lorillard Political Action Committee, FEC Election Reporting",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.1815829873085022,
+            0.39472055435180664,
+            0.6239631623029709,
+            0.4086197018623352
+        ],
+        "source_file": "votes_fhfg0219_page3.csv"
+    }
+]

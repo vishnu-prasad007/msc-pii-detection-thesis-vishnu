@@ -1,0 +1,186 @@
+[
+    {
+        "ids": [
+            0,
+            8,
+            16
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. V. B. Lougee, III, President and Chief Operating Officer",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            355,
+            555,
+            2710,
+            625
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            1,
+            9,
+            17
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Person Name",
+        "value": "R. S. Sprinkle, III, Research and Development Director",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            357,
+            772,
+            2479,
+            843
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            2,
+            10,
+            18
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. William J. Moore",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            565,
+            3469,
+            1352,
+            3526
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            3,
+            11,
+            19
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. Arnold Henson",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            563,
+            3692,
+            1235,
+            3746
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            4,
+            12,
+            20
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Organization Name",
+        "value": "The American Tobacco Company",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1527,
+            158,
+            2887,
+            353
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.9900025300515797
+    },
+    {
+        "ids": [
+            5,
+            13,
+            21
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Organization Name",
+        "value": "AMERICAN BRANDS, INC.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2117,
+            335,
+            2604,
+            367
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.9900025300515797
+    },
+    {
+        "ids": [
+            6,
+            14,
+            22
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Date",
+        "value": "July 10, 1978",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            356,
+            342,
+            867,
+            407
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            7,
+            15,
+            23
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "NYO 627 (8-68)",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            120,
+            53,
+            417,
+            90
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.9662050027718209
+    }
+]

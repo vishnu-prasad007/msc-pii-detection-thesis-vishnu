@@ -1,0 +1,298 @@
+[
+    {
+        "ids": [
+            0
+        ],
+        "doc_id": "votes_fhxj0190_page1",
+        "pii_type": "Person Name",
+        "value": "Anne Cullip, extension #1401",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1205,
+            3898,
+            1903,
+            3962
+        ],
+        "source_file": "votes_fhxj0190_page1.csv",
+        "probability": 0.031693920967088056
+    },
+    {
+        "ids": [
+            1,
+            19
+        ],
+        "doc_id": "votes_fhxj0190_page1",
+        "pii_type": "Person Name",
+        "value": "Dave Rzotkiewicz, extension #7825 Rzotkiewicz",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1170,
+            3970,
+            2022,
+            4028
+        ],
+        "source_file": "votes_fhxj0190_page1.csv",
+        "probability": 0.9378421673156887
+    },
+    {
+        "ids": [
+            2
+        ],
+        "doc_id": "votes_fhxj0190_page1",
+        "pii_type": "Person Name",
+        "value": "Kathryn Noxon, extension #2559",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1186,
+            4039,
+            1968,
+            4103
+        ],
+        "source_file": "votes_fhxj0190_page1.csv",
+        "probability": 0.031693920967088056
+    },
+    {
+        "ids": [
+            3
+        ],
+        "doc_id": "votes_fhxj0190_page1",
+        "pii_type": "Person Name",
+        "value": "Rick Comett, extension #0168",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1231,
+            4109,
+            1954,
+            4169
+        ],
+        "source_file": "votes_fhxj0190_page1.csv",
+        "probability": 0.031693920967088056
+    },
+    {
+        "ids": [
+            4,
+            11,
+            22
+        ],
+        "doc_id": "votes_fhxj0190_page1",
+        "pii_type": "Phone Number",
+        "value": "extension #1401",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1517,
+            3898,
+            1903,
+            3952
+        ],
+        "source_file": "votes_fhxj0190_page1.csv",
+        "probability": 0.9942659227790958
+    },
+    {
+        "ids": [
+            5,
+            12,
+            23
+        ],
+        "doc_id": "votes_fhxj0190_page1",
+        "pii_type": "Phone Number",
+        "value": "extension #7825",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1627,
+            3970,
+            2022,
+            4022
+        ],
+        "source_file": "votes_fhxj0190_page1.csv",
+        "probability": 0.9942659227790958
+    },
+    {
+        "ids": [
+            6,
+            13,
+            24
+        ],
+        "doc_id": "votes_fhxj0190_page1",
+        "pii_type": "Phone Number",
+        "value": "extension #2559",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1577,
+            4039,
+            1968,
+            4092
+        ],
+        "source_file": "votes_fhxj0190_page1.csv",
+        "probability": 0.9942659227790958
+    },
+    {
+        "ids": [
+            7,
+            14,
+            25
+        ],
+        "doc_id": "votes_fhxj0190_page1",
+        "pii_type": "Phone Number",
+        "value": "extension #0168",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1561,
+            4109,
+            1954,
+            4161
+        ],
+        "source_file": "votes_fhxj0190_page1.csv",
+        "probability": 0.9942659227790958
+    },
+    {
+        "ids": [
+            8,
+            15,
+            26
+        ],
+        "doc_id": "votes_fhxj0190_page1",
+        "pii_type": "Organization Name",
+        "value": "R. J. REYNOLDS TOBACCO COMPANY",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            448,
+            4247,
+            1449,
+            4299
+        ],
+        "source_file": "votes_fhxj0190_page1.csv",
+        "probability": 0.991968246240452
+    },
+    {
+        "ids": [
+            9,
+            16,
+            27
+        ],
+        "doc_id": "votes_fhxj0190_page1",
+        "pii_type": "Date",
+        "value": "9/29/97",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1576,
+            144,
+            1756,
+            195
+        ],
+        "source_file": "votes_fhxj0190_page1.csv",
+        "probability": 0.9998134030756157
+    },
+    {
+        "ids": [
+            10,
+            17,
+            28
+        ],
+        "doc_id": "votes_fhxj0190_page1",
+        "pii_type": "Contract Number",
+        "value": "FSC-148-B",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            458,
+            142,
+            731,
+            196
+        ],
+        "source_file": "votes_fhxj0190_page1.csv",
+        "probability": 0.9892306065093162
+    },
+    {
+        "ids": [
+            18
+        ],
+        "doc_id": "votes_fhxj0190_page1",
+        "pii_type": "Person Name",
+        "value": "Anne Cullip",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1205,
+            3900,
+            1503,
+            3962
+        ],
+        "source_file": "votes_fhxj0190_page1.csv",
+        "probability": 0.04036223120345912
+    },
+    {
+        "ids": [
+            20
+        ],
+        "doc_id": "votes_fhxj0190_page1",
+        "pii_type": "Person Name",
+        "value": "Kathryn Noxon",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1186,
+            4040,
+            1560,
+            4103
+        ],
+        "source_file": "votes_fhxj0190_page1.csv",
+        "probability": 0.04036223120345912
+    },
+    {
+        "ids": [
+            21
+        ],
+        "doc_id": "votes_fhxj0190_page1",
+        "pii_type": "Person Name",
+        "value": "Rick Comett",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1231,
+            4110,
+            1545,
+            4169
+        ],
+        "source_file": "votes_fhxj0190_page1.csv",
+        "probability": 0.04036223120345912
+    }
+]

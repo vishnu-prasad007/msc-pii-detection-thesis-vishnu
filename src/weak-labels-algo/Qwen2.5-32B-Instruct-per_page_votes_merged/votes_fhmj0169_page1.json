@@ -1,0 +1,244 @@
+[
+    {
+        "ids": [
+            0,
+            11,
+            19
+        ],
+        "doc_id": "votes_fhmj0169_page1",
+        "pii_type": "Person Name",
+        "value": "C. F. VEALEY",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2980901598930359,
+            0.9168409705162048,
+            0.4021854139864445,
+            0.9264955082908273
+        ],
+        "source_file": "votes_fhmj0169_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            12,
+            20
+        ],
+        "doc_id": "votes_fhmj0169_page1",
+        "pii_type": "Person Name",
+        "value": "E. L. watto goe",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2380487322807312,
+            0.9484041333198547,
+            0.4166996702551842,
+            0.9762709941715002
+        ],
+        "source_file": "votes_fhmj0169_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            10,
+            18,
+            21,
+            30
+        ],
+        "doc_id": "votes_fhmj0169_page1",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "2031323483",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7244793772697449,
+            0.8792592883110046,
+            0.9026134759187698,
+            0.9052262473851442
+        ],
+        "source_file": "votes_fhmj0169_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            13,
+            22
+        ],
+        "doc_id": "votes_fhmj0169_page1",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "LOU!SVILLE",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.07970117777585983,
+            0.06756436824798584,
+            0.16582434624433517,
+            0.07626723404973745
+        ],
+        "source_file": "votes_fhmj0169_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            23
+        ],
+        "doc_id": "votes_fhmj0169_page1",
+        "pii_type": "Organization Name",
+        "value": "Fuller FULLER",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.2987575829029083,
+            0.39830777049064636,
+            0.35026054829359055,
+            0.40740469470620155
+        ],
+        "source_file": "votes_fhmj0169_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            24
+        ],
+        "doc_id": "votes_fhmj0169_page1",
+        "pii_type": "Organization Name",
+        "value": "Findley FINDLEY",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.29902729392051697,
+            0.4132959842681885,
+            0.3609246499836445,
+            0.4224923951551318
+        ],
+        "source_file": "votes_fhmj0169_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            14,
+            26
+        ],
+        "doc_id": "votes_fhmj0169_page1",
+        "pii_type": "Date",
+        "value": "01/17/94",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.8155152201652527,
+            0.06742096692323685,
+            0.8846346959471703,
+            0.07702122256159782
+        ],
+        "source_file": "votes_fhmj0169_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            15,
+            27
+        ],
+        "doc_id": "votes_fhmj0169_page1",
+        "pii_type": "Date",
+        "value": "1/06/94",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.8161786794662476,
+            0.9158422946929932,
+            0.8745633326470852,
+            0.9273822521790862
+        ],
+        "source_file": "votes_fhmj0169_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            16,
+            28
+        ],
+        "doc_id": "votes_fhmj0169_page1",
+        "pii_type": "Date",
+        "value": "1/06/94",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3090669512748718,
+            0.9321603178977966,
+            0.36637938395142555,
+            0.9419469386339188
+        ],
+        "source_file": "votes_fhmj0169_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            17,
+            29
+        ],
+        "doc_id": "votes_fhmj0169_page1",
+        "pii_type": "Date",
+        "value": "1/01/94",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.8585979342460632,
+            0.9615399837493896,
+            0.9162902049720287,
+            0.9719505468383431
+        ],
+        "source_file": "votes_fhmj0169_page1.csv"
+    },
+    {
+        "ids": [
+            25
+        ],
+        "doc_id": "votes_fhmj0169_page1",
+        "pii_type": "Organization Name",
+        "value": "MARLBORO",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.2982165515422821,
+            0.576177716255188,
+            0.36829666793346405,
+            0.5854290593415499
+        ],
+        "source_file": "votes_fhmj0169_page1.csv"
+    }
+]

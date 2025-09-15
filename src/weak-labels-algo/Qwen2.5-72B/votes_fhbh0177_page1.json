@@ -1,0 +1,186 @@
+[
+    {
+        "ids": [
+            0,
+            8,
+            16
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. V. B. Lougee, III",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            355,
+            561,
+            1208,
+            625
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            1,
+            9,
+            17
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Person Name",
+        "value": "R. S. Sprinkle, III",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            357,
+            775,
+            1131,
+            843
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            2,
+            10,
+            18
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. William J. Moore",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            565,
+            3469,
+            1352,
+            3526
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            3,
+            11,
+            19
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. Arnold Henson",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            563,
+            3692,
+            1235,
+            3746
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            4,
+            12,
+            20
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Organization Name",
+        "value": "The American Tobacco Company",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1527,
+            158,
+            2887,
+            353
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.991968246240452
+    },
+    {
+        "ids": [
+            5,
+            13,
+            21
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Organization Name",
+        "value": "AMERICAN BRANDS, INC.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2117,
+            335,
+            2604,
+            367
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.991968246240452
+    },
+    {
+        "ids": [
+            6,
+            14,
+            22
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Date",
+        "value": "July 10, 1978",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            356,
+            342,
+            867,
+            407
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.9998134030756157
+    },
+    {
+        "ids": [
+            7,
+            15,
+            23
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Date",
+        "value": "June 27 and 28, 1978",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1462,
+            1505,
+            2274,
+            1566
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.9998134030756157
+    }
+]

@@ -1,0 +1,289 @@
+[
+  {
+    "ids": [
+      0,
+      10,
+      19
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Location",
+    "value": "Flint, MI 48503",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      165,
+      82,
+      262,
+      93
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      1,
+      21
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "America First Action",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      423,
+      96,
+      531,
+      104
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      2,
+      11,
+      22
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "Gray Television Group, Inc.",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      420,
+      792,
+      521,
+      799
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      3,
+      12,
+      23
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "Gray Media Group, Inc.",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      420,
+      792,
+      575,
+      799
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      4,
+      13,
+      24
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Date",
+    "value": "05/22/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      650,
+      20,
+      694,
+      28
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      5,
+      14,
+      25
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Date",
+    "value": "05/22/20 / 05/22/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      673,
+      96,
+      738,
+      105
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      6,
+      15
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Date",
+    "value": "05/15/20 05/21/20",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      423,
+      129,
+      520,
+      137
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      7,
+      16
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Date",
+    "value": "04/27/20 -05/21/20",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      24,
+      182,
+      137,
+      191
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      8,
+      9,
+      17,
+      18,
+      30
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": [
+      "Contract Number",
+      "Invoice Number"
+    ],
+    "value": "1601132 /",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      570,
+      64,
+      632,
+      73
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      20
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "WJRT",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      164,
+      56,
+      204,
+      65
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      26
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Date",
+    "value": "05/15/20",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      423,
+      129,
+      469,
+      137
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      27
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Date",
+    "value": "05/21/20",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      476,
+      129,
+      520,
+      137
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      28
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Date",
+    "value": "04/27/20",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      24,
+      182,
+      73,
+      191
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      29
+    ],
+    "doc_id": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2",
+    "pii_type": "Date",
+    "value": "05/21/20",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      83,
+      182,
+      137,
+      191
+    ],
+    "source_file": "votes_ff9c72fa-8267-5701-5492-e8cbf336e101.pdf_page2.csv"
+  }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "ids": [
+            0,
+            6,
+            14
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Person Name",
+        "value": "Gaworski, Charles L.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2728520929813385,
+            0.1301683634519577,
+            0.40758126601576805,
+            0.14113960601389408
+        ],
+        "source_file": "votes_fglw0150_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            15
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Person Name",
+        "value": "Chuck",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.09031035006046295,
+            0.4594610333442688,
+            0.13235284388065338,
+            0.4683830300346017
+        ],
+        "source_file": "votes_fglw0150_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            5,
+            8,
+            13,
+            16,
+            19
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "PM3009480642",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.8123062252998352,
+            0.9294990301132202,
+            0.9319190159440041,
+            0.9400603091344237
+        ],
+        "source_file": "votes_fglw0150_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            11,
+            17
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Date",
+        "value": "Thursday, May 20, 2004 2:16 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2722792327404022,
+            0.14296261966228485,
+            0.4889303110539913,
+            0.1541628148406744
+        ],
+        "source_file": "votes_fglw0150_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            12,
+            18
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Date",
+        "value": "Friday, June 08, 2001 9:24 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.14288291335105896,
+            0.3201729953289032,
+            0.34384798631072044,
+            0.3318778546527028
+        ],
+        "source_file": "votes_fglw0150_page1.csv"
+    },
+    {
+        "ids": [
+            7
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Person Name",
+        "value": "Gaworski, Charles L.",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.14348885416984558,
+            0.3080873191356659,
+            0.2777426205575466,
+            0.31866172328591347
+        ],
+        "source_file": "votes_fglw0150_page1.csv"
+    },
+    {
+        "ids": [
+            9
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Organization Name",
+        "value": "DSS",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.09041909128427505,
+            0.18147194385528564,
+            0.12469860538840294,
+            0.19067411217838526
+        ],
+        "source_file": "votes_fglw0150_page1.csv"
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Organization Name",
+        "value": "https://www.industrydocuments.ucsf.edu",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.22277647256851196,
+            0.9809490442276001,
+            0.7767217755317688,
+            0.9977084845304489
+        ],
+        "source_file": "votes_fglw0150_page1.csv"
+    }
+]

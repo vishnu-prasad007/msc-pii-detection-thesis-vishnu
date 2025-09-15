@@ -1,0 +1,132 @@
+[
+    {
+        "ids": [
+            0,
+            10
+        ],
+        "doc_id": "votes_fglj0241_page1",
+        "pii_type": "Person Name",
+        "value": "Danielle Nolan J",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            420,
+            325,
+            699,
+            361
+        ],
+        "source_file": "votes_fglj0241_page1.csv",
+        "probability": 0.9378421673156887
+    },
+    {
+        "ids": [
+            1
+        ],
+        "doc_id": "votes_fglj0241_page1",
+        "pii_type": "Person Name",
+        "value": "Danielle Nolan",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            586,
+            376,
+            834,
+            407
+        ],
+        "source_file": "votes_fglj0241_page1.csv",
+        "probability": 0.031693920967088056
+    },
+    {
+        "ids": [
+            2,
+            6,
+            11
+        ],
+        "doc_id": "votes_fglj0241_page1",
+        "pii_type": "Email Address",
+        "value": "lay.E.Meyer@covidien.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            662,
+            222,
+            1133,
+            261
+        ],
+        "source_file": "votes_fglj0241_page1.csv",
+        "probability": NaN
+    },
+    {
+        "ids": [
+            3,
+            7,
+            12
+        ],
+        "doc_id": "votes_fglj0241_page1",
+        "pii_type": "Email Address",
+        "value": "Danielle.Nolan@Covidien.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            717,
+            324,
+            1246,
+            363
+        ],
+        "source_file": "votes_fglj0241_page1.csv",
+        "probability": NaN
+    },
+    {
+        "ids": [
+            4,
+            8,
+            13
+        ],
+        "doc_id": "votes_fglj0241_page1",
+        "pii_type": "Date",
+        "value": "8/21/2012 11:49:15 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            419,
+            271,
+            825,
+            311
+        ],
+        "source_file": "votes_fglj0241_page1.csv",
+        "probability": 0.9998134030756157
+    },
+    {
+        "ids": [
+            5,
+            9
+        ],
+        "doc_id": "votes_fglj0241_page1",
+        "pii_type": "Date",
+        "value": "June 4-5 2012",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            491,
+            375,
+            1167,
+            408
+        ],
+        "source_file": "votes_fglj0241_page1.csv",
+        "probability": 0.9273938421177121
+    }
+]

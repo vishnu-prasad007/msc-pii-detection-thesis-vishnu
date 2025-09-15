@@ -1,0 +1,456 @@
+[
+  {
+    "ids": [
+      0,
+      16,
+      31
+    ],
+    "doc_id": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1",
+    "pii_type": "Person Name",
+    "value": "Dianne Downey",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      104,
+      149,
+      187,
+      159
+    ],
+    "source_file": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      1,
+      17,
+      32
+    ],
+    "doc_id": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1",
+    "pii_type": "Person Name",
+    "value": "Suzanne Collins",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      39,
+      739,
+      143,
+      749
+    ],
+    "source_file": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      2,
+      18,
+      33
+    ],
+    "doc_id": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1",
+    "pii_type": "Email Address",
+    "value": "dianne.downey@abc4.com",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      104,
+      164,
+      246,
+      174
+    ],
+    "source_file": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      3,
+      19,
+      34,
+      51
+    ],
+    "doc_id": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1",
+    "pii_type": [
+      "Email Address",
+      "Contract Number"
+    ],
+    "value": "suzannel@mediastrategies.com",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      39,
+      801,
+      210,
+      811
+    ],
+    "source_file": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      4,
+      20,
+      35
+    ],
+    "doc_id": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1",
+    "pii_type": "Phone Number",
+    "value": "801-975-4444",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      516,
+      148,
+      590,
+      156
+    ],
+    "source_file": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      5,
+      21,
+      36
+    ],
+    "doc_id": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1",
+    "pii_type": "Phone Number",
+    "value": "801-975-4555",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      516,
+      163,
+      590,
+      172
+    ],
+    "source_file": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      6
+    ],
+    "doc_id": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1",
+    "pii_type": "Location",
+    "value": "1580 Lincoln Street, Suite 510, Denver, CO 80203 KUCW-TV",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      40,
+      770,
+      790,
+      780
+    ],
+    "source_file": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      7,
+      23,
+      39
+    ],
+    "doc_id": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "KUCW-TV",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      54,
+      196,
+      140,
+      208
+    ],
+    "source_file": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      8,
+      24
+    ],
+    "doc_id": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "KUCW-TV",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      734,
+      772,
+      790,
+      780
+    ],
+    "source_file": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      9,
+      25,
+      40,
+      49
+    ],
+    "doc_id": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1",
+    "pii_type": [
+      "Contract Number",
+      "Organization Name"
+    ],
+    "value": "Media Strategies and Research",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      39,
+      755,
+      252,
+      767
+    ],
+    "source_file": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      10,
+      26,
+      45
+    ],
+    "doc_id": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1",
+    "pii_type": [
+      "Contract Number",
+      "Organization Name"
+    ],
+    "value": "MSR",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      51,
+      50,
+      167,
+      86
+    ],
+    "source_file": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      11,
+      46
+    ],
+    "doc_id": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1",
+    "pii_type": [
+      "Contract Number",
+      "Organization Name"
+    ],
+    "value": "Matheson for Congress 2012",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      283,
+      71,
+      592,
+      89
+    ],
+    "source_file": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      12,
+      27,
+      41
+    ],
+    "doc_id": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1",
+    "pii_type": "Date",
+    "value": "Monday, September 17, 2012",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      148,
+      120,
+      355,
+      134
+    ],
+    "source_file": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      13,
+      28,
+      42
+    ],
+    "doc_id": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1",
+    "pii_type": "Date",
+    "value": "Sunday, September 23, 2012",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      213,
+      120,
+      542,
+      134
+    ],
+    "source_file": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      14,
+      29,
+      43
+    ],
+    "doc_id": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1",
+    "pii_type": "Date",
+    "value": "9/12/2012 9:23:10 AM",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      657,
+      757,
+      790,
+      766
+    ],
+    "source_file": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      15,
+      30,
+      48,
+      52
+    ],
+    "doc_id": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1",
+    "pii_type": [
+      "Contract Number",
+      "Invoice Number"
+    ],
+    "value": "11953",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      730,
+      121,
+      770,
+      130
+    ],
+    "source_file": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      22,
+      38
+    ],
+    "doc_id": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1",
+    "pii_type": "Location",
+    "value": "1580 Lincoln Street, Suite 510, Denver, CO 80203",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      40,
+      770,
+      322,
+      780
+    ],
+    "source_file": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      37
+    ],
+    "doc_id": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1",
+    "pii_type": "Location",
+    "value": "Salt Lake City-Ogden",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      148,
+      103,
+      298,
+      116
+    ],
+    "source_file": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      44
+    ],
+    "doc_id": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Station Order",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      364,
+      50,
+      504,
+      64
+    ],
+    "source_file": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      47
+    ],
+    "doc_id": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Estimate ID",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      695,
+      101,
+      770,
+      111
+    ],
+    "source_file": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      50
+    ],
+    "doc_id": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Page 1 of 1",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      726,
+      786,
+      777,
+      797
+    ],
+    "source_file": "votes_456300-sept-17-23-2012-11953-13474707086771-_-pdf.pdf_page1.csv"
+  }
+]

@@ -1,0 +1,780 @@
+[
+    {
+        "ids": [
+            0,
+            30,
+            61
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Ernesto Antich",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            551,
+            1086,
+            786,
+            1119
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            1,
+            31,
+            62
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Eugenio Rengifo",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            550,
+            1131,
+            817,
+            1172
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            2,
+            32,
+            63
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Patricio Bellolio",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            550,
+            1178,
+            809,
+            1212
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            3,
+            33,
+            64
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Dr CJP de Siqueira",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            550,
+            1223,
+            879,
+            1265
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            4,
+            34,
+            65
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Edgar Codero",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            551,
+            1270,
+            771,
+            1309
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            5,
+            35,
+            66
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Orlando Schoenstedt",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            551,
+            1315,
+            875,
+            1349
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            6,
+            36,
+            67
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Peter Taylor",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            549,
+            1361,
+            751,
+            1400
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            7,
+            37,
+            68
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Amilcar Santamaria",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            548,
+            1406,
+            864,
+            1438
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            8,
+            38,
+            69
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "David Vega",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            549,
+            1450,
+            741,
+            1490
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            9,
+            39,
+            70
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Hugh Tweed",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            547,
+            1497,
+            754,
+            1536
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            10,
+            40,
+            71
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Dr S Boyse",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            541,
+            2311,
+            732,
+            2350
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            11,
+            41,
+            72
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Phone Number",
+        "value": "0784 455 000",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1373,
+            2814,
+            1560,
+            2836
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9989874148242464
+    },
+    {
+        "ids": [
+            12,
+            42,
+            73
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Phone Number",
+        "value": "0784 460 400",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1185,
+            2851,
+            1371,
+            2872
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9989874148242464
+    },
+    {
+        "ids": [
+            13,
+            43
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Venezuela",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1118,
+            1084,
+            1279,
+            1117
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.8285322343793001
+    },
+    {
+        "ids": [
+            14,
+            44
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Chile",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1119,
+            1131,
+            1203,
+            1165
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.8285322343793001
+    },
+    {
+        "ids": [
+            15,
+            45
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Chile",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1118,
+            1177,
+            1203,
+            1210
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.8285322343793001
+    },
+    {
+        "ids": [
+            16,
+            46
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Brazil",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1117,
+            1223,
+            1209,
+            1256
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.8285322343793001
+    },
+    {
+        "ids": [
+            17,
+            47
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Costa Rica",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1120,
+            1269,
+            1286,
+            1302
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.8285322343793001
+    },
+    {
+        "ids": [
+            18,
+            48
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Guatemala",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1118,
+            1315,
+            1283,
+            1347
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.8285322343793001
+    },
+    {
+        "ids": [
+            19,
+            49
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Panama",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1118,
+            1361,
+            1240,
+            1393
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.8285322343793001
+    },
+    {
+        "ids": [
+            20,
+            50
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Honduras",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1117,
+            1407,
+            1267,
+            1437
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.8285322343793001
+    },
+    {
+        "ids": [
+            21,
+            51
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "El Salvador",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1118,
+            1451,
+            1302,
+            1483
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.8285322343793001
+    },
+    {
+        "ids": [
+            22,
+            52
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Nicaragua",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1118,
+            1496,
+            1277,
+            1535
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.8285322343793001
+    },
+    {
+        "ids": [
+            23,
+            53,
+            74
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Orfice MILLBANK KNOWLE GREEN STAINES TW18 IDY REGD",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            472,
+            2813,
+            1278,
+            2837
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9965290942566549
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "LONDON",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1424,
+            2905,
+            1515,
+            2925
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.0423572811717471
+    },
+    {
+        "ids": [
+            25,
+            54,
+            75
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Organization Name",
+        "value": "BRITISH-AMERICAN TOBACCO COMPANY LIMITED",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            743,
+            576,
+            1877,
+            610
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9937329907926641
+    },
+    {
+        "ids": [
+            26,
+            55,
+            77
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Organization Name",
+        "value": "Caous INCORPORATED IN LONDON Incorporated",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1146,
+            2904,
+            1515,
+            2925
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9937329907926641
+    },
+    {
+        "ids": [
+            27,
+            57,
+            78
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Date",
+        "value": "3 April 1992",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            549,
+            811,
+            753,
+            851
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            28,
+            58,
+            79
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Contract Number",
+        "value": "USSG.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1905,
+            398,
+            2052,
+            438
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9354416064716374
+    },
+    {
+        "ids": [
+            29,
+            82
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Contract Number",
+        "value": "No 74974",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1520,
+            2905,
+            1632,
+            2925
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.7676520611868158
+    },
+    {
+        "ids": [
+            56
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Organization Name",
+        "value": "Orfice Millbank",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            548,
+            2813,
+            788,
+            2837
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.050651127642433146
+    },
+    {
+        "ids": [
+            59
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Contract Number",
+        "value": "FAKED",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1479,
+            407,
+            1879,
+            527
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.05266526739555767
+    },
+    {
+        "ids": [
+            60
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Contract Number",
+        "value": "BAT",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            575,
+            587,
+            655,
+            612
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.05266526739555767
+    },
+    {
+        "ids": [
+            76
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Organization Name",
+        "value": "BAT INDUSTRIES",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            958,
+            2905,
+            1140,
+            2926
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.05285594042746515
+    },
+    {
+        "ids": [
+            80
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Contract Number",
+        "value": "BAT BRITISH-AMERICAN TOBACCO COMPANY LIMITED",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            575,
+            576,
+            1877,
+            612
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            81
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Contract Number",
+        "value": "BATTOS c",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1795,
+            2815,
+            1920,
+            2836
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.18724450043103621
+    }
+]

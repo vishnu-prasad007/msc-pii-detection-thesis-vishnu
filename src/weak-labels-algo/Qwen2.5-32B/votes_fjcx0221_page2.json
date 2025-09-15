@@ -1,0 +1,178 @@
+[
+    {
+        "ids": [
+            0,
+            6,
+            14
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Person Name",
+        "value": "Jeffrey",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            683,
+            501,
+            882,
+            571
+        ],
+        "source_file": "votes_fjcx0221_page2.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            1,
+            7
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Person Name",
+        "value": "Martin Falk",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            919,
+            910,
+            1228,
+            967
+        ],
+        "source_file": "votes_fjcx0221_page2.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            2,
+            8,
+            15
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Person Name",
+        "value": "Roland Greinwald",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            919,
+            1640,
+            1387,
+            1698
+        ],
+        "source_file": "votes_fjcx0221_page2.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            3,
+            9,
+            16
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Phone Number",
+        "value": "70013 3630",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            44,
+            4542,
+            384,
+            4603
+        ],
+        "source_file": "votes_fjcx0221_page2.csv",
+        "probability": 0.9990904025042505
+    },
+    {
+        "ids": [
+            4,
+            11,
+            17
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Date",
+        "value": "April 5",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            998,
+            664,
+            1182,
+            734
+        ],
+        "source_file": "votes_fjcx0221_page2.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            5,
+            13,
+            19
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Contract Number",
+        "value": "RJR0000001371017574",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            42,
+            4461,
+            746,
+            4522
+        ],
+        "source_file": "votes_fjcx0221_page2.csv",
+        "probability": 0.9662050027718209
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Organization Name",
+        "value": "Targacept",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1632,
+            1319,
+            1892,
+            1387
+        ],
+        "source_file": "votes_fjcx0221_page2.csv",
+        "probability": 0.040467674674375356
+    },
+    {
+        "ids": [
+            12,
+            18
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Date",
+        "value": "9.00 a.m.",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            874,
+            827,
+            1143,
+            885
+        ],
+        "source_file": "votes_fjcx0221_page2.csv",
+        "probability": 0.8393031065502514
+    }
+]

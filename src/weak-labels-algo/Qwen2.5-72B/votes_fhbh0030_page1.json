@@ -1,0 +1,138 @@
+[
+    {
+        "ids": [
+            0,
+            5,
+            11
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": "Person Name",
+        "value": "William P. Buckley",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            639,
+            741,
+            1099,
+            784
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            1,
+            6,
+            12
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": "Person Name",
+        "value": "William A. Cannell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            640,
+            784,
+            1093,
+            822
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            2,
+            7,
+            13
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": "Person Name",
+        "value": "Richard E. Scanlan",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            642,
+            869,
+            1100,
+            907
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            3,
+            8,
+            14
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": "Person Name",
+        "value": "Michael G. Griffin",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            489,
+            1165,
+            948,
+            1201
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            4,
+            9,
+            15
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": "Date",
+        "value": "April 8, 1985",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            412,
+            447,
+            742,
+            490
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 0.9998134030756157
+    },
+    {
+        "ids": [
+            10,
+            16
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": "Contract Number",
+        "value": "TCAL0194840",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1679,
+            2849,
+            1985,
+            2889
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 0.8040093629396275
+    }
+]

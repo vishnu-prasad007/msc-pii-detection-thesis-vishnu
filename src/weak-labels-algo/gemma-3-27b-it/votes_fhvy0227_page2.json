@@ -1,0 +1,162 @@
+[
+    {
+        "ids": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "Rhona",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            433,
+            311,
+            575,
+            353
+        ],
+        "source_file": "votes_fhvy0227_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": "Location",
+        "value": "CONFIDENTIALITY NOTICE",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            433,
+            577,
+            1134,
+            620
+        ],
+        "source_file": "votes_fhvy0227_page2.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": "Location",
+        "value": "This message",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            656,
+            643,
+            953,
+            697
+        ],
+        "source_file": "votes_fhvy0227_page2.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            6
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": "Location",
+        "value": "this",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            2808,
+            710,
+            2888,
+            753
+        ],
+        "source_file": "votes_fhvy0227_page2.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            7
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": "Location",
+        "value": "message",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            445,
+            788,
+            630,
+            831
+        ],
+        "source_file": "votes_fhvy0227_page2.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            8
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": "Location",
+        "value": "this",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1326,
+            843,
+            1405,
+            886
+        ],
+        "source_file": "votes_fhvy0227_page2.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            9
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": "Location",
+        "value": "communication",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            446,
+            911,
+            783,
+            952
+        ],
+        "source_file": "votes_fhvy0227_page2.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": "Location",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fhvy0227",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            756,
+            4316,
+            2647,
+            4389
+        ],
+        "source_file": "votes_fhvy0227_page2.csv",
+        "probability": 0.11727918502265558
+    }
+]

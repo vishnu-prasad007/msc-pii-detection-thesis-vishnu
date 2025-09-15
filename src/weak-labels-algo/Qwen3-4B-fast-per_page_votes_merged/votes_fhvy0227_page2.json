@@ -1,0 +1,154 @@
+[
+    {
+        "ids": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Rhona",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.12734082341194153,
+            0.07058658450841904,
+            0.16908637061715126,
+            0.08022764697670937
+        ],
+        "source_file": "votes_fhvy0227_page2.csv"
+    },
+    {
+        "ids": [
+            4
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": "Contract Number",
+        "value": "CONFIDENTIALITY NOTICE",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.1274050772190094,
+            0.13119155168533325,
+            0.33365559205412865,
+            0.14094148110598326
+        ],
+        "source_file": "votes_fhvy0227_page2.csv"
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": "Contract Number",
+        "value": "NOTICE: This message is intended for the use of the individual or entity to which it is addressed and may contain",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.12704508006572723,
+            0.14606304466724396,
+            0.8543287366628647,
+            0.15833700820803642
+        ],
+        "source_file": "votes_fhvy0227_page2.csv"
+    },
+    {
+        "ids": [
+            6
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": "Contract Number",
+        "value": "information that is confidential, privileged and exempt from disclosure under applicable law. If the reader of this",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.1307530403137207,
+            0.16121505200862885,
+            0.8495076969265938,
+            0.17361440230160952
+        ],
+        "source_file": "votes_fhvy0227_page2.csv"
+    },
+    {
+        "ids": [
+            7
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": "Contract Number",
+        "value": "message is not the intended recipient, you are hereby notified that any printing, copying, dissemination,",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.13098745048046112,
+            0.1764562577009201,
+            0.7911278456449509,
+            0.18899638205766678
+        ],
+        "source_file": "votes_fhvy0227_page2.csv"
+    },
+    {
+        "ids": [
+            8
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": "Contract Number",
+        "value": "distribution, disclosure or forwarding of this communication is strictly prohibited. If you have received this",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.13075858354568481,
+            0.19132795929908752,
+            0.7871881723403931,
+            0.2039083857089281
+        ],
+        "source_file": "votes_fhvy0227_page2.csv"
+    },
+    {
+        "ids": [
+            9
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": "Contract Number",
+        "value": "communication in error, please contact the sender immediately and delete it from your system. Thank You.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.13111916184425354,
+            0.20680838823318481,
+            0.8137877862900496,
+            0.21894242148846388
+        ],
+        "source_file": "votes_fhvy0227_page2.csv"
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": "Contract Number",
+        "value": "Source: https://www.industrydocuments.ucsf.edu/docs/fhvy0227",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.22242401540279388,
+            0.9808186888694763,
+            0.7785425633192062,
+            0.9974790886044502
+        ],
+        "source_file": "votes_fhvy0227_page2.csv"
+    }
+]

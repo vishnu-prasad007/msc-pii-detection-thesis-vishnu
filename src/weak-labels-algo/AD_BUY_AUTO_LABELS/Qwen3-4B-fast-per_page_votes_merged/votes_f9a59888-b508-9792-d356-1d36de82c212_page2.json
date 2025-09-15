@@ -1,0 +1,482 @@
+[
+  {
+    "ids": [
+      0,
+      18,
+      33
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2",
+    "pii_type": "Person Name",
+    "value": "Michelle Fleming",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      505,
+      60,
+      557,
+      71
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      1,
+      19,
+      34
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2",
+    "pii_type": "Person Name",
+    "value": "DOME,PATRICIA",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      293,
+      152,
+      346,
+      163
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      2
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2",
+    "pii_type": "Person Name",
+    "value": "HRP/DC, Washington DC (3707)",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      292,
+      122,
+      393,
+      134
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      3,
+      17,
+      20,
+      35
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2",
+    "pii_type": [
+      "Phone Number",
+      "Invoice Number"
+    ],
+    "value": "09837105",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      505,
+      88,
+      537,
+      99
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      4,
+      21
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "America First Action (122842)",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      292,
+      61,
+      386,
+      73
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      5,
+      22
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "Del Ray Media (17530)",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      293,
+      77,
+      365,
+      89
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      6,
+      24
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "AMERICA FIRST ACTION (1371784)",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      292,
+      107,
+      405,
+      118
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      7,
+      40
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "HRP Washington DC",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      293,
+      137,
+      357,
+      149
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      8,
+      23
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "Del Ray Media",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      31,
+      151,
+      80,
+      164
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      9,
+      25,
+      38
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "AMERICA FIRST ACTION",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      293,
+      229,
+      360,
+      238
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      10,
+      27,
+      41
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2",
+    "pii_type": "Date",
+    "value": "06/03/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      505,
+      33,
+      534,
+      43
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      11
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2",
+    "pii_type": "Date",
+    "value": "06/04/20-06/11/20",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      292,
+      47,
+      353,
+      58
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      12,
+      43
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2",
+    "pii_type": "Date",
+    "value": "6/3/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      744,
+      395,
+      763,
+      404
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      13
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2",
+    "pii_type": "Date",
+    "value": "6/3/20",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      744,
+      410,
+      764,
+      419
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      14
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2",
+    "pii_type": "Date",
+    "value": "6/3/20",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      744,
+      425,
+      764,
+      435
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      15,
+      30,
+      44
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2",
+    "pii_type": "Date",
+    "value": "Wednesday, June 3 2020",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      109,
+      770,
+      203,
+      783
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      16
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "4390920",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      292,
+      31,
+      343,
+      44
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      26,
+      39
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "AMERICA FIRST ACTION FUND",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      443,
+      237,
+      527,
+      246
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      28
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2",
+    "pii_type": "Date",
+    "value": "06/04/20",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      505,
+      47,
+      535,
+      57
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      29,
+      42
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2",
+    "pii_type": "Date",
+    "value": "06/03/20",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      505,
+      47,
+      535,
+      57
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      31,
+      45
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "Contract # 4390920",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      227,
+      30,
+      343,
+      44
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      32,
+      46
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2",
+    "pii_type": "Invoice Number",
+    "value": "External # 09837105",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      450,
+      88,
+      537,
+      99
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      36
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2",
+    "pii_type": "Location",
+    "value": "Flint, MI 48504",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      119,
+      90,
+      171,
+      102
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      37
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2",
+    "pii_type": "Location",
+    "value": "Alexandria, VA 22301",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      31,
+      192,
+      106,
+      204
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page2.csv"
+  }
+]

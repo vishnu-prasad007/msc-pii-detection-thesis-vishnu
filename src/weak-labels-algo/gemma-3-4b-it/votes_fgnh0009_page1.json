@@ -1,0 +1,445 @@
+[
+    {
+        "ids": [
+            0,
+            15,
+            27
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Person Name",
+        "value": "Dr. Charles J. Kensler",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            503,
+            1792,
+            1161,
+            1836
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9996925870572029
+    },
+    {
+        "ids": [
+            1,
+            16,
+            28
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Person Name",
+        "value": "Alma Triner",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            650,
+            1033,
+            971,
+            1068
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9996925870572029
+    },
+    {
+        "ids": [
+            2,
+            17,
+            29
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Phone Number",
+        "value": "(617) 864-5770 (Ext. 2541)",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            662,
+            1077,
+            1392,
+            1119
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9648539406070344
+    },
+    {
+        "ids": [
+            3
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Phone Number",
+        "value": "LIG- 92593",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            607,
+            3793,
+            895,
+            3836
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.08718184774678951
+    },
+    {
+        "ids": [
+            4,
+            18,
+            23,
+            33
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "Cambridge, Mass. 02140",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            361,
+            838,
+            1025,
+            886
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9998412938516642
+    },
+    {
+        "ids": [
+            5,
+            19,
+            34
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Location",
+        "value": "Buenos Aires, Argentina",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            507,
+            1411,
+            1194,
+            1453
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9756927193958248
+    },
+    {
+        "ids": [
+            6,
+            35
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Location",
+        "value": "XII International Cancer Congress in Buenos Aires",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            935,
+            1699,
+            2367,
+            1747
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.7673998145928828
+    },
+    {
+        "ids": [
+            7,
+            20,
+            30,
+            40
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "Arthur D. Little, Inc.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            362,
+            697,
+            992,
+            743
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9998412938516642
+    },
+    {
+        "ids": [
+            8,
+            21,
+            31,
+            41
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "Public Relations Department",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            363,
+            748,
+            1142,
+            792
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9998412938516642
+    },
+    {
+        "ids": [
+            9,
+            24,
+            42
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Date",
+        "value": "October 7, 1978",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1833,
+            1031,
+            2260,
+            1075
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9980073602097371
+    },
+    {
+        "ids": [
+            10,
+            25,
+            43
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Date",
+        "value": "October 7, 1978",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1226,
+            1409,
+            1657,
+            1452
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9980073602097371
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Date",
+        "value": "XII International Cancer Congress",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            935,
+            1699,
+            1885,
+            1747
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.029048290087628027
+    },
+    {
+        "ids": [
+            12,
+            44
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Date",
+        "value": "four year period",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1248,
+            2277,
+            1706,
+            2324
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.8067804935997114
+    },
+    {
+        "ids": [
+            13,
+            45
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Date",
+        "value": "18-month mouse skin painting",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1364,
+            2468,
+            2162,
+            2522
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.8067804935997114
+    },
+    {
+        "ids": [
+            14,
+            26,
+            46
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Contract Number",
+        "value": "LG 0382867",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2029,
+            3883,
+            2380,
+            3948
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9023971445662724
+    },
+    {
+        "ids": [
+            22,
+            32
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "Acorn Park",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            361,
+            796,
+            654,
+            832
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9748906298458768
+    },
+    {
+        "ids": [
+            36
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Location",
+        "value": "mouse skin",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1763,
+            1996,
+            2055,
+            2034
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.15157377707122235
+    },
+    {
+        "ids": [
+            37
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Location",
+        "value": "mouse skin",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1613,
+            2472,
+            1905,
+            2512
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.15157377707122235
+    },
+    {
+        "ids": [
+            38
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Location",
+        "value": "smoke condensate",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            438,
+            2751,
+            896,
+            2790
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.15157377707122235
+    },
+    {
+        "ids": [
+            39
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Location",
+        "value": "Burley tobacco content",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            579,
+            2948,
+            1212,
+            2995
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.15157377707122235
+    }
+]

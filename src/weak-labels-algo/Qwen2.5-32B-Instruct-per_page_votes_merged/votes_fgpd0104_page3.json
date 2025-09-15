@@ -1,0 +1,22 @@
+[
+    {
+        "ids": [
+            0,
+            1
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Date",
+        "value": "February 14, 1992",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.5091539025306702,
+            0.26068323850631714,
+            0.6759944371879101,
+            0.2768563460558653
+        ],
+        "source_file": "votes_fgpd0104_page3.csv"
+    }
+]

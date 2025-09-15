@@ -1,0 +1,396 @@
+[
+    {
+        "ids": [
+            0,
+            14,
+            29
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Person Name",
+        "value": "Robert A. Welsh",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            298,
+            332,
+            449,
+            347
+        ],
+        "source_file": "votes_fhyn0144_page1.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            1,
+            15,
+            30
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Person Name",
+        "value": "Arthur c. Diesing",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            695,
+            649,
+            876,
+            667
+        ],
+        "source_file": "votes_fhyn0144_page1.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            2,
+            16,
+            31
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Phone Number",
+        "value": "(502) 568-7000",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            681,
+            1302,
+            757,
+            1315
+        ],
+        "source_file": "votes_fhyn0144_page1.csv",
+        "probability": 0.9999993523779069
+    },
+    {
+        "ids": [
+            3,
+            18,
+            32
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Location",
+        "value": "10 Painters Mill Road",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            260,
+            392,
+            468,
+            408
+        ],
+        "source_file": "votes_fhyn0144_page1.csv",
+        "probability": 0.9546725906404269
+    },
+    {
+        "ids": [
+            4,
+            17,
+            33
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Location",
+        "value": "Owings Mills, MD 21117",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            259,
+            411,
+            488,
+            430
+        ],
+        "source_file": "votes_fhyn0144_page1.csv",
+        "probability": 0.9546725906404269
+    },
+    {
+        "ids": [
+            5,
+            19,
+            34
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Location",
+        "value": "1500 BROWN * WILLIAMSON TOWER, PO BOX 35090. LOUISVILLE, KY 4D232.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            255,
+            1301,
+            677,
+            1315
+        ],
+        "source_file": "votes_fhyn0144_page1.csv",
+        "probability": 0.9546725906404269
+    },
+    {
+        "ids": [
+            6,
+            20
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Organization Name",
+        "value": "TOBACCO CORPORATION",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            249,
+            154,
+            438,
+            168
+        ],
+        "source_file": "votes_fhyn0144_page1.csv",
+        "probability": 0.8837384049991688
+    },
+    {
+        "ids": [
+            7,
+            21,
+            35
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Organization Name",
+        "value": "BROWN & WILLLAMSON",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            250,
+            139,
+            429,
+            153
+        ],
+        "source_file": "votes_fhyn0144_page1.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            8,
+            22
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Organization Name",
+        "value": "B&W",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            562,
+            142,
+            621,
+            167
+        ],
+        "source_file": "votes_fhyn0144_page1.csv",
+        "probability": 0.8837384049991688
+    },
+    {
+        "ids": [
+            9,
+            23,
+            36
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Organization Name",
+        "value": "Quest International",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            258,
+            373,
+            448,
+            390
+        ],
+        "source_file": "votes_fhyn0144_page1.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            10,
+            37
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Organization Name",
+        "value": "B&W Additives Advisory Committee",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            696,
+            669,
+            1021,
+            686
+        ],
+        "source_file": "votes_fhyn0144_page1.csv",
+        "probability": 0.7092127683685351
+    },
+    {
+        "ids": [
+            11,
+            25,
+            38
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Organization Name",
+        "value": "BROWN * WILLIAMSON",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            281,
+            1303,
+            418,
+            1315
+        ],
+        "source_file": "votes_fhyn0144_page1.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            12,
+            26,
+            39
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Date",
+        "value": "July 7, 1988",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            694,
+            248,
+            816,
+            267
+        ],
+        "source_file": "votes_fhyn0144_page1.csv",
+        "probability": 0.9999806273337076
+    },
+    {
+        "ids": [
+            13,
+            27,
+            40
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Contract Number",
+        "value": "C7A-065-A",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            806,
+            509,
+            907,
+            524
+        ],
+        "source_file": "votes_fhyn0144_page1.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Organization Name",
+        "value": "B&W",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            696,
+            670,
+            727,
+            684
+        ],
+        "source_file": "votes_fhyn0144_page1.csv",
+        "probability": 0.07003450320163163
+    },
+    {
+        "ids": [
+            28,
+            41
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Contract Number",
+        "value": "ACD/vr/333",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            259,
+            711,
+            362,
+            727
+        ],
+        "source_file": "votes_fhyn0144_page1.csv",
+        "probability": 0.8907804365662109
+    },
+    {
+        "ids": [
+            42
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Contract Number",
+        "value": "1481m",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            262,
+            752,
+            312,
+            767
+        ],
+        "source_file": "votes_fhyn0144_page1.csv",
+        "probability": 0.03864965855267409
+    },
+    {
+        "ids": [
+            43
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Contract Number",
+        "value": "605145091",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            816,
+            1342,
+            985,
+            1368
+        ],
+        "source_file": "votes_fhyn0144_page1.csv",
+        "probability": 0.03864965855267409
+    }
+]

@@ -1,0 +1,696 @@
+[
+    {
+        "ids": [
+            0,
+            30,
+            58
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "Carol",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7781018614768982,
+            0.031125813722610474,
+            0.8744380101561546,
+            0.07305748388171196
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            31,
+            59
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "Kane Dalsimer",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.21192896366119385,
+            0.056264542043209076,
+            0.4175184294581413,
+            0.08118202723562717
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            32,
+            60
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "David S. Kane",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.08376007527112961,
+            0.12204920500516891,
+            0.1753131952136755,
+            0.13724957359954715
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            33,
+            61
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "Joseph c. Sullivan C.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.08380411565303802,
+            0.1503058820962906,
+            0.20739787444472313,
+            0.15645632287487388
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            34,
+            62
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "John Kurucz",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.08389133214950562,
+            0.15964418649673462,
+            0.1689796932041645,
+            0.1656700042076409
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            35,
+            63
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "James J. Salerno, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.08339078724384308,
+            0.16918617486953735,
+            0.220092436298728,
+            0.17615097807720304
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            36,
+            64
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "David H. T. Kane",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.08341789245605469,
+            0.17877092957496643,
+            0.18189773336052895,
+            0.18480718974024057
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            65
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "Diana J. Auger",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.08346418291330338,
+            0.1879579722881317,
+            0.17616357281804085,
+            0.1944474126212299
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            8
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "Siegrun D. Kane",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.08315622061491013,
+            0.19755031168460846,
+            0.18759318254888058,
+            0.20379388891160488
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            38,
+            66
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "Martin E. Goldstein",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.08350872248411179,
+            0.2070527821779251,
+            0.21204248815774918,
+            0.2132995785214007
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            39,
+            67
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "Paul L. Barrett",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.0830157920718193,
+            0.2166375368833542,
+            0.18299542739987373,
+            0.2231152351014316
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            11,
+            40,
+            68
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "Charles R. Hoffmann",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.0834270492196083,
+            0.22561612725257874,
+            0.22460518777370453,
+            0.2321217032149434
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            12,
+            41,
+            69
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "Gerald Levy",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.083321213722229,
+            0.2351001650094986,
+            0.16405870951712132,
+            0.24107367591932416
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            13,
+            42,
+            70
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "Peter Saxon",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.08337661623954773,
+            0.2504691481590271,
+            0.16463805735111237,
+            0.2568011754192412
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            14,
+            43,
+            71
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "Anthony V. Nanni",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.08307210355997086,
+            0.26965680718421936,
+            0.1939181461930275,
+            0.27613680390641093
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            15,
+            44,
+            72
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "John J. Caslin, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.08341950178146362,
+            0.260270357131958,
+            0.19976241141557693,
+            0.2671974813565612
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            16,
+            45,
+            73
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "Patrick M. Kelly, Esq.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.07592455297708511,
+            0.2879939675331116,
+            0.3312362879514694,
+            0.3030278803780675
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            17,
+            46,
+            74
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "S. J. Green et al",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1949240267276764,
+            0.6525879502296448,
+            0.39399172365665436,
+            0.6640379903838038
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            18,
+            48,
+            76
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Location",
+        "value": "420 Lexington Avenue, New York, N.Y.10017",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3014552891254425,
+            0.11081507056951523,
+            0.6951948404312134,
+            0.14009109884500504
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            19,
+            49
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Location",
+        "value": "100 STATE STREET",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.7875335812568665,
+            0.17050842940807343,
+            0.9031274914741516,
+            0.17735241865739226
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            20,
+            50
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Location",
+        "value": "ALBANY, N.Y. 12207",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.7871494889259338,
+            0.17982599139213562,
+            0.902327336370945,
+            0.18747223168611526
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            21,
+            51
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Location",
+        "value": "1600 West Hill Street",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.07728712260723114,
+            0.32301387190818787,
+            0.32348333299160004,
+            0.3347936971113086
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            22,
+            52
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Location",
+        "value": "Louisville, Kentucky 40201",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.07609022408723831,
+            0.34006157517433167,
+            0.381828922778368,
+            0.3545756144449115
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            23
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Organization Name",
+        "value": "Kane Dalsimer, Kane. Sullivan. and Kurnez B9",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.21192896366119385,
+            0.054808370769023895,
+            0.8611279539763927,
+            0.09378378093242645
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            24,
+            53,
+            77
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Organization Name",
+        "value": "Brown & Williamson Tobacco Corporation",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.0761512815952301,
+            0.30593231320381165,
+            0.52317675948143,
+            0.3206304842606187
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            25,
+            54,
+            78
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Date",
+        "value": "January 8, 1970",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.40537893772125244,
+            0.20237916707992554,
+            0.580931544303894,
+            0.21609453670680523
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            26
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Date",
+        "value": "4/10/68",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.7341198921203613,
+            0.3916066884994507,
+            0.8167690336704254,
+            0.40607897844165564
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            27,
+            55,
+            79
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Date",
+        "value": "September 24th, 1968",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.44096776843070984,
+            0.6523737907409668,
+            0.6850574985146523,
+            0.6665718844160438
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            28,
+            56,
+            80
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Date",
+        "value": "3-3-70",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2818749248981476,
+            0.93796306848526,
+            0.35092461854219437,
+            0.9481075992807746
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            29,
+            57,
+            81
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Contract Number",
+        "value": "Serial No. 740,007",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3934488296508789,
+            0.39235928654670715,
+            0.6054055988788605,
+            0.40483727399259806
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            37
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "Sieg-run D. Kane",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.08315622061491013,
+            0.19755031168460846,
+            0.18759318254888058,
+            0.20379388891160488
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            47,
+            75
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "Charles R. Hoffmann",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.40717777609825134,
+            0.8080312609672546,
+            0.6311968341469765,
+            0.8202474880963564
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    },
+    {
+        "ids": [
+            82
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Contract Number",
+        "value": "patent No. 3,403,202",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.6987096071243286,
+            0.6354799270629883,
+            0.9332009926438332,
+            0.6490981318056583
+        ],
+        "source_file": "votes_fhhj0137_page1.csv"
+    }
+]

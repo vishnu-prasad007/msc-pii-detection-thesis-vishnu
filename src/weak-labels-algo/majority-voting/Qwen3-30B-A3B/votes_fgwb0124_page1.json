@@ -1,0 +1,279 @@
+[
+    {
+        "ids": [
+            0,
+            11,
+            21
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Person Name",
+        "value": "Ruby Handles",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1494,
+            2937,
+            2305,
+            3099
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            12,
+            22
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Location",
+        "value": "Address 220",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1252,
+            3045,
+            1657,
+            3106
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            13,
+            23
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "GRAHAM ADVERTISING",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1116,
+            262,
+            1669,
+            308
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            14
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "Lorillard",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            727,
+            384,
+            970,
+            426
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            4,
+            15,
+            24
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "MCA-GRAHAM Advertising",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            813,
+            786,
+            1501,
+            835
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            16,
+            25
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "Loews Theatres, Inc.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            139,
+            841,
+            695,
+            894
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "Lorillard, A Division of Loews Theatres, Inc.",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1106,
+            2057,
+            2295,
+            2111
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            7,
+            18
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "MCA- GRAHAM Advertising Advertising.",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            636,
+            2287,
+            1363,
+            2339
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            8
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "Lorillard",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1403,
+            2288,
+            1658,
+            2338
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            9,
+            19
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "Lorillard",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            790,
+            2171,
+            1030,
+            2215
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            10,
+            20,
+            27
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Date",
+        "value": "Date 12-5-78",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1348,
+            3116,
+            1959,
+            3210
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            17
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "Lorillard",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1106,
+            2057,
+            1359,
+            2106
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            26
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "Loews Theatres, Inc.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1744,
+            2058,
+            2295,
+            2111
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.3333333333333333
+    }
+]

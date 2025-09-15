@@ -1,0 +1,192 @@
+[
+  {
+    "ids": [
+      0,
+      4,
+      7
+    ],
+    "doc_id": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page3",
+    "pii_type": "Email Address",
+    "value": "AR@grahammedia.com",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      164,
+      96,
+      319,
+      107
+    ],
+    "source_file": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      1,
+      5
+    ],
+    "doc_id": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page3",
+    "pii_type": "Location",
+    "value": "P.O. Box 933520",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      165,
+      70,
+      272,
+      80
+    ],
+    "source_file": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      2,
+      6
+    ],
+    "doc_id": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page3",
+    "pii_type": "Location",
+    "value": "Atlanta, GA 31193-3520",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      164,
+      83,
+      321,
+      94
+    ],
+    "source_file": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      3
+    ],
+    "doc_id": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page3",
+    "pii_type": "Invoice Number",
+    "value": "541602-1",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      506,
+      60,
+      552,
+      67
+    ],
+    "source_file": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      8,
+      9,
+      11
+    ],
+    "doc_id": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page3",
+    "pii_type": "Date",
+    "value": "01/26/20",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      506,
+      72,
+      549,
+      80
+    ],
+    "source_file": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      10
+    ],
+    "doc_id": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page3",
+    "pii_type": "Date",
+    "value": "12/30/19",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      709,
+      72,
+      752,
+      80
+    ],
+    "source_file": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      12
+    ],
+    "doc_id": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page3",
+    "pii_type": "Date",
+    "value": "01/26/20",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      181,
+      260,
+      224,
+      268
+    ],
+    "source_file": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      13
+    ],
+    "doc_id": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page3",
+    "pii_type": "Date",
+    "value": "01/20/20",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      116,
+      260,
+      159,
+      268
+    ],
+    "source_file": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      14
+    ],
+    "doc_id": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page3",
+    "pii_type": "Date",
+    "value": "01/26/20",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      181,
+      332,
+      224,
+      340
+    ],
+    "source_file": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page3.csv"
+  },
+  {
+    "ids": [
+      15
+    ],
+    "doc_id": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page3",
+    "pii_type": "Date",
+    "value": "01/20/20",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      116,
+      332,
+      159,
+      340
+    ],
+    "source_file": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page3.csv"
+  }
+]

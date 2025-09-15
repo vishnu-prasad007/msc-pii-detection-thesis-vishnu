@@ -1,0 +1,386 @@
+[
+    {
+        "ids": [
+            0,
+            12,
+            26
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Person Name",
+        "value": "J. Burnside, Ph.D.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            930,
+            855,
+            1544,
+            916
+        ],
+        "source_file": "votes_fgph0228_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            1,
+            13,
+            27
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Person Name",
+        "value": "S. Ambrose",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1135,
+            950,
+            1482,
+            1005
+        ],
+        "source_file": "votes_fgph0228_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            2,
+            14,
+            28
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Location",
+        "value": "5050 Beech Place",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            348,
+            461,
+            775,
+            508
+        ],
+        "source_file": "votes_fgph0228_page1.csv",
+        "probability": 0.996034042417568
+    },
+    {
+        "ids": [
+            3,
+            15,
+            29
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Location",
+        "value": "Temple Hills, Maryland 20748",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            347,
+            513,
+            1077,
+            571
+        ],
+        "source_file": "votes_fgph0228_page1.csv",
+        "probability": 0.996034042417568
+    },
+    {
+        "ids": [
+            4,
+            17,
+            31
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Organization Name",
+        "value": "Borriston Laboratories, Inc.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            349,
+            401,
+            1000,
+            451
+        ],
+        "source_file": "votes_fgph0228_page1.csv",
+        "probability": 0.9900025300515797
+    },
+    {
+        "ids": [
+            5,
+            32
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Organization Name",
+        "value": "Charles River Breeding Laboratories",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            932,
+            3482,
+            2167,
+            3548
+        ],
+        "source_file": "votes_fgph0228_page1.csv",
+        "probability": 0.8132620043598049
+    },
+    {
+        "ids": [
+            6,
+            18,
+            33
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Date",
+        "value": "2-24-83",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2548,
+            854,
+            2790,
+            905
+        ],
+        "source_file": "votes_fgph0228_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            7,
+            19,
+            34
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Date",
+        "value": "3-01-83",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2549,
+            950,
+            2789,
+            1001
+        ],
+        "source_file": "votes_fgph0228_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            8,
+            35
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Date",
+        "value": "March 1983",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            2370,
+            1044,
+            2720,
+            1098
+        ],
+        "source_file": "votes_fgph0228_page1.csv",
+        "probability": 0.8919581073985893
+    },
+    {
+        "ids": [
+            9,
+            20,
+            36
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Date",
+        "value": "12-03-82, 1-28-83 12-03-82",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1933,
+            2157,
+            2517,
+            2215
+        ],
+        "source_file": "votes_fgph0228_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            10,
+            37
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Date",
+        "value": "1-12-83, 1-28-83",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1967,
+            2252,
+            2516,
+            2311
+        ],
+        "source_file": "votes_fgph0228_page1.csv",
+        "probability": 0.8919581073985893
+    },
+    {
+        "ids": [
+            11,
+            38
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Date",
+        "value": "1-20-83, 2-14-83",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1966,
+            2347,
+            2517,
+            2405
+        ],
+        "source_file": "votes_fgph0228_page1.csv",
+        "probability": 0.8919581073985893
+    },
+    {
+        "ids": [
+            16,
+            30
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Location",
+        "value": "Charles River Breeding Laboratories, Wilmington, Massachusetts",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            932,
+            3482,
+            3076,
+            3549
+        ],
+        "source_file": "votes_fgph0228_page1.csv",
+        "probability": 0.5538903041420955
+    },
+    {
+        "ids": [
+            21
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Date",
+        "value": "1-12-83",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1967,
+            2252,
+            2235,
+            2311
+        ],
+        "source_file": "votes_fgph0228_page1.csv",
+        "probability": 0.021763954864900913
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Date",
+        "value": "1-20-83",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1966,
+            2347,
+            2229,
+            2405
+        ],
+        "source_file": "votes_fgph0228_page1.csv",
+        "probability": 0.021763954864900913
+    },
+    {
+        "ids": [
+            23
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Date",
+        "value": "1-28-83",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            2277,
+            2157,
+            2517,
+            2208
+        ],
+        "source_file": "votes_fgph0228_page1.csv",
+        "probability": 0.021763954864900913
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Date",
+        "value": "1-28-83",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            2278,
+            2253,
+            2516,
+            2302
+        ],
+        "source_file": "votes_fgph0228_page1.csv",
+        "probability": 0.021763954864900913
+    },
+    {
+        "ids": [
+            25
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Date",
+        "value": "2-14-83",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            2274,
+            2347,
+            2517,
+            2396
+        ],
+        "source_file": "votes_fgph0228_page1.csv",
+        "probability": 0.021763954864900913
+    }
+]

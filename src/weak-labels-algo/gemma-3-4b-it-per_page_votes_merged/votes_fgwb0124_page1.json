@@ -1,0 +1,671 @@
+[
+    {
+        "ids": [
+            0
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Person Name",
+        "value": "GRAHAM",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.43589919805526733,
+            0.08182697743177414,
+            0.5112627372145653,
+            0.09319605678319931
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            21,
+            50
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Person Name",
+        "value": "Ruby Handles",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5834451913833618,
+            0.8881598114967346,
+            0.9002681374549866,
+            0.9371648579835892
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            28,
+            29,
+            31,
+            54,
+            58
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": [
+            "Phone Number",
+            "Email Address",
+            "Location"
+        ],
+        "value": "220",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5768770575523376,
+            0.9215831756591797,
+            0.6473802328109741,
+            0.9391722064465284
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            7,
+            30,
+            37,
+            62
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": [
+            "Date",
+            "Phone Number",
+            "Location"
+        ],
+        "value": "12-5-78",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.582344114780426,
+            0.9422664642333984,
+            0.7651309967041016,
+            0.9707328546792269
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            32,
+            49,
+            55,
+            59,
+            64
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number",
+            "Organization Name",
+            "Location"
+        ],
+        "value": "GRAHAM ADVERTISING",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.43589919805526733,
+            0.07937310636043549,
+            0.6518495976924896,
+            0.09319605678319931
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            33,
+            60
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "Lorillard",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2839081287384033,
+            0.11622878164052963,
+            0.37882639467716217,
+            0.12880346830934286
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            61
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "MCA-GRAHAM Advertising",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.31769880652427673,
+            0.23759104311466217,
+            0.5862618684768677,
+            0.25261775590479374
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            38,
+            63
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Date",
+        "value": "Date",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.05648594722151756,
+            0.9532838463783264,
+            0.10304075106978416,
+            0.9677606532350183
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            39
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "For good and valuable consideration,",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.056214477866888046,
+            0.14759337902069092,
+            0.4244084507226944,
+            0.16626206133514643
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "I, for myself, my heirs, successors, executors, administrators assigns, licensees,",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.0538942813873291,
+            0.20018090307712555,
+            0.9188057854771614,
+            0.21752549149096012
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "hereby",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.7881275415420532,
+            0.2178608775138855,
+            0.8582840636372566,
+            0.2354481779038906
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            12,
+            40
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "I hereby warrant that I have not entered into any agreement in conflict with the terms",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.054990317672491074,
+            0.5008288025856018,
+            0.9145578444004059,
+            0.5177846010774374
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            13,
+            41
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "Ihereby warrant that for a period of one year imm'ediately heretofore to date,",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.1447203904390335,
+            0.5175303816795349,
+            0.9300048276782036,
+            0.5348940175026655
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            14,
+            42
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "rights granted by me, as set forth hereinabove, have not been in effect with respect to",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.053756844252347946,
+            0.5360537767410278,
+            0.9266036562621593,
+            0.5525087714195251
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            15,
+            43
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "any tobacco product or company and I will not authorize or permit such grants for one",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.055364131927490234,
+            0.552897036075592,
+            0.9237752296030521,
+            0.5697911866009235
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            16,
+            44
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "year hereafter. I further warrant that I have not, immediately heretofore, for a period",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.05483446270227432,
+            0.5698913335800171,
+            0.9369747340679169,
+            0.586803762242198
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            17,
+            45
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "of one year permitted the use of my likeness in connection with any product, service or",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.055271245539188385,
+            0.5872458219528198,
+            0.9395490046590567,
+            0.6037594629451632
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            18,
+            46
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "campaign antithetical to smoking, nor will I for a period of one year hereafter.",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.05532033368945122,
+            0.604169487953186,
+            0.8517593294382095,
+            0.6212808266282082
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            19,
+            47
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "I hereby sell, assign and transfer to Lorillard, A Division of Loews Theatres, Inc. all",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.05571313947439194,
+            0.6219813823699951,
+            0.9371708240360022,
+            0.6385108605027199
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            20,
+            48
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "my right, title and inter est in and to all the reproductions (referred to above).",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.05653766542673111,
+            0.6391236186027527,
+            0.8429712131619453,
+            0.6554227052256465
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Person Name",
+        "value": "me",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.8057161569595337,
+            0.34631529450416565,
+            0.8360840640962124,
+            0.35626211296766996
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            23
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Person Name",
+        "value": "name",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.7415814995765686,
+            0.3640654981136322,
+            0.8009748049080372,
+            0.3761737337335944
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Person Name",
+        "value": "endorsement",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.05471087247133255,
+            0.3790301978588104,
+            0.1837487891316414,
+            0.39175053499639034
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            25
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Person Name",
+        "value": "date",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.8799474835395813,
+            0.5188698172569275,
+            0.9300048276782036,
+            0.5342033132910728
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            26
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Person Name",
+        "value": "any of them",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.5207109451293945,
+            0.7265909314155579,
+            0.6432898715138435,
+            0.742995910346508
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            27
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Person Name",
+        "value": "any of them",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.057445839047431946,
+            0.7796337008476257,
+            0.22329089418053627,
+            0.7960183750838041
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            34,
+            52,
+            57,
+            67
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number",
+            "Organization Name",
+            "Location"
+        ],
+        "value": "Loews Theatres, Inc.",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.05413530394434929,
+            0.2543655335903168,
+            0.2713383287191391,
+            0.27046909369528294
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            35,
+            51,
+            53,
+            66
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": [
+            "Person Name",
+            "Organization Name",
+            "Contract Number"
+        ],
+        "value": "Lorillard",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.6494385004043579,
+            0.23637820780277252,
+            0.7487918511033058,
+            0.252031059935689
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            36,
+            68
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": [
+            "Organization Name",
+            "Contract Number"
+        ],
+        "value": "Lorillard",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.431855171918869,
+            0.6220621466636658,
+            0.5309537127614021,
+            0.6368674039840698
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            56,
+            65
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "Lorillard Individual Consent and Release Form",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.2839081287384033,
+            0.11245643347501755,
+            0.7555923834443092,
+            0.12880346830934286
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            69
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "Lorillard",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.3085907995700836,
+            0.6566123962402344,
+            0.40226782858371735,
+            0.6696476750075817
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            70
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "Lorillard",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.548014223575592,
+            0.6919253468513489,
+            0.6474793925881386,
+            0.7069511441513896
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    }
+]

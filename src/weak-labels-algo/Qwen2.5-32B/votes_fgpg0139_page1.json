@@ -1,0 +1,216 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            15
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. R. D. Chumney, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            179,
+            209,
+            471,
+            230
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            1,
+            8,
+            16
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Person Name",
+        "value": "J. E. Mann",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            181,
+            275,
+            315,
+            292
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            2,
+            9,
+            17
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Person Name",
+        "value": "D. E. Cawthon",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            220,
+            275,
+            554,
+            292
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            3,
+            10
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Location",
+        "value": "Reidsville",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            578,
+            888,
+            711,
+            906
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "probability": 0.805963146072398
+    },
+    {
+        "ids": [
+            4,
+            11,
+            18
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Organization Name",
+        "value": "MALIBU",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            392,
+            1065,
+            475,
+            1083
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "probability": 0.9900025300515797
+    },
+    {
+        "ids": [
+            5,
+            12
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Organization Name",
+        "value": "PT Bukit Muria Jaya",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            394,
+            1109,
+            645,
+            1129
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "probability": 0.722640459594319
+    },
+    {
+        "ids": [
+            6,
+            14,
+            19
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Date",
+        "value": "May 13, 1993",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            871,
+            209,
+            1030,
+            230
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            13
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Organization Name",
+        "value": "Mundet",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            392,
+            1131,
+            473,
+            1148
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "probability": 0.040467674674375356
+    },
+    {
+        "ids": [
+            20
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "BR-252",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            314,
+            735,
+            393,
+            752
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "probability": 0.06019907678829865
+    },
+    {
+        "ids": [
+            21
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "BR-253",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            313,
+            757,
+            393,
+            773
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "probability": 0.06019907678829865
+    }
+]

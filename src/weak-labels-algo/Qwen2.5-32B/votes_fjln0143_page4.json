@@ -1,0 +1,29 @@
+[
+    {
+        "ids": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "doc_id": "votes_fjln0143_page4",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "6761 5 5 5 5 5 9",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            299,
+            1435,
+            620,
+            1479
+        ],
+        "source_file": "votes_fjln0143_page4.csv",
+        "probability": 1.0
+    }
+]

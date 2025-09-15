@@ -1,0 +1,163 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            14
+        ],
+        "doc_id": "votes_fgjy0234_page2",
+        "pii_type": "Person Name",
+        "value": "Ed Grelle",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            149,
+            146,
+            338,
+            180
+        ],
+        "source_file": "votes_fgjy0234_page2.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            1,
+            8,
+            15
+        ],
+        "doc_id": "votes_fgjy0234_page2",
+        "pii_type": "Phone Number",
+        "value": "Tel: 314-654-3549",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            148,
+            529,
+            533,
+            562
+        ],
+        "source_file": "votes_fgjy0234_page2.csv",
+        "probability": 0.9999586296752602
+    },
+    {
+        "ids": [
+            2,
+            9,
+            16
+        ],
+        "doc_id": "votes_fgjy0234_page2",
+        "pii_type": "Phone Number",
+        "value": "cell: 314-402-2317",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            150,
+            604,
+            537,
+            639
+        ],
+        "source_file": "votes_fgjy0234_page2.csv",
+        "probability": 0.9999586296752602
+    },
+    {
+        "ids": [
+            3,
+            10,
+            17
+        ],
+        "doc_id": "votes_fgjy0234_page2",
+        "pii_type": "Location",
+        "value": "675 McDonnell Blvd.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            150,
+            376,
+            549,
+            410
+        ],
+        "source_file": "votes_fgjy0234_page2.csv",
+        "probability": 0.9994942493793072
+    },
+    {
+        "ids": [
+            4,
+            11,
+            18
+        ],
+        "doc_id": "votes_fgjy0234_page2",
+        "pii_type": "Location",
+        "value": "Hazelwood, MO 63042",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            150,
+            452,
+            595,
+            491
+        ],
+        "source_file": "votes_fgjy0234_page2.csv",
+        "probability": 0.9994942493793072
+    },
+    {
+        "ids": [
+            5,
+            12,
+            19
+        ],
+        "doc_id": "votes_fgjy0234_page2",
+        "pii_type": "Organization Name",
+        "value": "Covidien",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            149,
+            300,
+            319,
+            333
+        ],
+        "source_file": "votes_fgjy0234_page2.csv",
+        "probability": 0.997213720928886
+    },
+    {
+        "ids": [
+            6,
+            13,
+            20
+        ],
+        "doc_id": "votes_fgjy0234_page2",
+        "pii_type": "Contract Number",
+        "value": "MNKOI 0000280196",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2088,
+            3304,
+            2470,
+            3340
+        ],
+        "source_file": "votes_fgjy0234_page2.csv",
+        "probability": 0.9777882244243308
+    }
+]

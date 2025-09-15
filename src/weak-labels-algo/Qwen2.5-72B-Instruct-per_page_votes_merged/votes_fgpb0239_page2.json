@@ -1,0 +1,758 @@
+[
+    {
+        "ids": [
+            0,
+            22,
+            56
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Person Name",
+        "value": "Trudy",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2929878234863281,
+            0.047920700162649155,
+            0.3397121876478195,
+            0.0605514831840992
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            1,
+            23,
+            57
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Person Name",
+        "value": "Hightower, Annette",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.40076112747192383,
+            0.196059450507164,
+            0.558299332857132,
+            0.20856500510126352
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            2
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Person Name",
+        "value": "Annette Hightower",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.3521973490715027,
+            0.5756229758262634,
+            0.4701985791325569,
+            0.586018213070929
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            3,
+            24
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Email Address",
+        "value": "ahightower@innovatix.com",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.6200295686721802,
+            0.6233422160148621,
+            0.8208169937133789,
+            0.635110323317349
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            4,
+            58
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Email Address",
+        "value": "Jane.WILLIAMS@mallinckrodt.com",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.5227279663085938,
+            0.22944007813930511,
+            0.7964632213115692,
+            0.2411130927503109
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            5,
+            25,
+            59
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Phone Number",
+        "value": "212-901-1307 o:",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.35266584157943726,
+            0.6234077215194702,
+            0.47370702028274536,
+            0.6336974753066897
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            6
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Phone Number",
+        "value": "646-638-0792",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.4988502860069275,
+            0.6232956647872925,
+            0.6018518432974815,
+            0.6334922388195992
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            7,
+            26,
+            60
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Location",
+        "value": "555 W. 57th Street, 12th Floor New York, NY 10019",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.47026947140693665,
+            0.6063797473907471,
+            0.8564639538526535,
+            0.6184801300987601
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            8,
+            27,
+            61
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Innovatix, LLC",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3529011607170105,
+            0.5621417760848999,
+            0.43784112855792046,
+            0.5717228716239333
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            9,
+            28,
+            62
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt, Inc.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7335055470466614,
+            0.35623860359191895,
+            0.8444680757820606,
+            0.36841328628361225
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            10,
+            29,
+            63
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Tyco Healthcare Com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.8607685565948486,
+            0.35634708404541016,
+            0.9995337445288897,
+            0.3681273087859154
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Innovatix, LLC",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.3530733287334442,
+            0.6066365838050842,
+            0.4541282672435045,
+            0.6183576127514243
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            12,
+            46,
+            64
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Date",
+        "value": "November 11, 2013, 10:26:17 AM EST",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3971574604511261,
+            0.21291780471801758,
+            0.6740536242723465,
+            0.22451057191938162
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            13,
+            47,
+            65
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406900076",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6265414953231812,
+            0.35604748129844666,
+            0.7168164476752281,
+            0.3663030555471778
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            14,
+            48,
+            66
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406907576",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6267160177230835,
+            0.37591537833213806,
+            0.716373398900032,
+            0.38642054609954357
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            15,
+            49,
+            67
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406036501",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6268372535705566,
+            0.3961670696735382,
+            0.7154666632413864,
+            0.406248246319592
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            16,
+            50,
+            68
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406036562",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6270251870155334,
+            0.41584792733192444,
+            0.7160416170954704,
+            0.4259722763672471
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            17,
+            51,
+            69
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406036601",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6270241737365723,
+            0.43602871894836426,
+            0.7149348556995392,
+            0.4458066327497363
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            18,
+            52,
+            70
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406036662",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6274680495262146,
+            0.4561378061771393,
+            0.7151693627238274,
+            0.4657921027392149
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            19,
+            53,
+            71
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406345434",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6268945336341858,
+            0.4758492410182953,
+            0.7159410268068314,
+            0.48540177196264267
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            20,
+            54,
+            72
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406577101",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6269729137420654,
+            0.4957675039768219,
+            0.7147557511925697,
+            0.5053571853786707
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            21,
+            55,
+            73
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406577162",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6270938515663147,
+            0.5155681371688843,
+            0.7159523740410805,
+            0.5253523169085383
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            30
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt, Inc.",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.7334054708480835,
+            0.37615475058555603,
+            0.8444170113652945,
+            0.3880074927583337
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            31
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Tyco Healthcare Com",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.8608483672142029,
+            0.37633445858955383,
+            0.9995335675776005,
+            0.3879602998495102
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            32
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt, Inc.",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.7331419587135315,
+            0.39623335003852844,
+            0.8443700671195984,
+            0.40806831140071154
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            33
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Tyco Healthcare Com",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.8609957098960876,
+            0.39625614881515503,
+            0.9995495770126581,
+            0.4080107007175684
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            34
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt, Inc.",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.7330037951469421,
+            0.41589975357055664,
+            0.8444088995456696,
+            0.42758892197161913
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            35
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Tyco Healthcare Com",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.8610166311264038,
+            0.4159703850746155,
+            0.9996298290789127,
+            0.4278348255902529
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            36
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt, Inc.",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.7331266403198242,
+            0.4358956217765808,
+            0.8445443026721478,
+            0.4476611251011491
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            37
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Tyco Healthcare Com",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.861031711101532,
+            0.43599173426628113,
+            0.9995545092970133,
+            0.4478355310857296
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            38
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt, Inc.",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.7330410480499268,
+            0.455850213766098,
+            0.8445064015686512,
+            0.46755813993513584
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            39
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Tyco Healthcare Com",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.8609169721603394,
+            0.45593932271003723,
+            0.999577097594738,
+            0.4677384737879038
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            40
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt, Inc.",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.7331229448318481,
+            0.47559118270874023,
+            0.8445176165550947,
+            0.48719950020313263
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            41
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Tyco Healthcare Com",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.8609903454780579,
+            0.47567495703697205,
+            0.9995182622224092,
+            0.48749133199453354
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            42
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt, Inc.",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.7332145571708679,
+            0.4955543279647827,
+            0.8445750530809164,
+            0.5070987613871694
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            43
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Tyco Healthcare Com",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.8608632683753967,
+            0.49564459919929504,
+            0.9995732344686985,
+            0.5074012456461787
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            44
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt, Inc.",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.7330158352851868,
+            0.5155202150344849,
+            0.8445463851094246,
+            0.5270831622183323
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            45
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Tyco Healthcare Com",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.8608828783035278,
+            0.5156347155570984,
+            0.9994816649705172,
+            0.5273614944890141
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    }
+]

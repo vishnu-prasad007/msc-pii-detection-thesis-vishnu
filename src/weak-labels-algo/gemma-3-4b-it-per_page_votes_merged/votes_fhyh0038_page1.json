@@ -1,0 +1,427 @@
+[
+    {
+        "ids": [
+            0,
+            9,
+            21,
+            29,
+            42,
+            49
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "Susan Stuntz",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.23853644728660583,
+            0.13864663243293762,
+            0.3748275563120842,
+            0.14983577001839876
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            22,
+            43
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "Bob Lewis",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.23907659947872162,
+            0.15282541513442993,
+            0.34105443581938744,
+            0.16434337943792343
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            23,
+            30,
+            44,
+            50
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "Karen Fernicola Suhr",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2387918382883072,
+            0.18146581947803497,
+            0.46455348655581474,
+            0.19328174367547035
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            24,
+            45
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "Mark Smith",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4198831021785736,
+            0.25430551171302795,
+            0.5325414016842842,
+            0.2659708149731159
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            4
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "Whidden",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.12746188044548035,
+            0.28366973996162415,
+            0.21594356000423431,
+            0.29681927617639303
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "Smith",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.27585670351982117,
+            0.4715644419193268,
+            0.34146150946617126,
+            0.48453144263476133
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            10,
+            26,
+            31,
+            46,
+            51
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "Bonnie DeWitt",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1906524896621704,
+            0.8054248094558716,
+            0.33690619468688965,
+            0.8167998092249036
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            11,
+            27,
+            32,
+            35,
+            47,
+            52
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name",
+            "Phone Number"
+        ],
+        "value": "Jim Goold",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1898496001958847,
+            0.8197346329689026,
+            0.2920955643057823,
+            0.8309890273958445
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            12,
+            28,
+            33,
+            36,
+            48,
+            53
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name",
+            "Phone Number"
+        ],
+        "value": "John Rupp",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1901879757642746,
+            0.8346049189567566,
+            0.29181111976504326,
+            0.8479114612564445
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            13,
+            37,
+            54
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Location",
+        "value": "U.S. Senate",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.17471563816070557,
+            0.413489431142807,
+            0.29875636100769043,
+            0.42458468675613403
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            14,
+            38,
+            55
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Location",
+        "value": "House of Representatives",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3541073203086853,
+            0.41305074095726013,
+            0.6359477490186691,
+            0.4272868651896715
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            15
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Organization Name",
+        "value": "Edinburgh",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.3310791850090027,
+            0.29830342531204224,
+            0.4418037161231041,
+            0.3118663728237152
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            16,
+            39,
+            56
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Organization Name",
+        "value": "European Parliament",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.12916485965251923,
+            0.36945661902427673,
+            0.43476661294698715,
+            0.38283337093889713
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            17,
+            57
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Organization Name",
+        "value": "U.S. House of Representatives",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.17471563816070557,
+            0.41305074095726013,
+            0.6359477490186691,
+            0.4272868651896715
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            18
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Organization Name",
+        "value": "Florida",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.4443540573120117,
+            0.31223824620246887,
+            0.5217047408223152,
+            0.32371312007308006
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            19,
+            40,
+            58
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Date",
+        "value": "April 14, 1993",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5176428556442261,
+            0.08000599592924118,
+            0.6748900152742863,
+            0.09439431689679623
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            20,
+            41,
+            59
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Contract Number",
+        "value": "TI31861787",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.8669354915618896,
+            0.9587181210517883,
+            0.9747713878750801,
+            0.9726417046040297
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            25
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "Sen. Mack",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.26451244950294495,
+            0.42788922786712646,
+            0.36776965484023094,
+            0.43927473574876785
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            34
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Phone Number",
+        "value": "Senator Connie Mack's",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.5976288318634033,
+            0.25427448749542236,
+            0.8343832641839981,
+            0.26614332292228937
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    }
+]

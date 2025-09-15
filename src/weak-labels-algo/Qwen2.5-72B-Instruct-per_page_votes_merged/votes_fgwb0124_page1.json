@@ -1,0 +1,122 @@
+[
+    {
+        "ids": [
+            0,
+            4,
+            8
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Person Name",
+        "value": "Ruby Handles",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5834451913833618,
+            0.8881598114967346,
+            0.9002681374549866,
+            0.9371648579835892
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            5
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Location",
+        "value": "220",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.5768770575523376,
+            0.9215831756591797,
+            0.6473802328109741,
+            0.9391722064465284
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            6,
+            10
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "GRAHAM ADVERTISING",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.43589919805526733,
+            0.07937310636043549,
+            0.6518495976924896,
+            0.09319605678319931
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            7
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "Loews Theatres, Inc.",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.6812569499015808,
+            0.6222168207168579,
+            0.8964733295142651,
+            0.6384874507784843
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            9
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Location",
+        "value": "Address 220",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.48907971382141113,
+            0.920876145362854,
+            0.6473802328109741,
+            0.9391722064465284
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Date",
+        "value": "12-5-78",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.582344114780426,
+            0.9422664642333984,
+            0.7651309967041016,
+            0.9707328546792269
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    }
+]

@@ -1,0 +1,490 @@
+[
+    {
+        "ids": [
+            0,
+            22,
+            36
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "Susan Stuntz",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.23853644728660583,
+            0.13864663243293762,
+            0.3748275563120842,
+            0.14983577001839876
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            23,
+            37
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "Bob Lewis",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.23907659947872162,
+            0.15282541513442993,
+            0.34105443581938744,
+            0.16434337943792343
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            24,
+            38
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "Karen Fernicola Suhr",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2387918382883072,
+            0.18146581947803497,
+            0.46455348655581474,
+            0.19328174367547035
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            25,
+            39
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "Mark Smith",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4198831021785736,
+            0.25430551171302795,
+            0.5325414016842842,
+            0.2659708149731159
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            4
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "Sen. Mack",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.5988796353340149,
+            0.3130299150943756,
+            0.701547097414732,
+            0.32387882471084595
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "Whidden",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.2965538203716278,
+            0.3407667279243469,
+            0.3775397464632988,
+            0.35240674298256636
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            6
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "Sen. Mack",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.26451244950294495,
+            0.42788922786712646,
+            0.36776965484023094,
+            0.43927473574876785
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            41
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "Whidden",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.7687612771987915,
+            0.48604488372802734,
+            0.8508974760770798,
+            0.4974052356556058
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            40
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "Smith",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.27585670351982117,
+            0.4715644419193268,
+            0.34146150946617126,
+            0.48453144263476133
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            26
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "Sen. Mack",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.7149057984352112,
+            0.6030406951904297,
+            0.8183258175849915,
+            0.6140501722693443
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            27,
+            42
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "Bonnie DeWitt",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1906524896621704,
+            0.8054248094558716,
+            0.33690619468688965,
+            0.8167998092249036
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            11,
+            28,
+            43
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "Jim Goold",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1898496001958847,
+            0.8197346329689026,
+            0.2920955643057823,
+            0.8309890273958445
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            12,
+            29,
+            44
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "John Rupp",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1901879757642746,
+            0.8346049189567566,
+            0.29181111976504326,
+            0.8479114612564445
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            13
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "Senator Connie Mack's",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.5976288318634033,
+            0.25427448749542236,
+            0.8343832641839981,
+            0.26614332292228937
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            14,
+            30,
+            45
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Location",
+        "value": "Florida",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4443540573120117,
+            0.31223824620246887,
+            0.5217047408223152,
+            0.32371312007308006
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            15,
+            46
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Location",
+        "value": "U.S.A.",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.47758787870407104,
+            0.44309908151626587,
+            0.5419428646564484,
+            0.45375736616551876
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            16,
+            47
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Location",
+        "value": "U.S.",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.29700106382369995,
+            0.38462328910827637,
+            0.3406453914940357,
+            0.39529463555663824
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            17
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Location",
+        "value": "European Parliament",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.12916485965251923,
+            0.36945661902427673,
+            0.43476661294698715,
+            0.38283337093889713
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            18
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Location",
+        "value": "U.S. Senate",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.17471563816070557,
+            0.413489431142807,
+            0.29875636100769043,
+            0.42458468675613403
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            19,
+            33
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Location",
+        "value": "House of Representatives U.S. Senate and",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.17471563816070557,
+            0.41305074095726013,
+            0.6359477490186691,
+            0.4272868651896715
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            20,
+            34,
+            50
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Date",
+        "value": "April 14, 1993",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5176428556442261,
+            0.08000599592924118,
+            0.6748900152742863,
+            0.09439431689679623
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            21,
+            35,
+            51
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Contract Number",
+        "value": "TI31861787",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.8669354915618896,
+            0.9587181210517883,
+            0.9747713878750801,
+            0.9726417046040297
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            31,
+            48
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Location",
+        "value": "British",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.7684198617935181,
+            0.3550812900066376,
+            0.8492954522371292,
+            0.3665767330676317
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    },
+    {
+        "ids": [
+            32,
+            49
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Location",
+        "value": "Europe",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.3432947099208832,
+            0.37014615535736084,
+            0.43476661294698715,
+            0.38283337093889713
+        ],
+        "source_file": "votes_fhyh0038_page1.csv"
+    }
+]

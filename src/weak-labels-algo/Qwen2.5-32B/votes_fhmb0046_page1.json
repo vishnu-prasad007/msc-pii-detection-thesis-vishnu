@@ -1,0 +1,111 @@
+[
+    {
+        "ids": [
+            0,
+            8
+        ],
+        "doc_id": "votes_fhmb0046_page1",
+        "pii_type": "Person Name",
+        "value": "Martha",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            362,
+            1057,
+            534,
+            1090
+        ],
+        "source_file": "votes_fhmb0046_page1.csv",
+        "probability": 0.8128964067822458
+    },
+    {
+        "ids": [
+            1,
+            4,
+            9
+        ],
+        "doc_id": "votes_fhmb0046_page1",
+        "pii_type": "Person Name",
+        "value": "Marty Gleason",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            488,
+            1747,
+            817,
+            1788
+        ],
+        "source_file": "votes_fhmb0046_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            2,
+            6,
+            10
+        ],
+        "doc_id": "votes_fhmb0046_page1",
+        "pii_type": "Date",
+        "value": "February 13, 1991",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            368,
+            882,
+            789,
+            924
+        ],
+        "source_file": "votes_fhmb0046_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            3,
+            7,
+            11
+        ],
+        "doc_id": "votes_fhmb0046_page1",
+        "pii_type": "Contract Number",
+        "value": "T14181-4307",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2117,
+            3139,
+            2380,
+            3178
+        ],
+        "source_file": "votes_fhmb0046_page1.csv",
+        "probability": 0.9662050027718209
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fhmb0046_page1",
+        "pii_type": "Organization Name",
+        "value": "https://www.industrydocuments.ucsf.edu",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            530,
+            3160,
+            1968,
+            3214
+        ],
+        "source_file": "votes_fhmb0046_page1.csv",
+        "probability": 0.040467674674375356
+    }
+]

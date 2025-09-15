@@ -1,0 +1,575 @@
+[
+    {
+        "ids": [
+            0,
+            25,
+            50
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "Becker, Steven A",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            499,
+            354,
+            827,
+            394
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            1,
+            26,
+            51
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "Steven Becker",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            300,
+            882,
+            576,
+            915
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            2,
+            28,
+            54
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "D'Andrea, Michael",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            423,
+            1265,
+            762,
+            1305
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            3,
+            29,
+            52
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "Becker, Steven A",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            372,
+            1360,
+            700,
+            1400
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            4,
+            27,
+            53
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "Yaeger, Ed",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            373,
+            1408,
+            584,
+            1450
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            5,
+            30,
+            55
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "Becker, Steven A",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            423,
+            1887,
+            750,
+            1927
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            6,
+            31,
+            56
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "D'Andrea, Michael",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            373,
+            1983,
+            713,
+            2023
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            7,
+            32,
+            57
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "Steven Becker",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            299,
+            2319,
+            574,
+            2354
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            8,
+            33,
+            58
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "D'Andrea, Michael",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            423,
+            2701,
+            763,
+            2743
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            9,
+            34,
+            59
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "Becker, Steven A",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            373,
+            2798,
+            699,
+            2837
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            10,
+            35,
+            60
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Email Address",
+        "value": "steven.becker@covidien.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            300,
+            1216,
+            853,
+            1259
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.9999955672848969
+    },
+    {
+        "ids": [
+            11,
+            36,
+            61
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Email Address",
+        "value": "steven.becker@covidien.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            299,
+            2653,
+            849,
+            2697
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.9999955672848969
+    },
+    {
+        "ids": [
+            12,
+            37,
+            62
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Phone Number",
+        "value": "651454 2736 Tel",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            298,
+            1073,
+            611,
+            1108
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.9999586296752602
+    },
+    {
+        "ids": [
+            13,
+            38,
+            63
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Phone Number",
+        "value": "651 260 4668 Cell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            299,
+            1121,
+            637,
+            1156
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.9999586296752602
+    },
+    {
+        "ids": [
+            14,
+            39,
+            64
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Phone Number",
+        "value": "651 405 1885 Fax",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            300,
+            1169,
+            635,
+            1204
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.9999586296752602
+    },
+    {
+        "ids": [
+            15,
+            40,
+            65
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Phone Number",
+        "value": "651454 2736 Tel",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            298,
+            2509,
+            611,
+            2545
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.9999586296752602
+    },
+    {
+        "ids": [
+            16,
+            41,
+            66
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Phone Number",
+        "value": "651 260 4668 Cell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            299,
+            2557,
+            637,
+            2594
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.9999586296752602
+    },
+    {
+        "ids": [
+            17,
+            42,
+            67
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Phone Number",
+        "value": "651 405 1885 Fax",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            300,
+            2605,
+            634,
+            2641
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.9999586296752602
+    },
+    {
+        "ids": [
+            18,
+            43,
+            68
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Organization Name",
+        "value": "Covidien Mallinckrodt",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            299,
+            1025,
+            701,
+            1060
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.997213720928886
+    },
+    {
+        "ids": [
+            19,
+            44,
+            69
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Organization Name",
+        "value": "Covidien Mallinckrodt",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            298,
+            2462,
+            702,
+            2496
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.997213720928886
+    },
+    {
+        "ids": [
+            20,
+            45,
+            70
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Date",
+        "value": "Thur 12/15/2011 5:21:29 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            498,
+            402,
+            1030,
+            437
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.9999750930787068
+    },
+    {
+        "ids": [
+            21,
+            46,
+            71
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Date",
+        "value": "Thursday, December 15, 2011 9:13 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            408,
+            1312,
+            1142,
+            1354
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.9999750930787068
+    },
+    {
+        "ids": [
+            22,
+            47,
+            72
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Date",
+        "value": "Thursday, December 15, 2011 9:57 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            409,
+            1935,
+            1140,
+            1977
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.9999750930787068
+    },
+    {
+        "ids": [
+            23,
+            48,
+            73
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Date",
+        "value": "Thursday, December 15, 2011 8:49 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            409,
+            2748,
+            1141,
+            2792
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.9999750930787068
+    },
+    {
+        "ids": [
+            24,
+            49
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Contract Number",
+        "value": "MNKOI 0001856177",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            2088,
+            3304,
+            2469,
+            3340
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.8372266367153558
+    }
+]

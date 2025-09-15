@@ -1,0 +1,324 @@
+[
+    {
+        "ids": [
+            0,
+            13,
+            27
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Person Name",
+        "value": "L. R: LEWIS",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16879485547542572,
+            0.09168285876512527,
+            0.2665075436234474,
+            0.10278527718037367
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            14,
+            28
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Person Name",
+        "value": "I. E. WHITEHAIR",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.411817342042923,
+            0.09297602623701096,
+            0.5421189442276955,
+            0.10324324294924736
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            15,
+            29
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Person Name",
+        "value": "M. L. Reynolds",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16909371316432953,
+            0.13144275546073914,
+            0.29210373014211655,
+            0.14274639543145895
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            16,
+            30
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Person Name",
+        "value": "L. E. Gravely",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.19559355080127716,
+            0.13090305030345917,
+            0.5190259367227554,
+            0.14332619681954384
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            17,
+            31
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Person Name",
+        "value": "W. Deines",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6472850441932678,
+            0.1305832415819168,
+            0.7274174690246582,
+            0.14057743269950151
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            18,
+            32
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Person Name",
+        "value": "A. J. Mellman",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1688438206911087,
+            0.14438846707344055,
+            0.2841751202940941,
+            0.15485719125717878
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            19,
+            33
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Person Name",
+        "value": "H. Woertz",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4057183861732483,
+            0.1442459672689438,
+            0.4841156229376793,
+            0.15412238147109747
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            20,
+            34
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Person Name",
+        "value": "T. Riehl",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1694292575120926,
+            0.1580396592617035,
+            0.23973257839679718,
+            0.1680007567629218
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            21,
+            35
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Person Name",
+        "value": "J. D. Woods",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4060969948768616,
+            0.15710018575191498,
+            0.5007420517504215,
+            0.16762378625571728
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            36
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Person Name",
+        "value": "B. R. PELLETT/smc",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.16988080739974976,
+            0.1840008944272995,
+            0.3181452304124832,
+            0.19495900440961123
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            22,
+            37
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Organization Name",
+        "value": "BROWN . WILLIAMSON TOBACCO COMPORATION",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3325710594654083,
+            0.054288700222969055,
+            0.616252064704895,
+            0.06252226419746876
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            11,
+            23,
+            38
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Date",
+        "value": "February 1, 1985",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6111403703689575,
+            0.18521463871002197,
+            0.7536069005727768,
+            0.19607332162559032
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            12,
+            24,
+            39
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Contract Number",
+        "value": "GE 218 L (5-82)",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.07502073794603348,
+            0.05470232665538788,
+            0.16102322563529015,
+            0.06364712957292795
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            25
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Contract Number",
+        "value": "1984-78AP",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.5807907581329346,
+            0.19670243561267853,
+            0.6577325016260147,
+            0.20678857620805502
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    },
+    {
+        "ids": [
+            26,
+            40
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Contract Number",
+        "value": "465664996",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.7282232046127319,
+            0.8380381464958191,
+            0.8690016865730286,
+            0.852863016538322
+        ],
+        "source_file": "votes_fgvd0138_page1.csv"
+    }
+]

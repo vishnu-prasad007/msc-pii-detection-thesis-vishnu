@@ -1,0 +1,288 @@
+[
+    {
+        "ids": [
+            0,
+            15,
+            19
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Person Name",
+        "value": "P. D. Greenberg",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            423,
+            591,
+            657,
+            627
+        ],
+        "source_file": "votes_fgvv0063_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            12,
+            16,
+            20
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "T. BEANE",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1121,
+            2016,
+            1267,
+            2045
+        ],
+        "source_file": "votes_fgvv0063_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            17,
+            21
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Organization Name",
+        "value": "PHILIP MORRIS USA",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            281,
+            341,
+            705,
+            377
+        ],
+        "source_file": "votes_fgvv0063_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            18,
+            22
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Date",
+        "value": "March 30, 2000",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1217,
+            516,
+            1443,
+            548
+        ],
+        "source_file": "votes_fgvv0063_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Contract Number",
+        "value": "Inter-Office Correspondence",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            911,
+            341,
+            1496,
+            385
+        ],
+        "source_file": "votes_fgvv0063_page2.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Contract Number",
+        "value": "Research Development & Engineering",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            280,
+            398,
+            966,
+            439
+        ],
+        "source_file": "votes_fgvv0063_page2.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            6
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Contract Number",
+        "value": "Date: March 30, 2000",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1128,
+            516,
+            1443,
+            548
+        ],
+        "source_file": "votes_fgvv0063_page2.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            7
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Contract Number",
+        "value": "for",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            667,
+            549,
+            732,
+            623
+        ],
+        "source_file": "votes_fgvv0063_page2.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            8
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Contract Number",
+        "value": "New Technology Monthly Reports",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            423,
+            665,
+            909,
+            700
+        ],
+        "source_file": "votes_fgvv0063_page2.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            9
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Contract Number",
+        "value": "or circulated outside of the original distribution. Please let me know if you do not",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            277,
+            932,
+            1429,
+            967
+        ],
+        "source_file": "votes_fgvv0063_page2.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Contract Number",
+        "value": "need this information for your daily business and I will remove your name from",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            277,
+            970,
+            1394,
+            1004
+        ],
+        "source_file": "votes_fgvv0063_page2.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Contract Number",
+        "value": "the distribution list.",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            275,
+            1007,
+            541,
+            1034
+        ],
+        "source_file": "votes_fgvv0063_page2.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            13
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Contract Number",
+        "value": "O/C-A2W -",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1119,
+            2053,
+            1273,
+            2082
+        ],
+        "source_file": "votes_fgvv0063_page2.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            14
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Contract Number",
+        "value": "Source: https://www.industrydocuments.ucsf.edu/docs/fgvv0063",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            381,
+            2249,
+            1346,
+            2286
+        ],
+        "source_file": "votes_fgvv0063_page2.csv",
+        "probability": 0.3333333333333333
+    }
+]

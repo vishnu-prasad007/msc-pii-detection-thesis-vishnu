@@ -1,0 +1,832 @@
+[
+    {
+        "ids": [
+            0
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "Region 9",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.16008491814136505,
+            0.3279854953289032,
+            0.21837420482188463,
+            0.33922254759818316
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            1,
+            37,
+            71
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "San Antonio",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.19861839711666107,
+            0.35605114698410034,
+            0.2762040048837662,
+            0.3653601426631212
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            2
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "Region 12",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.15992951393127441,
+            0.41250374913215637,
+            0.22572247125208378,
+            0.4236202444881201
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            3,
+            39,
+            73
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "Kansas City",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.19847530126571655,
+            0.4402496814727783,
+            0.27347715198993683,
+            0.45160299353301525
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            4,
+            40,
+            74
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "Kansas City, KS",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.15931251645088196,
+            0.4817972481250763,
+            0.26105317287147045,
+            0.4934454411268234
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            5,
+            41,
+            75
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "Wichita",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.15989720821380615,
+            0.5231995582580566,
+            0.20936890318989754,
+            0.5330318743363023
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            6,
+            42,
+            76
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "Kansas City, MO",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1598861664533615,
+            0.56509929895401,
+            0.2672347482293844,
+            0.5770005360245705
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            7,
+            43,
+            77
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "Springfield",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16072985529899597,
+            0.6069678664207458,
+            0.23010650277137756,
+            0.6190757360309362
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            8
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "Region 13",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.1597089171409607,
+            0.6488777995109558,
+            0.22596079297363758,
+            0.6601535966619849
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            9,
+            44,
+            78
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "Ft. Worth",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.15981653332710266,
+            0.6767389178276062,
+            0.22039230167865753,
+            0.6861621178686619
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "Region 22",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.1599256545305252,
+            0.7186642289161682,
+            0.22610602900385857,
+            0.7295345086604357
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            11,
+            45,
+            79
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "Mobile",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.15996333956718445,
+            0.7460907101631165,
+            0.20555950328707695,
+            0.7557189650833607
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            12,
+            47,
+            80
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "New Orleans",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.19847333431243896,
+            0.7737466096878052,
+            0.28024833649396896,
+            0.7836172934621572
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            13,
+            46,
+            81
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "Mobile",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1986697018146515,
+            0.8013858795166016,
+            0.24426047876477242,
+            0.8112763417884707
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            14,
+            48,
+            82
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Organization Name",
+        "value": "MCA San Antonio",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1593082994222641,
+            0.35605114698410034,
+            0.2762040048837662,
+            0.36540450900793076
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            15,
+            49,
+            83
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Organization Name",
+        "value": "Circle K",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.29575327038764954,
+            0.3557316064834595,
+            0.348273865878582,
+            0.36503010895103216
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            16,
+            51
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Organization Name",
+        "value": "MCA San Antonio",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.15984627604484558,
+            0.38390615582466125,
+            0.27674350142478943,
+            0.39360769372433424
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            17,
+            50,
+            84
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Organization Name",
+        "value": "H.E.B.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.29519233107566833,
+            0.38366788625717163,
+            0.337856687605381,
+            0.3934471420943737
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            18,
+            52,
+            85
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Organization Name",
+        "value": "MCA Kansas City",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.15961946547031403,
+            0.4402496814727783,
+            0.27347715198993683,
+            0.45160299353301525
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            19,
+            57,
+            86
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Organization Name",
+        "value": "Autry Greer & Sons",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.29575973749160767,
+            0.745864748954773,
+            0.41949899308383465,
+            0.7575913947075605
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            20,
+            54
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Organization Name",
+        "value": "MCA New Orleans",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.15988995134830475,
+            0.7737466096878052,
+            0.28024833649396896,
+            0.7836172934621572
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            21,
+            53,
+            87
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Organization Name",
+        "value": "Winn Dixie",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2959143817424774,
+            0.7735719680786133,
+            0.3682773523032665,
+            0.7834772411733866
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            22,
+            56
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Organization Name",
+        "value": "MCA Mobile",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.1600254625082016,
+            0.8013858795166016,
+            0.24426047876477242,
+            0.8112865285947919
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            23,
+            55,
+            88
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Organization Name",
+        "value": "Delchamps",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2955067455768585,
+            0.8013321757316589,
+            0.365506187081337,
+            0.8136488264426589
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            24,
+            58,
+            89
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Organization Name",
+        "value": "J.E. C.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.12480543553829193,
+            0.857440173625946,
+            0.16971743013709784,
+            0.8670123023912311
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            25,
+            59,
+            90
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Date",
+        "value": "April 7, 2997",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.12438420951366425,
+            0.20218922197818756,
+            0.20650119706988335,
+            0.21426070015877485
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            26,
+            60,
+            91
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Contract Number",
+        "value": "339",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.44480735063552856,
+            0.3556935489177704,
+            0.46839869394898415,
+            0.36497142165899277
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            27,
+            61,
+            92
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Contract Number",
+        "value": "269",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.44468364119529724,
+            0.38304486870765686,
+            0.4684690497815609,
+            0.3935871049761772
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            28,
+            62,
+            93
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Contract Number",
+        "value": "1832",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.43822261691093445,
+            0.4399523138999939,
+            0.468746917322278,
+            0.44958756770938635
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            29,
+            63,
+            94
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Contract Number",
+        "value": "38",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4522447884082794,
+            0.4813445508480072,
+            0.46758345514535904,
+            0.49100267235189676
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            30,
+            64,
+            95
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Contract Number",
+        "value": "88",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4526536166667938,
+            0.5226887464523315,
+            0.4680756703019142,
+            0.5324710952118039
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            31,
+            65,
+            96
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Contract Number",
+        "value": "42",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4523848593235016,
+            0.5648185014724731,
+            0.46840981394052505,
+            0.574229471385479
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            32,
+            66,
+            97
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Contract Number",
+        "value": "2",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.45624634623527527,
+            0.6070753931999207,
+            0.46465202886611223,
+            0.6162274517118931
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            33,
+            67,
+            98
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Contract Number",
+        "value": "79",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.45271164178848267,
+            0.676491916179657,
+            0.4681616621091962,
+            0.6856386447325349
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            34,
+            68,
+            100
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Contract Number",
+        "value": "37",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4524519741535187,
+            0.7458115220069885,
+            0.4681166559457779,
+            0.755249266512692
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            35,
+            69,
+            101
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Contract Number",
+        "value": "88",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4532966911792755,
+            0.7736479640007019,
+            0.46838222816586494,
+            0.783412043005228
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            36,
+            70,
+            102
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Contract Number",
+        "value": "132",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.44649696350097656,
+            0.8015170693397522,
+            0.46866592578589916,
+            0.8109661256894469
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            38,
+            72
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "San Antonio",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.19894202053546906,
+            0.38390615582466125,
+            0.27674350142478943,
+            0.39360769372433424
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            99
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Contract Number",
+        "value": "22",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.20972421765327454,
+            0.7190465331077576,
+            0.22610602900385857,
+            0.7276515951380134
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    }
+]

@@ -1,0 +1,230 @@
+[
+    {
+        "ids": [
+            0,
+            10,
+            21
+        ],
+        "doc_id": "votes_fhjd0139_page2",
+        "pii_type": "Person Name",
+        "value": "T. E. Whitehair, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.13566191494464874,
+            0.10416190326213837,
+            0.3132668361067772,
+            0.11733043473213911
+        ],
+        "source_file": "votes_fhjd0139_page2.csv"
+    },
+    {
+        "ids": [
+            1,
+            11,
+            22,
+            24,
+            30,
+            36
+        ],
+        "doc_id": "votes_fhjd0139_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number",
+            "Person Name",
+            "Phone Number"
+        ],
+        "value": "J. F. WILKELM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4898926317691803,
+            0.5139204263687134,
+            0.6057211756706238,
+            0.5262705720961094
+        ],
+        "source_file": "votes_fhjd0139_page2.csv"
+    },
+    {
+        "ids": [
+            2,
+            12,
+            13
+        ],
+        "doc_id": "votes_fhjd0139_page2",
+        "pii_type": [
+            "Email Address",
+            "Phone Number"
+        ],
+        "value": "http://industrydocuments.library.ucsf.edu/tobacco/docs/fhjd0139",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.16440296173095703,
+            0.9802846908569336,
+            0.8600134253501892,
+            0.9969765860587358
+        ],
+        "source_file": "votes_fhjd0139_page2.csv"
+    },
+    {
+        "ids": [
+            3,
+            9,
+            14,
+            20,
+            34
+        ],
+        "doc_id": "votes_fhjd0139_page2",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "464008206",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7086198925971985,
+            0.8728417158126831,
+            0.8526506274938583,
+            0.8899470213800669
+        ],
+        "source_file": "votes_fhjd0139_page2.csv"
+    },
+    {
+        "ids": [
+            4,
+            16,
+            26,
+            31
+        ],
+        "doc_id": "votes_fhjd0139_page2",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "LSF",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.45589056611061096,
+            0.1594104766845703,
+            0.48945749923586845,
+            0.17197921220213175
+        ],
+        "source_file": "votes_fhjd0139_page2.csv"
+    },
+    {
+        "ids": [
+            5,
+            27
+        ],
+        "doc_id": "votes_fhjd0139_page2",
+        "pii_type": "Location",
+        "value": "Marlboro",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.7743352055549622,
+            0.25518372654914856,
+            0.8467267453670502,
+            0.2669942732900381
+        ],
+        "source_file": "votes_fhjd0139_page2.csv"
+    },
+    {
+        "ids": [
+            6,
+            7,
+            15,
+            17,
+            28,
+            32
+        ],
+        "doc_id": "votes_fhjd0139_page2",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "Lucky Strike KS",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.32170987129211426,
+            0.255235880613327,
+            0.45631863735616207,
+            0.2690009828656912
+        ],
+        "source_file": "votes_fhjd0139_page2.csv"
+    },
+    {
+        "ids": [
+            8,
+            18,
+            19,
+            25,
+            33
+        ],
+        "doc_id": "votes_fhjd0139_page2",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "AUGUST 13, 1984",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6856609582901001,
+            0.09102437645196915,
+            0.8202233612537384,
+            0.10415003169327974
+        ],
+        "source_file": "votes_fhjd0139_page2.csv"
+    },
+    {
+        "ids": [
+            23,
+            29,
+            35
+        ],
+        "doc_id": "votes_fhjd0139_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "Huithel",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.48386648297309875,
+            0.4713042378425598,
+            0.7277006804943085,
+            0.5252992324531078
+        ],
+        "source_file": "votes_fhjd0139_page2.csv"
+    }
+]

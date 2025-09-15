@@ -1,0 +1,224 @@
+[
+    {
+        "ids": [
+            0,
+            10,
+            19
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. J. M. Mosely",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1812201589345932,
+            0.29854387044906616,
+            0.33233992755413055,
+            0.31166256312280893
+        ],
+        "source_file": "votes_fgdp0140_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            11,
+            20
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. Mosely",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2271638810634613,
+            0.3839004635810852,
+            0.33001887798309326,
+            0.39751378539949656
+        ],
+        "source_file": "votes_fgdp0140_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            12,
+            21
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Person Name",
+        "value": "John W. Boenigle",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.45847392082214355,
+            0.5674599409103394,
+            0.6954893246293068,
+            0.6097924597561359
+        ],
+        "source_file": "votes_fgdp0140_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            13,
+            22
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Person Name",
+        "value": "John W. Boenigk",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4588812589645386,
+            0.5979090332984924,
+            0.599307082593441,
+            0.6119362702593207
+        ],
+        "source_file": "votes_fgdp0140_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            24
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Location",
+        "value": "RICHMOND, VIRCINIA",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.395738422870636,
+            0.10133758187294006,
+            0.5546742007136345,
+            0.1103265043348074
+        ],
+        "source_file": "votes_fgdp0140_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            14,
+            25
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Location",
+        "value": "400 Petersburg Turnpike",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18198373913764954,
+            0.3412150740623474,
+            0.3950512558221817,
+            0.35431317798793316
+        ],
+        "source_file": "votes_fgdp0140_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            15,
+            26
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Location",
+        "value": "Richmond-24, Virginia",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1806115061044693,
+            0.3552250564098358,
+            0.377625435590744,
+            0.3689832240343094
+        ],
+        "source_file": "votes_fgdp0140_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            16,
+            23,
+            27
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "MEDICAL COLLEGE OF VIRGINIA",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.32608339190483093,
+            0.06363202631473541,
+            0.6257990598678589,
+            0.07306293956935406
+        ],
+        "source_file": "votes_fgdp0140_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            17,
+            28
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Organization Name",
+        "value": "The American Tobacco Company",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18176817893981934,
+            0.3125769793987274,
+            0.44218260049819946,
+            0.3262699320912361
+        ],
+        "source_file": "votes_fgdp0140_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            18,
+            29
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Date",
+        "value": "October 11, 1955",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5872249603271484,
+            0.1140516996383667,
+            0.7345495522022247,
+            0.12807555217295885
+        ],
+        "source_file": "votes_fgdp0140_page1.csv"
+    }
+]

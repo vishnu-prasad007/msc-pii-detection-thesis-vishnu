@@ -1,0 +1,143 @@
+[
+    {
+        "ids": [
+            0,
+            5,
+            10,
+            15,
+            17
+        ],
+        "doc_id": "votes_fjln0143_page4",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number",
+            "Location"
+        ],
+        "value": "6761 5 5 5 5 9",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.24933069944381714,
+            0.9113684296607971,
+            0.5169505719095469,
+            0.9390999265015125
+        ],
+        "source_file": "votes_fjln0143_page4.csv"
+    },
+    {
+        "ids": [
+            1,
+            6,
+            12,
+            16
+        ],
+        "doc_id": "votes_fjln0143_page4",
+        "pii_type": [
+            "Location",
+            "Organization Name"
+        ],
+        "value": "KOOL",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4139663279056549,
+            0.30001306533813477,
+            0.4473082721233368,
+            0.30840395484119654
+        ],
+        "source_file": "votes_fjln0143_page4.csv"
+    },
+    {
+        "ids": [
+            2,
+            7,
+            13
+        ],
+        "doc_id": "votes_fjln0143_page4",
+        "pii_type": [
+            "Location",
+            "Organization Name"
+        ],
+        "value": "KOOL",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.27035418152809143,
+            0.44730475544929504,
+            0.3028019145131111,
+            0.45583213958889246
+        ],
+        "source_file": "votes_fjln0143_page4.csv"
+    },
+    {
+        "ids": [
+            3,
+            8
+        ],
+        "doc_id": "votes_fjln0143_page4",
+        "pii_type": "Contract Number",
+        "value": "6761",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.24933069944381714,
+            0.9113684296607971,
+            0.3530152440071106,
+            0.9384231176227331
+        ],
+        "source_file": "votes_fjln0143_page4.csv"
+    },
+    {
+        "ids": [
+            4,
+            9,
+            14
+        ],
+        "doc_id": "votes_fjln0143_page4",
+        "pii_type": [
+            "Location",
+            "Email Address"
+        ],
+        "value": ":ttps://www.industrydocuments.ucsf.edu/docs/fjln0143 https://www.industrydocuments.ucsf.edu/docs/fjln0143 ttps://www.industrydocuments.ucsf.edu/docs/fjln0143",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.2777971029281616,
+            0.9800652861595154,
+            0.7901318073272705,
+            0.9971942733973265
+        ],
+        "source_file": "votes_fjln0143_page4.csv"
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fjln0143_page4",
+        "pii_type": "Location",
+        "value": "is",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.7574470043182373,
+            0.18627209961414337,
+            0.7670285888016224,
+            0.19856632966548204
+        ],
+        "source_file": "votes_fjln0143_page4.csv"
+    }
+]

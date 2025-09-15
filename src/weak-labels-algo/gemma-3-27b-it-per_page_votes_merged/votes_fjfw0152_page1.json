@@ -1,0 +1,650 @@
+[
+    {
+        "ids": [
+            0,
+            12,
+            23,
+            32,
+            55,
+            63
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number",
+            "Location",
+            "Organization Name"
+        ],
+        "value": "Collett Thach",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2714030146598816,
+            0.23806779086589813,
+            0.3801441043615341,
+            0.2506728796288371
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            13,
+            24,
+            33,
+            64
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number",
+            "Location"
+        ],
+        "value": "Valerie Vaughan",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.27087345719337463,
+            0.25593218207359314,
+            0.4062989726662636,
+            0.2710513398051262
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            14,
+            25,
+            34,
+            65
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number",
+            "Location"
+        ],
+        "value": "Leonard Jones",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.26994070410728455,
+            0.273707777261734,
+            0.3859581872820854,
+            0.2859377171844244
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            15,
+            26,
+            35,
+            66
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number",
+            "Location"
+        ],
+        "value": "Don Kisling",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2702794373035431,
+            0.3081602454185486,
+            0.3686557933688164,
+            0.32394918613135815
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            16,
+            27,
+            52,
+            56,
+            81
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number",
+            "Location",
+            "Organization Name"
+        ],
+        "value": "Kelli Scruggs",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5582810640335083,
+            0.763481616973877,
+            0.6710520461201668,
+            0.7792219379916787
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            10,
+            17,
+            21,
+            31,
+            57,
+            62
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Contract Number",
+            "Date",
+            "Location"
+        ],
+        "value": "March 26, 1999",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.15159210562705994,
+            0.18549798429012299,
+            0.27956410497426987,
+            0.20040689874440432
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            11,
+            18,
+            22,
+            41,
+            58
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "March 19, 1999: 1999",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.21660377085208893,
+            0.44900837540626526,
+            0.3485940061509609,
+            0.46394434198737144
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            53,
+            83
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fjfw0152",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.21772170066833496,
+            0.9820430278778076,
+            0.7903069853782654,
+            0.997614967636764
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            19,
+            28,
+            54,
+            59
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location",
+            "Organization Name"
+        ],
+        "value": "Lorillard",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4168786406517029,
+            0.06151965260505676,
+            0.5927156805992126,
+            0.10239055380225182
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            20
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Organization Name",
+        "value": "Lorillard'",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.7404000163078308,
+            0.7633841037750244,
+            0.8170230910181999,
+            0.776191639713943
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            29,
+            60
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "TOBACCO COMPANY",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.48731371760368347,
+            0.09258157014846802,
+            0.5853971317410469,
+            0.10081772040575743
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            30,
+            61
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "MEMORANDUM",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.4289632737636566,
+            0.11860708892345428,
+            0.5837697088718414,
+            0.13159632682800293
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            36,
+            67
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "PROMOTIONS - 1998 Direct Mail Response",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.27021461725234985,
+            0.3437215983867645,
+            0.6525991186499596,
+            0.3590468652546406
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            37,
+            68
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "Old Gold",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.6370118260383606,
+            0.41415563225746155,
+            0.7195893451571465,
+            0.4287953805178404
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            38,
+            69
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "Newport Slim",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.7249298691749573,
+            0.4140179455280304,
+            0.8418256938457489,
+            0.42915421072393656
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            39,
+            70
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "Newport Continuity",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.29622894525527954,
+            0.43149831891059875,
+            0.4660314545035362,
+            0.44665888510644436
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            40,
+            71
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "Newport Lights Direct Mail Programs",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.29622894525527954,
+            0.4314306974411011,
+            0.813120424747467,
+            0.4469385910779238
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            42,
+            72
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "Program Details",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.417147696018219,
+            0.5013399124145508,
+            0.5461879521608353,
+            0.516244612634182
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            43,
+            73
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "Coupon Offer",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.41734981536865234,
+            0.5183980464935303,
+            0.5273667946457863,
+            0.5340336672961712
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            44,
+            74
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "Distribution Date",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.41651681065559387,
+            0.5362452864646912,
+            0.5552408546209335,
+            0.5485019190236926
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            45,
+            75
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "Weeks Complete",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.4164976477622986,
+            0.5534977316856384,
+            0.5528281182050705,
+            0.5686006443575025
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            46,
+            76
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "Coupon Circulation",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.4176132380962372,
+            0.5709614753723145,
+            0.5732168480753899,
+            0.5866567101329565
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            47,
+            77
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "Undeliverable Rates",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.41684192419052124,
+            0.5889248251914978,
+            0.5771150588989258,
+            0.601240498945117
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            48,
+            78
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "Coupon Redeemed",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.4171193242073059,
+            0.6064939498901367,
+            0.5676080659031868,
+            0.6217870814725757
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            49,
+            79
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "Redemption Rates",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.41693466901779175,
+            0.6238361597061157,
+            0.5614460967481136,
+            0.6389182722195983
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            50,
+            80
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "Projected Redemption",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.4164583384990692,
+            0.6412867307662964,
+            0.5923594385385513,
+            0.656191423535347
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            51,
+            82
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "11",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.6975093483924866,
+            0.7507336139678955,
+            0.705359160900116,
+            0.7607614463195205
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    }
+]

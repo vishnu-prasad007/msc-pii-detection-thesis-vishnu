@@ -1,0 +1,110 @@
+[
+    {
+        "ids": [
+            0,
+            5,
+            10
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Person Name",
+        "value": "P. D. Greenberg",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.24505382776260376,
+            0.25774163007736206,
+            0.38025813549757004,
+            0.27337615191936493
+        ],
+        "source_file": "votes_fgvv0063_page2.csv"
+    },
+    {
+        "ids": [
+            1,
+            6,
+            11
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Person Name",
+        "value": "T. BEANE",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6487951278686523,
+            0.8795531392097473,
+            0.7331060320138931,
+            0.892040953040123
+        ],
+        "source_file": "votes_fgvv0063_page2.csv"
+    },
+    {
+        "ids": [
+            2,
+            7,
+            12
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Organization Name",
+        "value": "PHILIP MORRIS USA",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16237694025039673,
+            0.14877554774284363,
+            0.40776050835847855,
+            0.16460326127707958
+        ],
+        "source_file": "votes_fgvv0063_page2.csv"
+    },
+    {
+        "ids": [
+            3,
+            8,
+            13
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Date",
+        "value": "March 30, 2000",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7040348052978516,
+            0.22532692551612854,
+            0.8350472748279572,
+            0.23916026391088963
+        ],
+        "source_file": "votes_fgvv0063_page2.csv"
+    },
+    {
+        "ids": [
+            4,
+            9
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Contract Number",
+        "value": "O/C-A2W -",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.6475124359130859,
+            0.895662248134613,
+            0.736554279923439,
+            0.9083448657765985
+        ],
+        "source_file": "votes_fgvv0063_page2.csv"
+    }
+]

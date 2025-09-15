@@ -1,0 +1,88 @@
+[
+    {
+        "ids": [
+            0,
+            3,
+            6
+        ],
+        "doc_id": "votes_fjdl0137_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. Hammor",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            279,
+            142,
+            393,
+            159
+        ],
+        "source_file": "votes_fjdl0137_page1.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            1,
+            4,
+            7
+        ],
+        "doc_id": "votes_fjdl0137_page1",
+        "pii_type": "Person Name",
+        "value": "Dixon, W. E.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            235,
+            386,
+            368,
+            407
+        ],
+        "source_file": "votes_fjdl0137_page1.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            2,
+            5
+        ],
+        "doc_id": "votes_fjdl0137_page1",
+        "pii_type": "Date",
+        "value": "12-19-48",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            746,
+            34,
+            837,
+            51
+        ],
+        "source_file": "votes_fjdl0137_page1.csv",
+        "probability": 0.9316037966167546
+    },
+    {
+        "ids": [
+            8
+        ],
+        "doc_id": "votes_fjdl0137_page1",
+        "pii_type": "Date",
+        "value": "12-19-48 Content Smoke - His to Gen",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            746,
+            19,
+            1045,
+            51
+        ],
+        "source_file": "votes_fjdl0137_page1.csv",
+        "probability": 0.06839620338324535
+    }
+]

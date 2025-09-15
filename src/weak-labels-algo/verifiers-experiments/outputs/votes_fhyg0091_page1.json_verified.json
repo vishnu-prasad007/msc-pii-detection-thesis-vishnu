@@ -1,0 +1,152 @@
+[
+  {
+    "ids": [
+      0,
+      5,
+      10
+    ],
+    "doc_id": "votes_fhyg0091_page1",
+    "pii_type": "Person Name",
+    "value": "Mr. Clyde W. Fitzgerald",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.12969090044498444,
+      0.11967863887548447,
+      0.40083108097314835,
+      0.13318870961666107
+    ],
+    "source_file": "votes_fhyg0091_page1.csv",
+    "votes": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      1,
+      6,
+      11
+    ],
+    "doc_id": "votes_fhyg0091_page1",
+    "pii_type": "Person Name",
+    "value": "J. H. Sherrill, Jr.",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.12552180886268616,
+      0.8669039011001587,
+      0.3466515950858593,
+      0.8800169927999377
+    ],
+    "source_file": "votes_fhyg0091_page1.csv",
+    "votes": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      2,
+      7,
+      12
+    ],
+    "doc_id": "votes_fhyg0091_page1",
+    "pii_type": "Person Name",
+    "value": "Mr. R. A. Blevins, Jr.",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.18311388790607452,
+      0.944492518901825,
+      0.4427541345357895,
+      0.9567975318059325
+    ],
+    "source_file": "votes_fhyg0091_page1.csv",
+    "votes": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      3,
+      8,
+      13
+    ],
+    "doc_id": "votes_fhyg0091_page1",
+    "pii_type": "Person Name",
+    "value": "Mr. T. P. Haller",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.18310368061065674,
+      0.9601142406463623,
+      0.37217018753290176,
+      0.9715726980939507
+    ],
+    "source_file": "votes_fhyg0091_page1.csv",
+    "votes": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      4,
+      9,
+      14
+    ],
+    "doc_id": "votes_fhyg0091_page1",
+    "pii_type": "Date",
+    "value": "October 31, 1972",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.5449659824371338,
+      0.07351988554000854,
+      0.7341028414666653,
+      0.0861313994973898
+    ],
+    "source_file": "votes_fhyg0091_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+]

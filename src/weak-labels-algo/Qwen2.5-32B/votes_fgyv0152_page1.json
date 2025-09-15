@@ -1,0 +1,157 @@
+[
+    {
+        "ids": [
+            0,
+            6,
+            12
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Person Name",
+        "value": "D. Nicoli",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            814,
+            1521,
+            1065,
+            1574
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            1,
+            7,
+            13
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Person Name",
+        "value": "P.S. Wittenbauer",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            812,
+            1952,
+            1282,
+            2006
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            2,
+            9,
+            15
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Location",
+        "value": "120 Park Avenue, New York, NY 10017",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1035,
+            793,
+            2268,
+            865
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "probability": 0.996034042417568
+    },
+    {
+        "ids": [
+            3,
+            10,
+            16
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Organization Name",
+        "value": "Philip Morris Management Corp.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            861,
+            690,
+            2431,
+            795
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "probability": 0.9900025300515797
+    },
+    {
+        "ids": [
+            4,
+            11,
+            17
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Date",
+        "value": "Monday, February 26, 1996 Date:",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1918,
+            1088,
+            2871,
+            1161
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Contract Number",
+        "value": "NOFDA",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            2315,
+            229,
+            2555,
+            300
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "probability": 0.13216465187220952
+    },
+    {
+        "ids": [
+            8,
+            14
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Phone Number",
+        "value": "202-637-1505",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            811,
+            1809,
+            1170,
+            1862
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "probability": 0.835661440444386
+    }
+]

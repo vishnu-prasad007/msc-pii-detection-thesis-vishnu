@@ -1,0 +1,311 @@
+[
+    {
+        "ids": [
+            0,
+            12,
+            26
+        ],
+        "doc_id": "votes_fhyg0141_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. Ernest Pepples",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            263,
+            441,
+            455,
+            460
+        ],
+        "source_file": "votes_fhyg0141_page1.csv",
+        "probability": 0.9996925870572029
+    },
+    {
+        "ids": [
+            1,
+            13,
+            27
+        ],
+        "doc_id": "votes_fhyg0141_page1",
+        "pii_type": "Person Name",
+        "value": "Tom/A",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            576,
+            788,
+            667,
+            824
+        ],
+        "source_file": "votes_fhyg0141_page1.csv",
+        "probability": 0.9996925870572029
+    },
+    {
+        "ids": [
+            2,
+            10,
+            14,
+            23,
+            28
+        ],
+        "doc_id": "votes_fhyg0141_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "W. T. Hoyt",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            559,
+            829,
+            668,
+            848
+        ],
+        "source_file": "votes_fhyg0141_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            16,
+            25,
+            29,
+            40
+        ],
+        "doc_id": "votes_fhyg0141_page1",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "682172912",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            856,
+            1304,
+            1035,
+            1341
+        ],
+        "source_file": "votes_fhyg0141_page1.csv",
+        "probability": 0.9980992804128431
+    },
+    {
+        "ids": [
+            4,
+            17,
+            31
+        ],
+        "doc_id": "votes_fhyg0141_page1",
+        "pii_type": "Location",
+        "value": "110 East 50th Street EAST 50TH STREET",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            480,
+            134,
+            670,
+            147
+        ],
+        "source_file": "votes_fhyg0141_page1.csv",
+        "probability": 0.9756927193958248
+    },
+    {
+        "ids": [
+            5,
+            18,
+            32
+        ],
+        "doc_id": "votes_fhyg0141_page1",
+        "pii_type": "Location",
+        "value": "New York, N.Y. 10022 NEW YORK,",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            479,
+            155,
+            669,
+            169
+        ],
+        "source_file": "votes_fhyg0141_page1.csv",
+        "probability": 0.9756927193958248
+    },
+    {
+        "ids": [
+            6,
+            19,
+            34
+        ],
+        "doc_id": "votes_fhyg0141_page1",
+        "pii_type": "Location",
+        "value": "2000 Citizens Plaza",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            265,
+            502,
+            468,
+            520
+        ],
+        "source_file": "votes_fhyg0141_page1.csv",
+        "probability": 0.9756927193958248
+    },
+    {
+        "ids": [
+            7,
+            20,
+            35
+        ],
+        "doc_id": "votes_fhyg0141_page1",
+        "pii_type": "Location",
+        "value": "Louisville, Kentucky 40202",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            264,
+            524,
+            551,
+            544
+        ],
+        "source_file": "votes_fhyg0141_page1.csv",
+        "probability": 0.9756927193958248
+    },
+    {
+        "ids": [
+            8,
+            21,
+            30,
+            36
+        ],
+        "doc_id": "votes_fhyg0141_page1",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "The Council for Tobacco Inc. THE COUNCIL FOR TOBACCO INC.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            277,
+            102,
+            869,
+            126
+        ],
+        "source_file": "votes_fhyg0141_page1.csv",
+        "probability": 0.9998412938516642
+    },
+    {
+        "ids": [
+            9,
+            22,
+            33,
+            37
+        ],
+        "doc_id": "votes_fhyg0141_page1",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "Brown & Williamson Tobacco Corporation",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            264,
+            481,
+            668,
+            502
+        ],
+        "source_file": "votes_fhyg0141_page1.csv",
+        "probability": 0.9998412938516642
+    },
+    {
+        "ids": [
+            11,
+            24,
+            39
+        ],
+        "doc_id": "votes_fhyg0141_page1",
+        "pii_type": "Date",
+        "value": "June 6, 1980",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            558,
+            207,
+            688,
+            226
+        ],
+        "source_file": "votes_fhyg0141_page1.csv",
+        "probability": 0.9980073602097371
+    },
+    {
+        "ids": [
+            15
+        ],
+        "doc_id": "votes_fhyg0141_page1",
+        "pii_type": "Email Address",
+        "value": "http://industrydocuments.library.ucsf.edu/tobacco/docs/fhyg0141",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            194,
+            1544,
+            1029,
+            1570
+        ],
+        "source_file": "votes_fhyg0141_page1.csv",
+        "probability": 0.06620864289453628
+    },
+    {
+        "ids": [
+            38
+        ],
+        "doc_id": "votes_fhyg0141_page1",
+        "pii_type": "Organization Name",
+        "value": "Brown & Williamson Tobacco Corporation",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            264,
+            671,
+            688,
+            691
+        ],
+        "source_file": "votes_fhyg0141_page1.csv",
+        "probability": 0.04615078191616081
+    }
+]

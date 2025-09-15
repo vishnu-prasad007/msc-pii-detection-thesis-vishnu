@@ -1,0 +1,286 @@
+[
+    {
+        "ids": [
+            0,
+            11,
+            23
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Person Name",
+        "value": "Richard Wagner",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            881,
+            710,
+            1262,
+            752
+        ],
+        "source_file": "votes_fjff0148_page1.csv",
+        "probability": 0.9996925870572029
+    },
+    {
+        "ids": [
+            1,
+            12,
+            24
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Person Name",
+        "value": "Dennis Carter",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            701,
+            1095,
+            1049,
+            1127
+        ],
+        "source_file": "votes_fjff0148_page1.csv",
+        "probability": 0.9996925870572029
+    },
+    {
+        "ids": [
+            2,
+            13,
+            25
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Person Name",
+        "value": "Kiki Moore",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1002,
+            1904,
+            1270,
+            1939
+        ],
+        "source_file": "votes_fjff0148_page1.csv",
+        "probability": 0.9996925870572029
+    },
+    {
+        "ids": [
+            3,
+            14,
+            26
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Phone Number",
+        "value": "205-591-7171",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1697,
+            1179,
+            2011,
+            1216
+        ],
+        "source_file": "votes_fjff0148_page1.csv",
+        "probability": 0.9648539406070344
+    },
+    {
+        "ids": [
+            4,
+            15
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Location",
+        "value": "3700 4th Ave, S.",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            706,
+            1184,
+            1125,
+            1220
+        ],
+        "source_file": "votes_fjff0148_page1.csv",
+        "probability": 0.5069282881139888
+    },
+    {
+        "ids": [
+            5,
+            16,
+            29
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Location",
+        "value": "Birmingham, AL 35222",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            706,
+            1272,
+            1270,
+            1314
+        ],
+        "source_file": "votes_fjff0148_page1.csv",
+        "probability": 0.9756927193958248
+    },
+    {
+        "ids": [
+            6,
+            17,
+            22,
+            27,
+            31
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": [
+            "Person Name",
+            "Organization Name",
+            "Location"
+        ],
+        "value": "OGILVY & MATHER WASHINGTON",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            926,
+            397,
+            1637,
+            432
+        ],
+        "source_file": "votes_fjff0148_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            7,
+            18,
+            28,
+            32
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "Tobacco Institute",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            748,
+            620,
+            1206,
+            656
+        ],
+        "source_file": "votes_fjff0148_page1.csv",
+        "probability": 0.9998412938516642
+    },
+    {
+        "ids": [
+            8,
+            19,
+            30,
+            33
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "WERC-AM/WKXX-FM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            858,
+            801,
+            1261,
+            836
+        ],
+        "source_file": "votes_fjff0148_page1.csv",
+        "probability": 0.9998412938516642
+    },
+    {
+        "ids": [
+            9,
+            20,
+            34
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Date",
+        "value": "May 16",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            944,
+            1544,
+            1105,
+            1587
+        ],
+        "source_file": "votes_fjff0148_page1.csv",
+        "probability": 0.9980073602097371
+    },
+    {
+        "ids": [
+            10,
+            21,
+            35
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Contract Number",
+        "value": "T151250797",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2219,
+            3057,
+            2482,
+            3113
+        ],
+        "source_file": "votes_fjff0148_page1.csv",
+        "probability": 0.9023971445662724
+    },
+    {
+        "ids": [
+            36
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Contract Number",
+        "value": "Booking Sheet",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1109,
+            444,
+            1461,
+            479
+        ],
+        "source_file": "votes_fjff0148_page1.csv",
+        "probability": 0.054906893014309066
+    }
+]

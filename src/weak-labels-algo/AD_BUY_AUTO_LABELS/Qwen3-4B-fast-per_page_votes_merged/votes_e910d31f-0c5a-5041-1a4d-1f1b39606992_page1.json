@@ -1,0 +1,439 @@
+[
+  {
+    "ids": [
+      0,
+      20,
+      33
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Person Name",
+    "value": "Julia Prata",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      533,
+      62,
+      563,
+      70
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      1,
+      21,
+      34
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Person Name",
+    "value": "MARABLE,HARTWELL",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      306,
+      163,
+      366,
+      172
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      2,
+      18,
+      32
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": [
+      "Phone Number",
+      "Invoice Number"
+    ],
+    "value": "09841021",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      533,
+      94,
+      561,
+      102
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      3,
+      22,
+      35
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Location",
+    "value": "Salt Lake City, UT 84111",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      122,
+      108,
+      201,
+      120
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      4,
+      23,
+      36
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Location",
+    "value": "Delaware, OH 43015",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      29,
+      189,
+      96,
+      200
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      5,
+      24,
+      38
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "MOORE FOR CONGRESS",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      306,
+      246,
+      364,
+      253
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      6,
+      27,
+      39
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Date",
+    "value": "06/09/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      533,
+      33,
+      559,
+      42
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      7,
+      28,
+      40
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Date",
+    "value": "06/09/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      534,
+      49,
+      559,
+      58
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      8,
+      29,
+      41
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Date",
+    "value": "6/9/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      788,
+      426,
+      805,
+      433
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      9,
+      42
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Date",
+    "value": "6/9/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      788,
+      442,
+      805,
+      450
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      10,
+      43
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Date",
+    "value": "6/9/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      788,
+      459,
+      805,
+      467
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      11,
+      44
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Date",
+    "value": "6/9/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      788,
+      475,
+      805,
+      483
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      12,
+      45
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Date",
+    "value": "6/9/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      788,
+      492,
+      805,
+      500
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      13,
+      46
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Date",
+    "value": "6/9/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      788,
+      509,
+      805,
+      516
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      14,
+      47
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Date",
+    "value": "Tuesday, June 9 2020",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      91,
+      808,
+      163,
+      819
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      15,
+      16,
+      30,
+      31,
+      48
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": [
+      "Contract Number",
+      "Invoice Number"
+    ],
+    "value": "4396160",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      306,
+      31,
+      351,
+      42
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      17
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Invoice Number",
+    "value": "136642",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      377,
+      63,
+      403,
+      73
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      19
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Invoice Number",
+    "value": "1394506",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      353,
+      113,
+      383,
+      123
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      25
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "TeleRep Washington DC",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      306,
+      147,
+      374,
+      156
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      26
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "TeleRep/DC, Washington DC",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      306,
+      130,
+      386,
+      140
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      37
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "Strategic Media Placement",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      29,
+      160,
+      113,
+      171
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  }
+]

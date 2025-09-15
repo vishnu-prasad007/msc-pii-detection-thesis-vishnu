@@ -1,0 +1,324 @@
+[
+  {
+    "ids": [
+      0,
+      11,
+      20
+    ],
+    "doc_id": "votes_fgnh0009_page1",
+    "pii_type": "Person Name",
+    "value": "ALMA TRINER",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.25480929017066956,
+      0.24634364247322083,
+      0.38039737194776535,
+      0.25475331023335457
+    ],
+    "source_file": "votes_fgnh0009_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      1,
+      12,
+      21
+    ],
+    "doc_id": "votes_fgnh0009_page1",
+    "pii_type": "Person Name",
+    "value": "Dr. Charles J. Kensler",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.19722361862659454,
+      0.42722001671791077,
+      0.45475732535123825,
+      0.4377638343721628
+    ],
+    "source_file": "votes_fgnh0009_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      2,
+      13,
+      22
+    ],
+    "doc_id": "votes_fgnh0009_page1",
+    "pii_type": "Phone Number",
+    "value": "(617) 864-5770 (Ext. 2541)",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.25938093662261963,
+      0.25668197870254517,
+      0.5455634966492653,
+      0.26692427042871714
+    ],
+    "source_file": "votes_fgnh0009_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      3,
+      14,
+      23
+    ],
+    "doc_id": "votes_fgnh0009_page1",
+    "pii_type": "Location",
+    "value": "Cambridge, Mass. 02140",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.14162901043891907,
+      0.1997876763343811,
+      0.4017280489206314,
+      0.211356608197093
+    ],
+    "source_file": "votes_fgnh0009_page1.csv",
+    "votes": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      4
+    ],
+    "doc_id": "votes_fgnh0009_page1",
+    "pii_type": "Location",
+    "value": "BUENOS AIRES, ARGENTINA",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      0.19847235083580017,
+      0.3364521563053131,
+      0.46776577830314636,
+      0.3465184224769473
+    ],
+    "source_file": "votes_fgnh0009_page1.csv",
+    "votes": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      5,
+      15,
+      24
+    ],
+    "doc_id": "votes_fgnh0009_page1",
+    "pii_type": "Organization Name",
+    "value": "Arthur D. Little, Inc.",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.14195938408374786,
+      0.1661217212677002,
+      0.3887682147324085,
+      0.17715139407664537
+    ],
+    "source_file": "votes_fgnh0009_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      6
+    ],
+    "doc_id": "votes_fgnh0009_page1",
+    "pii_type": "Organization Name",
+    "value": "Arthur D. Little,",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      0.7482887506484985,
+      0.4289989471435547,
+      0.9386017024517059,
+      0.439838407561183
+    ],
+    "source_file": "votes_fgnh0009_page1.csv",
+    "votes": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "ids": [
+      7,
+      16,
+      25
+    ],
+    "doc_id": "votes_fgnh0009_page1",
+    "pii_type": "Date",
+    "value": "OCTOBER 7, 1978",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.71835857629776,
+      0.245714008808136,
+      0.885589774698019,
+      0.2562567135319114
+    ],
+    "source_file": "votes_fgnh0009_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      8,
+      17,
+      26
+    ],
+    "doc_id": "votes_fgnh0009_page1",
+    "pii_type": "Date",
+    "value": "October 7, 1978",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.4805033206939697,
+      0.33595341444015503,
+      0.649134386330843,
+      0.34627897571772337
+    ],
+    "source_file": "votes_fgnh0009_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      9,
+      18,
+      27
+    ],
+    "doc_id": "votes_fgnh0009_page1",
+    "pii_type": "Contract Number",
+    "value": "LIG- 92593",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.23780003190040588,
+      0.9043050408363342,
+      0.3505829870700836,
+      0.9145974097773433
+    ],
+    "source_file": "votes_fgnh0009_page1.csv",
+    "votes": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "ids": [
+      10,
+      19,
+      28
+    ],
+    "doc_id": "votes_fgnh0009_page1",
+    "pii_type": "Contract Number",
+    "value": "LG 0382867",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.7950375080108643,
+      0.9257703423500061,
+      0.9325424209237099,
+      0.9414435187354684
+    ],
+    "source_file": "votes_fgnh0009_page1.csv",
+    "votes": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]

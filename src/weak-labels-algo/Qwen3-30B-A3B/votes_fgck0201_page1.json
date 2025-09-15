@@ -1,0 +1,235 @@
+[
+    {
+        "ids": [
+            0,
+            6,
+            17
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. Stuart Facey",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            524,
+            717,
+            760,
+            754
+        ],
+        "source_file": "votes_fgck0201_page1.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            1,
+            9,
+            18
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Person Name",
+        "value": "Dick Brentnall",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1424,
+            1244,
+            1626,
+            1275
+        ],
+        "source_file": "votes_fgck0201_page1.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            2,
+            11,
+            19
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Person Name",
+        "value": "Eleanor Yu",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            507,
+            2032,
+            675,
+            2062
+        ],
+        "source_file": "votes_fgck0201_page1.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            3,
+            12,
+            20
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Location",
+        "value": "Woking, Surrey GU21 1YB",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            523,
+            881,
+            898,
+            918
+        ],
+        "source_file": "votes_fgck0201_page1.csv",
+        "probability": 0.9995031197982197
+    },
+    {
+        "ids": [
+            4,
+            13,
+            21
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Organization Name",
+        "value": "BAAT [U.K. and Export] Limited",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            522,
+            798,
+            981,
+            838
+        ],
+        "source_file": "votes_fgck0201_page1.csv",
+        "probability": 0.997746690646689
+    },
+    {
+        "ids": [
+            5,
+            15,
+            22
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Date",
+        "value": "June 17, 1991",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            524,
+            597,
+            713,
+            631
+        ],
+        "source_file": "votes_fgck0201_page1.csv",
+        "probability": 0.9999113980940532
+    },
+    {
+        "ids": [
+            7
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Person Name",
+        "value": "Stuart",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            597,
+            1043,
+            690,
+            1077
+        ],
+        "source_file": "votes_fgck0201_page1.csv",
+        "probability": 0.02598655978191918
+    },
+    {
+        "ids": [
+            8
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Person Name",
+        "value": "Stuart",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            629,
+            1681,
+            722,
+            1710
+        ],
+        "source_file": "votes_fgck0201_page1.csv",
+        "probability": 0.02598655978191918
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Person Name",
+        "value": "Dick",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1720,
+            1365,
+            1788,
+            1395
+        ],
+        "source_file": "votes_fgck0201_page1.csv",
+        "probability": 0.02598655978191918
+    },
+    {
+        "ids": [
+            14
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Organization Name",
+        "value": "Export House",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            521,
+            839,
+            715,
+            875
+        ],
+        "source_file": "votes_fgck0201_page1.csv",
+        "probability": 0.16106151252424816
+    },
+    {
+        "ids": [
+            16
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Contract Number",
+        "value": "F.02",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1726,
+            418,
+            1796,
+            439
+        ],
+        "source_file": "votes_fgck0201_page1.csv",
+        "probability": 0.3107434083908546
+    }
+]

@@ -1,0 +1,573 @@
+[
+    {
+        "ids": [
+            0,
+            16
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Person Name",
+        "value": "Palmer, Shelley",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            420,
+            222,
+            679,
+            262
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            1,
+            17
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Person Name",
+        "value": "Clark, Jennifer",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            420,
+            324,
+            660,
+            361
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            2,
+            18
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Person Name",
+        "value": "Coston, Tina M.",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1278,
+            324,
+            1541,
+            361
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            3,
+            19
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Person Name",
+        "value": "Munson, Justin",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            2131,
+            325,
+            2387,
+            361
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            4,
+            21
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Person Name",
+        "value": "Ehrhart, Carolyn J",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            420,
+            529,
+            718,
+            567
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            5,
+            22
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Person Name",
+        "value": "Adams, Rose H",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1370,
+            528,
+            1622,
+            565
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            6,
+            24,
+            44
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Email Address",
+        "value": "Tina.Coston@mallinckrodt.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1554,
+            323,
+            2114,
+            362
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.9993010075376519
+    },
+    {
+        "ids": [
+            7,
+            25,
+            45
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Email Address",
+        "value": "Debra.Oakley@mallinckrodt.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1353,
+            374,
+            1961,
+            415
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.9993010075376519
+    },
+    {
+        "ids": [
+            8,
+            26,
+            46
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Email Address",
+        "value": "Patrice.Wright@mallinckrodt.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            434,
+            426,
+            1029,
+            465
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.9993010075376519
+    },
+    {
+        "ids": [
+            9,
+            27,
+            47
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Email Address",
+        "value": "Eileen.Spaulding@mallinckrodt.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1380,
+            425,
+            2024,
+            465
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.9993010075376519
+    },
+    {
+        "ids": [
+            10,
+            32
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Phone Number",
+        "value": "607.538.2038",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            207,
+            1232,
+            465,
+            1267
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.8061524318901037
+    },
+    {
+        "ids": [
+            11,
+            33
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Phone Number",
+        "value": "607-353-5481",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            556,
+            1231,
+            812,
+            1267
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.8061524318901037
+    },
+    {
+        "ids": [
+            12,
+            34
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Phone Number",
+        "value": "607-538-2508",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            888,
+            1232,
+            1158,
+            1265
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.8061524318901037
+    },
+    {
+        "ids": [
+            13,
+            36,
+            53
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt Pharmaceuticals",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            149,
+            1135,
+            734,
+            1170
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.9900025300515797
+    },
+    {
+        "ids": [
+            14,
+            37,
+            54
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Date",
+        "value": "3/7/2014 6:08:50 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            421,
+            271,
+            780,
+            311
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            15,
+            38,
+            55
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Date",
+        "value": "03/06/2014",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            415,
+            628,
+            914,
+            669
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            20
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Person Name",
+        "value": "Spaulding, Eileen L.",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1043,
+            426,
+            1367,
+            465
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.04056118529657932
+    },
+    {
+        "ids": [
+            23,
+            43
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Person Name",
+        "value": "Shelley Palmer Logistics Planner",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            151,
+            1088,
+            783,
+            1130
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.6937625365640808
+    },
+    {
+        "ids": [
+            28,
+            48
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Email Address",
+        "value": "Carrie.Johnson@mallinckrodt.com",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            420,
+            477,
+            1029,
+            515
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.8805174883280957
+    },
+    {
+        "ids": [
+            29,
+            49
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Email Address",
+        "value": "Carolyn.Ehrhart@mallinckrodt.com",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            718,
+            528,
+            1355,
+            567
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.8805174883280957
+    },
+    {
+        "ids": [
+            30,
+            50
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Email Address",
+        "value": "Rose.Adams2@mallinckrodt.com",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1628,
+            527,
+            2237,
+            566
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.8805174883280957
+    },
+    {
+        "ids": [
+            31,
+            51
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Email Address",
+        "value": "shelley.palmer@mallinckrodt.com",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            150,
+            1280,
+            778,
+            1321
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.8805174883280957
+    },
+    {
+        "ids": [
+            35,
+            52
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Location",
+        "value": "172 Railroad Ave I Hobart, NY 13788",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            152,
+            1184,
+            835,
+            1226
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.5538903041420955
+    },
+    {
+        "ids": [
+            39
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Person Name",
+        "value": "Palmer, Shelley (Shelley. Palmer@mallinckrodt.com)",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            420,
+            222,
+            1291,
+            262
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.019094487779212622
+    },
+    {
+        "ids": [
+            40
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Person Name",
+        "value": "Coston, Tina M. (Tina.Coston@mallinckrodt.com)",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1278,
+            323,
+            2114,
+            362
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.019094487779212622
+    },
+    {
+        "ids": [
+            41
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Person Name",
+        "value": "Ehrhart, Carolyn J (Carolyn.Ehrhart@mallinckrodt.com)",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            420,
+            528,
+            1355,
+            567
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.019094487779212622
+    },
+    {
+        "ids": [
+            42
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Person Name",
+        "value": "Adams, Rose H (Rose.Adams2@mallinckrodt.com)",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1370,
+            527,
+            2237,
+            566
+        ],
+        "source_file": "votes_fglx0238_page1.csv",
+        "probability": 0.019094487779212622
+    }
+]

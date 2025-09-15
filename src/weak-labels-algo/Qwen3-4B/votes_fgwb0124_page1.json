@@ -1,0 +1,176 @@
+[
+    {
+        "ids": [
+            0,
+            6,
+            10
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Person Name",
+        "value": "Ruby Handles",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1494,
+            2937,
+            2305,
+            3099
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            1,
+            7,
+            11
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Location",
+        "value": "Address 220",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1252,
+            3045,
+            1657,
+            3106
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.9965290942566549
+    },
+    {
+        "ids": [
+            2,
+            8,
+            12,
+            16
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "GRAHAM ADVERTISING",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1116,
+            262,
+            1669,
+            308
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.9994792922522238
+    },
+    {
+        "ids": [
+            3,
+            14
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "Loews Theatres, Inc.",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            139,
+            841,
+            695,
+            894
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.7749052148181887
+    },
+    {
+        "ids": [
+            4
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "Lorillard",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            727,
+            384,
+            970,
+            426
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.0666910951015001
+    },
+    {
+        "ids": [
+            5,
+            9,
+            15
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Date",
+        "value": "12-5-78 Date",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1348,
+            3116,
+            1959,
+            3210
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            13
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "MCA-GRAHAM Advertising",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            813,
+            786,
+            1501,
+            835
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.05285594042746515
+    },
+    {
+        "ids": [
+            17
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "Lorillard Individual Consent and Release Form",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            727,
+            372,
+            1934,
+            426
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.18724450043103621
+    }
+]

@@ -1,0 +1,350 @@
+[
+    {
+        "ids": [
+            0,
+            14,
+            26
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Person Name",
+        "value": "Paul Jacobsen",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            807,
+            989,
+            1168,
+            1027
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            1,
+            15,
+            27
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Person Name",
+        "value": "James N. Gardner",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            807,
+            1502,
+            1256,
+            1539
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            2,
+            16,
+            28
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Phone Number",
+        "value": "(503) 226-7677 Telephone",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            929,
+            526,
+            1598,
+            572
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.9999515951349895
+    },
+    {
+        "ids": [
+            3,
+            17,
+            29
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Phone Number",
+        "value": "(503) 226-7697 Telecopier",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            916,
+            573,
+            1614,
+            618
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.9999515951349895
+    },
+    {
+        "ids": [
+            4,
+            18
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Phone Number",
+        "value": "1-206-646-3091",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            808,
+            1268,
+            1192,
+            1306
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.9655066994485754
+    },
+    {
+        "ids": [
+            5,
+            19
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Phone Number",
+        "value": "1-206-646-3093",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            809,
+            1361,
+            1196,
+            1399
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.9655066994485754
+    },
+    {
+        "ids": [
+            6,
+            20
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Location",
+        "value": "222 s. W. Columbia, Suite 1600",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            847,
+            434,
+            1682,
+            478
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.9161669028282762
+    },
+    {
+        "ids": [
+            7,
+            21,
+            32
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Location",
+        "value": "Portland, Oregon 97201-6616",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            889,
+            481,
+            1641,
+            526
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.9995031197982197
+    },
+    {
+        "ids": [
+            8
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Location",
+        "value": "Bellevue, Washington",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            807,
+            1174,
+            1364,
+            1216
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.10676181676219583
+    },
+    {
+        "ids": [
+            9,
+            13,
+            22,
+            33
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "LINDSAY, HART, NEIL & WEIGLER",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            858,
+            388,
+            1672,
+            432
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            10,
+            23,
+            34
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Organization Name",
+        "value": "The Tobacco Institute",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            807,
+            1082,
+            1391,
+            1120
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.997746690646689
+    },
+    {
+        "ids": [
+            11,
+            24,
+            35
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Date",
+        "value": "August 28, 1991",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            807,
+            896,
+            1224,
+            936
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.9999113980940532
+    },
+    {
+        "ids": [
+            12,
+            25
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Contract Number",
+        "value": "52711-0005",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            812,
+            1778,
+            1085,
+            1815
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.7501258503833167
+    },
+    {
+        "ids": [
+            30
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Phone Number",
+        "value": "FAX NUMBER: 1-206-646-3091",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            357,
+            1268,
+            1192,
+            1308
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.034493300551424584
+    },
+    {
+        "ids": [
+            31
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Phone Number",
+        "value": "OFFICE NUMBER: 1-206-646-3093",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            357,
+            1361,
+            1196,
+            1400
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.034493300551424584
+    },
+    {
+        "ids": [
+            36
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Contract Number",
+        "value": "CLIENT NUMBER: 52711-0005",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            358,
+            1778,
+            1085,
+            1816
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.2498741496166834
+    }
+]

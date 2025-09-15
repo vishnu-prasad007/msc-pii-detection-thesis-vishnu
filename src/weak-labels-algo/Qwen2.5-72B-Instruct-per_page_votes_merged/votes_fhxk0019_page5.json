@@ -1,0 +1,66 @@
+[
+    {
+        "ids": [
+            0,
+            3,
+            6
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Person Name",
+        "value": "Christopher J. Ferraro, President",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.41831299662590027,
+            0.3117554783821106,
+            0.6631891950964928,
+            0.32788075134158134
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            1,
+            4,
+            7
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Organization Name",
+        "value": "THE AFFINITY MANAGEMENT GROUP, INC.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3905382752418518,
+            0.24127085506916046,
+            0.7899661287665367,
+            0.25728918705135584
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            2,
+            5
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Contract Number",
+        "value": "3-AO-V",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.10870096832513809,
+            0.8995035886764526,
+            0.15829933434724808,
+            0.9097404051572084
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    }
+]

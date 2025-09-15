@@ -1,0 +1,260 @@
+[
+    {
+        "ids": [
+            0,
+            10,
+            21
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Person Name",
+        "value": "Dr. J. N. Lester",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.11091094464063644,
+            0.2860821783542633,
+            0.24397984147071838,
+            0.29899175092577934
+        ],
+        "source_file": "votes_fhmn0095_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            11,
+            22
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Person Name",
+        "value": "Neurath",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.42463359236717224,
+            0.48083049058914185,
+            0.4931846857070923,
+            0.4942107805982232
+        ],
+        "source_file": "votes_fhmn0095_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            13,
+            24
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Location",
+        "value": "Winston-Salem, N.C., U.S.A.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5190747976303101,
+            0.21457895636558533,
+            0.7602872923016548,
+            0.2304606270045042
+        ],
+        "source_file": "votes_fhmn0095_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            16,
+            27
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Location",
+        "value": "London, SW7 2BU, England",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.11090413480997086,
+            0.3744155168533325,
+            0.3525185361504555,
+            0.3907392881810665
+        ],
+        "source_file": "votes_fhmn0095_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            12,
+            23
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Location",
+        "value": "P.O. Box 2959",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5186748504638672,
+            0.19723986089229584,
+            0.6399891041219234,
+            0.21034361142665148
+        ],
+        "source_file": "votes_fhmn0095_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            17,
+            28
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Organization Name",
+        "value": "R. J. Reynolds Tobacco Company",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5189188122749329,
+            0.1788637340068817,
+            0.8056092709302902,
+            0.196072144433856
+        ],
+        "source_file": "votes_fhmn0095_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            18,
+            29
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Organization Name",
+        "value": "Imperial College of Science, Technology and Medicine",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.11099641025066376,
+            0.3393513560295105,
+            0.5695662423968315,
+            0.3557593300938606
+        ],
+        "source_file": "votes_fhmn0095_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            19,
+            30
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Organization Name",
+        "value": "Brigham Young University",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5205861330032349,
+            0.6764590740203857,
+            0.7457288727164268,
+            0.6931045148521662
+        ],
+        "source_file": "votes_fhmn0095_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            31
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Organization Name",
+        "value": "Harvard University",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.6604523658752441,
+            0.6768862009048462,
+            0.8574345856904984,
+            0.6931045148521662
+        ],
+        "source_file": "votes_fhmn0095_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            20,
+            32
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Date",
+        "value": "October 2, 1991",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5194457173347473,
+            0.10894385725259781,
+            0.6528965756297112,
+            0.12434330582618713
+        ],
+        "source_file": "votes_fhmn0095_page1.csv"
+    },
+    {
+        "ids": [
+            14,
+            25
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Location",
+        "value": "27102-2959",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.6498160362243652,
+            0.23333139717578888,
+            0.7450871914625168,
+            0.24590520933270454
+        ],
+        "source_file": "votes_fhmn0095_page1.csv"
+    },
+    {
+        "ids": [
+            15,
+            26
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Location",
+        "value": "Imperial College Road",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.11082567274570465,
+            0.35685983300209045,
+            0.30331628024578094,
+            0.3732079993933439
+        ],
+        "source_file": "votes_fhmn0095_page1.csv"
+    }
+]

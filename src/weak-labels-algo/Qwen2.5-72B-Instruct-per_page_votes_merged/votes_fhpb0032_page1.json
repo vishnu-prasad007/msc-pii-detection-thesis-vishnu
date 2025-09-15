@@ -1,0 +1,320 @@
+[
+    {
+        "ids": [
+            0,
+            14,
+            27,
+            31
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Kim Logue",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2800002694129944,
+            0.1513708084821701,
+            0.3664066456258297,
+            0.1655911924317479
+        ],
+        "source_file": "votes_fhpb0032_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            15,
+            28,
+            32
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Ben Kelahan",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.28028351068496704,
+            0.1843019425868988,
+            0.3770819827914238,
+            0.1964416978880763
+        ],
+        "source_file": "votes_fhpb0032_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            16,
+            29,
+            33
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Frankel",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3628668785095215,
+            0.4726971983909607,
+            0.4197944104671478,
+            0.4845414776355028
+        ],
+        "source_file": "votes_fhpb0032_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            17,
+            30
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Location",
+        "value": "FL",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3626469075679779,
+            0.3357405364513397,
+            0.38601086288690567,
+            0.34702856093645096
+        ],
+        "source_file": "votes_fhpb0032_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            34
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Organization Name",
+        "value": "House Oversight and Invest.",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.36331605911254883,
+            0.5080864429473877,
+            0.5711720697581768,
+            0.5225323475897312
+        ],
+        "source_file": "votes_fhpb0032_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            18,
+            35
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Date",
+        "value": "March 12, 1996",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6669794321060181,
+            0.10033010691404343,
+            0.7875300422310829,
+            0.11446022894233465
+        ],
+        "source_file": "votes_fhpb0032_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            19,
+            36
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Date",
+        "value": "2-28-96",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.363998681306839,
+            0.5259665250778198,
+            0.4230956993997097,
+            0.5370734995231032
+        ],
+        "source_file": "votes_fhpb0032_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            20,
+            37
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Date",
+        "value": "3-11-96",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.17177556455135345,
+            0.6049182415008545,
+            0.22100895270705223,
+            0.6147667933255434
+        ],
+        "source_file": "votes_fhpb0032_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            21,
+            38
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Date",
+        "value": "3-11-96",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1717931479215622,
+            0.6191313862800598,
+            0.2212228812277317,
+            0.6289991838857532
+        ],
+        "source_file": "votes_fhpb0032_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            22,
+            39
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Date",
+        "value": "3-4-96",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.17176909744739532,
+            0.6336642503738403,
+            0.2132994569838047,
+            0.6433241218328476
+        ],
+        "source_file": "votes_fhpb0032_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            23,
+            40
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Date",
+        "value": "3-4-96",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.17102429270744324,
+            0.6477442383766174,
+            0.21314260363578796,
+            0.6573920659720898
+        ],
+        "source_file": "votes_fhpb0032_page1.csv"
+    },
+    {
+        "ids": [
+            11,
+            24,
+            41
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Date",
+        "value": "2-28-96",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.17112769186496735,
+            0.6619476079940796,
+            0.2214641310274601,
+            0.671568457968533
+        ],
+        "source_file": "votes_fhpb0032_page1.csv"
+    },
+    {
+        "ids": [
+            12,
+            25,
+            42
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Date",
+        "value": "2-23-96",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.17091229557991028,
+            0.6763187050819397,
+            0.2214755192399025,
+            0.6859937543049455
+        ],
+        "source_file": "votes_fhpb0032_page1.csv"
+    },
+    {
+        "ids": [
+            13,
+            26,
+            43
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Contract Number",
+        "value": "TI30610009",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.8652051687240601,
+            0.96488356590271,
+            0.9735042601823807,
+            0.977894471026957
+        ],
+        "source_file": "votes_fhpb0032_page1.csv"
+    }
+]

@@ -1,0 +1,391 @@
+[
+    {
+        "ids": [
+            0,
+            17,
+            33
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Person Name",
+        "value": "Jim Morgan",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            337,
+            313,
+            491,
+            346
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            1,
+            18,
+            34
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Person Name",
+        "value": "G. C. Bible",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            333,
+            1059,
+            485,
+            1086
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            2,
+            19,
+            35
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Person Name",
+        "value": "W. I. Campbell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            333,
+            1092,
+            541,
+            1124
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            3,
+            20,
+            36
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Person Name",
+        "value": "J. F. Cullman 3rd",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            332,
+            1124,
+            580,
+            1151
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            4,
+            21,
+            37
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Person Name",
+        "value": "W. H. Dunn",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            333,
+            1156,
+            495,
+            1182
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            5,
+            22,
+            38
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Person Name",
+        "value": "M. S. Goldberg",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            333,
+            1188,
+            539,
+            1220
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            6,
+            23,
+            39
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Person Name",
+        "value": "J. M. Keenan",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            332,
+            1221,
+            516,
+            1247
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            7,
+            24,
+            40
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Person Name",
+        "value": "H. Maxwell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            332,
+            1253,
+            486,
+            1280
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            8,
+            25,
+            41
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Person Name",
+        "value": "R. P. Mayer",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            332,
+            1286,
+            501,
+            1317
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            9,
+            26,
+            42
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Person Name",
+        "value": "M. A. Miles",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            332,
+            1318,
+            488,
+            1344
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            10,
+            27,
+            43
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Person Name",
+        "value": "R. W. Murray",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            332,
+            1350,
+            516,
+            1382
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            11,
+            28,
+            44
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Person Name",
+        "value": "M. H. Bring",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            333,
+            1416,
+            495,
+            1447
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            12,
+            29,
+            45
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Person Name",
+        "value": "C. L. Fuller",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            333,
+            1447,
+            495,
+            1474
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            13,
+            30,
+            46
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Person Name",
+        "value": "H. G. Storr",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            332,
+            1480,
+            484,
+            1507
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            14,
+            31,
+            47
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Location",
+        "value": "120 PARK AVENUE, NEW YORK, NY 10017-5592",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            940,
+            117,
+            1549,
+            147
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.9965290942566549
+    },
+    {
+        "ids": [
+            15,
+            48
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Organization Name",
+        "value": "PHILIP MORRIS MANAGEMENT CORP.",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            195,
+            77,
+            952,
+            110
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.7749052148181887
+    },
+    {
+        "ids": [
+            16,
+            32,
+            49
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Date",
+        "value": "October 15, 1992",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1185,
+            213,
+            1411,
+            243
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.999455223694533
+    }
+]

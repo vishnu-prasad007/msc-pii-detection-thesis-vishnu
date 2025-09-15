@@ -1,0 +1,348 @@
+[
+    {
+        "ids": [
+            0,
+            14,
+            26
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Susan White",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            609,
+            624,
+            978,
+            683
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            1,
+            17,
+            27
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Steve McQuilkin",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            613,
+            1522,
+            1077,
+            1587
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            2,
+            18
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Andy Schindler",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1484,
+            2010,
+            1913,
+            2085
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            3,
+            19
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Steve Goldstone",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            2054,
+            2009,
+            2547,
+            2071
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            4,
+            28
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Jan",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1338,
+            1605,
+            1442,
+            1662
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.8128964067822458
+    },
+    {
+        "ids": [
+            5,
+            29
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Anita Scism",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            2082,
+            1685,
+            2420,
+            1745
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.8128964067822458
+    },
+    {
+        "ids": [
+            6,
+            20,
+            31
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Jason Wright",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1176,
+            2173,
+            1556,
+            2247
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            7,
+            21,
+            32
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Carol Makovich",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1695,
+            2173,
+            2134,
+            2235
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            8,
+            30
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Frank Tursi",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            616,
+            2011,
+            941,
+            2071
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.8128964067822458
+    },
+    {
+        "ids": [
+            9,
+            22,
+            33
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Phone Number",
+        "value": "70071 5263",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            61,
+            4566,
+            405,
+            4624
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.9990904025042505
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Location",
+        "value": "Tobaccoville",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            2423,
+            1279,
+            2785,
+            1339
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.12886882919786594
+    },
+    {
+        "ids": [
+            11,
+            23,
+            34
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Organization Name",
+        "value": "RJR",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2007,
+            624,
+            2131,
+            683
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.9900025300515797
+    },
+    {
+        "ids": [
+            12,
+            24,
+            35
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Organization Name",
+        "value": "RJR",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2220,
+            950,
+            2345,
+            1010
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.9900025300515797
+    },
+    {
+        "ids": [
+            13,
+            25,
+            36
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Contract Number",
+        "value": "RJR0000000046027194",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            64,
+            4483,
+            771,
+            4546
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.9662050027718209
+    },
+    {
+        "ids": [
+            15
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Susan",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1571,
+            1279,
+            1750,
+            1339
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.04056118529657932
+    },
+    {
+        "ids": [
+            16
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Joe",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            744,
+            1359,
+            850,
+            1418
+        ],
+        "source_file": "votes_fgmp0189_page3.csv",
+        "probability": 0.04056118529657932
+    }
+]

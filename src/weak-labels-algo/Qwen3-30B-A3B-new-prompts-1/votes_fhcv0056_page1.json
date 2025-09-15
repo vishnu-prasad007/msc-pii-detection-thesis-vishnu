@@ -1,0 +1,633 @@
+[
+    {
+        "ids": [
+            0,
+            25,
+            45
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Person Name",
+        "value": "H. Jachimsky",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            671,
+            712,
+            866,
+            743
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            1,
+            26,
+            46
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Person Name",
+        "value": "H.-W. Lang",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            670,
+            750,
+            839,
+            781
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            2,
+            27,
+            47
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Person Name",
+        "value": "N. Rave",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            672,
+            788,
+            791,
+            814
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            3,
+            29,
+            49
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Person Name",
+        "value": "N. Rave",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            231,
+            1994,
+            352,
+            2020
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            4,
+            28,
+            48
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Person Name",
+        "value": "M. Rave",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            202,
+            1876,
+            504,
+            2005
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            5,
+            30,
+            50
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Person Name",
+        "value": "Dr. Wolf Reininghaus",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1289,
+            2123,
+            1473,
+            2143
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            6,
+            31,
+            51
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Phone Number",
+        "value": "(0 22 03) 303-362",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1115,
+            367,
+            1341,
+            407
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.9999586296752602
+    },
+    {
+        "ids": [
+            7,
+            32,
+            52
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Phone Number",
+        "value": "(0 22 03)303-1",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1115,
+            367,
+            1341,
+            387
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.9999586296752602
+    },
+    {
+        "ids": [
+            8,
+            33,
+            53
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Phone Number",
+        "value": "001 (215) 386-6362",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            768,
+            1264,
+            1060,
+            1297
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.9999586296752602
+    },
+    {
+        "ids": [
+            9,
+            34,
+            54
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Phone Number",
+        "value": "001 (215) 386-2822",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            767,
+            1300,
+            1061,
+            1333
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.9999586296752602
+    },
+    {
+        "ids": [
+            10,
+            35,
+            55
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Phone Number",
+        "value": "001 (215) 222-0840",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            768,
+            1337,
+            1061,
+            1370
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.9999586296752602
+    },
+    {
+        "ids": [
+            11,
+            36,
+            56
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Location",
+        "value": "Fuggerstr. 3 . D-51149 Cologne",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            218,
+            438,
+            574,
+            464
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.9994942493793072
+    },
+    {
+        "ids": [
+            12,
+            37,
+            57
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Location",
+        "value": "3501 Market Street Ablage",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            610,
+            993,
+            1492,
+            1082
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.9994942493793072
+    },
+    {
+        "ids": [
+            13,
+            38,
+            58
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Location",
+        "value": "Philadelphia, PA 19104",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            610,
+            1052,
+            957,
+            1082
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.9994942493793072
+    },
+    {
+        "ids": [
+            14
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Location",
+        "value": "USA",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            611,
+            1087,
+            680,
+            1113
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.07632413679079741
+    },
+    {
+        "ids": [
+            15,
+            39,
+            59
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Organization Name",
+        "value": "INBIFO Institut f\u00fcr biologische Forschung GmbH",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            216,
+            243,
+            873,
+            273
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.997213720928886
+    },
+    {
+        "ids": [
+            16,
+            40,
+            60
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Organization Name",
+        "value": "INSIPO",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1131,
+            209,
+            1475,
+            299
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.997213720928886
+    },
+    {
+        "ids": [
+            17,
+            41,
+            61
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Organization Name",
+        "value": "INBIFO Institut f\u00fcr biologische Forschung GmbH",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            218,
+            412,
+            763,
+            438
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.997213720928886
+    },
+    {
+        "ids": [
+            18,
+            43,
+            62
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Organization Name",
+        "value": "Federal Express",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            353,
+            1744,
+            592,
+            1776
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.997213720928886
+    },
+    {
+        "ids": [
+            19,
+            64
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Date",
+        "value": "April 25, 1997",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            606,
+            600,
+            814,
+            631
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.9891058555799473
+    },
+    {
+        "ids": [
+            20,
+            65
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Date",
+        "value": "28-04-97",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1055,
+            706,
+            1198,
+            741
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.9891058555799473
+    },
+    {
+        "ids": [
+            21,
+            67
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Contract Number",
+        "value": "1275",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            695,
+            314,
+            825,
+            363
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.6246185800384172
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Contract Number",
+        "value": "0020668",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            598,
+            1527,
+            729,
+            1552
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.16277336328464415
+    },
+    {
+        "ids": [
+            23
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Contract Number",
+        "value": "MB549",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1020,
+            1527,
+            1126,
+            1552
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.16277336328464415
+    },
+    {
+        "ids": [
+            24,
+            68
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Contract Number",
+        "value": "127/94",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1569,
+            2142,
+            1617,
+            2157
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.6246185800384172
+    },
+    {
+        "ids": [
+            42
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Organization Name",
+        "value": "Institute for Scientific",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            607,
+            863,
+            998,
+            894
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.17771190598138614
+    },
+    {
+        "ids": [
+            44
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Date",
+        "value": "28-04-97 09:33",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1055,
+            706,
+            1383,
+            757
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.010894144420052706
+    },
+    {
+        "ids": [
+            63
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Organization Name",
+        "value": "35 Records",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1422,
+            793,
+            1534,
+            811
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.12198385281486815
+    },
+    {
+        "ids": [
+            66
+        ],
+        "doc_id": "votes_fhcv0056_page1",
+        "pii_type": "Date",
+        "value": "09:33",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1221,
+            721,
+            1383,
+            757
+        ],
+        "source_file": "votes_fhcv0056_page1.csv",
+        "probability": 0.03943782582945077
+    }
+]

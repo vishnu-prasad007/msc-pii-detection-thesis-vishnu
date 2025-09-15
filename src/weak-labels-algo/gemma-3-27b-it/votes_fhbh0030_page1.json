@@ -1,0 +1,221 @@
+[
+    {
+        "ids": [
+            0,
+            9,
+            19
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": "Person Name",
+        "value": "William P. Buckley",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            639,
+            741,
+            1099,
+            784
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            1,
+            10,
+            20
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": "Person Name",
+        "value": "William A. Cannell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            640,
+            784,
+            1093,
+            822
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            2,
+            11,
+            21
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": "Person Name",
+        "value": "Richard E. Scanlan",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            642,
+            869,
+            1100,
+            907
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            3,
+            12,
+            22
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": "Person Name",
+        "value": "Michael G. Griffin",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            489,
+            1165,
+            948,
+            1201
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            4,
+            6,
+            13,
+            16,
+            24,
+            28
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": [
+            "Location",
+            "Organization Name"
+        ],
+        "value": "New York",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1102,
+            1249,
+            1324,
+            1285
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            15,
+            27
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": "Organization Name",
+        "value": "Griffin Media Group",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            773,
+            1165,
+            1531,
+            1207
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            7,
+            17,
+            23,
+            29
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "April 8, 1985",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            412,
+            447,
+            742,
+            490
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 0.9999987397789659
+    },
+    {
+        "ids": [
+            8,
+            18,
+            26,
+            30
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "TCAL0194840",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1679,
+            2849,
+            1985,
+            2889
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 0.9184114824286881
+    },
+    {
+        "ids": [
+            14,
+            25
+        ],
+        "doc_id": "votes_fhbh0030_page1",
+        "pii_type": "Location",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fhbh0030",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            540,
+            3160,
+            1964,
+            3216
+        ],
+        "source_file": "votes_fhbh0030_page1.csv",
+        "probability": 0.6496131543550141
+    }
+]

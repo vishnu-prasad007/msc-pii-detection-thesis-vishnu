@@ -1,0 +1,88 @@
+[
+    {
+        "ids": [
+            0,
+            4
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Person Name",
+        "value": "Plaia, Gina",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            453,
+            200,
+            597,
+            228
+        ],
+        "source_file": "votes_fgjj0009_page1.csv",
+        "probability": 0.9223996674224194
+    },
+    {
+        "ids": [
+            1,
+            5
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Person Name",
+        "value": "Elfar, Deb",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            418,
+            263,
+            549,
+            292
+        ],
+        "source_file": "votes_fgjj0009_page1.csv",
+        "probability": 0.9223996674224194
+    },
+    {
+        "ids": [
+            2,
+            6
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Person Name",
+        "value": "Rush, Sonya",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            419,
+            294,
+            586,
+            326
+        ],
+        "source_file": "votes_fgjj0009_page1.csv",
+        "probability": 0.9223996674224194
+    },
+    {
+        "ids": [
+            3,
+            7,
+            8
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Date",
+        "value": "Thu, Mar 24, 1994 5:07 PM From: Plaia, Gina on",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            366,
+            199,
+            1005,
+            229
+        ],
+        "source_file": "votes_fgjj0009_page1.csv",
+        "probability": 0.999455223694533
+    }
+]

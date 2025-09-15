@@ -1,0 +1,298 @@
+[
+    {
+        "ids": [
+            0,
+            10,
+            19,
+            25
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "Mr. Clyde W. Fitzgerald",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            330,
+            411,
+            1020,
+            458
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            11,
+            20
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": "Person Name",
+        "value": "J. H. Sherrill, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            319,
+            2978,
+            882,
+            3023
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            2,
+            12,
+            21
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. R. A. Blevins, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            466,
+            3244,
+            1126,
+            3287
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            3,
+            13,
+            22
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. T. P. Haller",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            466,
+            3298,
+            947,
+            3337
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            4,
+            5,
+            14,
+            15,
+            18,
+            23,
+            29,
+            35
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number",
+            "Location"
+        ],
+        "value": "3434",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2381,
+            3183,
+            2416,
+            3295
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            16,
+            30
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": "Organization Name",
+        "value": "Marketing Research Department",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            314,
+            3033,
+            1186,
+            3080
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            7,
+            17,
+            24,
+            31
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "October 31, 1972",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1386,
+            253,
+            1868,
+            296
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 0.9999987397789659
+    },
+    {
+        "ids": [
+            8,
+            33
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": "Date",
+        "value": "January",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            2078,
+            2077,
+            2285,
+            2122
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 0.9749797347639809
+    },
+    {
+        "ids": [
+            9,
+            34
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": "Date",
+        "value": "late February",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1172,
+            2125,
+            1579,
+            2171
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 0.9749797347639809
+    },
+    {
+        "ids": [
+            26
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": "Location",
+        "value": "APPLE WINE RESEARCH OUTLINE",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            479,
+            516,
+            1294,
+            557
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            27
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": "Location",
+        "value": "18-25",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            995,
+            786,
+            1140,
+            826
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            28
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": "Location",
+        "value": "18-35",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            746,
+            2070,
+            892,
+            2108
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            32
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": "Date",
+        "value": "Christmas",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            839,
+            1801,
+            1129,
+            1840
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 0.01982729661295019
+    }
+]

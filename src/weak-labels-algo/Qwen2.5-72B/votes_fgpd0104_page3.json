@@ -1,0 +1,168 @@
+[
+    {
+        "ids": [
+            0,
+            6,
+            12
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Date",
+        "value": "February 14, 1992",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            880,
+            597,
+            1168,
+            635
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "probability": 0.9998134030756157
+    },
+    {
+        "ids": [
+            1,
+            7
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Contract Number",
+        "value": "63583",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            827,
+            678,
+            946,
+            709
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "probability": 0.7411062568991627
+    },
+    {
+        "ids": [
+            2,
+            8
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Contract Number",
+        "value": "63584",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1208,
+            677,
+            1328,
+            709
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "probability": 0.7411062568991627
+    },
+    {
+        "ids": [
+            3,
+            9
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Contract Number",
+        "value": "63583 #63583",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            703,
+            1299,
+            801,
+            1325
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "probability": 0.7411062568991627
+    },
+    {
+        "ids": [
+            4,
+            10
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Contract Number",
+        "value": "63584 #63584",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1113,
+            1299,
+            1210,
+            1324
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "probability": 0.7411062568991627
+    },
+    {
+        "ids": [
+            5,
+            11
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Organization Name",
+        "value": "Midas PF",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            626,
+            599,
+            774,
+            629
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "probability": 0.6968065787778354
+    },
+    {
+        "ids": [
+            13
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Contract Number",
+        "value": "0145C",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1193,
+            1947,
+            1294,
+            1978
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "probability": 0.060294705454926885
+    },
+    {
+        "ids": [
+            14
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Contract Number",
+        "value": "0145A",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1192,
+            2027,
+            1297,
+            2058
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "probability": 0.060294705454926885
+    }
+]

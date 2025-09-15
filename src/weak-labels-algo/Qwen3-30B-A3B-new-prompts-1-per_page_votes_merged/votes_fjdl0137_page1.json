@@ -1,0 +1,66 @@
+[
+    {
+        "ids": [
+            0,
+            3,
+            5
+        ],
+        "doc_id": "votes_fjdl0137_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. Hammor",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.23250091075897217,
+            0.09045853465795517,
+            0.3274584896862507,
+            0.10109918005764484
+        ],
+        "source_file": "votes_fjdl0137_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            4,
+            6
+        ],
+        "doc_id": "votes_fjdl0137_page1",
+        "pii_type": "Person Name",
+        "value": "Dixon, W. E.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.19604837894439697,
+            0.245050311088562,
+            0.30645387060940266,
+            0.25825012009590864
+        ],
+        "source_file": "votes_fjdl0137_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            7
+        ],
+        "doc_id": "votes_fjdl0137_page1",
+        "pii_type": "Date",
+        "value": "12-19-48",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.6215956211090088,
+            0.02133549563586712,
+            0.6971130147576332,
+            0.03236101847141981
+        ],
+        "source_file": "votes_fjdl0137_page1.csv"
+    }
+]

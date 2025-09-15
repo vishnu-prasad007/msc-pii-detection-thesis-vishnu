@@ -1,0 +1,324 @@
+[
+    {
+        "ids": [
+            0,
+            14,
+            28
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Person Name",
+        "value": "Lee Stitzenberger",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            416,
+            644,
+            748,
+            675
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            1,
+            15,
+            29
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Person Name",
+        "value": "Jim Pontarelli",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            416,
+            677,
+            686,
+            703
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            2,
+            16,
+            30
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Person Name",
+        "value": "Chip Nielsen",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            418,
+            741,
+            652,
+            772
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            3,
+            17,
+            31
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Phone Number",
+        "value": "FAX 1910) 446-6106",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            270,
+            496,
+            417,
+            511
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9999993523779069
+    },
+    {
+        "ids": [
+            4,
+            18,
+            32
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Location",
+        "value": "SACRAMENTO",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            277,
+            377,
+            407,
+            392
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9546725906404269
+    },
+    {
+        "ids": [
+            5,
+            19,
+            33
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Location",
+        "value": "SAN FRANCISCO",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1287,
+            370,
+            1442,
+            386
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9546725906404269
+    },
+    {
+        "ids": [
+            6,
+            20,
+            34
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Location",
+        "value": "MILL VALLEY, CALIFORNIA 94941",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            680,
+            409,
+            1038,
+            429
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9546725906404269
+    },
+    {
+        "ids": [
+            7,
+            21,
+            35
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Location",
+        "value": "SAN FRANCISCO, CALIFORNIA 94108",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            841,
+            409,
+            1536,
+            449
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9546725906404269
+    },
+    {
+        "ids": [
+            8,
+            22,
+            36
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Location",
+        "value": "650 CALIFORNIA STREET, SUITE 2650",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            285,
+            409,
+            1536,
+            430
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9546725906404269
+    },
+    {
+        "ids": [
+            9,
+            23,
+            37
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Location",
+        "value": "SACRAMENTO, CALIFORNIA 95814",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            187,
+            434,
+            496,
+            451
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9546725906404269
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Location",
+        "value": "Marin County",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            979,
+            1256,
+            1214,
+            1284
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.09013932602984197
+    },
+    {
+        "ids": [
+            11,
+            25,
+            38
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Organization Name",
+        "value": "Californians for Statewide Smoking",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            227,
+            966,
+            1206,
+            995
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            12,
+            24,
+            26,
+            39
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "September 27, 1995",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            678,
+            518,
+            1024,
+            545
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9999987397789659
+    },
+    {
+        "ids": [
+            13,
+            27,
+            40
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Contract Number",
+        "value": "6797.01",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            233,
+            1807,
+            364,
+            1830
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9982614997233888
+    }
+]

@@ -1,0 +1,300 @@
+[
+    {
+        "ids": [
+            0,
+            11
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. V. B. Lougee, III, President and Chief Operating Officer",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            355,
+            555,
+            2710,
+            625
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.9223996674224194
+    },
+    {
+        "ids": [
+            1,
+            12
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Person Name",
+        "value": "R. S. Sprinkle, III, Research and Development Director",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            357,
+            772,
+            2479,
+            843
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.9223996674224194
+    },
+    {
+        "ids": [
+            2,
+            13,
+            22
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. William J. Moore",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            565,
+            3469,
+            1352,
+            3526
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            3,
+            14,
+            23
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. Arnold Henson",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            563,
+            3692,
+            1235,
+            3746
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            4
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Location",
+        "value": "Durham Branch",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            792,
+            1509,
+            1306,
+            1560
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.0423572811717471
+    },
+    {
+        "ids": [
+            5,
+            15,
+            25
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Organization Name",
+        "value": "The American Tobacco Company",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1527,
+            158,
+            2887,
+            353
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.9937329907926641
+    },
+    {
+        "ids": [
+            6,
+            16,
+            26
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Organization Name",
+        "value": "American Brands, Inc.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2117,
+            335,
+            2604,
+            367
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.9937329907926641
+    },
+    {
+        "ids": [
+            7,
+            17,
+            27
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Organization Name",
+        "value": "FTC",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1380,
+            1581,
+            1501,
+            1630
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.9937329907926641
+    },
+    {
+        "ids": [
+            8,
+            18,
+            28
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Date",
+        "value": "July 10, 1978",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            356,
+            342,
+            867,
+            407
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            9,
+            19,
+            29
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Date",
+        "value": "June 27 and 28, 1978",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1462,
+            1505,
+            2274,
+            1566
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "NYO 627 (8-68)",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            120,
+            53,
+            417,
+            90
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.1538226533628269
+    },
+    {
+        "ids": [
+            20
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. V. B. Lougee, III",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            355,
+            561,
+            1208,
+            625
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.01521708200355711
+    },
+    {
+        "ids": [
+            21
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Person Name",
+        "value": "R. S. Sprinkle, III",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            357,
+            775,
+            1131,
+            843
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.01521708200355711
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Person Name",
+        "value": "Al",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            293,
+            125,
+            349,
+            189
+        ],
+        "source_file": "votes_fhbh0177_page1.csv",
+        "probability": 0.01521708200355711
+    }
+]

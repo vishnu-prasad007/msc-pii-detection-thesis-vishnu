@@ -1,0 +1,442 @@
+[
+    {
+        "ids": [
+            0,
+            17,
+            25
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "San Antonio",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.19861839711666107,
+            0.35605114698410034,
+            0.2762040048837662,
+            0.3653601426631212
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            1,
+            26
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "San Antonio",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.19894202053546906,
+            0.38390615582466125,
+            0.27674350142478943,
+            0.39360769372433424
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            2
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "Kansas City",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.19847530126571655,
+            0.4402496814727783,
+            0.27347715198993683,
+            0.45160299353301525
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            3,
+            18,
+            27
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "Kansas City, KS",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.15931251645088196,
+            0.4817972481250763,
+            0.26105317287147045,
+            0.4934454411268234
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            4,
+            28
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "Wichita",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.15989720821380615,
+            0.5231995582580566,
+            0.20936890318989754,
+            0.5330318743363023
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            5,
+            19,
+            29
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "Kansas City, MO",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1598861664533615,
+            0.56509929895401,
+            0.2672347482293844,
+            0.5770005360245705
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            6,
+            20,
+            30
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "Springfield",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16072985529899597,
+            0.6069678664207458,
+            0.23010650277137756,
+            0.6190757360309362
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            7,
+            21,
+            31
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "Ft. Worth So.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.15981653332710266,
+            0.6767389178276062,
+            0.24335583671927452,
+            0.6865135189145803
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            8,
+            22,
+            32
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "Mobile",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.15996333956718445,
+            0.7460907101631165,
+            0.20555950328707695,
+            0.7557189650833607
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            9,
+            33
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "New Orleans",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.19847333431243896,
+            0.7737466096878052,
+            0.28024833649396896,
+            0.7836172934621572
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            10,
+            34
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Location",
+        "value": "Mobile",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.1986697018146515,
+            0.8013858795166016,
+            0.24426047876477242,
+            0.8112763417884707
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Organization Name",
+        "value": "Circle K",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.29575327038764954,
+            0.3557316064834595,
+            0.348273865878582,
+            0.36503010895103216
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            12
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Organization Name",
+        "value": "H.E.B.",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.29519233107566833,
+            0.38366788625717163,
+            0.337856687605381,
+            0.3934471420943737
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            13,
+            40
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Organization Name",
+        "value": "Autry Greer & Sons",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.29575973749160767,
+            0.745864748954773,
+            0.41949899308383465,
+            0.7575913947075605
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            14,
+            41
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Organization Name",
+        "value": "Winn Dixie",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.2959143817424774,
+            0.7735719680786133,
+            0.3682773523032665,
+            0.7834772411733866
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            15,
+            23,
+            42
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Organization Name",
+        "value": "Delchamps",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2955067455768585,
+            0.8013321757316589,
+            0.365506187081337,
+            0.8136488264426589
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            16,
+            24,
+            43
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Date",
+        "value": "April 7, 2997",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.12438420951366425,
+            0.20218922197818756,
+            0.20650119706988335,
+            0.21426070015877485
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            35
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Organization Name",
+        "value": "4 Chains",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.2945999205112457,
+            0.48136475682258606,
+            0.3495859056711197,
+            0.49115280248224735
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            36
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Organization Name",
+        "value": "7 Chains",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.29547563195228577,
+            0.5228103399276733,
+            0.34994546324014664,
+            0.532810116186738
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            37
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Organization Name",
+        "value": "4 Chains",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.2952967882156372,
+            0.5646752715110779,
+            0.3502792976796627,
+            0.5745153594762087
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            38
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Organization Name",
+        "value": "Grocery",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.2956770062446594,
+            0.607023298740387,
+            0.34697042778134346,
+            0.6187235750257969
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    },
+    {
+        "ids": [
+            39
+        ],
+        "doc_id": "votes_fjcc0074_page4",
+        "pii_type": "Organization Name",
+        "value": "Wholesalers",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.29577571153640747,
+            0.6207760572433472,
+            0.3714912161231041,
+            0.6304657952859998
+        ],
+        "source_file": "votes_fjcc0074_page4.csv"
+    }
+]

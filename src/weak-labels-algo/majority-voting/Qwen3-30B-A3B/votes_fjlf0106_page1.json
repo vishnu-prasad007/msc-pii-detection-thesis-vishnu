@@ -1,0 +1,671 @@
+[
+    {
+        "ids": [
+            0,
+            31,
+            61
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Person Name",
+        "value": "Cheryl Lee",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            565,
+            470,
+            867,
+            513
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            32
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Person Name",
+        "value": "C. Beck",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            152,
+            2538,
+            364,
+            2573
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            2,
+            33
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Person Name",
+        "value": "J. Dennett",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            697,
+            2538,
+            999,
+            2575
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            3,
+            34
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Person Name",
+        "value": "R. Barry",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1151,
+            2541,
+            1390,
+            2582
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            4,
+            35
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Person Name",
+        "value": "C. Nemetz",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            152,
+            2538,
+            2086,
+            2577
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            5,
+            36
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Person Name",
+        "value": "N. Brennan",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            152,
+            2587,
+            454,
+            2621
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            6,
+            37
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Person Name",
+        "value": "W. Harmon",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            695,
+            2586,
+            970,
+            2622
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            7,
+            38
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Person Name",
+        "value": "B. Kutsche",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1150,
+            2587,
+            1449,
+            2622
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            8,
+            39
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Person Name",
+        "value": "J. Poggi",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1816,
+            2589,
+            2054,
+            2630
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            9,
+            40
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Person Name",
+        "value": "H. Foster",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            153,
+            2633,
+            423,
+            2668
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            10,
+            41
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Person Name",
+        "value": "D. Miller",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            694,
+            2632,
+            967,
+            2669
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            11,
+            42
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Person Name",
+        "value": "S. . Waitzman",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1151,
+            2633,
+            1481,
+            2669
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            12,
+            43
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Person Name",
+        "value": "D. Timoney",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            694,
+            2634,
+            2119,
+            2678
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            13,
+            44
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Person Name",
+        "value": "V. Gong",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            153,
+            2680,
+            367,
+            2723
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            14,
+            45
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Person Name",
+        "value": "A. Parr",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            695,
+            2683,
+            908,
+            2716
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            15,
+            46
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Person Name",
+        "value": "C. Wills",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1815,
+            2682,
+            2056,
+            2719
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            16,
+            47
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Person Name",
+        "value": "C. Leiber",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            154,
+            2726,
+            423,
+            2762
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            17,
+            48
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Person Name",
+        "value": "M. Margolis",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            153,
+            2774,
+            483,
+            2815
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            18,
+            49
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Person Name",
+        "value": "L. Miller",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            152,
+            2820,
+            424,
+            2858
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            19,
+            50
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Person Name",
+        "value": "R. Stirlen",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            152,
+            2868,
+            455,
+            2904
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            20,
+            51
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Person Name",
+        "value": "C. Koehler",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            878,
+            2870,
+            1178,
+            2904
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            21,
+            52
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Person Name",
+        "value": "D. Watts",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            151,
+            2915,
+            393,
+            2951
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            22,
+            26,
+            55,
+            63
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Leo Burnett",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            698,
+            2492,
+            1030,
+            2527
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            23,
+            53,
+            62
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Organization Name",
+        "value": "PHILIP MORRIS U.S.A.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            289,
+            192,
+            919,
+            244
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            24,
+            54,
+            67
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Organization Name",
+        "value": "Carnegie Hall",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            214,
+            979,
+            599,
+            1021
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            25,
+            59
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Organization Name",
+        "value": "Philip Morris",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            154,
+            2490,
+            545,
+            2534
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            27,
+            56,
+            64
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Organization Name",
+        "value": "Wells, Rich, Greene",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1147,
+            2491,
+            1724,
+            2533
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            28,
+            57,
+            65
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Organization Name",
+        "value": "Backer & Spielvogel",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1814,
+            2492,
+            2382,
+            2537
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            29,
+            58,
+            66
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Organization Name",
+        "value": "Lynch Transcription",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            877,
+            2774,
+            1458,
+            2818
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            30,
+            60,
+            68
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Date",
+        "value": "August 9, 1985",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1745,
+            387,
+            2165,
+            428
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            69
+        ],
+        "doc_id": "votes_fjlf0106_page1",
+        "pii_type": "Contract Number",
+        "value": "#3",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1386,
+            115,
+            1436,
+            158
+        ],
+        "source_file": "votes_fjlf0106_page1.csv",
+        "probability": 0.3333333333333333
+    }
+]

@@ -1,0 +1,284 @@
+[
+    {
+        "ids": [
+            0,
+            12,
+            27
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Dr R Baker",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            801,
+            845,
+            993,
+            877
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.9996925870572029
+    },
+    {
+        "ids": [
+            1,
+            13,
+            28
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Mr I C Brown",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            801,
+            896,
+            1039,
+            928
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.9996925870572029
+    },
+    {
+        "ids": [
+            2,
+            14,
+            29
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Dr L Rudge",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            802,
+            944,
+            999,
+            985
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.9996925870572029
+    },
+    {
+        "ids": [
+            3,
+            15,
+            30
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Ray Thornton",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            802,
+            1041,
+            1030,
+            1081
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.9996925870572029
+    },
+    {
+        "ids": [
+            4,
+            7,
+            17,
+            20,
+            22,
+            31,
+            34
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": [
+            "Phone Number",
+            "Organization Name",
+            "Location"
+        ],
+        "value": "Southampton",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1119,
+            796,
+            1333,
+            835
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            8,
+            18,
+            21,
+            23,
+            32,
+            35
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": [
+            "Phone Number",
+            "Organization Name",
+            "Location"
+        ],
+        "value": "Staines",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1038,
+            945,
+            1152,
+            976
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            33
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Location",
+        "value": "Millbank",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1243,
+            1430,
+            1402,
+            1461
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.7673998145928828
+    },
+    {
+        "ids": [
+            9,
+            24,
+            36
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Date",
+        "value": "13th January 1992",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            583,
+            1140,
+            880,
+            1180
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.9980073602097371
+    },
+    {
+        "ids": [
+            10,
+            25,
+            37
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Date",
+        "value": "Thursday 30th January",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            813,
+            1430,
+            1187,
+            1471
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.9980073602097371
+    },
+    {
+        "ids": [
+            11,
+            26,
+            38
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Date",
+        "value": "30th",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1112,
+            1675,
+            1193,
+            1705
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.9980073602097371
+    },
+    {
+        "ids": [
+            16
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Email Address",
+        "value": "Tina",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1308,
+            1528,
+            1386,
+            1559
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.06620864289453628
+    },
+    {
+        "ids": [
+            19
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Phone Number",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fgmp0191",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            561,
+            3236,
+            1994,
+            3291
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.14139476828087144
+    }
+]

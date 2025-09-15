@@ -1,0 +1,304 @@
+[
+    {
+        "ids": [
+            0,
+            8,
+            17
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Person Name",
+        "value": "KARA QUICK",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            831,
+            464,
+            1047,
+            496
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            1,
+            9,
+            18
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Location",
+        "value": "1 WILEY DR",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            833,
+            714,
+            1027,
+            746
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999992742335471
+    },
+    {
+        "ids": [
+            2,
+            10,
+            19
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Location",
+        "value": "SOMERSET",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            834,
+            769,
+            1017,
+            800
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999992742335471
+    },
+    {
+        "ids": [
+            3,
+            12,
+            21
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Location",
+        "value": "08873",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            830,
+            875,
+            930,
+            906
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999992742335471
+    },
+    {
+        "ids": [
+            4,
+            13,
+            22
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Location",
+        "value": "UNITED STATES",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            831,
+            929,
+            1095,
+            961
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999992742335471
+    },
+    {
+        "ids": [
+            5,
+            14,
+            23
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Organization Name",
+        "value": "JOHNWILEY & SONS INC",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            830,
+            631,
+            1243,
+            663
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999159454539699
+    },
+    {
+        "ids": [
+            6,
+            24
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Date",
+        "value": "5/1/12",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            58,
+            69,
+            153,
+            98
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "votes": [
+            0,
+            0,
+            1,
+            1,
+            0,
+            0
+        ],
+        "probability": 0.015147476154425557
+    },
+    {
+        "ids": [
+            7,
+            15,
+            25
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Date",
+        "value": "05/13/2011",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            831,
+            201,
+            1007,
+            231
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.999999713175462
+    },
+    {
+        "ids": [
+            11,
+            20
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Location",
+        "value": "NU",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            830,
+            822,
+            872,
+            853
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "votes": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "probability": 7.257664529036581e-07
+    },
+    {
+        "ids": [
+            16
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Contract Number",
+        "value": "MNKOI 0006104165",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            2088,
+            3304,
+            2466,
+            3340
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "votes": [
+            1,
+            1,
+            0,
+            0,
+            1,
+            0
+        ],
+        "probability": 0.17450311472872532
+    }
+]

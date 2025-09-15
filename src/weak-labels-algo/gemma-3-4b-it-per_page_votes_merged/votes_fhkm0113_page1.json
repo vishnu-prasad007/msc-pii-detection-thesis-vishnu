@@ -1,0 +1,315 @@
+[
+    {
+        "ids": [
+            0,
+            12,
+            30
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Person Name",
+        "value": "W. R\u00f5er",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3911781311035156,
+            0.1442572921514511,
+            0.4564645327627659,
+            0.15303770918399096
+        ],
+        "source_file": "votes_fhkm0113_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            13,
+            31
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Person Name",
+        "value": "J.B. Boder",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3908211886882782,
+            0.15777690708637238,
+            0.48494063317775726,
+            0.1667733872309327
+        ],
+        "source_file": "votes_fhkm0113_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            4,
+            14,
+            32
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "W. R\u00f6er",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6339375972747803,
+            0.6998124122619629,
+            0.6989415101706982,
+            0.708858473226428
+        ],
+        "source_file": "votes_fhkm0113_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            5,
+            15,
+            16,
+            33
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "E. Grossen",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7822041511535645,
+            0.7414183020591736,
+            0.8773276209831238,
+            0.7504024486988783
+        ],
+        "source_file": "votes_fhkm0113_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            21,
+            28,
+            34,
+            36
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": [
+            "Location",
+            "Organization Name",
+            "Contract Number"
+        ],
+        "value": "FTR Manufacturing and QC Projects",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3910738229751587,
+            0.10088254511356354,
+            0.6987557858228683,
+            0.11207235883921385
+        ],
+        "source_file": "votes_fhkm0113_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            22
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Organization Name",
+        "value": "MLF",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.6055813431739807,
+            0.2637691795825958,
+            0.6354046389460564,
+            0.2725995220243931
+        ],
+        "source_file": "votes_fhkm0113_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            24
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Organization Name",
+        "value": "PMH",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.4852694571018219,
+            0.5044809579849243,
+            0.5136317927390337,
+            0.5129374600946903
+        ],
+        "source_file": "votes_fhkm0113_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            25,
+            37
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Date",
+        "value": "March 24 - April 28, 1978",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.39140522480010986,
+            0.12920616567134857,
+            0.6249196454882622,
+            0.14007759653031826
+        ],
+        "source_file": "votes_fhkm0113_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            17,
+            26,
+            38
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": [
+            "Date",
+            "Phone Number"
+        ],
+        "value": "28/04/78",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18887127935886383,
+            0.8260781168937683,
+            0.2617533504962921,
+            0.8365522380918264
+        ],
+        "source_file": "votes_fhkm0113_page1.csv"
+    },
+    {
+        "ids": [
+            11,
+            18,
+            27,
+            39
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": [
+            "Date",
+            "Phone Number"
+        ],
+        "value": "63",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.47793659567832947,
+            0.9420152306556702,
+            0.5004950817674398,
+            0.9516814090311527
+        ],
+        "source_file": "votes_fhkm0113_page1.csv"
+    },
+    {
+        "ids": [
+            19,
+            35
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Location",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fhkm0113 https://www.industrydocuments.ucsf.edu",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.2811710238456726,
+            0.982216477394104,
+            0.7914413809776306,
+            0.9973255265504122
+        ],
+        "source_file": "votes_fhkm0113_page1.csv"
+    },
+    {
+        "ids": [
+            20
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Location",
+        "value": "WOR/mos",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.1870584487915039,
+            0.8400772213935852,
+            0.2508380487561226,
+            0.8500571204349399
+        ],
+        "source_file": "votes_fhkm0113_page1.csv"
+    },
+    {
+        "ids": [
+            23
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Organization Name",
+        "value": "Quadrabeam",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.45601686835289,
+            0.34942469000816345,
+            0.5515202432870865,
+            0.36007752176374197
+        ],
+        "source_file": "votes_fhkm0113_page1.csv"
+    },
+    {
+        "ids": [
+            29
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "PMH test",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.4852694571018219,
+            0.5044809579849243,
+            0.5604584515094757,
+            0.5131908897310495
+        ],
+        "source_file": "votes_fhkm0113_page1.csv"
+    }
+]

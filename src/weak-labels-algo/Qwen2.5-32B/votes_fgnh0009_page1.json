@@ -1,0 +1,201 @@
+[
+    {
+        "ids": [
+            0,
+            8
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Person Name",
+        "value": "ALMA TRINER",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            650,
+            1033,
+            971,
+            1068
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            1,
+            9
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Person Name",
+        "value": "Dr. Charles J. Kensler",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            503,
+            1792,
+            1161,
+            1836
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            2,
+            10,
+            16
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Phone Number",
+        "value": "(617) 864-5770 (Ext. 2541)",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            662,
+            1077,
+            1392,
+            1119
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9990904025042505
+    },
+    {
+        "ids": [
+            3,
+            11,
+            17
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Location",
+        "value": "Cambridge, Mass. 02140",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            361,
+            838,
+            1025,
+            886
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.996034042417568
+    },
+    {
+        "ids": [
+            4,
+            18
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Location",
+        "value": "BUENOS AIRES, ARGENTINA",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            507,
+            1411,
+            1194,
+            1453
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.8994426145085483
+    },
+    {
+        "ids": [
+            5,
+            12,
+            19
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Organization Name",
+        "value": "Arthur D. Little, Inc.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            362,
+            697,
+            992,
+            743
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9900025300515797
+    },
+    {
+        "ids": [
+            6,
+            13,
+            20
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Date",
+        "value": "October 7, 1978",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1226,
+            1409,
+            1657,
+            1452
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            7,
+            15,
+            22
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Contract Number",
+        "value": "LG 0382867",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2029,
+            3883,
+            2380,
+            3948
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9662050027718209
+    },
+    {
+        "ids": [
+            14,
+            21
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Contract Number",
+        "value": "LIG- 92593",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            607,
+            3793,
+            895,
+            3836
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.5467029066441701
+    }
+]

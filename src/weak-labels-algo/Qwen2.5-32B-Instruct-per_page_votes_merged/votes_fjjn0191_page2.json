@@ -1,0 +1,552 @@
+[
+    {
+        "ids": [
+            0,
+            27
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Ernesto Antich",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.2159358710050583,
+            0.3289465606212616,
+            0.3082566261291504,
+            0.33902470022439957
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            1,
+            28
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Eugenio Rengifo",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.21566247940063477,
+            0.3428078293800354,
+            0.32042599096894264,
+            0.35513212997466326
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            2,
+            29
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Patricio Bellolio",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.21560874581336975,
+            0.356909841299057,
+            0.31737738475203514,
+            0.3671399438753724
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            3,
+            30
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Dr CJP de Siqueira",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.21555723249912262,
+            0.3707352578639984,
+            0.34462546557188034,
+            0.38339077588170767
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            4,
+            31
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Edgar Codero",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.2159498929977417,
+            0.38479679822921753,
+            0.3022136949002743,
+            0.39678328949958086
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            5,
+            32
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Orlando Schoenstedt",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.2160177379846573,
+            0.3984159231185913,
+            0.343101367354393,
+            0.4086504587903619
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            6,
+            33
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Peter Taylor",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.21538615226745605,
+            0.41236308217048645,
+            0.2946102134883404,
+            0.4243153119459748
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            7,
+            34
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Amilcar Santamaria",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.21486997604370117,
+            0.4259313642978668,
+            0.33881936222314835,
+            0.43578177969902754
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            8,
+            35
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "David Vega",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.21527116000652313,
+            0.43952232599258423,
+            0.29063155874609947,
+            0.4516581976786256
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            9,
+            36
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Hugh Tweed",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.2146642804145813,
+            0.4534960985183716,
+            0.2956795357167721,
+            0.46531535033136606
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "S.4 ena",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.23206940293312073,
+            0.6643527746200562,
+            0.30344364792108536,
+            0.6842421293258667
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "pp. Dr S Boyse",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.1763208657503128,
+            0.7002409100532532,
+            0.2869064398109913,
+            0.7206044234335423
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            12
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Phone Number",
+        "value": "0784 455 000",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.5385979413986206,
+            0.8526307940483093,
+            0.6115989908576012,
+            0.8595338701270521
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            13,
+            39
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Venezuela",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.43858370184898376,
+            0.32836639881134033,
+            0.5014916509389877,
+            0.3384987022727728
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            14,
+            40
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Chile",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.4389931857585907,
+            0.34265047311782837,
+            0.4718506895005703,
+            0.35296997148543596
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            15,
+            41
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Chile",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.4384755492210388,
+            0.3566760718822479,
+            0.4717284142971039,
+            0.36662549432367086
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            16,
+            42
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Brazil",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.4382043480873108,
+            0.37066903710365295,
+            0.4742957167327404,
+            0.3807045193389058
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            17,
+            43
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Costa Rica",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.4392283856868744,
+            0.3845983147621155,
+            0.5042457580566406,
+            0.39465961791574955
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            18,
+            44
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Guatemala",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.4385945796966553,
+            0.39857417345046997,
+            0.503101259469986,
+            0.4082970740273595
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            19,
+            45
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Panama",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.4385879337787628,
+            0.41247472167015076,
+            0.4861178882420063,
+            0.4219992170110345
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            20,
+            46
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Honduras",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.43796223402023315,
+            0.4262385666370392,
+            0.49700289964675903,
+            0.4355159914121032
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            21,
+            47
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "El Salvador",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.43832531571388245,
+            0.4396061301231384,
+            0.5105938874185085,
+            0.4492687629535794
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            22,
+            48
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Nicaragua",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.43840253353118896,
+            0.45340609550476074,
+            0.5008163787424564,
+            0.46517318580299616
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            23,
+            37
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Organization Name",
+        "value": "BAT BRITISH-AMERICAN TOBACCO COMPANY LIMITED",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.22531549632549286,
+            0.17460866272449493,
+            0.7361256405711174,
+            0.18539486173540354
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            24,
+            38,
+            50
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Date",
+        "value": "3 April 1992",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.21544978022575378,
+            0.24575237929821014,
+            0.29536251723766327,
+            0.25784956850111485
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            25
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Contract Number",
+        "value": "USSG.",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.7469210624694824,
+            0.1206914484500885,
+            0.804755587130785,
+            0.13258607126772404
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            26
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Contract Number",
+        "value": "FAKED",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.5801811218261719,
+            0.1233358159661293,
+            0.7368594706058502,
+            0.15965544804930687
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            49
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "London",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.5583521127700806,
+            0.8802414536476135,
+            0.5940452516078949,
+            0.8863502591848373
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    }
+]

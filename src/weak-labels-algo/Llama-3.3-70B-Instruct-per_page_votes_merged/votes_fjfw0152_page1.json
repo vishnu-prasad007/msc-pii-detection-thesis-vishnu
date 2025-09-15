@@ -1,0 +1,278 @@
+[
+    {
+        "ids": [
+            0,
+            9,
+            20,
+            32
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "Collett Thach",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2714030146598816,
+            0.23806779086589813,
+            0.3801441043615341,
+            0.2506728796288371
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            10,
+            21,
+            33
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "Valerie Vaughan",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.27087345719337463,
+            0.25593218207359314,
+            0.4062989726662636,
+            0.2710513398051262
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            11,
+            22,
+            34
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "Leonard Jones",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.26994070410728455,
+            0.273707777261734,
+            0.3859581872820854,
+            0.2859377171844244
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            12,
+            23,
+            35
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "Don Kisling",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2702794373035431,
+            0.3081602454185486,
+            0.3686557933688164,
+            0.32394918613135815
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            13,
+            24
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Person Name",
+        "value": "Kelli Scruggs",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5582810640335083,
+            0.763481616973877,
+            0.6710520461201668,
+            0.7792219379916787
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            14,
+            25,
+            29
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "Lorillard",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4168786406517029,
+            0.06151965260505676,
+            0.5927156805992126,
+            0.10239055380225182
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            15,
+            26,
+            30
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "TOBACCO COMPANY",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.48731371760368347,
+            0.09258157014846802,
+            0.5853971317410469,
+            0.10081772040575743
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            18,
+            27
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Date",
+        "value": "March 26, 1999",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.15159210562705994,
+            0.18549798429012299,
+            0.27956410497426987,
+            0.20040689874440432
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            19,
+            28
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Date",
+        "value": "March 19, 1999",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.21660377085208893,
+            0.44900837540626526,
+            0.3485940061509609,
+            0.46394434198737144
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            16
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Organization Name",
+        "value": "Lorillard'",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.7404000163078308,
+            0.7633841037750244,
+            0.8170230910181999,
+            0.776191639713943
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            17
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Organization Name",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fjfw0152",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.21772170066833496,
+            0.9820430278778076,
+            0.7903069853782654,
+            0.997614967636764
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            31
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Contract Number",
+        "value": "MEMORANDUM",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.4289632737636566,
+            0.11860708892345428,
+            0.5837697088718414,
+            0.13159632682800293
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    }
+]

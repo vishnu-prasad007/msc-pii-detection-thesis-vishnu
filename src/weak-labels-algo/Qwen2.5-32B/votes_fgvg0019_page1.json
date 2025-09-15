@@ -1,0 +1,138 @@
+[
+    {
+        "ids": [
+            0,
+            6,
+            12
+        ],
+        "doc_id": "votes_fgvg0019_page1",
+        "pii_type": "Person Name",
+        "value": "Borschke, August J.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            956,
+            620,
+            1450,
+            689
+        ],
+        "source_file": "votes_fgvg0019_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            1,
+            7,
+            13
+        ],
+        "doc_id": "votes_fgvg0019_page1",
+        "pii_type": "Person Name",
+        "value": "Dube, Mike",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            958,
+            715,
+            1252,
+            781
+        ],
+        "source_file": "votes_fgvg0019_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            2,
+            8,
+            14
+        ],
+        "doc_id": "votes_fgvg0019_page1",
+        "pii_type": "Phone Number",
+        "value": "459561513639",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            328,
+            4553,
+            707,
+            4612
+        ],
+        "source_file": "votes_fgvg0019_page1.csv",
+        "probability": 0.9990904025042505
+    },
+    {
+        "ids": [
+            3,
+            9,
+            15
+        ],
+        "doc_id": "votes_fgvg0019_page1",
+        "pii_type": "Date",
+        "value": "3/22/2006 11:39:31 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            955,
+            998,
+            1560,
+            1056
+        ],
+        "source_file": "votes_fgvg0019_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            4,
+            10,
+            16
+        ],
+        "doc_id": "votes_fgvg0019_page1",
+        "pii_type": "Date",
+        "value": "3/22/2006 11:39:31 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            955,
+            1093,
+            1558,
+            1150
+        ],
+        "source_file": "votes_fgvg0019_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            5,
+            11
+        ],
+        "doc_id": "votes_fgvg0019_page1",
+        "pii_type": "Contract Number",
+        "value": "DPO 459561513639",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            195,
+            4553,
+            707,
+            4612
+        ],
+        "source_file": "votes_fgvg0019_page1.csv",
+        "probability": 0.7414301971243858
+    }
+]

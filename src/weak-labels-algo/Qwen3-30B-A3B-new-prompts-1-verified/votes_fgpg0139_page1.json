@@ -1,0 +1,294 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            16
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. R. D. Chumney, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            179,
+            209,
+            471,
+            230
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            1,
+            8,
+            17
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Person Name",
+        "value": "J. E. Mann",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            181,
+            275,
+            315,
+            292
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            2,
+            9,
+            18
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Person Name",
+        "value": "D. E. Cawthon",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            220,
+            275,
+            554,
+            292
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            3,
+            10
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Location",
+        "value": "Reidsville",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            578,
+            888,
+            711,
+            906
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999997426401738
+    },
+    {
+        "ids": [
+            4,
+            14,
+            19
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Organization Name",
+        "value": "PT Bukit Muria Jaya BMJ540AVB",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            394,
+            1109,
+            778,
+            1129
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "votes": [
+            0,
+            1,
+            1,
+            1,
+            0,
+            0
+        ],
+        "probability": 0.3096744132280079
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Organization Name",
+        "value": "Mundet",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            392,
+            1131,
+            473,
+            1148
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            0,
+            1
+        ],
+        "probability": 0.9986408544578973
+    },
+    {
+        "ids": [
+            6,
+            15,
+            20
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Date",
+        "value": "May 13, 1993",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            871,
+            209,
+            1030,
+            230
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.999999713175462
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Organization Name",
+        "value": "PALL MALL Famous",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            224,
+            648,
+            448,
+            667
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "votes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "probability": 1.0766196395777447e-05
+    },
+    {
+        "ids": [
+            12
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Organization Name",
+        "value": "PALL MALL Famous",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            605,
+            867,
+            818,
+            884
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "votes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "probability": 1.0766196395777447e-05
+    },
+    {
+        "ids": [
+            13
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Organization Name",
+        "value": "PALL MALL Famous",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            765,
+            889,
+            978,
+            906
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "votes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "probability": 1.0766196395777447e-05
+    }
+]

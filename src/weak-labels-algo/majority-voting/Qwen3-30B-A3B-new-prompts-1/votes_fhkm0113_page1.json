@@ -1,0 +1,157 @@
+[
+    {
+        "ids": [
+            0,
+            6,
+            11
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Person Name",
+        "value": "W. R\u00f5er",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            976,
+            505,
+            1139,
+            536
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            7,
+            12
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Person Name",
+        "value": "J.B. Boder",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            975,
+            553,
+            1210,
+            584
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            8,
+            13
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Person Name",
+        "value": "W. R\u00f6er",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1582,
+            2451,
+            1745,
+            2483
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            9,
+            14
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Person Name",
+        "value": "E. Grossen",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1952,
+            2597,
+            2190,
+            2629
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            15
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Person Name",
+        "value": "thromen",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1632,
+            2673,
+            1942,
+            2776
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            5,
+            10,
+            17
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Date",
+        "value": "28/04/78",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            471,
+            2894,
+            653,
+            2930
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            16
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Date",
+        "value": "April 28, 1978",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1232,
+            453,
+            1560,
+            491
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.3333333333333333
+    }
+]

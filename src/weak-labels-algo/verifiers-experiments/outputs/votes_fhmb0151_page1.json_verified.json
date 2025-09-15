@@ -1,0 +1,218 @@
+[
+  {
+    "ids": [
+      0,
+      8,
+      16
+    ],
+    "doc_id": "votes_fhmb0151_page1",
+    "pii_type": "Person Name",
+    "value": "Karen Eisen",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.7853416204452515,
+      0.13103953003883362,
+      0.8906325772404671,
+      0.1423888746649027
+    ],
+    "source_file": "votes_fhmb0151_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      1,
+      9,
+      17
+    ],
+    "doc_id": "votes_fhmb0151_page1",
+    "pii_type": "Person Name",
+    "value": "D. Beran",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.213219553232193,
+      0.5562009811401367,
+      0.2791135348379612,
+      0.5673827845603228
+    ],
+    "source_file": "votes_fhmb0151_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      2,
+      10,
+      18
+    ],
+    "doc_id": "votes_fhmb0151_page1",
+    "pii_type": "Person Name",
+    "value": "N. Lund",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.21290169656276703,
+      0.5706882476806641,
+      0.2761181555688381,
+      0.5814993642270565
+    ],
+    "source_file": "votes_fhmb0151_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      3,
+      11,
+      19
+    ],
+    "doc_id": "votes_fhmb0151_page1",
+    "pii_type": "Person Name",
+    "value": "S. Piskor",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.21315525472164154,
+      0.5847927331924438,
+      0.28242454677820206,
+      0.5959907341748476
+    ],
+    "source_file": "votes_fhmb0151_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      4,
+      12,
+      20
+    ],
+    "doc_id": "votes_fhmb0151_page1",
+    "pii_type": "Person Name",
+    "value": "J. Taylor",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.2124951332807541,
+      0.5990815162658691,
+      0.27995261922478676,
+      0.6128215063363314
+    ],
+    "source_file": "votes_fhmb0151_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      5,
+      7,
+      13,
+      15,
+      21,
+      23
+    ],
+    "doc_id": "votes_fhmb0151_page1",
+    "pii_type": [
+      "Contract Number",
+      "Phone Number"
+    ],
+    "value": "2045725812",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.813025712966919,
+      0.9307441115379333,
+      0.941098764538765,
+      0.9434334021061659
+    ],
+    "source_file": "votes_fhmb0151_page1.csv",
+    "votes": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "ids": [
+      6,
+      14,
+      22
+    ],
+    "doc_id": "votes_fhmb0151_page1",
+    "pii_type": "Date",
+    "value": "July 31, 1992",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.21372556686401367,
+      0.15673960745334625,
+      0.31537042930722237,
+      0.17067171540111303
+    ],
+    "source_file": "votes_fhmb0151_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+]

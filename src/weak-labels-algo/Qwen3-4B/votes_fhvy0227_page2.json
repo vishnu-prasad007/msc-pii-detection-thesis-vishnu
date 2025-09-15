@@ -1,0 +1,162 @@
+[
+    {
+        "ids": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Rhona",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            433,
+            311,
+            575,
+            353
+        ],
+        "source_file": "votes_fhvy0227_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": "Contract Number",
+        "value": "CONFIDENTIALITY NOTICE",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            433,
+            577,
+            1134,
+            620
+        ],
+        "source_file": "votes_fhvy0227_page2.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": "Contract Number",
+        "value": "NOTICE: This message is intended for the use of the individual or entity to which it is addressed and may contain",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            432,
+            643,
+            2905,
+            697
+        ],
+        "source_file": "votes_fhvy0227_page2.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            6
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": "Contract Number",
+        "value": "information that is confidential, privileged and exempt from disclosure under applicable law. If the reader of this",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            445,
+            709,
+            2888,
+            764
+        ],
+        "source_file": "votes_fhvy0227_page2.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            7
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": "Contract Number",
+        "value": "message is not the intended recipient, you are hereby notified that any printing, copying, dissemination,",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            445,
+            776,
+            2690,
+            832
+        ],
+        "source_file": "votes_fhvy0227_page2.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            8
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": "Contract Number",
+        "value": "distribution, disclosure or forwarding of this communication is strictly prohibited. If you have received this",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            445,
+            842,
+            2676,
+            897
+        ],
+        "source_file": "votes_fhvy0227_page2.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            9
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": "Contract Number",
+        "value": "communication in error, please contact the sender immediately and delete it from your system. Thank You.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            446,
+            910,
+            2767,
+            963
+        ],
+        "source_file": "votes_fhvy0227_page2.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": "Contract Number",
+        "value": "Source: https://www.industrydocuments.ucsf.edu/docs/fhvy0227",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            756,
+            4316,
+            2647,
+            4389
+        ],
+        "source_file": "votes_fhvy0227_page2.csv",
+        "probability": 0.18724450043103621
+    }
+]

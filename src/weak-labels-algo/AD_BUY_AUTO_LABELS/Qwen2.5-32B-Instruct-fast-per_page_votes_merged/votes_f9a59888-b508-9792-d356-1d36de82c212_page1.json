@@ -1,0 +1,602 @@
+[
+  {
+    "ids": [
+      0,
+      25
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Person Name",
+    "value": "Michele Fleming",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      508,
+      66,
+      559,
+      77
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      1,
+      26
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Person Name",
+    "value": "DOME,PATRICIA",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      296,
+      155,
+      347,
+      166
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      2,
+      27,
+      38
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Location",
+    "value": "G-3643 W Pierson Rd",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      122,
+      77,
+      194,
+      89
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      3,
+      28,
+      39
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Location",
+    "value": "Flint, MI 48504",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      122,
+      90,
+      173,
+      102
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      4,
+      29
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Location",
+    "value": "1427 Leslie Ave",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      33,
+      163,
+      87,
+      175
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      5,
+      30
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Location",
+    "value": "Ste 106",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      32,
+      177,
+      60,
+      188
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      6,
+      31,
+      40
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Location",
+    "value": "Alexandria, VA 22301",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      32,
+      190,
+      107,
+      203
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      7,
+      41
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "America First Action (122842)",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      295,
+      65,
+      387,
+      77
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      8,
+      32,
+      42
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "Del Ray Media (17530)",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      296,
+      80,
+      367,
+      92
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      9,
+      45
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Date",
+    "value": "06/03/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      508,
+      38,
+      537,
+      50
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      10,
+      46
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Date",
+    "value": "06/04/20-06/11/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      295,
+      50,
+      356,
+      61
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      11,
+      47
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Date",
+    "value": "Jun. 2020",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      610,
+      62,
+      644,
+      72
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      12
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Date",
+    "value": "06/03/20",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      508,
+      54,
+      537,
+      64
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      13,
+      48
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Date",
+    "value": "06/08/20-06/08/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      153,
+      413,
+      205,
+      422
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      14,
+      49
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Date",
+    "value": "06/09/20-06/09/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      153,
+      428,
+      206,
+      438
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      15,
+      50
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Date",
+    "value": "06/10/20-06/10/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      153,
+      443,
+      206,
+      454
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      16,
+      51
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Date",
+    "value": "06/11/20-06/11/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      153,
+      458,
+      206,
+      469
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      17,
+      52
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Date",
+    "value": "06/05/20-06/05/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      153,
+      474,
+      205,
+      484
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      18,
+      53
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Date",
+    "value": "06/08/20-06/08/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      153,
+      497,
+      206,
+      506
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      19,
+      54
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Date",
+    "value": "06/09/20-06/09/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      153,
+      520,
+      206,
+      530
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      20,
+      55
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Date",
+    "value": "06/10/20-06/10/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      153,
+      543,
+      205,
+      552
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      21,
+      56
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Date",
+    "value": "06/11/20-06/11/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      153,
+      565,
+      206,
+      575
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      22,
+      57
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Date",
+    "value": "Wednesday, June 32020 05:27 PM on",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      58,
+      766,
+      198,
+      779
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      23,
+      36
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Contract # 4390920",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      230,
+      33,
+      345,
+      47
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      24,
+      37
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Invoice Number",
+    "value": "AMPAI/ORDR/220122",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      294,
+      186,
+      362,
+      197
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      33
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "NBC25",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      34,
+      105,
+      115,
+      125
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      34,
+      43
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "HRP/DC, Washington DC (3707)",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      295,
+      125,
+      395,
+      138
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      35,
+      44
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "HRP Washington DC",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      295,
+      140,
+      358,
+      152
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      58
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "4390920",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      295,
+      34,
+      345,
+      47
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      59
+    ],
+    "doc_id": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "09837106",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      508,
+      95,
+      541,
+      105
+    ],
+    "source_file": "votes_f9a59888-b508-9792-d356-1d36de82c212.pdf_page1.csv"
+  }
+]

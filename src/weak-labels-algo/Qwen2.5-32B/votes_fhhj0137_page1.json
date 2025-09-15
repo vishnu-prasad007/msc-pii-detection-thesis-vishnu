@@ -1,0 +1,696 @@
+[
+    {
+        "ids": [
+            0
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "Carol",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1979,
+            102,
+            2225,
+            239
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.07499590648417652
+    },
+    {
+        "ids": [
+            1
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "Kane Dalsimer, Kane. Sullivan. and Kurnez",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            539,
+            184,
+            1999,
+            307
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.07499590648417652
+    },
+    {
+        "ids": [
+            2,
+            31,
+            50
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "DANIEL H. KANE",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            213,
+            428,
+            446,
+            449
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            3,
+            32,
+            51
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "DAVID S. KANE",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            213,
+            399,
+            446,
+            449
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            4,
+            33,
+            52
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "JOSEPH c. SULLIVAN",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            213,
+            492,
+            528,
+            512
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            5,
+            34,
+            53
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "PHILIP T. DALSIMER",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            213,
+            461,
+            504,
+            481
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            6,
+            54
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "JOHN KURUCZ",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            213,
+            522,
+            430,
+            542
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.8128964067822458
+    },
+    {
+        "ids": [
+            7,
+            55
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "JAMES J. SALERNO, JR.",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            212,
+            553,
+            560,
+            576
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.8128964067822458
+    },
+    {
+        "ids": [
+            8,
+            56
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "DAVID H. T. KANE",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            212,
+            585,
+            463,
+            605
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.8128964067822458
+    },
+    {
+        "ids": [
+            9,
+            57
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "DIANA J. AUGER",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            212,
+            615,
+            448,
+            636
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.8128964067822458
+    },
+    {
+        "ids": [
+            10,
+            35,
+            58
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "SIEGRUN D. KANE",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            212,
+            646,
+            477,
+            667
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            11,
+            36,
+            59
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "MARTIN E. GOLDSTEIN",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            212,
+            677,
+            539,
+            698
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            12,
+            37,
+            60
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "PAUL L. BARRETT",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            211,
+            709,
+            466,
+            730
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            13,
+            38,
+            61
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "CHARLES R. HOFFMANN",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            212,
+            738,
+            571,
+            759
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            14,
+            39,
+            62
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "GERALD LEVY",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            212,
+            769,
+            417,
+            789
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            15,
+            40,
+            63
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "PETER SAXON",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            212,
+            819,
+            419,
+            840
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            16,
+            41,
+            64
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "ANTHONY V. NANNI",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            211,
+            882,
+            493,
+            903
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            17,
+            42,
+            65
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "JOHN J. CASLIN, JR.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            212,
+            851,
+            508,
+            874
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            18,
+            43,
+            66
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "Patrick M. Kelly, Esq.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            193,
+            942,
+            843,
+            991
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            19,
+            44,
+            68
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Phone Number",
+        "value": "TELEPHONE 518-436-0897",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1974,
+            622,
+            2326,
+            640
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.9990904025042505
+    },
+    {
+        "ids": [
+            20,
+            45,
+            69
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Location",
+        "value": "420 Lexington Avenue, New York, N.Y.10017",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            767,
+            362,
+            1769,
+            458
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.996034042417568
+    },
+    {
+        "ids": [
+            21
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Location",
+        "value": "100 STATE STREET",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            2003,
+            558,
+            2298,
+            580
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.12886882919786594
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Location",
+        "value": "ALBANY, N.Y. 12207",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            2003,
+            588,
+            2296,
+            613
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.12886882919786594
+    },
+    {
+        "ids": [
+            23
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Location",
+        "value": "1600 West Hill Street",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            197,
+            1057,
+            823,
+            1095
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.12886882919786594
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Location",
+        "value": "Louisville, Kentucky 40201",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            194,
+            1112,
+            971,
+            1160
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.12886882919786594
+    },
+    {
+        "ids": [
+            25,
+            70
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Organization Name",
+        "value": "Attorneys at Law",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1016,
+            278,
+            1520,
+            377
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.8132620043598049
+    },
+    {
+        "ids": [
+            26,
+            46,
+            71
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Organization Name",
+        "value": "Brown & Williamson Tobacco Corporation",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            194,
+            1001,
+            1331,
+            1049
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.9900025300515797
+    },
+    {
+        "ids": [
+            27,
+            47,
+            72
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Date",
+        "value": "January 8, 1970",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1031,
+            662,
+            1478,
+            707
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            28,
+            48,
+            73
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Date",
+        "value": "September 24th, 1968",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1122,
+            2134,
+            1743,
+            2180
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            29,
+            74
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Date",
+        "value": "3-3-70",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            717,
+            3068,
+            893,
+            3101
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.8919581073985893
+    },
+    {
+        "ids": [
+            30,
+            49
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Contract Number",
+        "value": "Serial No. 740,007",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1001,
+            1283,
+            1540,
+            1324
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.7414301971243858
+    },
+    {
+        "ids": [
+            67
+        ],
+        "doc_id": "votes_fhhj0137_page1",
+        "pii_type": "Person Name",
+        "value": "Charles R. Hoffmann",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1036,
+            2643,
+            1606,
+            2683
+        ],
+        "source_file": "votes_fhhj0137_page1.csv",
+        "probability": 0.019094487779212622
+    }
+]

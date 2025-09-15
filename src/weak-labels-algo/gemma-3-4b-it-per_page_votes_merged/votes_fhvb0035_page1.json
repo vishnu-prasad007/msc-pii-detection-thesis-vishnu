@@ -1,0 +1,383 @@
+[
+    {
+        "ids": [
+            0,
+            35
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Person Name",
+        "value": "Linc Ball",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.4991703927516937,
+            0.4603902995586395,
+            0.5870190635323524,
+            0.4706052653491497
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            17,
+            36
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Person Name",
+        "value": "Jim Davis",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.538038432598114,
+            0.4987085461616516,
+            0.6266901902854443,
+            0.5088664693757892
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            37
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Person Name",
+        "value": "Loews LoeWs",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.24546249210834503,
+            0.8009775280952454,
+            0.28051383793354034,
+            0.808727690950036
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            6,
+            20,
+            38,
+            41
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": [
+            "Location",
+            "Phone Number"
+        ],
+        "value": "401- North Main Street",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18775561451911926,
+            0.3184429407119751,
+            0.39189157634973526,
+            0.32877888064831495
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            5,
+            7,
+            21,
+            23,
+            40
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": [
+            "Location",
+            "Phone Number"
+        ],
+        "value": "Winston-Salem North Carolina 27102",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18757759034633636,
+            0.3310530483722687,
+            0.5295920260250568,
+            0.34210664220154285
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            24,
+            43
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Organization Name",
+        "value": "Lorillard",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.17724645137786865,
+            0.05611924082040787,
+            0.4268476814031601,
+            0.11157264932990074
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            26,
+            44
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Organization Name",
+        "value": "R. J. Reynolds Tobacco Company",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18708795309066772,
+            0.3062663972377777,
+            0.4803519695997238,
+            0.3179931975901127
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            18,
+            27,
+            45
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": [
+            "Person Name",
+            "Organization Name"
+        ],
+        "value": "Loews THEATRES.INC. Theatres.Inc.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.24546249210834503,
+            0.7998256087303162,
+            0.35197481513023376,
+            0.808727690950036
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            11,
+            16,
+            19,
+            29,
+            33,
+            47,
+            51
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": [
+            "Email Address",
+            "Organization Name",
+            "Contract Number"
+        ],
+        "value": "USX156 405",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.9162018895149231,
+            0.9878884553909302,
+            0.9826499782502651,
+            0.9962129183113575
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            12,
+            28,
+            42,
+            46
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "U.S. Ex.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.8442528247833252,
+            0.8780439496040344,
+            0.9105936642736197,
+            0.8942943373695016
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            13,
+            30,
+            48
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Date",
+        "value": "March 15, 1982",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5391509532928467,
+            0.2036200314760208,
+            0.6777606345713139,
+            0.21557757165282965
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            14,
+            31,
+            49
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Date",
+        "value": "October 1980",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3420824110507965,
+            0.511557936668396,
+            0.4676804095506668,
+            0.5231895688921213
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            15,
+            32,
+            50
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Contract Number",
+        "value": "LOC013 1991",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.02830871194601059,
+            0.9267633557319641,
+            0.1387382186949253,
+            0.9386165319010615
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Phone Number",
+        "value": "10019",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.3757227957248688,
+            0.8122335076332092,
+            0.40601455233991146,
+            0.8203393835574389
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            25
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Organization Name",
+        "value": "OFFICE or THE PRESIDENT",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.18296900391578674,
+            0.14278589189052582,
+            0.33017806708812714,
+            0.1494523650035262
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            34
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. Edward A. Horrigam, Jr.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.1871950924396515,
+            0.28057461977005005,
+            0.4467138256877661,
+            0.2931712996214628
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            39
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Phone Number",
+        "value": "27102",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.48043039441108704,
+            0.3313710689544678,
+            0.5295920260250568,
+            0.34140046779066324
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    }
+]

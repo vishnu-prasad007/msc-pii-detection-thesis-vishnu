@@ -1,0 +1,310 @@
+[
+    {
+        "ids": [
+            0,
+            15,
+            28
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Person Name",
+        "value": "G. Maresca",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6145263314247131,
+            0.13310599327087402,
+            0.7097112610936165,
+            0.14559081569314003
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            16,
+            29
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Person Name",
+        "value": "K. Noone",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6133632659912109,
+            0.14950118958950043,
+            0.6938755214214325,
+            0.16206090338528156
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            17,
+            30
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Person Name",
+        "value": "B. Adler",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6139286160469055,
+            0.18706142902374268,
+            0.6847067512571812,
+            0.1992790400981903
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            12,
+            18,
+            31
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Joy Rosen Nos",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16644185781478882,
+            0.19687418639659882,
+            0.3198583200573921,
+            0.22780440375208855
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            19,
+            32
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Person Name",
+        "value": "A. Evans",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.612937331199646,
+            0.20731058716773987,
+            0.6892356723546982,
+            0.21954490151256323
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            20,
+            33
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Person Name",
+        "value": "Bill Degenhardt",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16687647998332977,
+            0.2261323630809784,
+            0.29685211181640625,
+            0.24165086541324854
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            21,
+            34
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Person Name",
+        "value": "G. Fous",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6136807203292847,
+            0.22720681130886078,
+            0.680579699575901,
+            0.23945516347885132
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            22,
+            35
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Person Name",
+        "value": "J. Powers",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6132556200027466,
+            0.24799422919750214,
+            0.6921370849013329,
+            0.2600727556273341
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            23,
+            36
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Person Name",
+        "value": "R. Reifenheiser",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6139885187149048,
+            0.2680259644985199,
+            0.7433276474475861,
+            0.28052918612957
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            24,
+            37
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Person Name",
+        "value": "J. Sargent",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6133425235748291,
+            0.2892622649669647,
+            0.6953565888106823,
+            0.30473188031464815
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            25,
+            38
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Person Name",
+        "value": "M. Schan",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6141452789306641,
+            0.3091445565223694,
+            0.6910923682153225,
+            0.32182736974209547
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            11,
+            26,
+            39
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Organization Name",
+        "value": "Crown's of London",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2107340544462204,
+            0.18623359501361847,
+            0.3677404895424843,
+            0.19819290470331907
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            13
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Organization Name",
+        "value": "LCFX",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.06351275742053986,
+            0.08210345357656479,
+            0.2013775110244751,
+            0.11405526474118233
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    },
+    {
+        "ids": [
+            14,
+            27,
+            40
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Date",
+        "value": "November 24, 1992",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16630642116069794,
+            0.16480404138565063,
+            0.325386643409729,
+            0.18002785928547382
+        ],
+        "source_file": "votes_fjkb0133_page1.csv"
+    }
+]

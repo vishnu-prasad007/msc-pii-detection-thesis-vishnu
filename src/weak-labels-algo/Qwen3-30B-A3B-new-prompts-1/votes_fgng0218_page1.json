@@ -1,0 +1,380 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            16
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Person Name",
+        "value": "Burns, Denise H",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            662,
+            472,
+            1003,
+            520
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            1,
+            8,
+            17
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Person Name",
+        "value": "Ingrid Schleimer",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            575,
+            570,
+            929,
+            619
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            2,
+            9,
+            18
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Person Name",
+        "value": "Perry, Ellie",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1008,
+            617,
+            1247,
+            668
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            3,
+            10,
+            19
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Person Name",
+        "value": "Christiansen, Tammy A",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1260,
+            617,
+            1753,
+            668
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            4,
+            13,
+            31
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Date",
+        "value": "Friday, April 07, 2000 2:12 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            661,
+            520,
+            1297,
+            571
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.9999750930787068
+    },
+    {
+        "ids": [
+            5,
+            11,
+            14,
+            32
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "2080650519 - E",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2679,
+            4059,
+            3150,
+            4116
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            12,
+            15,
+            33
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "2080650519-E",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            199,
+            4236,
+            556,
+            4282
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            20
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Organization Name",
+        "value": "Marlboro",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            838,
+            666,
+            1021,
+            708
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.12198385281486815
+    },
+    {
+        "ids": [
+            21
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Organization Name",
+        "value": "MARLBORO",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            587,
+            854,
+            783,
+            888
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.12198385281486815
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Organization Name",
+        "value": "BENSON & HEDGES",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            814,
+            856,
+            1138,
+            887
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.12198385281486815
+    },
+    {
+        "ids": [
+            23
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Organization Name",
+        "value": "MERIT",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1173,
+            857,
+            1276,
+            887
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.12198385281486815
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Organization Name",
+        "value": "VIRGINIA SLIMS",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1310,
+            857,
+            1566,
+            887
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.12198385281486815
+    },
+    {
+        "ids": [
+            25
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Organization Name",
+        "value": "PARLIAMENT",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1601,
+            857,
+            1812,
+            888
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.12198385281486815
+    },
+    {
+        "ids": [
+            26
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Organization Name",
+        "value": "PLAYERS",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1847,
+            856,
+            2003,
+            887
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.12198385281486815
+    },
+    {
+        "ids": [
+            27
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Organization Name",
+        "value": "SARATOGA",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            2038,
+            855,
+            2222,
+            887
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.12198385281486815
+    },
+    {
+        "ids": [
+            28
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Organization Name",
+        "value": "CAMBRIDGE",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            2254,
+            856,
+            2458,
+            887
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.12198385281486815
+    },
+    {
+        "ids": [
+            29
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Organization Name",
+        "value": "BASIC",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            2490,
+            856,
+            2591,
+            887
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.12198385281486815
+    },
+    {
+        "ids": [
+            30
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Organization Name",
+        "value": "ALPINE",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            2624,
+            855,
+            2744,
+            887
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.12198385281486815
+    }
+]

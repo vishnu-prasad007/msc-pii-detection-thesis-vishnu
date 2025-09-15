@@ -1,0 +1,115 @@
+[
+    {
+        "ids": [
+            0,
+            5,
+            10
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Person Name",
+        "value": "P. D. Greenberg",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            423,
+            591,
+            657,
+            627
+        ],
+        "source_file": "votes_fgvv0063_page2.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            1,
+            6,
+            11
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Person Name",
+        "value": "T. BEANE",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1121,
+            2016,
+            1267,
+            2045
+        ],
+        "source_file": "votes_fgvv0063_page2.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            2,
+            7,
+            12
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Organization Name",
+        "value": "PHILIP MORRIS USA",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            281,
+            341,
+            705,
+            377
+        ],
+        "source_file": "votes_fgvv0063_page2.csv",
+        "probability": 0.9900025300515797
+    },
+    {
+        "ids": [
+            3,
+            8,
+            13
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Date",
+        "value": "March 30, 2000",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1217,
+            516,
+            1443,
+            548
+        ],
+        "source_file": "votes_fgvv0063_page2.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            4,
+            9
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Contract Number",
+        "value": "O/C-A2W -",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1119,
+            2053,
+            1273,
+            2082
+        ],
+        "source_file": "votes_fgvv0063_page2.csv",
+        "probability": 0.7414301971243858
+    }
+]

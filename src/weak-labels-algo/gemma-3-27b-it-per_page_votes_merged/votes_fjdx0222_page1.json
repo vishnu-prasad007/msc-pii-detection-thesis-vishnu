@@ -1,0 +1,445 @@
+[
+    {
+        "ids": [
+            0,
+            13,
+            22,
+            40,
+            49,
+            56
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name",
+            "Location"
+        ],
+        "value": "Davis, Carla C.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2845039665699005,
+            0.13912220299243927,
+            0.40943907387554646,
+            0.153030039742589
+        ],
+        "source_file": "votes_fjdx0222_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            14,
+            23,
+            41,
+            50,
+            57
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name",
+            "Location"
+        ],
+        "value": "Watson, Charles E.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.28304624557495117,
+            0.16937844455242157,
+            0.5999500136822462,
+            0.18372358940541744
+        ],
+        "source_file": "votes_fjdx0222_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            15,
+            24,
+            42,
+            51,
+            58
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name",
+            "Location"
+        ],
+        "value": "Cross, Richard E.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4554707705974579,
+            0.16937844455242157,
+            0.5999500136822462,
+            0.18332946673035622
+        ],
+        "source_file": "votes_fjdx0222_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            16,
+            27,
+            43,
+            52,
+            61
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name",
+            "Location"
+        ],
+        "value": "Reid, Sharon G. (Sales)",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.21886831521987915,
+            0.6191760301589966,
+            0.4170352704823017,
+            0.6337372688576579
+        ],
+        "source_file": "votes_fjdx0222_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            17,
+            29,
+            44,
+            53
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name",
+            "Location"
+        ],
+        "value": "Davis, Carla C.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.36886537075042725,
+            0.6523990631103516,
+            0.4925245177000761,
+            0.6659276345744729
+        ],
+        "source_file": "votes_fjdx0222_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            18,
+            45,
+            54
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": [
+            "Person Name",
+            "Email Address"
+        ],
+        "value": "Reid, Sharon G.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.21915186941623688,
+            0.7519053816795349,
+            0.3517233170568943,
+            0.7655625268816948
+        ],
+        "source_file": "votes_fjdx0222_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            19,
+            31,
+            46,
+            55
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name",
+            "Location"
+        ],
+        "value": "Davis, Carla C.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.368954062461853,
+            0.7848619222640991,
+            0.4926787242293358,
+            0.7984315417706966
+        ],
+        "source_file": "votes_fjdx0222_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            34
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": "Organization Name",
+        "value": "Kool",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.5989509224891663,
+            0.5037655234336853,
+            0.6514383926987648,
+            0.515745259821415
+        ],
+        "source_file": "votes_fjdx0222_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            25,
+            35,
+            59,
+            66
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "3/15/2005 10:30:58 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2840305268764496,
+            0.26118746399879456,
+            0.47820926271378994,
+            0.2734747976064682
+        ],
+        "source_file": "votes_fjdx0222_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            26,
+            36,
+            60,
+            67
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "3/15/2005 10:31:00 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2842095196247101,
+            0.2915453016757965,
+            0.4782901033759117,
+            0.3042078176513314
+        ],
+        "source_file": "votes_fjdx0222_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            37,
+            68
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": "Date",
+        "value": "March 15, 2005 8:20 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2957918047904968,
+            0.6360781192779541,
+            0.49950963631272316,
+            0.6495583318173885
+        ],
+        "source_file": "votes_fjdx0222_page1.csv"
+    },
+    {
+        "ids": [
+            11,
+            38,
+            69
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": "Date",
+        "value": "March 14, 2005 6:18 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.29117077589035034,
+            0.7685890197753906,
+            0.49529250897467136,
+            0.7825965387746692
+        ],
+        "source_file": "votes_fjdx0222_page1.csv"
+    },
+    {
+        "ids": [
+            12,
+            32,
+            39,
+            64,
+            70
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "DPO 270582946963",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.0587608776986599,
+            0.9737435579299927,
+            0.21360012143850327,
+            0.9852328319102526
+        ],
+        "source_file": "votes_fjdx0222_page1.csv"
+    },
+    {
+        "ids": [
+            20,
+            47
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": "Person Name",
+        "value": "Charles",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.393816202878952,
+            0.8681675791740417,
+            0.457620307803154,
+            0.8800643077120185
+        ],
+        "source_file": "votes_fjdx0222_page1.csv"
+    },
+    {
+        "ids": [
+            21,
+            48
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": "Person Name",
+        "value": "Carla",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.7727921605110168,
+            0.8516214489936829,
+            0.8209047913551331,
+            0.8651128225028515
+        ],
+        "source_file": "votes_fjdx0222_page1.csv"
+    },
+    {
+        "ids": [
+            28,
+            62
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": "Location",
+        "value": "Tuesday, March 15, 2005 8:20 AM",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.2129366099834442,
+            0.6360781192779541,
+            0.49950963631272316,
+            0.6506604282185435
+        ],
+        "source_file": "votes_fjdx0222_page1.csv"
+    },
+    {
+        "ids": [
+            30,
+            63
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": "Location",
+        "value": "Monday, March 14, 2005 6:18 PM",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.21376127004623413,
+            0.7685890197753906,
+            0.49529250897467136,
+            0.7834204221144319
+        ],
+        "source_file": "votes_fjdx0222_page1.csv"
+    },
+    {
+        "ids": [
+            33,
+            65
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": "Location",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fjdx0222",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.21706028282642365,
+            0.9822549819946289,
+            0.7871158868074417,
+            0.9975878270342946
+        ],
+        "source_file": "votes_fjdx0222_page1.csv"
+    }
+]

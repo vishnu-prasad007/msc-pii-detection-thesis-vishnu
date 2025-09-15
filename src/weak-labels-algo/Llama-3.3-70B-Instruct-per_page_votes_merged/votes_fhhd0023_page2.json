@@ -1,0 +1,703 @@
+[
+    {
+        "ids": [
+            0,
+            3,
+            7
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Person Name",
+        "value": "Sharon T. Yortnoy",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.20162318646907806,
+            0.9473027586936951,
+            0.40094225108623505,
+            0.9593316130340099
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            1,
+            5,
+            8
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Organization Name",
+        "value": "RTC",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.07638170570135117,
+            0.1951374113559723,
+            0.11147981137037277,
+            0.20465458277612925
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            2,
+            6,
+            9
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Date",
+        "value": "6/14/25",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7142692804336548,
+            0.8993622064590454,
+            0.8057791665196419,
+            0.9482005052268505
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            4,
+            26
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "Rk",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.9538635611534119,
+            0.4605741500854492,
+            0.9672575816512108,
+            0.4697667360305786
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "LOBBYING EXPENSES",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.032775234431028366,
+            0.027769455686211586,
+            0.23393462598323822,
+            0.038962832652032375
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "Reportable lobbying expenses may include but are not limited to:",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.03242296352982521,
+            0.041596703231334686,
+            0.6549535449594259,
+            0.054837469942867756
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            12
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "- Advertising - Entertainment - Receptions, events - Printing, mailing, and reproduction",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.035133231431245804,
+            0.05342097952961922,
+            0.895934946835041,
+            0.0677774315699935
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            13
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "costs exceeding $500 - Consultants - Telephone - Retained lobbyist's expenses for lobbying",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.03405167907476425,
+            0.06596344709396362,
+            0.9144255071878433,
+            0.07909439597278833
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            14
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "employees' salaries (itemize in C)",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.03481917455792427,
+            0.07901103049516678,
+            0.36239894293248653,
+            0.0914288917556405
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            15
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "A. Aggregate amount of all expenses less than or equal to $75:",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.03204479441046715,
+            0.0919831320643425,
+            0.6330933943390846,
+            0.10400379169732332
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            16
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "B. Aggregate amount of all expenses for salaries of support staff:",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.03230221942067146,
+            0.11585193872451782,
+            0.6726468987762928,
+            0.1291029890999198
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            17
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "C. Itemized amount of all expenses exceeding $75:",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.0327904038131237,
+            0.14081065356731415,
+            0.5080349259078503,
+            0.1539962012320757
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            18
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "Paid to Purpose Amount",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.06274382025003433,
+            0.16593001782894135,
+            0.762812178581953,
+            0.179306804202497
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            19
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "1 RTC Direct Direct nail/Grassroots. Activities",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.05233553424477577,
+            0.19191567599773407,
+            0.6426784172654152,
+            0.20465458277612925
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            20
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "2 $",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.052116286009550095,
+            0.21696388721466064,
+            0.6942205242812634,
+            0.22858902998268604
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            21
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "3 $",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.051908548921346664,
+            0.24280709028244019,
+            0.6940253721550107,
+            0.25392151065170765
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "4 $",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.05149433761835098,
+            0.2678094208240509,
+            0.6937674889340997,
+            0.2790772430598736
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            23
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "5 $",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.05153794214129448,
+            0.29355162382125854,
+            0.6934657702222466,
+            0.30475030932575464
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "TOTAL:",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.6037515997886658,
+            0.3196650445461273,
+            0.6621453613042831,
+            0.3291855324059725
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            25
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "Item # (from C) Person Title & Employer",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.06107097119092941,
+            0.3822363018989563,
+            0.7615806013345718,
+            0.39474385045468807
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            27
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "E. Total Expenses since last periodic report (A + B + C) :",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.02987743355333805,
+            0.4957282841205597,
+            0.5820917277596891,
+            0.508855476975441
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            28
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "F. Total Expenses reported in last periodic report:",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.029938559979200363,
+            0.5209764242172241,
+            0.5212084650993347,
+            0.5347093306481838
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            29
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "G. Total Expenses Year to Date (E + F) :",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.029901277273893356,
+            0.5460755825042725,
+            0.40771193569526076,
+            0.5586810810491443
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            30
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "LOBBYING ACTIVITY",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.029185304418206215,
+            0.571967601776123,
+            0.23174650222063065,
+            0.5831909347325563
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            31
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "A. Individual and Entity Lobbied B. Subject Matter",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.06843575090169907,
+            0.5993319749832153,
+            0.7322557084262371,
+            0.6126555139198899
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            32
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "Mayor's Office All issues affecting manufacture,",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.06743646413087845,
+            0.6303915977478027,
+            0.8679055869579315,
+            0.6434547528624535
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            33
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "Various City Agencies sale, or use of marketing of",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.06711327284574509,
+            0.6511068344116211,
+            0.7757688984274864,
+            0.6649402622133493
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            34
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "City Council Members company consumer products",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.06835997104644775,
+            0.6751621961593628,
+            0.7750067487359047,
+            0.6915668360888958
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            35
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "City Council's President's Office",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.06866344809532166,
+            0.7016990780830383,
+            0.45784784853458405,
+            0.716566794551909
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            36
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "Borough Presidents",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.06899968534708023,
+            0.7296690940856934,
+            0.279165618121624,
+            0.7428227309137583
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            37
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "CERTIFICATION",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.0373782142996788,
+            0.8425479531288147,
+            0.19059499353170395,
+            0.8542870478704572
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            38
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "I certify that all statements made on this statement are true and correct to the best of my",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.0593072734773159,
+            0.8577545285224915,
+            0.9331258349120617,
+            0.8705619061365724
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            39
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "knowledge and belief and I understand that the willful making of any false statement of material",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.029467018321156502,
+            0.8696014285087585,
+            0.9315844476222992,
+            0.8839760078117251
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            40
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "fact herein will subject me to the provisions of law relevant to the making and filing of false",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.029724573716521263,
+            0.8828781843185425,
+            0.9317539893090725,
+            0.8966359943151474
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            41
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "Signature: Date :",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.029375266283750534,
+            0.9199902415275574,
+            0.7002297635190189,
+            0.9322715830057859
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            42
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "Print/Type Name: Sharon T. Yortnoy",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.0302226971834898,
+            0.945713222026825,
+            0.40094225108623505,
+            0.9593316130340099
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            43
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "Check one: Principal Lobbyist Chief Admin. Officer Designee",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.029205091297626495,
+            0.9700232744216919,
+            0.7417159378528595,
+            0.9834769433364272
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    },
+    {
+        "ids": [
+            44
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Contract Number",
+        "value": "S\u00f5urce: https://www.industrydocuments.ucsf.edu/docs/fhhd0023",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.2202812284231186,
+            0.9814345836639404,
+            0.781016156077385,
+            0.9969181446358562
+        ],
+        "source_file": "votes_fhhd0023_page2.csv"
+    }
+]

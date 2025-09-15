@@ -1,0 +1,358 @@
+[
+    {
+        "ids": [
+            0,
+            14,
+            26
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": "Person Name",
+        "value": "Davis, Carla C.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            941,
+            651,
+            1354,
+            716
+        ],
+        "source_file": "votes_fjdx0222_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            1,
+            15,
+            27
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": "Person Name",
+        "value": "Watson, Charles E.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            936,
+            792,
+            1983,
+            859
+        ],
+        "source_file": "votes_fjdx0222_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            2,
+            16,
+            28
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": "Person Name",
+        "value": "Cross, Richard E.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1506,
+            792,
+            1983,
+            858
+        ],
+        "source_file": "votes_fjdx0222_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            3,
+            17,
+            29
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": "Person Name",
+        "value": "Reid, Sharon G. (Sales)",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            724,
+            2897,
+            1379,
+            2965
+        ],
+        "source_file": "votes_fjdx0222_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            4,
+            18,
+            31
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": "Person Name",
+        "value": "Davis, Carla C.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1219,
+            3052,
+            1628,
+            3115
+        ],
+        "source_file": "votes_fjdx0222_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            5,
+            19,
+            30
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": "Person Name",
+        "value": "Reid, Sharon G. (Sales)",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            725,
+            3517,
+            1378,
+            3585
+        ],
+        "source_file": "votes_fjdx0222_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            6,
+            32
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": "Person Name",
+        "value": "Davis, Carla C.",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1220,
+            3672,
+            1629,
+            3735
+        ],
+        "source_file": "votes_fjdx0222_page1.csv",
+        "probability": 0.8622531513884912
+    },
+    {
+        "ids": [
+            7,
+            33
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": "Organization Name",
+        "value": "Kool/Pall Mall",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1286,
+            1625,
+            1659,
+            1683
+        ],
+        "source_file": "votes_fjdx0222_page1.csv",
+        "probability": 0.7749052148181887
+    },
+    {
+        "ids": [
+            8,
+            20,
+            36
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": "Date",
+        "value": "3/15/2005 10:30:58 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            939,
+            1222,
+            1581,
+            1279
+        ],
+        "source_file": "votes_fjdx0222_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            9,
+            21,
+            37
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": "Date",
+        "value": "3/15/2005 10:31:00 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            940,
+            1364,
+            1581,
+            1423
+        ],
+        "source_file": "votes_fjdx0222_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            10,
+            22,
+            38
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": "Date",
+        "value": "Tuesday, March 15, 2005 8:20 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            704,
+            2976,
+            1651,
+            3044
+        ],
+        "source_file": "votes_fjdx0222_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            11,
+            23,
+            39
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": "Date",
+        "value": "Monday, March 14, 2005 6:18 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            707,
+            3595,
+            1637,
+            3665
+        ],
+        "source_file": "votes_fjdx0222_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            12,
+            24,
+            40
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": "Contract Number",
+        "value": "FSC58-05",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            939,
+            1888,
+            1222,
+            1942
+        ],
+        "source_file": "votes_fjdx0222_page1.csv",
+        "probability": 0.9354416064716374
+    },
+    {
+        "ids": [
+            13,
+            25,
+            41
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": "Contract Number",
+        "value": "DPO 270582946963",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            194,
+            4555,
+            706,
+            4609
+        ],
+        "source_file": "votes_fjdx0222_page1.csv",
+        "probability": 0.9354416064716374
+    },
+    {
+        "ids": [
+            34
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": "Organization Name",
+        "value": "Kool/Pall Mall",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1263,
+            3130,
+            1633,
+            3186
+        ],
+        "source_file": "votes_fjdx0222_page1.csv",
+        "probability": 0.05285594042746515
+    },
+    {
+        "ids": [
+            35
+        ],
+        "doc_id": "votes_fjdx0222_page1",
+        "pii_type": "Organization Name",
+        "value": "Kool/Pall Mall",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1261,
+            3751,
+            1634,
+            3807
+        ],
+        "source_file": "votes_fjdx0222_page1.csv",
+        "probability": 0.05285594042746515
+    }
+]

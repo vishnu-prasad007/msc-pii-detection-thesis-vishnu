@@ -1,0 +1,236 @@
+[
+    {
+        "ids": [
+            0,
+            9,
+            19
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Person Name",
+        "value": "Dr. J. N. Lester",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.11091094464063644,
+            0.2860821783542633,
+            0.24397984147071838,
+            0.29899175092577934
+        ],
+        "source_file": "votes_fhmn0095_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            10,
+            20
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Location",
+        "value": "P.O. Box 2959",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5186748504638672,
+            0.19723986089229584,
+            0.6399891041219234,
+            0.21034361142665148
+        ],
+        "source_file": "votes_fhmn0095_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            11,
+            21
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Location",
+        "value": "Winston-Salem, N.C., U.S.A.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5190747976303101,
+            0.21457895636558533,
+            0.7602872923016548,
+            0.2304606270045042
+        ],
+        "source_file": "votes_fhmn0095_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            12,
+            22
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Location",
+        "value": "27102-2959",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6498160362243652,
+            0.23333139717578888,
+            0.7450871914625168,
+            0.24590520933270454
+        ],
+        "source_file": "votes_fhmn0095_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            13,
+            23
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Location",
+        "value": "London, SW7 2BU, England",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.11090413480997086,
+            0.3744155168533325,
+            0.3525185361504555,
+            0.3907392881810665
+        ],
+        "source_file": "votes_fhmn0095_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            14,
+            24
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Organization Name",
+        "value": "R. J. Reynolds Tobacco Company",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5189188122749329,
+            0.1788637340068817,
+            0.8056092709302902,
+            0.196072144433856
+        ],
+        "source_file": "votes_fhmn0095_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            15,
+            25
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Organization Name",
+        "value": "Imperial College of Science, Technology and Medicine",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.11099641025066376,
+            0.3393513560295105,
+            0.5695662423968315,
+            0.3557593300938606
+        ],
+        "source_file": "votes_fhmn0095_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            17
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Organization Name",
+        "value": "Brigham Young University",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.5205861330032349,
+            0.6764590740203857,
+            0.7457288727164268,
+            0.6931045148521662
+        ],
+        "source_file": "votes_fhmn0095_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            18,
+            27
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Date",
+        "value": "October 2, 1991",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5194457173347473,
+            0.10894385725259781,
+            0.6528965756297112,
+            0.12434330582618713
+        ],
+        "source_file": "votes_fhmn0095_page1.csv"
+    },
+    {
+        "ids": [
+            16,
+            26
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Organization Name",
+        "value": "Environmental Technology",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.5447880625724792,
+            0.48067957162857056,
+            0.7739377096295357,
+            0.49768911860883236
+        ],
+        "source_file": "votes_fhmn0095_page1.csv"
+    },
+    {
+        "ids": [
+            28
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Contract Number",
+        "value": "Source: https://www.industrydocuments.ucsf.edu/docs/fhmn0095",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.21648895740509033,
+            0.9814907908439636,
+            0.7852948904037476,
+            0.9973421096801758
+        ],
+        "source_file": "votes_fhmn0095_page1.csv"
+    }
+]

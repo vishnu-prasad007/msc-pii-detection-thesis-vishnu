@@ -1,0 +1,216 @@
+[
+    {
+        "ids": [
+            0,
+            9,
+            17
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Person Name",
+        "value": "Collett Thach",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2714030146598816,
+            0.23806779086589813,
+            0.3801441043615341,
+            0.2506728796288371
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            10,
+            18
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Person Name",
+        "value": "Valerie Vaughan",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.27087345719337463,
+            0.25593218207359314,
+            0.4062989726662636,
+            0.2710513398051262
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            11,
+            19
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Person Name",
+        "value": "Leonard Jones",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.26994070410728455,
+            0.273707777261734,
+            0.3859581872820854,
+            0.2859377171844244
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            12,
+            20
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Person Name",
+        "value": "Don Kisling",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2702794373035431,
+            0.3081602454185486,
+            0.3686557933688164,
+            0.32394918613135815
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            13,
+            21
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Person Name",
+        "value": "Kelli Scruggs",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5582810640335083,
+            0.763481616973877,
+            0.6710520461201668,
+            0.7792219379916787
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            14,
+            22
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Organization Name",
+        "value": "Lorillard",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4168786406517029,
+            0.06151965260505676,
+            0.5927156805992126,
+            0.10239055380225182
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            15,
+            23
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Organization Name",
+        "value": "TOBACCO COMPANY",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.48731371760368347,
+            0.09258157014846802,
+            0.5853971317410469,
+            0.10081772040575743
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            16,
+            25
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Date",
+        "value": "March 26, 1999",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.15159210562705994,
+            0.18549798429012299,
+            0.27956410497426987,
+            0.20040689874440432
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            26
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Date",
+        "value": "March 19, 1999",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.21660377085208893,
+            0.44900837540626526,
+            0.3485940061509609,
+            0.46394434198737144
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Organization Name",
+        "value": "Lorillard",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.7404000163078308,
+            0.7633841037750244,
+            0.8170230910181999,
+            0.776191639713943
+        ],
+        "source_file": "votes_fjfw0152_page1.csv"
+    }
+]

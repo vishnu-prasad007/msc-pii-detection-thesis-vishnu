@@ -1,0 +1,106 @@
+[
+    {
+        "ids": [
+            0,
+            4,
+            8
+        ],
+        "doc_id": "votes_fhbd0057_page2",
+        "pii_type": "Person Name",
+        "value": "Isabelle Delage",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.09527576714754105,
+            0.1414451003074646,
+            0.23297661915421486,
+            0.15289279352873564
+        ],
+        "source_file": "votes_fhbd0057_page2.csv"
+    },
+    {
+        "ids": [
+            1,
+            5,
+            9
+        ],
+        "doc_id": "votes_fhbd0057_page2",
+        "pii_type": "Person Name",
+        "value": "Isabelle D.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.06264925748109818,
+            0.21529972553253174,
+            0.15953725390136242,
+            0.2249537380412221
+        ],
+        "source_file": "votes_fhbd0057_page2.csv"
+    },
+    {
+        "ids": [
+            2,
+            6,
+            10
+        ],
+        "doc_id": "votes_fhbd0057_page2",
+        "pii_type": "Person Name",
+        "value": "Diane L.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.14415574073791504,
+            0.3012700080871582,
+            0.2144648777320981,
+            0.3099692305549979
+        ],
+        "source_file": "votes_fhbd0057_page2.csv"
+    },
+    {
+        "ids": [
+            3,
+            7
+        ],
+        "doc_id": "votes_fhbd0057_page2",
+        "pii_type": "Contract Number",
+        "value": "CAN/22",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.1802596002817154,
+            0.16456057131290436,
+            0.23462432250380516,
+            0.17481085658073425
+        ],
+        "source_file": "votes_fhbd0057_page2.csv"
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fhbd0057_page2",
+        "pii_type": "Contract Number",
+        "value": "2085785372",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.696446418762207,
+            0.12755003571510315,
+            0.8172728642821312,
+            0.1448132898658514
+        ],
+        "source_file": "votes_fhbd0057_page2.csv"
+    }
+]

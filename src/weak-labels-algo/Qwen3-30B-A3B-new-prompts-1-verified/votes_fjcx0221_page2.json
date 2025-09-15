@@ -1,0 +1,216 @@
+[
+    {
+        "ids": [
+            0,
+            5,
+            12
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Person Name",
+        "value": "Dear Jeffrey Jeffrey,",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            503,
+            501,
+            882,
+            571
+        ],
+        "source_file": "votes_fjcx0221_page2.csv",
+        "votes": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "probability": 2.1400493400313975e-07
+    },
+    {
+        "ids": [
+            1,
+            6,
+            13
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Person Name",
+        "value": "Martin Falk",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            919,
+            910,
+            1228,
+            967
+        ],
+        "source_file": "votes_fjcx0221_page2.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999997859950661
+    },
+    {
+        "ids": [
+            2
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Person Name",
+        "value": "Best regards - Roland Greinwald",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            502,
+            1640,
+            1387,
+            1708
+        ],
+        "source_file": "votes_fjcx0221_page2.csv",
+        "votes": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+        ],
+        "probability": 2.8863955652943327e-05
+    },
+    {
+        "ids": [
+            3,
+            10,
+            15
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Organization Name",
+        "value": "Targacept",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1632,
+            1319,
+            1892,
+            1387
+        ],
+        "source_file": "votes_fjcx0221_page2.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999892338036044
+    },
+    {
+        "ids": [
+            4,
+            11,
+            16
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Contract Number",
+        "value": "RJR0000001371017574",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            42,
+            4461,
+            746,
+            4522
+        ],
+        "source_file": "votes_fjcx0221_page2.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            0,
+            1,
+            1
+        ],
+        "probability": 0.9935691603214442
+    },
+    {
+        "ids": [
+            7,
+            14
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Person Name",
+        "value": "Roland Greinwald",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            919,
+            1640,
+            1387,
+            1698
+        ],
+        "source_file": "votes_fjcx0221_page2.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999997859950661
+    },
+    {
+        "ids": [
+            8,
+            9,
+            17
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "70013 3630",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            44,
+            4542,
+            384,
+            4603
+        ],
+        "source_file": "votes_fjcx0221_page2.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            0,
+            1,
+            0
+        ],
+        "probability": 1.0
+    }
+]

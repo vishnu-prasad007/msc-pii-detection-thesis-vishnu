@@ -1,0 +1,163 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            14
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Person Name",
+        "value": "D. Nicoli",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            814,
+            1521,
+            1065,
+            1574
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            1,
+            8,
+            15
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Person Name",
+        "value": "P.S. Wittenbauer",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            812,
+            1952,
+            1282,
+            2006
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            2,
+            9,
+            16
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Phone Number",
+        "value": "202-637-1505",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            811,
+            1809,
+            1170,
+            1862
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "probability": 0.9999515951349895
+    },
+    {
+        "ids": [
+            3,
+            10,
+            17
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Phone Number",
+        "value": "(212)878-2768",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1634,
+            2740,
+            2000,
+            2797
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "probability": 0.9999515951349895
+    },
+    {
+        "ids": [
+            4,
+            11,
+            18
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Location",
+        "value": "120 Park Avenue, New York, NY 10017",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1035,
+            793,
+            2268,
+            865
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "probability": 0.9995031197982197
+    },
+    {
+        "ids": [
+            5,
+            12,
+            19
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Organization Name",
+        "value": "Philip Morris Management Corp.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            861,
+            690,
+            2431,
+            795
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "probability": 0.997746690646689
+    },
+    {
+        "ids": [
+            6,
+            13,
+            20
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Date",
+        "value": "Monday, February 26, 1996",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2114,
+            1088,
+            2871,
+            1161
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "probability": 0.9999113980940532
+    }
+]

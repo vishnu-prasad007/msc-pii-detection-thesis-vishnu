@@ -1,0 +1,231 @@
+[
+  {
+    "ids": [
+      0,
+      10,
+      20
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": "Person Name",
+    "value": "Vignarajah/D/Mayor",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      506,
+      85,
+      604,
+      95
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  },
+  {
+    "ids": [
+      1,
+      11
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": "Location",
+    "value": "PO Box 90024",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      165,
+      70,
+      257,
+      80
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  },
+  {
+    "ids": [
+      2,
+      12
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": "Location",
+    "value": "Prescott, AZ 86304-9024",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      164,
+      83,
+      327,
+      94
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  },
+  {
+    "ids": [
+      3,
+      13,
+      21
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": "Organization Name",
+    "value": "WBAL-TV11",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      164,
+      58,
+      242,
+      67
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  },
+  {
+    "ids": [
+      4,
+      17,
+      24
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": "Date",
+    "value": "04/28/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      56,
+      179,
+      100,
+      187
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  },
+  {
+    "ids": [
+      5
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": "Date",
+    "value": "05/03/20",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      121,
+      179,
+      165,
+      187
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  },
+  {
+    "ids": [
+      6,
+      15
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": "Date",
+    "value": "04/27/20",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      709,
+      72,
+      752,
+      80
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  },
+  {
+    "ids": [
+      7,
+      14,
+      16
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": "Date",
+    "value": "05/03/20",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      506,
+      72,
+      550,
+      80
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  },
+  {
+    "ids": [
+      8,
+      9,
+      18,
+      19,
+      25,
+      26
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": [
+      "Contract Number",
+      "Invoice Number"
+    ],
+    "value": "2007974-1",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      506,
+      60,
+      558,
+      67
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  },
+  {
+    "ids": [
+      22
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": "Organization Name",
+    "value": "WideOrbit",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      771,
+      805,
+      809,
+      812
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  },
+  {
+    "ids": [
+      23
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4",
+    "pii_type": "Date",
+    "value": "04/27/20 05/03/20",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      506,
+      72,
+      752,
+      80
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page4.csv"
+  }
+]

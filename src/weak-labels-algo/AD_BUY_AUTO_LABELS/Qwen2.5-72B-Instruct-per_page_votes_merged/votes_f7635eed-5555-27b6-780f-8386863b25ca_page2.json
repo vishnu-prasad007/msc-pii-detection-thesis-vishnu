@@ -1,0 +1,286 @@
+[
+  {
+    "ids": [
+      0,
+      2,
+      11,
+      14,
+      23,
+      26
+    ],
+    "doc_id": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2",
+    "pii_type": [
+      "Person Name",
+      "Organization Name"
+    ],
+    "value": "McGrath/D/Senate",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      506,
+      85,
+      598,
+      93
+    ],
+    "source_file": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      1,
+      13,
+      25
+    ],
+    "doc_id": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "WLKY-TV",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      164,
+      58,
+      228,
+      67
+    ],
+    "source_file": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      3,
+      15
+    ],
+    "doc_id": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "WLKY",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      92,
+      219,
+      124,
+      227
+    ],
+    "source_file": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      4,
+      16
+    ],
+    "doc_id": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "WLKY",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      92,
+      299,
+      124,
+      306
+    ],
+    "source_file": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      5,
+      17
+    ],
+    "doc_id": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "WLKY",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      92,
+      378,
+      124,
+      386
+    ],
+    "source_file": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      6,
+      18
+    ],
+    "doc_id": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "WLKY",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      92,
+      450,
+      124,
+      457
+    ],
+    "source_file": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      7,
+      19
+    ],
+    "doc_id": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "WLKY",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      92,
+      521,
+      124,
+      529
+    ],
+    "source_file": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      8,
+      20
+    ],
+    "doc_id": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "WLKY",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      92,
+      593,
+      124,
+      601
+    ],
+    "source_file": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      9,
+      21
+    ],
+    "doc_id": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "WLKY",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      92,
+      672,
+      124,
+      680
+    ],
+    "source_file": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      10,
+      22
+    ],
+    "doc_id": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "WLKY",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      92,
+      684,
+      124,
+      692
+    ],
+    "source_file": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      12,
+      24
+    ],
+    "doc_id": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "ATE",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      466,
+      29,
+      560,
+      59
+    ],
+    "source_file": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      27
+    ],
+    "doc_id": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "Young & The Restless",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      188,
+      396,
+      298,
+      406
+    ],
+    "source_file": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      28
+    ],
+    "doc_id": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "Young & The Restless",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      188,
+      468,
+      298,
+      478
+    ],
+    "source_file": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      29
+    ],
+    "doc_id": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "Young & The Restless",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      188,
+      539,
+      298,
+      549
+    ],
+    "source_file": "votes_f7635eed-5555-27b6-780f-8386863b25ca.pdf_page2.csv"
+  }
+]

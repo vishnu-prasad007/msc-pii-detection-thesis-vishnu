@@ -1,0 +1,243 @@
+[
+    {
+        "ids": [
+            0,
+            10,
+            20
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Person Name",
+        "value": "Patti Ittermann",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            671,
+            2197,
+            1085,
+            2257
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            1,
+            12,
+            22
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Person Name",
+        "value": "Brice O'Brien",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            671,
+            2284,
+            1047,
+            2344
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            2,
+            13,
+            23
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Person Name",
+        "value": "Sumana Rajagopal",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1723,
+            2284,
+            2245,
+            2357
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            3,
+            14,
+            24
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Person Name",
+        "value": "Carol Sterling",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1723,
+            2372,
+            2095,
+            2447
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            4,
+            15,
+            25
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Person Name",
+        "value": "Mary Taylor",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1724,
+            2462,
+            2046,
+            2536
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            5,
+            16,
+            26
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Phone Number",
+        "value": "774-9377",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1864,
+            1494,
+            2157,
+            1551
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.9990904025042505
+    },
+    {
+        "ids": [
+            6,
+            17
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Organization Name",
+        "value": "Camel",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1115,
+            437,
+            1296,
+            496
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.722640459594319
+    },
+    {
+        "ids": [
+            7,
+            18
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Organization Name",
+        "value": "LHC",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            866,
+            871,
+            995,
+            928
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.722640459594319
+    },
+    {
+        "ids": [
+            8,
+            19
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Organization Name",
+        "value": "RJRT",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            672,
+            2107,
+            830,
+            2171
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.722640459594319
+    },
+    {
+        "ids": [
+            9
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Contract Number",
+        "value": "f:/media/rjr/camel/99plar/merch909.doc",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            488,
+            1956,
+            1249,
+            2005
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.13216465187220952
+    },
+    {
+        "ids": [
+            11,
+            21
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Person Name",
+        "value": "Tricia Hoopes",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1720,
+            2198,
+            2107,
+            2269
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.6937625365640808
+    }
+]

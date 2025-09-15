@@ -1,0 +1,569 @@
+[
+    {
+        "ids": [
+            0,
+            21,
+            46
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "Becker, Steven A",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            499,
+            354,
+            827,
+            394
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            22,
+            47
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "Steven Becker",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            300,
+            882,
+            576,
+            915
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            23,
+            50
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "D'Andrea, Michael",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            423,
+            1265,
+            762,
+            1305
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            26,
+            51
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "Becker, Steven A",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            423,
+            1887,
+            750,
+            1927
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            28,
+            53
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "Steven Becker",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            299,
+            2319,
+            574,
+            2354
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            29,
+            54
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "D'Andrea, Michael",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            423,
+            2701,
+            763,
+            2743
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            30,
+            55
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "Becker, Steven A",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            373,
+            2798,
+            699,
+            2837
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            7,
+            27,
+            52
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "D'Andrea, Michael",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            373,
+            1983,
+            713,
+            2023
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            8,
+            31,
+            56
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Email Address",
+        "value": "steven.becker@covidien.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            300,
+            1216,
+            853,
+            1259
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            9,
+            32,
+            57
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Email Address",
+        "value": "steven.becker@covidien.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            299,
+            2653,
+            849,
+            2697
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            10,
+            33,
+            58
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Phone Number",
+        "value": "651454 2736",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            372,
+            1073,
+            611,
+            1108
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            11,
+            34,
+            59
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Phone Number",
+        "value": "651 260 4668",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            384,
+            1121,
+            637,
+            1156
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            12,
+            35,
+            60
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Phone Number",
+        "value": "651 405 1885",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            382,
+            1169,
+            635,
+            1204
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            13,
+            36,
+            61
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Phone Number",
+        "value": "651454 2736",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            372,
+            2509,
+            611,
+            2545
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            14,
+            37,
+            62
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Phone Number",
+        "value": "651 260 4668",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            383,
+            2557,
+            637,
+            2594
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            15,
+            38,
+            63
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Phone Number",
+        "value": "651 405 1885",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            382,
+            2605,
+            634,
+            2641
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            16,
+            39,
+            64
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Organization Name",
+        "value": "Covidien Mallinckrodt",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            299,
+            1025,
+            701,
+            1060
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            17,
+            41,
+            66
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Date",
+        "value": "12/15/2011 5:21:29 PM Thur",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            498,
+            402,
+            1030,
+            437
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            18,
+            43,
+            68
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Date",
+        "value": "December 15, 2011 9:57 AM Thursday,",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            409,
+            1935,
+            1140,
+            1977
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            19,
+            44,
+            69
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Date",
+        "value": "December 15, 2011 8:49 AM Thursday,",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            409,
+            2748,
+            1141,
+            2792
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            20,
+            45,
+            70
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Contract Number",
+        "value": "MNKOI 0001856177",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2088,
+            3304,
+            2469,
+            3340
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            24,
+            48
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "Becker, Steven A",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            372,
+            1360,
+            700,
+            1400
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            25,
+            49
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "Yaeger, Ed",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            373,
+            1408,
+            584,
+            1450
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            40,
+            65
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Organization Name",
+        "value": "Covidien Mallinckrodt",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            298,
+            2462,
+            702,
+            2496
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            42,
+            67
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Date",
+        "value": "December 15, 2011 9:13 AM Thursday,",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            408,
+            1312,
+            1142,
+            1354
+        ],
+        "source_file": "votes_fhhp0238_page1.csv",
+        "probability": 0.6666666666666666
+    }
+]

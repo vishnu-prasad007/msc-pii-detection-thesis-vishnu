@@ -1,0 +1,214 @@
+[
+    {
+        "ids": [
+            0,
+            5,
+            11
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Location",
+        "value": "Bangkok",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            465,
+            681,
+            618,
+            722
+        ],
+        "source_file": "votes_fgdn0202_page1.csv",
+        "probability": 0.9965290942566549
+    },
+    {
+        "ids": [
+            1,
+            6,
+            12
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Location",
+        "value": "Thailand",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            467,
+            729,
+            610,
+            765
+        ],
+        "source_file": "votes_fgdn0202_page1.csv",
+        "probability": 0.9965290942566549
+    },
+    {
+        "ids": [
+            2,
+            7,
+            16
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Organization Name",
+        "value": "Royal Thai Government",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            466,
+            634,
+            861,
+            677
+        ],
+        "source_file": "votes_fgdn0202_page1.csv",
+        "probability": 0.9937329907926641
+    },
+    {
+        "ids": [
+            3,
+            8,
+            9,
+            15
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "PRAFT",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1110,
+            468,
+            1228,
+            501
+        ],
+        "source_file": "votes_fgdn0202_page1.csv",
+        "probability": 0.9994792922522238
+    },
+    {
+        "ids": [
+            4,
+            10
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Contract Number",
+        "value": "WODD:90",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1700,
+            2972,
+            1838,
+            3002
+        ],
+        "source_file": "votes_fgdn0202_page1.csv",
+        "probability": 0.44359594175834616
+    },
+    {
+        "ids": [
+            13
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Location",
+        "value": "Thailand",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            464,
+            1155,
+            616,
+            1195
+        ],
+        "source_file": "votes_fgdn0202_page1.csv",
+        "probability": 0.0366199020835172
+    },
+    {
+        "ids": [
+            14
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Location",
+        "value": "Thailand",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            447,
+            2588,
+            600,
+            2624
+        ],
+        "source_file": "votes_fgdn0202_page1.csv",
+        "probability": 0.0366199020835172
+    },
+    {
+        "ids": [
+            17
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Contract Number",
+        "value": "9650",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1082,
+            2986,
+            1161,
+            3015
+        ],
+        "source_file": "votes_fgdn0202_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            18
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Contract Number",
+        "value": "917",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1366,
+            2981,
+            1429,
+            3009
+        ],
+        "source_file": "votes_fgdn0202_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            19
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Contract Number",
+        "value": "330",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            2008,
+            2967,
+            2068,
+            2997
+        ],
+        "source_file": "votes_fgdn0202_page1.csv",
+        "probability": 0.18724450043103621
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "ids": [
+            0
+        ],
+        "doc_id": "votes_fjln0143_page4",
+        "pii_type": "Organization Name",
+        "value": "KOOL",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            497,
+            473,
+            537,
+            486
+        ],
+        "source_file": "votes_fjln0143_page4.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            1
+        ],
+        "doc_id": "votes_fjln0143_page4",
+        "pii_type": "Organization Name",
+        "value": "KOOL",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            324,
+            705,
+            363,
+            718
+        ],
+        "source_file": "votes_fjln0143_page4.csv",
+        "probability": 0.3333333333333333
+    }
+]

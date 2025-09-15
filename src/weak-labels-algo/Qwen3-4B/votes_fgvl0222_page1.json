@@ -1,0 +1,433 @@
+[
+    {
+        "ids": [
+            0,
+            18,
+            35
+        ],
+        "doc_id": "votes_fgvl0222_page1",
+        "pii_type": "Person Name",
+        "value": "LaBrecque, Mark P.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            971,
+            650,
+            1514,
+            721
+        ],
+        "source_file": "votes_fgvl0222_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            1,
+            19,
+            36
+        ],
+        "doc_id": "votes_fgvl0222_page1",
+        "pii_type": "Person Name",
+        "value": "Fulton, Chad",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            971,
+            911,
+            1342,
+            976
+        ],
+        "source_file": "votes_fgvl0222_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            2,
+            20,
+            37
+        ],
+        "doc_id": "votes_fgvl0222_page1",
+        "pii_type": "Person Name",
+        "value": "Knouse, Paul F.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1360,
+            910,
+            1796,
+            975
+        ],
+        "source_file": "votes_fgvl0222_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            3,
+            21,
+            38
+        ],
+        "doc_id": "votes_fgvl0222_page1",
+        "pii_type": "Person Name",
+        "value": "Bratton, Deborah B.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            972,
+            1052,
+            1514,
+            1118
+        ],
+        "source_file": "votes_fgvl0222_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            4,
+            22,
+            39
+        ],
+        "doc_id": "votes_fgvl0222_page1",
+        "pii_type": "Person Name",
+        "value": "Moskowitz, Seth W.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            724,
+            2541,
+            1262,
+            2607
+        ],
+        "source_file": "votes_fgvl0222_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            5,
+            23,
+            40
+        ],
+        "doc_id": "votes_fgvl0222_page1",
+        "pii_type": "Person Name",
+        "value": "Fulton, Chad",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1732,
+            2696,
+            2104,
+            2762
+        ],
+        "source_file": "votes_fgvl0222_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            6,
+            24,
+            41
+        ],
+        "doc_id": "votes_fgvl0222_page1",
+        "pii_type": "Person Name",
+        "value": "Knouse, Paul F.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            545,
+            2774,
+            981,
+            2839
+        ],
+        "source_file": "votes_fgvl0222_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            7,
+            25,
+            42
+        ],
+        "doc_id": "votes_fgvl0222_page1",
+        "pii_type": "Person Name",
+        "value": "Walkup, Donna F.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            721,
+            3706,
+            1212,
+            3774
+        ],
+        "source_file": "votes_fgvl0222_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            8,
+            26,
+            43
+        ],
+        "doc_id": "votes_fgvl0222_page1",
+        "pii_type": "Person Name",
+        "value": "Rucker, Thomas J.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1232,
+            3861,
+            1742,
+            3924
+        ],
+        "source_file": "votes_fgvl0222_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            9,
+            27,
+            44
+        ],
+        "doc_id": "votes_fgvl0222_page1",
+        "pii_type": "Person Name",
+        "value": "Fulton, Chad",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            655,
+            3938,
+            1024,
+            4003
+        ],
+        "source_file": "votes_fgvl0222_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            10,
+            28,
+            45
+        ],
+        "doc_id": "votes_fgvl0222_page1",
+        "pii_type": "Person Name",
+        "value": "Knouse, Paul F.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1624,
+            3938,
+            2060,
+            4004
+        ],
+        "source_file": "votes_fgvl0222_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            11,
+            29,
+            46
+        ],
+        "doc_id": "votes_fgvl0222_page1",
+        "pii_type": "Phone Number",
+        "value": "9552422098",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            326,
+            4557,
+            645,
+            4608
+        ],
+        "source_file": "votes_fgvl0222_page1.csv",
+        "probability": 0.9989874148242464
+    },
+    {
+        "ids": [
+            12
+        ],
+        "doc_id": "votes_fgvl0222_page1",
+        "pii_type": "Phone Number",
+        "value": "55501 4542",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            2820,
+            4556,
+            3115,
+            4610
+        ],
+        "source_file": "votes_fgvl0222_page1.csv",
+        "probability": 0.062015608030607024
+    },
+    {
+        "ids": [
+            13,
+            30,
+            48
+        ],
+        "doc_id": "votes_fgvl0222_page1",
+        "pii_type": "Date",
+        "value": "2001-Oct-08 16:44:24",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            970,
+            1338,
+            1573,
+            1397
+        ],
+        "source_file": "votes_fgvl0222_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            14,
+            31,
+            49
+        ],
+        "doc_id": "votes_fgvl0222_page1",
+        "pii_type": "Date",
+        "value": "2001-Oct-08 16:44:24",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            970,
+            1482,
+            1572,
+            1541
+        ],
+        "source_file": "votes_fgvl0222_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            15,
+            32,
+            50
+        ],
+        "doc_id": "votes_fgvl0222_page1",
+        "pii_type": "Date",
+        "value": "Monday, October 08, 2001 3:38 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            707,
+            2619,
+            1686,
+            2687
+        ],
+        "source_file": "votes_fgvl0222_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            16,
+            33,
+            51
+        ],
+        "doc_id": "votes_fgvl0222_page1",
+        "pii_type": "Date",
+        "value": "Monday, October 08, 2001 7:45 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            707,
+            3783,
+            1684,
+            3853
+        ],
+        "source_file": "votes_fgvl0222_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            17,
+            34
+        ],
+        "doc_id": "votes_fgvl0222_page1",
+        "pii_type": "Contract Number",
+        "value": "DPO 9552422098",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            194,
+            4557,
+            645,
+            4608
+        ],
+        "source_file": "votes_fgvl0222_page1.csv",
+        "probability": 0.44359594175834616
+    },
+    {
+        "ids": [
+            47,
+            52
+        ],
+        "doc_id": "votes_fgvl0222_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "DPO 9552422098 55501 4542",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            194,
+            4556,
+            3115,
+            4610
+        ],
+        "source_file": "votes_fgvl0222_page1.csv",
+        "probability": 0.011160064041243027
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "ids": [
+            0,
+            6,
+            11
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Person Name",
+        "value": "His Exellency The Prime Minister",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            467,
+            586,
+            1012,
+            629
+        ],
+        "source_file": "votes_fgdn0202_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            1,
+            7,
+            12
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Location",
+        "value": "Bangkok",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            465,
+            681,
+            618,
+            722
+        ],
+        "source_file": "votes_fgdn0202_page1.csv",
+        "probability": 0.996034042417568
+    },
+    {
+        "ids": [
+            2,
+            8,
+            13
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Location",
+        "value": "Thailand",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            467,
+            729,
+            610,
+            765
+        ],
+        "source_file": "votes_fgdn0202_page1.csv",
+        "probability": 0.996034042417568
+    },
+    {
+        "ids": [
+            3
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Location",
+        "value": "Thailand",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            464,
+            1155,
+            616,
+            1195
+        ],
+        "source_file": "votes_fgdn0202_page1.csv",
+        "probability": 0.12886882919786594
+    },
+    {
+        "ids": [
+            4,
+            9,
+            14
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Organization Name",
+        "value": "Royal Thai Government",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            466,
+            634,
+            861,
+            677
+        ],
+        "source_file": "votes_fgdn0202_page1.csv",
+        "probability": 0.9900025300515797
+    },
+    {
+        "ids": [
+            5,
+            10
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Contract Number",
+        "value": "Z'd air (*H) 9650 \u00a3.182 258+ 917 (*H) WODD:90 56. to 330",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            510,
+            2967,
+            2068,
+            3027
+        ],
+        "source_file": "votes_fgdn0202_page1.csv",
+        "probability": 0.7414301971243858
+    }
+]

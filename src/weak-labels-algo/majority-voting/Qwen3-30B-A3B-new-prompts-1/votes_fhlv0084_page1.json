@@ -1,0 +1,369 @@
+[
+    {
+        "ids": [
+            0,
+            15,
+            31
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": "Person Name",
+        "value": "J. L. HENDRICKS",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            798,
+            717,
+            1211,
+            754
+        ],
+        "source_file": "votes_fhlv0084_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            16,
+            32
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": "Person Name",
+        "value": "F. E. McKeown",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            801,
+            818,
+            1156,
+            856
+        ],
+        "source_file": "votes_fhlv0084_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            17,
+            33
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": "Person Name",
+        "value": "J. R. Roudebush",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            800,
+            869,
+            1172,
+            906
+        ],
+        "source_file": "votes_fhlv0084_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            18,
+            34
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": "Person Name",
+        "value": "J. V. Fagg",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            799,
+            921,
+            1050,
+            964
+        ],
+        "source_file": "votes_fhlv0084_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            19,
+            35
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": "Person Name",
+        "value": "C. E. Smoot, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            800,
+            1021,
+            1188,
+            1063
+        ],
+        "source_file": "votes_fhlv0084_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            20,
+            36
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": "Person Name",
+        "value": "M. E. Nichols",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1100,
+            1528,
+            1422,
+            1563
+        ],
+        "source_file": "votes_fhlv0084_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            21,
+            37
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": "Person Name",
+        "value": "J. E. Richards",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1100,
+            1728,
+            1438,
+            1763
+        ],
+        "source_file": "votes_fhlv0084_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            7,
+            14,
+            22,
+            30,
+            46
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "680074521",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2,
+            3004,
+            245,
+            3039
+        ],
+        "source_file": "votes_fhlv0084_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            8,
+            23,
+            38
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": "Location",
+        "value": "P. O. Box 994",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1102,
+            1578,
+            1406,
+            1612
+        ],
+        "source_file": "votes_fhlv0084_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            9,
+            24,
+            39
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": "Location",
+        "value": "N. Little Rock, Arkansas 72115",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1098,
+            1627,
+            1823,
+            1668
+        ],
+        "source_file": "votes_fhlv0084_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            10,
+            25,
+            40
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": "Location",
+        "value": "111 W. Pershing",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1107,
+            1828,
+            1475,
+            1869
+        ],
+        "source_file": "votes_fhlv0084_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            11,
+            26,
+            41
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": "Location",
+        "value": "N. Little Rock, Arkansas 72114",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1102,
+            1877,
+            1830,
+            1917
+        ],
+        "source_file": "votes_fhlv0084_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            12,
+            27,
+            42
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": "Organization Name",
+        "value": "Holiday Inn",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1192,
+            1778,
+            1441,
+            1819
+        ],
+        "source_file": "votes_fhlv0084_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            13,
+            29,
+            45
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": "Date",
+        "value": "July 21, 1976",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            802,
+            1124,
+            1096,
+            1168
+        ],
+        "source_file": "votes_fhlv0084_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            28,
+            43
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": "Organization Name",
+        "value": "B&W",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            392,
+            3056,
+            477,
+            3089
+        ],
+        "source_file": "votes_fhlv0084_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            44
+        ],
+        "doc_id": "votes_fhlv0084_page1",
+        "pii_type": "Organization Name",
+        "value": "C.E.S.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1387,
+            2127,
+            1542,
+            2163
+        ],
+        "source_file": "votes_fhlv0084_page1.csv",
+        "probability": 0.3333333333333333
+    }
+]

@@ -1,0 +1,430 @@
+[
+    {
+        "ids": [
+            0,
+            14,
+            27,
+            32
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": [
+            "Person Name",
+            "Phone Number"
+        ],
+        "value": "Ms. Karen Miller",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            375,
+            1045,
+            857,
+            1087
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            8,
+            15,
+            21,
+            28,
+            33,
+            47
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name",
+            "Phone Number"
+        ],
+        "value": "Philip Morris",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            378,
+            1098,
+            767,
+            1147
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            16
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Phone Number",
+        "value": "617-247-2363",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            2110,
+            360,
+            2396,
+            402
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 0.7015659444155058
+    },
+    {
+        "ids": [
+            3,
+            17
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Phone Number",
+        "value": "7277850",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1843,
+            419,
+            2025,
+            457
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 0.7015659444155058
+    },
+    {
+        "ids": [
+            4,
+            18,
+            43
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Location",
+        "value": "545 Boylston Street, Boston, Massachusetts 02116 MARKETING RESEARCH",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            398,
+            363,
+            2098,
+            424
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 0.9756927193958248
+    },
+    {
+        "ids": [
+            5,
+            19,
+            30,
+            44
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": [
+            "Phone Number",
+            "Location"
+        ],
+        "value": "38 Rue Boissiere, 75116 Paris, France 7277850",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1037,
+            419,
+            2025,
+            472
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": NaN
+    },
+    {
+        "ids": [
+            6,
+            35,
+            45
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": [
+            "Phone Number",
+            "Location"
+        ],
+        "value": "New York, NY 10017",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            377,
+            1196,
+            947,
+            1241
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": NaN
+    },
+    {
+        "ids": [
+            7,
+            20,
+            46
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Organization Name",
+        "value": "MARKETING RESEARCH",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            398,
+            372,
+            1017,
+            424
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 0.9843362849023228
+    },
+    {
+        "ids": [
+            9,
+            22,
+            41,
+            48
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": [
+            "Organization Name",
+            "Phone Number"
+        ],
+        "value": "Junggin",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1474,
+            2392,
+            2037,
+            2721
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            10,
+            23,
+            31,
+            49
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": [
+            "Date",
+            "Phone Number"
+        ],
+        "value": "October 25, 1988",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1363,
+            786,
+            1841,
+            830
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            11,
+            24,
+            38,
+            50
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": [
+            "Date",
+            "Phone Number"
+        ],
+        "value": "First payment for Virginia Slims",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            529,
+            1849,
+            1488,
+            1903
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            12,
+            25,
+            36,
+            52
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": [
+            "Phone Number",
+            "Contract Number"
+        ],
+        "value": "Project #1112",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            379,
+            1348,
+            767,
+            1398
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            13,
+            26,
+            37,
+            51
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": [
+            "Phone Number",
+            "Contract Number"
+        ],
+        "value": "Invoice #4410",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1700,
+            1592,
+            2084,
+            1633
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            29
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Phone Number",
+        "value": "MARKETING RESEARCH 545 Boylston Street, Boston, Massachusetts 02116, 617-247-2363",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            398,
+            360,
+            2396,
+            424
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 0.0724693832224822
+    },
+    {
+        "ids": [
+            34
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Phone Number",
+        "value": "120 Park Ave.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            382,
+            1151,
+            758,
+            1189
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 0.0724693832224822
+    },
+    {
+        "ids": [
+            39
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Phone Number",
+        "value": "Club Telephone Study $2,200",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            590,
+            1948,
+            1938,
+            2001
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 0.0724693832224822
+    },
+    {
+        "ids": [
+            40
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Phone Number",
+        "value": "Kever smokers",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1284,
+            2334,
+            1717,
+            2528
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 0.0724693832224822
+    },
+    {
+        "ids": [
+            42
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Phone Number",
+        "value": "Source: https://www.industrydocuments.ucsf.edu/docs/fhgx0106",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            570,
+            3275,
+            1989,
+            3330
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 0.0724693832224822
+    }
+]

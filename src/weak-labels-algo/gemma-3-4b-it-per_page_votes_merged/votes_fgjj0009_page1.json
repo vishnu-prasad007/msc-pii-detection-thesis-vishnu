@@ -1,0 +1,243 @@
+[
+    {
+        "ids": [
+            0,
+            11,
+            24
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Person Name",
+        "value": "Gina Plaia",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2622278332710266,
+            0.09254661947488785,
+            0.3456990197300911,
+            0.10582512244582176
+        ],
+        "source_file": "votes_fgjj0009_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            12,
+            25
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Person Name",
+        "value": "Deb Elfar",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2416338473558426,
+            0.12189418822526932,
+            0.31785281375050545,
+            0.13543375674635172
+        ],
+        "source_file": "votes_fgjj0009_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            13,
+            26
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Person Name",
+        "value": "Sonya Rush",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2426183968782425,
+            0.13641278445720673,
+            0.3390537202358246,
+            0.1513153724372387
+        ],
+        "source_file": "votes_fgjj0009_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            6,
+            14,
+            20,
+            28
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": [
+            "Email Address",
+            "Location"
+        ],
+        "value": "Elfar, Deb",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2416338473558426,
+            0.12189418822526932,
+            0.31785281375050545,
+            0.13543375674635172
+        ],
+        "source_file": "votes_fgjj0009_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            7,
+            15,
+            21,
+            29
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": [
+            "Email Address",
+            "Location"
+        ],
+        "value": "Rush, Sonya",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2426183968782425,
+            0.13641278445720673,
+            0.3390537202358246,
+            0.1513153724372387
+        ],
+        "source_file": "votes_fgjj0009_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            19,
+            27
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Location",
+        "value": "Plaia, Gina",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2622278332710266,
+            0.09254661947488785,
+            0.3456990197300911,
+            0.10582512244582176
+        ],
+        "source_file": "votes_fgjj0009_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            30
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Location",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fgjj0009",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.28885987401008606,
+            0.9797062873840332,
+            0.7790264785289764,
+            0.9971457403153181
+        ],
+        "source_file": "votes_fgjj0009_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            10,
+            22,
+            23,
+            31,
+            32
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Date",
+        "value": "Mar 24, 1994 5:07 PM Thu,",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.37195730209350586,
+            0.09237484633922577,
+            0.5813826061785221,
+            0.10604079533368349
+        ],
+        "source_file": "votes_fgjj0009_page1.csv"
+    },
+    {
+        "ids": [
+            16
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Phone Number",
+        "value": "Gina",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.3083847463130951,
+            0.09257073700428009,
+            0.3456990197300911,
+            0.10445977468043566
+        ],
+        "source_file": "votes_fgjj0009_page1.csv"
+    },
+    {
+        "ids": [
+            17
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Phone Number",
+        "value": "Deb",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.28609538078308105,
+            0.12189418822526932,
+            0.31785281375050545,
+            0.13380475156009197
+        ],
+        "source_file": "votes_fgjj0009_page1.csv"
+    },
+    {
+        "ids": [
+            18
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Phone Number",
+        "value": "Sonya",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.2914186120033264,
+            0.13641278445720673,
+            0.3390537202358246,
+            0.1513153724372387
+        ],
+        "source_file": "votes_fgjj0009_page1.csv"
+    }
+]

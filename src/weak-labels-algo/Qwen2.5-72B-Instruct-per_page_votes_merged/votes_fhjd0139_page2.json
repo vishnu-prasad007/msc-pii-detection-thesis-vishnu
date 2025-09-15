@@ -1,0 +1,142 @@
+[
+    {
+        "ids": [
+            0,
+            6,
+            12,
+            14
+        ],
+        "doc_id": "votes_fhjd0139_page2",
+        "pii_type": [
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "T. E. Whitehair, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.13566191494464874,
+            0.10416190326213837,
+            0.3132668361067772,
+            0.11733043473213911
+        ],
+        "source_file": "votes_fhjd0139_page2.csv"
+    },
+    {
+        "ids": [
+            1,
+            7,
+            13,
+            17
+        ],
+        "doc_id": "votes_fhjd0139_page2",
+        "pii_type": [
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "J. F. WILKELM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4898926317691803,
+            0.5139204263687134,
+            0.6057211756706238,
+            0.5262705720961094
+        ],
+        "source_file": "votes_fhjd0139_page2.csv"
+    },
+    {
+        "ids": [
+            2,
+            8,
+            15
+        ],
+        "doc_id": "votes_fhjd0139_page2",
+        "pii_type": "Organization Name",
+        "value": "Marlboro",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7743352055549622,
+            0.25518372654914856,
+            0.8467267453670502,
+            0.2669942732900381
+        ],
+        "source_file": "votes_fhjd0139_page2.csv"
+    },
+    {
+        "ids": [
+            3,
+            9,
+            16
+        ],
+        "doc_id": "votes_fhjd0139_page2",
+        "pii_type": "Organization Name",
+        "value": "Lucky Strike",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.32170987129211426,
+            0.255235880613327,
+            0.42973846569657326,
+            0.2690009828656912
+        ],
+        "source_file": "votes_fhjd0139_page2.csv"
+    },
+    {
+        "ids": [
+            4,
+            10,
+            18
+        ],
+        "doc_id": "votes_fhjd0139_page2",
+        "pii_type": "Date",
+        "value": "AUGUST 13, 1984",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6856609582901001,
+            0.09102437645196915,
+            0.8202233612537384,
+            0.10415003169327974
+        ],
+        "source_file": "votes_fhjd0139_page2.csv"
+    },
+    {
+        "ids": [
+            5,
+            11,
+            19
+        ],
+        "doc_id": "votes_fhjd0139_page2",
+        "pii_type": "Contract Number",
+        "value": "464008206",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7086198925971985,
+            0.8728417158126831,
+            0.8526506274938583,
+            0.8899470213800669
+        ],
+        "source_file": "votes_fhjd0139_page2.csv"
+    }
+]

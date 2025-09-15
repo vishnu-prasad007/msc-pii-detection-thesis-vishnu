@@ -1,0 +1,164 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            14
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Organization Name",
+        "value": "B&W",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.12986408174037933,
+            0.09690435975790024,
+            0.2312946915626526,
+            0.1264666672796011
+        ],
+        "source_file": "votes_fjbw0138_page1.csv"
+    },
+    {
+        "ids": [
+            1
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Organization Name",
+        "value": "CARLTON",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.264928936958313,
+            0.23214949667453766,
+            0.3843414857983589,
+            0.24768872186541557
+        ],
+        "source_file": "votes_fjbw0138_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            9
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Organization Name",
+        "value": "Virginia Slims",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.5256613492965698,
+            0.7167349457740784,
+            0.6417238749563694,
+            0.731622071005404
+        ],
+        "source_file": "votes_fjbw0138_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            10
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Organization Name",
+        "value": "Merit Ultima",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.6482152938842773,
+            0.718106746673584,
+            0.7461890839040279,
+            0.7301292577758431
+        ],
+        "source_file": "votes_fjbw0138_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            11
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Organization Name",
+        "value": "Marlboro",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.22332313656806946,
+            0.7323762774467468,
+            0.29987795650959015,
+            0.7440295163542032
+        ],
+        "source_file": "votes_fjbw0138_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            12,
+            15
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Date",
+        "value": "09/03/96",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5640695691108704,
+            0.8477923274040222,
+            0.6361344307661057,
+            0.8597503351047635
+        ],
+        "source_file": "votes_fjbw0138_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            13,
+            16
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Contract Number",
+        "value": "C #2311 (CC)",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5643104314804077,
+            0.8313854932785034,
+            0.6766306273639202,
+            0.8462249394506216
+        ],
+        "source_file": "votes_fjbw0138_page1.csv"
+    },
+    {
+        "ids": [
+            8
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Organization Name",
+        "value": "B&W",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.2952531576156616,
+            0.30818793177604675,
+            0.3392745181918144,
+            0.3200027719140053
+        ],
+        "source_file": "votes_fjbw0138_page1.csv"
+    }
+]

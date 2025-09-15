@@ -1,0 +1,443 @@
+[
+    {
+        "ids": [
+            0,
+            18,
+            37
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Person Name",
+        "value": "Missy Henry",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            865,
+            802,
+            1124,
+            851
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            1,
+            19,
+            38
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Person Name",
+        "value": "Diana Walker",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            703,
+            989,
+            1009,
+            1029
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            2,
+            20,
+            39
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Person Name",
+        "value": "Diana",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            368,
+            1555,
+            487,
+            1594
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            3,
+            21,
+            40
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Person Name",
+        "value": "Diana",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1919,
+            1672,
+            2040,
+            1712
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            4,
+            22,
+            41
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Person Name",
+        "value": "Diana",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            367,
+            1901,
+            486,
+            1941
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            5,
+            23
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Person Name",
+        "value": "Diana",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1406,
+            2938,
+            1527,
+            2978
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.9200817366604126
+    },
+    {
+        "ids": [
+            6,
+            9,
+            24,
+            27,
+            43,
+            48
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": [
+            "Location",
+            "Email Address"
+        ],
+        "value": "Diana.Walker@fda.hhs.gov",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            540,
+            1249,
+            1134,
+            1299
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            7,
+            8,
+            25,
+            26,
+            44,
+            47
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": [
+            "Phone Number",
+            "Location"
+        ],
+        "value": "301-796-4029",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            720,
+            1162,
+            1007,
+            1203
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            10,
+            29,
+            50
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Location",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fhyg0235 MNKOI 0000391265",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            726,
+            3294,
+            2459,
+            3349
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.9546725906404269
+    },
+    {
+        "ids": [
+            11,
+            30,
+            45,
+            51
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": [
+            "Location",
+            "Organization Name"
+        ],
+        "value": "Mallinckrodt Inc.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            372,
+            392,
+            761,
+            434
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            12,
+            31
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            368,
+            802,
+            652,
+            842
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.8837384049991688
+    },
+    {
+        "ids": [
+            13,
+            32,
+            52
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Date",
+        "value": "03.22.10",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            517,
+            544,
+            694,
+            584
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.9999806273337076
+    },
+    {
+        "ids": [
+            14,
+            33,
+            53
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Date",
+        "value": "March 12, 2010",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            888,
+            2421,
+            1224,
+            2469
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.9999806273337076
+    },
+    {
+        "ids": [
+            15,
+            34,
+            54
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Date",
+        "value": "1/15/2008",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2016,
+            3108,
+            2165,
+            3139
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.9999806273337076
+    },
+    {
+        "ids": [
+            16,
+            55
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Contract Number",
+        "value": "NDA 021217",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            734,
+            630,
+            1008,
+            669
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.7389375381517604
+    },
+    {
+        "ids": [
+            17,
+            35,
+            56
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Contract Number",
+        "value": "S-001",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1916,
+            1845,
+            2047,
+            1893
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            28,
+            36,
+            49
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "S:\\Contact Report Template.doc",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            368,
+            3108,
+            846,
+            3148
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.7756112025612807
+    },
+    {
+        "ids": [
+            42
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Person Name",
+        "value": "Missy",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            368,
+            2823,
+            489,
+            2871
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.015703341233890625
+    },
+    {
+        "ids": [
+            46
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Location",
+        "value": "FDA/CDER/DAAP",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            776,
+            1076,
+            1191,
+            1117
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.11727918502265558
+    }
+]

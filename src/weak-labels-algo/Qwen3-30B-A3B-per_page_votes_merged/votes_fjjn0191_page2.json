@@ -1,0 +1,462 @@
+[
+    {
+        "ids": [
+            0,
+            20,
+            36
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Ernesto Antich",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2159358710050583,
+            0.3289465606212616,
+            0.3082566261291504,
+            0.33902470022439957
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            1,
+            21,
+            37
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Eugenio Rengifo",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.21566247940063477,
+            0.3428078293800354,
+            0.32042599096894264,
+            0.35513212997466326
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            2,
+            22,
+            38
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Patricio Bellolio",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.21560874581336975,
+            0.356909841299057,
+            0.31737738475203514,
+            0.3671399438753724
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            3,
+            23,
+            39
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Dr CJP de Siqueira",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.21555723249912262,
+            0.3707352578639984,
+            0.34462546557188034,
+            0.38339077588170767
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            4,
+            24,
+            40
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Edgar Codero",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2159498929977417,
+            0.38479679822921753,
+            0.3022136949002743,
+            0.39678328949958086
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            5,
+            25,
+            41
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Orlando Schoenstedt",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2160177379846573,
+            0.3984159231185913,
+            0.343101367354393,
+            0.4086504587903619
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            6,
+            26,
+            42
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Peter Taylor",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.21538615226745605,
+            0.41236308217048645,
+            0.2946102134883404,
+            0.4243153119459748
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            7,
+            27,
+            43
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Amilcar Santamaria",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.21486997604370117,
+            0.4259313642978668,
+            0.33881936222314835,
+            0.43578177969902754
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            8,
+            28,
+            44
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "David Vega",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.21527116000652313,
+            0.43952232599258423,
+            0.29063155874609947,
+            0.4516581976786256
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            9,
+            29,
+            45
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Hugh Tweed",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2146642804145813,
+            0.4534960985183716,
+            0.2956795357167721,
+            0.46531535033136606
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "pp. Dr S Boyse",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.1763208657503128,
+            0.7002409100532532,
+            0.2869064398109913,
+            0.7206044234335423
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            11,
+            31,
+            47
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Phone Number",
+        "value": "0784 455 000 FAX",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5118148326873779,
+            0.8526307940483093,
+            0.6115989908576012,
+            0.8595932452008128
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            12,
+            32,
+            48
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Phone Number",
+        "value": "0784 460 400 TELEPHONE",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.40186941623687744,
+            0.8638434410095215,
+            0.5378036256879568,
+            0.8707393961958587
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            13
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "MILLBANK KNOWLE GREEN STAINES TW18 IDY",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.2585488259792328,
+            0.8525711297988892,
+            0.5012293327599764,
+            0.8597584483213723
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            14
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "LONDON",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.5583521127700806,
+            0.8802414536476135,
+            0.5940452516078949,
+            0.8863502591848373
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            15,
+            34,
+            50
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Organization Name",
+        "value": "BRITISH-AMERICAN TOBACCO COMPANY LIMITED BAT",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.22531549632549286,
+            0.17460866272449493,
+            0.7361256405711174,
+            0.18539486173540354
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            16,
+            35,
+            52
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Organization Name",
+        "value": "BAT INDUSTRIES",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3756229281425476,
+            0.8801656365394592,
+            0.44718899950385094,
+            0.8866762975230813
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            17,
+            51
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Organization Name",
+        "value": "BATTOS",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.7038983702659607,
+            0.8531700968742371,
+            0.742939542979002,
+            0.8594575319439173
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            18,
+            53
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Date",
+        "value": "3 April 1992",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.21544978022575378,
+            0.24575237929821014,
+            0.29536251723766327,
+            0.25784956850111485
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            19
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Contract Number",
+        "value": "74974",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.6128058433532715,
+            0.8803588151931763,
+            0.6398287247866392,
+            0.886416188441217
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            30,
+            46
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Dr S Boyse",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.21218934655189514,
+            0.7002409100532532,
+            0.2869064398109913,
+            0.7120150802657008
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    },
+    {
+        "ids": [
+            33,
+            49
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "REGD Orfice MILLBANK KNOWLE GREEN STAINES TW18 IDY FAX 0784 455 000 TELEX 27384/5 BATTOS c",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.1851743906736374,
+            0.8520931601524353,
+            0.7529977215453982,
+            0.8598695271648467
+        ],
+        "source_file": "votes_fjjn0191_page2.csv"
+    }
+]

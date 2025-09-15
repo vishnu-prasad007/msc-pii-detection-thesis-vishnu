@@ -1,0 +1,65 @@
+[
+    {
+        "ids": [
+            0,
+            2
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": "Organization Name",
+        "value": "Fiske Brothers Refining Co.",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            482,
+            2663,
+            1172,
+            2702
+        ],
+        "source_file": "votes_fhmm0017_page2.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            1,
+            3,
+            5
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": "Date",
+        "value": "September 24, 1985",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            523,
+            2752,
+            979,
+            2792
+        ],
+        "source_file": "votes_fhmm0017_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": "Organization Name",
+        "value": "Fiske Brothers Refining Co. Machilor",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            482,
+            2582,
+            2275,
+            2752
+        ],
+        "source_file": "votes_fhmm0017_page2.csv",
+        "probability": 0.3333333333333333
+    }
+]

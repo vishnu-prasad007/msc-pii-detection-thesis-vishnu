@@ -1,0 +1,315 @@
+[
+    {
+        "ids": [
+            0,
+            14
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Person Name",
+        "value": "Burns, Denise H",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.19483822584152222,
+            0.10727866739034653,
+            0.29513745848089457,
+            0.11823262646794319
+        ],
+        "source_file": "votes_fgng0218_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            15
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Person Name",
+        "value": "Ingrid Schleimer - PM NYCA",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.16902200877666473,
+            0.1294146031141281,
+            0.34940049424767494,
+            0.14066369365900755
+        ],
+        "source_file": "votes_fgng0218_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            16
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Person Name",
+        "value": "Perry, Ellie",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.2964189052581787,
+            0.14029182493686676,
+            0.3666204586625099,
+            0.1518748914822936
+        ],
+        "source_file": "votes_fgng0218_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            17
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Person Name",
+        "value": "Christiansen, Tammy A",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.3705909252166748,
+            0.1402759552001953,
+            0.5156398778781295,
+            0.15187533758580685
+        ],
+        "source_file": "votes_fgng0218_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            12,
+            18,
+            22,
+            24,
+            33
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "2080650519 - E",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.78789883852005,
+            0.9224104285240173,
+            0.9265322117134929,
+            0.935541776008904
+        ],
+        "source_file": "votes_fgng0218_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            13,
+            19,
+            23,
+            25,
+            34
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "2080650519 2080650519-E",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.058437444269657135,
+            0.9628215432167053,
+            0.16355694830417633,
+            0.9732767026871443
+        ],
+        "source_file": "votes_fgng0218_page1.csv"
+    },
+    {
+        "ids": [
+            6
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Organization Name",
+        "value": "NYCA",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.3088137209415436,
+            0.1294146031141281,
+            0.34940049424767494,
+            0.1388261839747429
+        ],
+        "source_file": "votes_fgng0218_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            31
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Organization Name",
+        "value": "Marlboro",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.24649395048618317,
+            0.15126746892929077,
+            0.3003571853041649,
+            0.16091639455407858
+        ],
+        "source_file": "votes_fgng0218_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            20,
+            30
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Organization Name",
+        "value": "Benson & Hedges BENSON HEDGES",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.23953139781951904,
+            0.19461940228939056,
+            0.33478355780243874,
+            0.20170090440660715
+        ],
+        "source_file": "votes_fgng0218_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            26
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": [
+            "Location",
+            "Organization Name"
+        ],
+        "value": "Marlboro MARLBORO",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.17267806828022003,
+            0.19416554272174835,
+            0.23028243333101273,
+            0.20185430394485593
+        ],
+        "source_file": "votes_fgng0218_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            21,
+            32
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Date",
+        "value": "Friday, April 07, 2000 2:12 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.19451233744621277,
+            0.11829356104135513,
+            0.3815158884972334,
+            0.1297027561813593
+        ],
+        "source_file": "votes_fgng0218_page1.csv"
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Contract Number",
+        "value": "1",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.49265265464782715,
+            0.17854030430316925,
+            0.49824150558561087,
+            0.18597111059352756
+        ],
+        "source_file": "votes_fgng0218_page1.csv"
+    },
+    {
+        "ids": [
+            27
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Location",
+        "value": "MERIT",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.3449862003326416,
+            0.1947902888059616,
+            0.37530229426920414,
+            0.20156521163880825
+        ],
+        "source_file": "votes_fgng0218_page1.csv"
+    },
+    {
+        "ids": [
+            28
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Location",
+        "value": "SARATOGA",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.599273681640625,
+            0.19436126947402954,
+            0.6535023897886276,
+            0.2016437198035419
+        ],
+        "source_file": "votes_fgng0218_page1.csv"
+    },
+    {
+        "ids": [
+            29
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Location",
+        "value": "CAMBRIDGE",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.6630254983901978,
+            0.19463954865932465,
+            0.7230816185474396,
+            0.20155820902436972
+        ],
+        "source_file": "votes_fgng0218_page1.csv"
+    }
+]

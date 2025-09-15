@@ -1,0 +1,349 @@
+[
+    {
+        "ids": [
+            0
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Person Name",
+        "value": "Denise H Burns",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            662,
+            472,
+            1003,
+            520
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.07499590648417652
+    },
+    {
+        "ids": [
+            1
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Person Name",
+        "value": "Ingrid Schleimer",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            575,
+            570,
+            929,
+            619
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.07499590648417652
+    },
+    {
+        "ids": [
+            2
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Person Name",
+        "value": "Ellie Perry",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1008,
+            617,
+            1247,
+            668
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.07499590648417652
+    },
+    {
+        "ids": [
+            3
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Person Name",
+        "value": "Tammy A Christiansen",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1260,
+            617,
+            1753,
+            668
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.07499590648417652
+    },
+    {
+        "ids": [
+            4
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Location",
+        "value": "MARLBORO",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            587,
+            854,
+            783,
+            888
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.12886882919786594
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Location",
+        "value": "BENSON & HEDGES",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            814,
+            856,
+            1138,
+            887
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.12886882919786594
+    },
+    {
+        "ids": [
+            6
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Location",
+        "value": "MERIT",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1173,
+            857,
+            1276,
+            887
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.12886882919786594
+    },
+    {
+        "ids": [
+            7
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Location",
+        "value": "VIRGINIA SLIMS",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1310,
+            857,
+            1566,
+            887
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.12886882919786594
+    },
+    {
+        "ids": [
+            8
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Location",
+        "value": "PARLIAMENT",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1601,
+            857,
+            1812,
+            888
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.12886882919786594
+    },
+    {
+        "ids": [
+            9
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Location",
+        "value": "PLAYERS",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1847,
+            856,
+            2003,
+            887
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.12886882919786594
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Location",
+        "value": "SARATOGA",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            2038,
+            855,
+            2222,
+            887
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.12886882919786594
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Location",
+        "value": "CAMBRIDGE",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            2254,
+            856,
+            2458,
+            887
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.12886882919786594
+    },
+    {
+        "ids": [
+            12
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Location",
+        "value": "BASIC",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            2490,
+            856,
+            2591,
+            887
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.12886882919786594
+    },
+    {
+        "ids": [
+            13
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Location",
+        "value": "ALPINE",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            2624,
+            855,
+            2744,
+            887
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.12886882919786594
+    },
+    {
+        "ids": [
+            14,
+            19,
+            24
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": "Date",
+        "value": "Friday, April 07, 2000 2:12 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            661,
+            520,
+            1297,
+            571
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            15,
+            17,
+            20,
+            22,
+            25
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": [
+            "Phone Number",
+            "Contract Number",
+            "Location"
+        ],
+        "value": "2080650519 - E",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2679,
+            4059,
+            3150,
+            4116
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            16,
+            18,
+            21,
+            23,
+            26
+        ],
+        "doc_id": "votes_fgng0218_page1",
+        "pii_type": [
+            "Phone Number",
+            "Contract Number",
+            "Location"
+        ],
+        "value": "2080650519-E",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            199,
+            4236,
+            556,
+            4282
+        ],
+        "source_file": "votes_fgng0218_page1.csv",
+        "probability": 1.0
+    }
+]

@@ -1,0 +1,276 @@
+[
+    {
+        "ids": [
+            0,
+            12,
+            19
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "Hirsch",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.8312690854072571,
+            0.1366785615682602,
+            0.8916540071368217,
+            0.1487578358501196
+        ],
+        "source_file": "votes_fgwk0174_page4.csv"
+    },
+    {
+        "ids": [
+            1
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Person Name",
+        "value": "Frank G. Colby",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.574226438999176,
+            0.47289329767227173,
+            0.7120022661983967,
+            0.48844835348427296
+        ],
+        "source_file": "votes_fgwk0174_page4.csv"
+    },
+    {
+        "ids": [
+            2,
+            4,
+            9,
+            16,
+            21
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": [
+            "Email Address",
+            "Person Name",
+            "Location"
+        ],
+        "value": "Max Crohn, Esq.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.20659570395946503,
+            0.5591134428977966,
+            0.3516296297311783,
+            0.5738509548828006
+        ],
+        "source_file": "votes_fgwk0174_page4.csv"
+    },
+    {
+        "ids": [
+            3
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Person Name",
+        "value": "Dr. Charles Nystrom",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.21779277920722961,
+            0.5909700393676758,
+            0.41335903853178024,
+            0.6045568315312266
+        ],
+        "source_file": "votes_fgwk0174_page4.csv"
+    },
+    {
+        "ids": [
+            5,
+            10,
+            17,
+            22
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": [
+            "Email Address",
+            "Location"
+        ],
+        "value": "Dr. Charles Nystrom, RJRT",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.21779277920722961,
+            0.5896215438842773,
+            0.46440714597702026,
+            0.6045568315312266
+        ],
+        "source_file": "votes_fgwk0174_page4.csv"
+    },
+    {
+        "ids": [
+            6,
+            13,
+            23
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Location",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fgwk0174",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2849856913089752,
+            0.9824522137641907,
+            0.7828605771064758,
+            0.9974852539598942
+        ],
+        "source_file": "votes_fgwk0174_page4.csv"
+    },
+    {
+        "ids": [
+            7,
+            14,
+            26,
+            27
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Date",
+        "value": "June 23, 1983",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7520964741706848,
+            0.06428253650665283,
+            0.8821357116103172,
+            0.07838189881294966
+        ],
+        "source_file": "votes_fgwk0174_page4.csv"
+    },
+    {
+        "ids": [
+            8,
+            15,
+            28
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Contract Number",
+        "value": "COMPELLED PRODUCTION-PRODUCTION PURSUANT TO COURT ORDER #1015, CIVIL ACTION NO. 99-CV-2496",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.20569206774234772,
+            0.9374246597290039,
+            0.8131471984088421,
+            0.9462486058473587
+        ],
+        "source_file": "votes_fgwk0174_page4.csv"
+    },
+    {
+        "ids": [
+            11,
+            18
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Location",
+        "value": "Timothy M. Finnegan, Esq.",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.1592749059200287,
+            0.0623973086476326,
+            0.40495648235082626,
+            0.07796063553541899
+        ],
+        "source_file": "votes_fgwk0174_page4.csv"
+    },
+    {
+        "ids": [
+            20
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Location",
+        "value": "1,3, 4, etc.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.7277405858039856,
+            0.22223679721355438,
+            0.8677634596824646,
+            0.23689200822263956
+        ],
+        "source_file": "votes_fgwk0174_page4.csv"
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Location",
+        "value": "Court Order #1015, CIVIL ACTION NO. 99-CV-2496",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.5255071520805359,
+            0.9374246597290039,
+            0.8131471984088421,
+            0.9462486058473587
+        ],
+        "source_file": "votes_fgwk0174_page4.csv"
+    },
+    {
+        "ids": [
+            25
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Organization Name",
+        "value": "RJRT",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.42468497157096863,
+            0.5896215438842773,
+            0.46440714597702026,
+            0.6015070825815201
+        ],
+        "source_file": "votes_fgwk0174_page4.csv"
+    },
+    {
+        "ids": [
+            29
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Contract Number",
+        "value": "COMPELLED GO/C PRODUCTION",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.047052450478076935,
+            0.5265592336654663,
+            0.964552491903305,
+            0.5656454153358936
+        ],
+        "source_file": "votes_fgwk0174_page4.csv"
+    }
+]

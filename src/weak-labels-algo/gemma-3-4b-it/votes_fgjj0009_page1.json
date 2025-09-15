@@ -1,0 +1,254 @@
+[
+    {
+        "ids": [
+            0,
+            11,
+            24
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Person Name",
+        "value": "Gina Plaia",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            453,
+            200,
+            597,
+            228
+        ],
+        "source_file": "votes_fgjj0009_page1.csv",
+        "probability": 0.9996925870572029
+    },
+    {
+        "ids": [
+            1,
+            12,
+            25
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Person Name",
+        "value": "Deb Elfar",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            418,
+            263,
+            549,
+            292
+        ],
+        "source_file": "votes_fgjj0009_page1.csv",
+        "probability": 0.9996925870572029
+    },
+    {
+        "ids": [
+            2,
+            13,
+            26
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Person Name",
+        "value": "Sonya Rush",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            419,
+            294,
+            586,
+            326
+        ],
+        "source_file": "votes_fgjj0009_page1.csv",
+        "probability": 0.9996925870572029
+    },
+    {
+        "ids": [
+            3,
+            6,
+            14,
+            20,
+            28
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": [
+            "Email Address",
+            "Location"
+        ],
+        "value": "Elfar, Deb",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            418,
+            263,
+            549,
+            292
+        ],
+        "source_file": "votes_fgjj0009_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            7,
+            15,
+            21,
+            29
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": [
+            "Email Address",
+            "Location"
+        ],
+        "value": "Rush, Sonya",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            419,
+            294,
+            586,
+            326
+        ],
+        "source_file": "votes_fgjj0009_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            19,
+            27
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Location",
+        "value": "Plaia, Gina",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            453,
+            200,
+            597,
+            228
+        ],
+        "source_file": "votes_fgjj0009_page1.csv",
+        "probability": 0.9756927193958248
+    },
+    {
+        "ids": [
+            8,
+            30
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Location",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fgjj0009",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            499,
+            2112,
+            1346,
+            2150
+        ],
+        "source_file": "votes_fgjj0009_page1.csv",
+        "probability": 0.7673998145928828
+    },
+    {
+        "ids": [
+            9,
+            10,
+            22,
+            23,
+            31,
+            32
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Date",
+        "value": "Mar 24, 1994 5:07 PM Thu,",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            643,
+            199,
+            1005,
+            229
+        ],
+        "source_file": "votes_fgjj0009_page1.csv",
+        "probability": 0.9980073602097371
+    },
+    {
+        "ids": [
+            16
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Phone Number",
+        "value": "Gina",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            533,
+            200,
+            597,
+            225
+        ],
+        "source_file": "votes_fgjj0009_page1.csv",
+        "probability": 0.14139476828087144
+    },
+    {
+        "ids": [
+            17
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Phone Number",
+        "value": "Deb",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            494,
+            263,
+            549,
+            288
+        ],
+        "source_file": "votes_fgjj0009_page1.csv",
+        "probability": 0.14139476828087144
+    },
+    {
+        "ids": [
+            18
+        ],
+        "doc_id": "votes_fgjj0009_page1",
+        "pii_type": "Phone Number",
+        "value": "Sonya",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            504,
+            294,
+            586,
+            326
+        ],
+        "source_file": "votes_fgjj0009_page1.csv",
+        "probability": 0.14139476828087144
+    }
+]

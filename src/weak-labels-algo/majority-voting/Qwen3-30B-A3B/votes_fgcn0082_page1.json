@@ -1,0 +1,261 @@
+[
+    {
+        "ids": [
+            0,
+            5,
+            10,
+            15
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Chaikin, Karen",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            146,
+            370,
+            373,
+            403
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            6
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Person Name",
+        "value": "Chaikin, Karen",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            482,
+            437,
+            658,
+            464
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            2,
+            7
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Person Name",
+        "value": "Mohrmann, Christine",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            481,
+            499,
+            731,
+            524
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            3,
+            8,
+            14
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "2071863150",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1340,
+            294,
+            1550,
+            347
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            9,
+            13
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Date",
+        "value": "Tuesday, September 28, 1999 4:02 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            482,
+            469,
+            948,
+            496
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            11,
+            16
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "From: Chaikin, Karen",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            147,
+            437,
+            658,
+            464
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            12,
+            18
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "To: Mohrmann, Christine",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            146,
+            499,
+            731,
+            524
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            17
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Contract Number",
+        "value": "Sent: Tuesday, September 28, 1999 4:02 PM",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            147,
+            468,
+            948,
+            496
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            19
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Contract Number",
+        "value": "Subject: RE: State Laws",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            147,
+            529,
+            667,
+            559
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            20
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Contract Number",
+        "value": "Thanks Chris. Assume copies of the laws for the states listed below are also included in the mailing?",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            147,
+            622,
+            1581,
+            658
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            21
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Contract Number",
+        "value": "KC",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            148,
+            699,
+            196,
+            727
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Contract Number",
+        "value": "Youth Smoking Prevention",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            147,
+            738,
+            517,
+            774
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.3333333333333333
+    }
+]

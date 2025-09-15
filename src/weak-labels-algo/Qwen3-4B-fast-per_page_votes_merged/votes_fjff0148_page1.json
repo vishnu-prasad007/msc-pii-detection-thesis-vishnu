@@ -1,0 +1,591 @@
+[
+    {
+        "ids": [
+            0,
+            33,
+            44
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Person Name",
+        "value": "Richard Wagner",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.34864890575408936,
+            0.21662990748882294,
+            0.4993429034948349,
+            0.22939380630850792
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            2,
+            34,
+            45
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Person Name",
+        "value": "Dennis Carter",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.27716436982154846,
+            0.3341186046600342,
+            0.41485311836004257,
+            0.3440137142315507
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            3
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Person Name",
+        "value": "Dennis Carter",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.4053837060928345,
+            0.44390869140625,
+            0.5453775301575661,
+            0.4544811202213168
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            35,
+            46
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Person Name",
+        "value": "Kiki Moore",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3964645266532898,
+            0.5809005498886108,
+            0.5025533847510815,
+            0.5915913684293628
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            36,
+            47
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Phone Number",
+        "value": "205-591-7171",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6713721752166748,
+            0.35972684621810913,
+            0.7954242751002312,
+            0.37097509671002626
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            37
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Location",
+        "value": "3700 4th Ave, S.",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.27938586473464966,
+            0.36145567893981934,
+            0.444971926510334,
+            0.37240718863904476
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            22,
+            38
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "Birmingham, AL 35222",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.27921533584594727,
+            0.3882218897342682,
+            0.5023008622229099,
+            0.40100552048534155
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            13,
+            39,
+            48
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "OGILVY & MATHER WASHINGTON",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.366372674703598,
+            0.12129785865545273,
+            0.6475949361920357,
+            0.1319176508113742
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            40,
+            49
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Organization Name",
+        "value": "Tobacco Institute",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.29569557309150696,
+            0.18930447101593018,
+            0.47701821476221085,
+            0.20026485063135624
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            41,
+            50
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Organization Name",
+        "value": "WERC-AM/WKXX-FM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.33936506509780884,
+            0.24434137344360352,
+            0.4988754838705063,
+            0.2551461420953274
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            11,
+            42,
+            51
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Organization Name",
+        "value": "Express Mail",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.45614030957221985,
+            0.6087048649787903,
+            0.5846407935023308,
+            0.6220325762405992
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            12
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Date",
+        "value": "May 16",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.3736031949520111,
+            0.4710526466369629,
+            0.43713632225990295,
+            0.4842417063191533
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            14
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Contract Number",
+        "value": "BOOKING SHEET",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.43871667981147766,
+            0.13537192344665527,
+            0.5778637491166592,
+            0.14607467595487833
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            15
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Contract Number",
+        "value": "Client: Tobacco Institute",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.15692166984081268,
+            0.18930447101593018,
+            0.47701821476221085,
+            0.2031962014734745
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            16
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Contract Number",
+        "value": "Spokesperson: Richard Wagner",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.1564376950263977,
+            0.21662990748882294,
+            0.4993429034948349,
+            0.23359622806310654
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            17
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Contract Number",
+        "value": "Name of Media: WERC-AM/WKXX-FM",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.1569068878889084,
+            0.24434137344360352,
+            0.4988754838705063,
+            0.2591498829424381
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            18
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Contract Number",
+        "value": "TV Radio x Print",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.3195205330848694,
+            0.27237555384635925,
+            0.6227869465947151,
+            0.28646261896938086
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            19
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Contract Number",
+        "value": "Live x Taped",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.3208687901496887,
+            0.30029621720314026,
+            0.5071291290223598,
+            0.3168350560590625
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            20
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Contract Number",
+        "value": "Contact: Dennis Carter Host/Reporter: Dennis Carter",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.15911166369915009,
+            0.3317417800426483,
+            0.6631374508142471,
+            0.3444447424262762
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            21
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Contract Number",
+        "value": "Address: 3700 4th Ave, S. Phone: 205-591-7171",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.1584170013666153,
+            0.35972684621810913,
+            0.7954242751002312,
+            0.37240718863904476
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            23
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Contract Number",
+        "value": "Program Title: \"The Dennis Carter Show\"",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.16083088517189026,
+            0.4423943758010864,
+            0.6060116849839687,
+            0.4563565757125616
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Contract Number",
+        "value": "Appointment Date: May 16 Day: Tuesday Time: 4:30 p.m. .",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.1615065485239029,
+            0.47046053409576416,
+            0.8590908199548721,
+            0.4842417063191533
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            25
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Contract Number",
+        "value": "Information/Comments: THis is a 30 minute live interview with call-ins",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.1606331765651703,
+            0.49794477224349976,
+            0.9137227460741997,
+            0.5106257209554315
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            26
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Contract Number",
+        "value": "on this all news/talk station.",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.17331336438655853,
+            0.5262024998664856,
+            0.4884490594267845,
+            0.5375142814591527
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            27
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Contract Number",
+        "value": "Placement made by: Kiki Moore",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.16306902468204498,
+            0.5807117223739624,
+            0.5025533847510815,
+            0.5939157828688622
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            28
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Contract Number",
+        "value": "Confirmation letter sent: Express Mail X with kit",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.16316506266593933,
+            0.6083469390869141,
+            0.703269811347127,
+            0.6220325762405992
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            29
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Contract Number",
+        "value": "Regular Mail",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.45547768473625183,
+            0.6362717151641846,
+            0.5846472308039665,
+            0.6496464526280761
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            30
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Contract Number",
+        "value": "Travel Arrangements made by:",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.16364151239395142,
+            0.6638718843460083,
+            0.46385340578854084,
+            0.6770719438791275
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            31,
+            43,
+            52
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Contract Number",
+        "value": "T151250797",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.8775742650032043,
+            0.9328767657279968,
+            0.9817130044102669,
+            0.9499946050345898
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    },
+    {
+        "ids": [
+            32
+        ],
+        "doc_id": "votes_fjff0148_page1",
+        "pii_type": "Contract Number",
+        "value": "Source: https://www.industrydocuments.ucsf.edu/docs/fjff0148",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.243745356798172,
+            0.9813058972358704,
+            0.7553075850009918,
+            0.9978498425334692
+        ],
+        "source_file": "votes_fjff0148_page1.csv"
+    }
+]

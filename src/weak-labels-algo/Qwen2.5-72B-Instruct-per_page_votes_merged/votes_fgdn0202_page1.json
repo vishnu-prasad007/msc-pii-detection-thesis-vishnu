@@ -1,0 +1,134 @@
+[
+    {
+        "ids": [
+            0,
+            6
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Person Name",
+        "value": "His Exellency The Prime Minister",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.1882948875427246,
+            0.16694748401641846,
+            0.4080824926495552,
+            0.17919191252440214
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            7,
+            12
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Location",
+        "value": "Bangkok",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18760061264038086,
+            0.19403432309627533,
+            0.24929582327604294,
+            0.20572737697511911
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            8,
+            13
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Location",
+        "value": "Thailand",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18832312524318695,
+            0.20770575106143951,
+            0.2461017146706581,
+            0.2182137668132782
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            9,
+            11,
+            14
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "PRAFT",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.44747194647789,
+            0.13345478475093842,
+            0.49526940658688545,
+            0.1427277335897088
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            10,
+            15
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Organization Name",
+        "value": "Royal Thai Government",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18775133788585663,
+            0.1807791143655777,
+            0.34699052572250366,
+            0.19286934472620487
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            16
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Organization Name",
+        "value": "Ministry of Public Health",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.3465515673160553,
+            0.6566479206085205,
+            0.5081244595348835,
+            0.6689146440476179
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    }
+]

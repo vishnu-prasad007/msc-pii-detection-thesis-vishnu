@@ -1,0 +1,100 @@
+[
+  {
+    "ids": [
+      0,
+      6,
+      7
+    ],
+    "doc_id": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page2",
+    "pii_type": "Email Address",
+    "value": "AR@grahammedia.com",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      164,
+      96,
+      319,
+      107
+    ],
+    "source_file": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      1
+    ],
+    "doc_id": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page2",
+    "pii_type": "Location",
+    "value": "Atlanta, GA 31193-3520",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      164,
+      83,
+      321,
+      94
+    ],
+    "source_file": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      2
+    ],
+    "doc_id": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "WJXT",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      85,
+      53,
+      128,
+      61
+    ],
+    "source_file": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      3
+    ],
+    "doc_id": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "Bloomberg",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      506,
+      98,
+      577,
+      106
+    ],
+    "source_file": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      4,
+      5
+    ],
+    "doc_id": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page2",
+    "pii_type": [
+      "Contract Number",
+      "Invoice Number"
+    ],
+    "value": "541602-1",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      506,
+      60,
+      552,
+      67
+    ],
+    "source_file": "votes_f56e2fc1-7f41-68e3-bfe5-06176b9a2e8a.pdf_page2.csv"
+  }
+]

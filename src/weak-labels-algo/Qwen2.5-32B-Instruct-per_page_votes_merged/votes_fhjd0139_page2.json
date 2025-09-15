@@ -1,0 +1,90 @@
+[
+    {
+        "ids": [
+            0,
+            4,
+            8
+        ],
+        "doc_id": "votes_fhjd0139_page2",
+        "pii_type": "Person Name",
+        "value": "T. E. Whitehair, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.13566191494464874,
+            0.10416190326213837,
+            0.3132668361067772,
+            0.11733043473213911
+        ],
+        "source_file": "votes_fhjd0139_page2.csv"
+    },
+    {
+        "ids": [
+            1,
+            5,
+            9
+        ],
+        "doc_id": "votes_fhjd0139_page2",
+        "pii_type": "Person Name",
+        "value": "J. F. WILKELM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4898926317691803,
+            0.5139204263687134,
+            0.6057211756706238,
+            0.5262705720961094
+        ],
+        "source_file": "votes_fhjd0139_page2.csv"
+    },
+    {
+        "ids": [
+            2,
+            6,
+            10
+        ],
+        "doc_id": "votes_fhjd0139_page2",
+        "pii_type": "Date",
+        "value": "AUGUST 13, 1984",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6856609582901001,
+            0.09102437645196915,
+            0.8202233612537384,
+            0.10415003169327974
+        ],
+        "source_file": "votes_fhjd0139_page2.csv"
+    },
+    {
+        "ids": [
+            3,
+            7,
+            11
+        ],
+        "doc_id": "votes_fhjd0139_page2",
+        "pii_type": "Contract Number",
+        "value": "464008206",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7086198925971985,
+            0.8728417158126831,
+            0.8526506274938583,
+            0.8899470213800669
+        ],
+        "source_file": "votes_fhjd0139_page2.csv"
+    }
+]

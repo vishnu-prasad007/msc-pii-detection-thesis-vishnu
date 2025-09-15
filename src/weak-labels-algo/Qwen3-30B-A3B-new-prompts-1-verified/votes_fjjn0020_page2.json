@@ -1,0 +1,182 @@
+[
+    {
+        "ids": [
+            0,
+            5,
+            9
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Person Name",
+        "value": "Mike Jacques",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            477,
+            1104,
+            652,
+            1136
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            1,
+            6,
+            10
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Person Name",
+        "value": "Kevin Richardson",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            477,
+            1139,
+            699,
+            1169
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            2,
+            12
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Organization Name",
+        "value": "R.J. REYNOLDS TOBACCO COMPANY",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            201,
+            1241,
+            709,
+            1268
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+        ],
+        "probability": 0.9998521211121829
+    },
+    {
+        "ids": [
+            3,
+            7,
+            13
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Date",
+        "value": "4/7/99",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1008,
+            726,
+            1092,
+            752
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.999999713175462
+    },
+    {
+        "ids": [
+            4,
+            8,
+            14
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Date",
+        "value": "4/12/99",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            356,
+            861,
+            456,
+            890
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            0,
+            1,
+            0
+        ],
+        "probability": 0.9968606779750369
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Person Name",
+        "value": "Lias",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1590,
+            2052,
+            1619,
+            2131
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "votes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ],
+        "probability": 1.8428178284805908e-05
+    }
+]

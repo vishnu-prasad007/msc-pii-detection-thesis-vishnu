@@ -1,0 +1,316 @@
+[
+    {
+        "ids": [
+            0,
+            13,
+            24
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Person Name",
+        "value": "Ms Jane Brody",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            272,
+            870,
+            669,
+            915
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            1,
+            25
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Person Name",
+        "value": "Mensink",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            2039,
+            1738,
+            2253,
+            1778
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.9378421673156887
+    },
+    {
+        "ids": [
+            2,
+            26
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Person Name",
+        "value": "Keys",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1683,
+            2604,
+            1803,
+            2645
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.9378421673156887
+    },
+    {
+        "ids": [
+            3,
+            14,
+            27
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Phone Number",
+        "value": "Tel. (508) 481-0400",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1861,
+            579,
+            2180,
+            617
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.9942659227790958
+    },
+    {
+        "ids": [
+            4,
+            15,
+            28
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Phone Number",
+        "value": "Fax (508)460-1209",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1862,
+            623,
+            2171,
+            662
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.9942659227790958
+    },
+    {
+        "ids": [
+            5,
+            16,
+            29
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Location",
+        "value": "One Pine Hill Drive",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1853,
+            443,
+            2183,
+            475
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.9986946830029205
+    },
+    {
+        "ids": [
+            6,
+            17,
+            30
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Location",
+        "value": "Southborough, Massachusetts 01772-9102",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1674,
+            533,
+            2359,
+            571
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.9986946830029205
+    },
+    {
+        "ids": [
+            7,
+            18,
+            31
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Location",
+        "value": "229 W. 43rd St.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            277,
+            972,
+            720,
+            1013
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.9986946830029205
+    },
+    {
+        "ids": [
+            8,
+            19,
+            32
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Location",
+        "value": "New York NY 10036-3959",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            274,
+            1023,
+            940,
+            1063
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.9986946830029205
+    },
+    {
+        "ids": [
+            9,
+            20,
+            33
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Organization Name",
+        "value": "HARVARD MEDICAL SCHOOL",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1050,
+            197,
+            1765,
+            237
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.991968246240452
+    },
+    {
+        "ids": [
+            10,
+            21,
+            34
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Organization Name",
+        "value": "NEW ENGLAND REGIONAL PRIMATE RESEARCH CENTER",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1051,
+            290,
+            2101,
+            330
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.991968246240452
+    },
+    {
+        "ids": [
+            11,
+            22,
+            35
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Organization Name",
+        "value": "New York Times",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            275,
+            921,
+            699,
+            961
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.991968246240452
+    },
+    {
+        "ids": [
+            12,
+            23,
+            37
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Date",
+        "value": "April 1, 1993",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1613,
+            716,
+            2006,
+            761
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.9998134030756157
+    },
+    {
+        "ids": [
+            36
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Organization Name",
+        "value": "Arterio Thrombosis",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            617,
+            1788,
+            1196,
+            1835
+        ],
+        "source_file": "votes_fhfh0230_page1.csv",
+        "probability": 0.05362073959906603
+    }
+]

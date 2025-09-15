@@ -1,0 +1,214 @@
+[
+    {
+        "ids": [
+            0,
+            9,
+            17
+        ],
+        "doc_id": "votes_fgwj0106_page1",
+        "pii_type": "Person Name",
+        "value": "Keith Eckberg",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.39736148715019226,
+            0.0860317200422287,
+            0.5500393211841583,
+            0.10040658339858055
+        ],
+        "source_file": "votes_fgwj0106_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            10,
+            18
+        ],
+        "doc_id": "votes_fgwj0106_page1",
+        "pii_type": "Location",
+        "value": "6425 W. Florissant Avenue",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.17891184985637665,
+            0.1050071120262146,
+            0.4689626395702362,
+            0.11718276143074036
+        ],
+        "source_file": "votes_fgwj0106_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            11,
+            19
+        ],
+        "doc_id": "votes_fgwj0106_page1",
+        "pii_type": "Location",
+        "value": "St. Louis, MO 63136",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.17811210453510284,
+            0.1257161796092987,
+            0.4102243408560753,
+            0.1382717015221715
+        ],
+        "source_file": "votes_fgwj0106_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            12,
+            20
+        ],
+        "doc_id": "votes_fgwj0106_page1",
+        "pii_type": "Organization Name",
+        "value": "Stout Industries",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.176393061876297,
+            0.08631221204996109,
+            0.3611793741583824,
+            0.09838101360946894
+        ],
+        "source_file": "votes_fgwj0106_page1.csv"
+    },
+    {
+        "ids": [
+            4
+        ],
+        "doc_id": "votes_fgwj0106_page1",
+        "pii_type": "Organization Name",
+        "value": "PM INC.",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.04927622154355049,
+            0.05608512461185455,
+            0.08582321368157864,
+            0.06230962462723255
+        ],
+        "source_file": "votes_fgwj0106_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            21
+        ],
+        "doc_id": "votes_fgwj0106_page1",
+        "pii_type": "Organization Name",
+        "value": "Philip Morris USA",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.18971212208271027,
+            0.7977671027183533,
+            0.38827163726091385,
+            0.8121593371033669
+        ],
+        "source_file": "votes_fgwj0106_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            13,
+            22
+        ],
+        "doc_id": "votes_fgwj0106_page1",
+        "pii_type": "Date",
+        "value": "August 15 19 85",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7240902185440063,
+            0.08267011493444443,
+            0.9226486664265394,
+            0.09731910470873117
+        ],
+        "source_file": "votes_fgwj0106_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            14,
+            23
+        ],
+        "doc_id": "votes_fgwj0106_page1",
+        "pii_type": "Contract Number",
+        "value": "N - 59042",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7322700619697571,
+            0.034093644469976425,
+            0.9148516058921814,
+            0.06124046444892883
+        ],
+        "source_file": "votes_fgwj0106_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            15,
+            24
+        ],
+        "doc_id": "votes_fgwj0106_page1",
+        "pii_type": "Contract Number",
+        "value": "P. O. NO",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6604648232460022,
+            0.05650694668292999,
+            0.7097305040806532,
+            0.06615510582923889
+        ],
+        "source_file": "votes_fgwj0106_page1.csv"
+    },
+    {
+        "ids": [
+            16,
+            25
+        ],
+        "doc_id": "votes_fgwj0106_page1",
+        "pii_type": "Contract Number",
+        "value": "REQ. NO.:",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.6700522899627686,
+            0.117230124771595,
+            0.7250270117074251,
+            0.12606764864176512
+        ],
+        "source_file": "votes_fgwj0106_page1.csv"
+    }
+]

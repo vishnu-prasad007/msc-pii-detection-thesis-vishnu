@@ -1,0 +1,216 @@
+[
+    {
+        "ids": [
+            0,
+            10,
+            16
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Person Name",
+        "value": "W. R\u00f5er",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            976,
+            505,
+            1139,
+            536
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            1,
+            11,
+            17
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Person Name",
+        "value": "J.B. Boder",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            975,
+            553,
+            1210,
+            584
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            2,
+            13,
+            19
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Person Name",
+        "value": "E. Grossen",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1952,
+            2597,
+            2190,
+            2629
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            3,
+            12,
+            18
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Person Name",
+        "value": "W. R\u00f6er",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1582,
+            2451,
+            1745,
+            2483
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            4
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Organization Name",
+        "value": "FTR Manufacturing and QC Projects",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            976,
+            353,
+            1744,
+            393
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.07731846230558241
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Organization Name",
+        "value": "KLK",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            468,
+            826,
+            541,
+            857
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.07731846230558241
+    },
+    {
+        "ids": [
+            6
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Organization Name",
+        "value": "Burley",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1885,
+            1344,
+            2024,
+            1383
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.07731846230558241
+    },
+    {
+        "ids": [
+            7
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Organization Name",
+        "value": "Quadrabeam",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1138,
+            1224,
+            1377,
+            1261
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.07731846230558241
+    },
+    {
+        "ids": [
+            8,
+            14,
+            20
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Date",
+        "value": "April 28, 1978 March 24 -",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            977,
+            453,
+            1560,
+            491
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.9999113980940532
+    },
+    {
+        "ids": [
+            9,
+            15,
+            21
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Date",
+        "value": "28/04/78",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            471,
+            2894,
+            653,
+            2930
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.9999113980940532
+    }
+]

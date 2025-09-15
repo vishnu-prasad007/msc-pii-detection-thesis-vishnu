@@ -1,0 +1,188 @@
+[
+    {
+        "ids": [
+            0,
+            7
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Person Name",
+        "value": "William H. Taft IV",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.14345604181289673,
+            0.379707396030426,
+            0.3530700895935297,
+            0.3920312076807022
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            9,
+            16
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Organization Name",
+        "value": "U.S. ARMY",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4557933807373047,
+            0.11092761158943176,
+            0.5595950558781624,
+            0.12212115433067083
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            10,
+            17
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Organization Name",
+        "value": "U.S. Army",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4587068259716034,
+            0.5404009819030762,
+            0.5617062970995903,
+            0.5526775065809488
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            11,
+            18
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Date",
+        "value": "March 1, 1986",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2603479027748108,
+            0.30509600043296814,
+            0.4191059432923794,
+            0.31730124447494745
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            12,
+            19
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Date",
+        "value": "March 11, 1986",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.39903199672698975,
+            0.37912067770957947,
+            0.568125419318676,
+            0.39118724688887596
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            13,
+            20
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Date",
+        "value": "June 11, 1986",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.23743967711925507,
+            0.540460467338562,
+            0.39732061326503754,
+            0.5524259032681584
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            14
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Contract Number",
+        "value": "TIMN 353405",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.7352181673049927,
+            0.9320210218429565,
+            0.915548786520958,
+            0.9522014763206244
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            8
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Person Name",
+        "value": "Weinberger",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.14430667459964752,
+            0.7035842537879944,
+            0.26072411984205246,
+            0.716799016110599
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            15
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Person Name",
+        "value": "Secretary Weinberger",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.43598660826683044,
+            0.7314638495445251,
+            0.6666639372706413,
+            0.7447763876989484
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    }
+]

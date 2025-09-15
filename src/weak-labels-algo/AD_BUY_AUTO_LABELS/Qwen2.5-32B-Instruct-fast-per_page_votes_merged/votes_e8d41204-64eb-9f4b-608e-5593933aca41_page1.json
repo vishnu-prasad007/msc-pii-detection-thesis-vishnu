@@ -1,0 +1,387 @@
+[
+  {
+    "ids": [
+      0,
+      19
+    ],
+    "doc_id": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1",
+    "pii_type": "Person Name",
+    "value": "lan Ambron",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      593,
+      141,
+      650,
+      149
+    ],
+    "source_file": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      1,
+      20
+    ],
+    "doc_id": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1",
+    "pii_type": "Person Name",
+    "value": "Maura Gilroy",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      235,
+      220,
+      299,
+      230
+    ],
+    "source_file": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      2,
+      21
+    ],
+    "doc_id": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1",
+    "pii_type": "Person Name",
+    "value": "Mackenzie Miller",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      235,
+      236,
+      318,
+      244
+    ],
+    "source_file": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      3,
+      22
+    ],
+    "doc_id": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1",
+    "pii_type": "Location",
+    "value": "1010 Wisconsin Ave NW",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      236,
+      252,
+      357,
+      260
+    ],
+    "source_file": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      4,
+      23
+    ],
+    "doc_id": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1",
+    "pii_type": "Location",
+    "value": "Washington, DC 20007-3674",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      233,
+      268,
+      379,
+      277
+    ],
+    "source_file": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      5,
+      24,
+      28
+    ],
+    "doc_id": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "KSTP-TV, LLC and KSAX-1",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      593,
+      123,
+      732,
+      133
+    ],
+    "source_file": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      6,
+      25,
+      29
+    ],
+    "doc_id": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "Greer Margolis & Mitchell",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      235,
+      205,
+      368,
+      214
+    ],
+    "source_file": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      7,
+      26,
+      30
+    ],
+    "doc_id": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "Angie Craig for Congress",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      235,
+      300,
+      369,
+      310
+    ],
+    "source_file": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      8,
+      32
+    ],
+    "doc_id": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1",
+    "pii_type": "Date",
+    "value": "04/16/20 15:07:25 Print Date",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      560,
+      20,
+      706,
+      28
+    ],
+    "source_file": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      9,
+      33
+    ],
+    "doc_id": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1",
+    "pii_type": "Date",
+    "value": "10/20/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      236,
+      141,
+      279,
+      149
+    ],
+    "source_file": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      10,
+      34
+    ],
+    "doc_id": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1",
+    "pii_type": "Date",
+    "value": "10/26/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      288,
+      141,
+      331,
+      149
+    ],
+    "source_file": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      11,
+      12
+    ],
+    "doc_id": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1",
+    "pii_type": "Date",
+    "value": "04/16/20",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      235,
+      157,
+      279,
+      165
+    ],
+    "source_file": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      13,
+      36
+    ],
+    "doc_id": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1",
+    "pii_type": "Date",
+    "value": "09/28/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      26,
+      447,
+      70,
+      455
+    ],
+    "source_file": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      14,
+      37
+    ],
+    "doc_id": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1",
+    "pii_type": "Date",
+    "value": "10/25/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      102,
+      447,
+      145,
+      455
+    ],
+    "source_file": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      15,
+      16,
+      38,
+      39
+    ],
+    "doc_id": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1",
+    "pii_type": "Date",
+    "value": "10/26/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      27,
+      460,
+      70,
+      468
+    ],
+    "source_file": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      17,
+      27,
+      40
+    ],
+    "doc_id": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "385062",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      235,
+      77,
+      273,
+      85
+    ],
+    "source_file": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      18,
+      41
+    ],
+    "doc_id": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "09816118",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      235,
+      93,
+      285,
+      101
+    ],
+    "source_file": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      31
+    ],
+    "doc_id": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "KSTP-TV, LLC and KSAX-TV",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      26,
+      552,
+      171,
+      561
+    ],
+    "source_file": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      35
+    ],
+    "doc_id": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1",
+    "pii_type": "Date",
+    "value": "Original Date / Rev: 04/16/20 / 04/16/20",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      119,
+      157,
+      279,
+      166
+    ],
+    "source_file": "votes_e8d41204-64eb-9f4b-608e-5593933aca41.pdf_page1.csv"
+  }
+]

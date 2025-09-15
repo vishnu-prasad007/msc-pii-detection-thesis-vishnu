@@ -1,0 +1,258 @@
+[
+  {
+    "ids": [
+      0
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2",
+    "pii_type": "Phone Number",
+    "value": "202-955-5342",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      450,
+      169,
+      501,
+      179
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      1
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2",
+    "pii_type": "Location",
+    "value": "Washington, DC 20001",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      293,
+      126,
+      375,
+      139
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      2
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2",
+    "pii_type": "Location",
+    "value": "125 West 55th St",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      19,
+      164,
+      81,
+      174
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      3
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2",
+    "pii_type": "Location",
+    "value": "New York, NY 10019",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      19,
+      175,
+      94,
+      187
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      4,
+      13,
+      17
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "PLATFORM MEDIA",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      293,
+      84,
+      365,
+      94
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      5,
+      14,
+      18
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "KATZ TELEVISION",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      20,
+      102,
+      222,
+      129
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      6,
+      15,
+      19
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "KATZ MEDIA GROUP (INCLUDING ANY SUBSIDIARY OR DIVISION OF KATZ)",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      101,
+      545,
+      389,
+      557
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      7
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2",
+    "pii_type": "Date",
+    "value": "6/2/20 - 6/8/20",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      451,
+      57,
+      503,
+      68
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      8,
+      20
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2",
+    "pii_type": "Date",
+    "value": "02/14/20 9:06 AM",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      17,
+      289,
+      80,
+      299
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      9,
+      21
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2",
+    "pii_type": "Date",
+    "value": "2/14/20 9:05 AM",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      94,
+      494,
+      153,
+      504
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      10,
+      22
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2",
+    "pii_type": "Date",
+    "value": "02/17/2020 at 03:49 PM",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      62,
+      816,
+      159,
+      828
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      11,
+      16,
+      23
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "Contract # 26802661",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      249,
+      42,
+      328,
+      52
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      12
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2",
+    "pii_type": "Person Name",
+    "value": "Dome, Liz",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      451,
+      142,
+      487,
+      154
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page2.csv"
+  }
+]

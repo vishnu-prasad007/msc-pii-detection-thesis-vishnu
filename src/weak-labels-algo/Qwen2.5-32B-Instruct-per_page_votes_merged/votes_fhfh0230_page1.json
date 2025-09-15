@@ -1,0 +1,252 @@
+[
+    {
+        "ids": [
+            0,
+            12
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Person Name",
+        "value": "Ms Jane Brody",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.10357938706874847,
+            0.2581760883331299,
+            0.2547956705093384,
+            0.2714402489364147
+        ],
+        "source_file": "votes_fhfh0230_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            22
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Phone Number",
+        "value": "(508) 481-0400 Tel.",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.7091120481491089,
+            0.17188063263893127,
+            0.8305752128362656,
+            0.18296773359179497
+        ],
+        "source_file": "votes_fhfh0230_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            23
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Phone Number",
+        "value": "(508)460-1209 Fax",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.7093547582626343,
+            0.18479520082473755,
+            0.8271873146295547,
+            0.19651316944509745
+        ],
+        "source_file": "votes_fhfh0230_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            13
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Location",
+        "value": "One Pine Hill Drive",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.7057439684867859,
+            0.13131220638751984,
+            0.8315772376954556,
+            0.14082933962345123
+        ],
+        "source_file": "votes_fhfh0230_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            14
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Location",
+        "value": "P.O. Box 9102",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.7230297327041626,
+            0.14500899612903595,
+            0.8141453228890896,
+            0.15442180447280407
+        ],
+        "source_file": "votes_fhfh0230_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            15,
+            24
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Location",
+        "value": "Southborough, Massachusetts 01772-9102",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6377701759338379,
+            0.1581813097000122,
+            0.8988213539123535,
+            0.16927987150847912
+        ],
+        "source_file": "votes_fhfh0230_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            16
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Location",
+        "value": "229 W. 43rd St.",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.10549700260162354,
+            0.28842270374298096,
+            0.27446372248232365,
+            0.3004116751253605
+        ],
+        "source_file": "votes_fhfh0230_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            17
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Location",
+        "value": "New York NY 10036-3959",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.10452499985694885,
+            0.30356359481811523,
+            0.3580283224582672,
+            0.31528946571052074
+        ],
+        "source_file": "votes_fhfh0230_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            18,
+            25
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Organization Name",
+        "value": "HARVARD MEDICAL SCHOOL",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3998161852359772,
+            0.05836772546172142,
+            0.6722801998257637,
+            0.0704266931861639
+        ],
+        "source_file": "votes_fhfh0230_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            19,
+            26
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Organization Name",
+        "value": "NEW ENGLAND REGIONAL PRIMATE RESEARCH CENTER",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.40056130290031433,
+            0.08607519418001175,
+            0.8004857301712036,
+            0.09788195975124836
+        ],
+        "source_file": "votes_fhfh0230_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            20,
+            27
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Organization Name",
+        "value": "New York Times",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.10486400127410889,
+            0.2732214033603668,
+            0.2663699500262737,
+            0.28508943412452936
+        ],
+        "source_file": "votes_fhfh0230_page1.csv"
+    },
+    {
+        "ids": [
+            11,
+            21,
+            28
+        ],
+        "doc_id": "votes_fhfh0230_page1",
+        "pii_type": "Date",
+        "value": "April 1, 1993",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6145089864730835,
+            0.21229569613933563,
+            0.7640911526978016,
+            0.22562205512076616
+        ],
+        "source_file": "votes_fhfh0230_page1.csv"
+    }
+]

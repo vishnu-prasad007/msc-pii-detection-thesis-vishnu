@@ -1,0 +1,289 @@
+[
+    {
+        "ids": [
+            0,
+            12,
+            22
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Person Name",
+        "value": "G. Maresca",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            737,
+            210,
+            852,
+            229
+        ],
+        "source_file": "votes_fjkb0133_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            1,
+            13,
+            23
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Person Name",
+        "value": "K. Noone",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            736,
+            235,
+            833,
+            255
+        ],
+        "source_file": "votes_fjkb0133_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            2,
+            14,
+            24
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Person Name",
+        "value": "B. Adler",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            737,
+            295,
+            822,
+            314
+        ],
+        "source_file": "votes_fjkb0133_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            3,
+            15,
+            25
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Person Name",
+        "value": "A. Evans",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            736,
+            327,
+            827,
+            346
+        ],
+        "source_file": "votes_fjkb0133_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            4,
+            26
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Person Name",
+        "value": "G. Fous",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            736,
+            358,
+            817,
+            377
+        ],
+        "source_file": "votes_fjkb0133_page1.csv",
+        "probability": 0.8128964067822458
+    },
+    {
+        "ids": [
+            5,
+            17,
+            27
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Person Name",
+        "value": "J. Powers",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            736,
+            391,
+            831,
+            410
+        ],
+        "source_file": "votes_fjkb0133_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            6,
+            18,
+            28
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Person Name",
+        "value": "R. Reifenheiser",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            737,
+            422,
+            892,
+            442
+        ],
+        "source_file": "votes_fjkb0133_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            7,
+            19,
+            29
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Person Name",
+        "value": "J. Sargent",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            736,
+            456,
+            834,
+            480
+        ],
+        "source_file": "votes_fjkb0133_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            8,
+            20,
+            30
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Person Name",
+        "value": "M. Schan",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            737,
+            487,
+            829,
+            507
+        ],
+        "source_file": "votes_fjkb0133_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            9
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Location",
+        "value": "London",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            201,
+            601,
+            275,
+            621
+        ],
+        "source_file": "votes_fjkb0133_page1.csv",
+        "probability": 0.12886882919786594
+    },
+    {
+        "ids": [
+            10,
+            31
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Organization Name",
+        "value": "1993 Crown's of London",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            201,
+            291,
+            441,
+            312
+        ],
+        "source_file": "votes_fjkb0133_page1.csv",
+        "probability": 0.8132620043598049
+    },
+    {
+        "ids": [
+            11,
+            21,
+            32
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Date",
+        "value": "November 24, 1992",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            200,
+            260,
+            390,
+            284
+        ],
+        "source_file": "votes_fjkb0133_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            16
+        ],
+        "doc_id": "votes_fjkb0133_page1",
+        "pii_type": "Person Name",
+        "value": "Bill Degenhardt",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            200,
+            356,
+            356,
+            381
+        ],
+        "source_file": "votes_fjkb0133_page1.csv",
+        "probability": 0.04056118529657932
+    }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "ids": [
+      0,
+      24
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Person Name",
+    "value": "Brant Fink",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      115,
+      343,
+      171,
+      352
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      1,
+      25
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Person Name",
+    "value": "Chrissie Hastie",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      114,
+      439,
+      198,
+      448
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      2
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Person Name",
+    "value": "Chrissie Hastie, Treasurer",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      57,
+      509,
+      202,
+      519
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      3,
+      26
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Person Name",
+    "value": "Henry Nicholas, Chairman Nicholas",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      57,
+      520,
+      202,
+      531
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      4,
+      15,
+      27
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Email Address",
+    "value": "bfink@strategicmediaplacement.co",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      591,
+      343,
+      784,
+      353
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      5,
+      16,
+      28
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Email Address",
+    "value": "chrissie@incompliance.net",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      590,
+      438,
+      739,
+      449
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      6,
+      17,
+      29
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Phone Number",
+    "value": "740.201.5500",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      398,
+      343,
+      475,
+      352
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      7,
+      18,
+      30
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Phone Number",
+    "value": "702.259.5559",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      398,
+      438,
+      475,
+      447
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      8,
+      19,
+      31
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Location",
+    "value": "7669 Stagers Loop, Delaware, OH 43015",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      114,
+      323,
+      341,
+      334
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      9,
+      20,
+      32
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Location",
+    "value": "5315 Wall Street #135, Madison, WI 53718",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      113,
+      419,
+      349,
+      429
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      10,
+      21,
+      33
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "Strategic Media Placement",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      90,
+      84,
+      238,
+      95
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      11,
+      22,
+      34
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "Marsy's Law for Wisconsin, LLC",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      225,
+      285,
+      401,
+      296
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      12,
+      23,
+      36
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "Marsy's Law for Wisconsin, LLC",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      102,
+      400,
+      278,
+      411
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      13
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "ISSUE (Non-candidate) ADVERTISEMENT",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      243,
+      41,
+      595,
+      56
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      14
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "AGREEMENT FORM",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      330,
+      59,
+      506,
+      71
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      35
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "Strategic Media Placement",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      147,
+      305,
+      295,
+      315
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  }
+]

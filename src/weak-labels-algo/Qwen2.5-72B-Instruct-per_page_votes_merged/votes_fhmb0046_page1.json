@@ -1,0 +1,68 @@
+[
+    {
+        "ids": [
+            0,
+            3,
+            6
+        ],
+        "doc_id": "votes_fhmb0046_page1",
+        "pii_type": "Person Name",
+        "value": "Martha Martha:",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.14511795341968536,
+            0.3278118073940277,
+            0.2141071781516075,
+            0.33826082292944193
+        ],
+        "source_file": "votes_fhmb0046_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            4,
+            7
+        ],
+        "doc_id": "votes_fhmb0046_page1",
+        "pii_type": "Person Name",
+        "value": "Marty Gleason",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.19565625488758087,
+            0.5420957803726196,
+            0.3272283002734184,
+            0.5546788051724434
+        ],
+        "source_file": "votes_fhmb0046_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            5,
+            8
+        ],
+        "doc_id": "votes_fhmb0046_page1",
+        "pii_type": "Date",
+        "value": "February 13, 1991",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.14734770357608795,
+            0.2738044857978821,
+            0.3159143440425396,
+            0.28662637528032064
+        ],
+        "source_file": "votes_fhmb0046_page1.csv"
+    }
+]

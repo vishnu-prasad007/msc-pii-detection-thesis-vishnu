@@ -1,0 +1,121 @@
+[
+  {
+    "ids": [
+      0,
+      5
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "WBAL-TV11",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      164,
+      58,
+      242,
+      67
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      1,
+      7
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "Vignarajah/D/Mayor",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      506,
+      85,
+      604,
+      95
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      2,
+      8
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "WideOrbit",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      771,
+      805,
+      809,
+      812
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      3,
+      9
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page2",
+    "pii_type": [
+      "Contract Number",
+      "Invoice Number"
+    ],
+    "value": "2007974-1",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      506,
+      60,
+      558,
+      67
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      4
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page2",
+    "pii_type": "Location",
+    "value": "Prescott, AZ 86304-9024",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      165,
+      83,
+      327,
+      94
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      6
+    ],
+    "doc_id": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "ATE",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      466,
+      28,
+      560,
+      59
+    ],
+    "source_file": "votes_eff55361-0e39-53a1-da0b-a337a361b66b.pdf_page2.csv"
+  }
+]

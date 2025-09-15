@@ -1,0 +1,424 @@
+[
+    {
+        "ids": [
+            0,
+            14,
+            32
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Person Name",
+        "value": "Patti Ittermann",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2029883861541748,
+            0.469705730676651,
+            0.3282114863395691,
+            0.48236535768955946
+        ],
+        "source_file": "votes_fjjc0186_page2.csv"
+    },
+    {
+        "ids": [
+            1,
+            15,
+            33
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Person Name",
+        "value": "Tricia Hoopes",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5203807353973389,
+            0.46978995203971863,
+            0.6372343450784683,
+            0.4849625723436475
+        ],
+        "source_file": "votes_fjjc0186_page2.csv"
+    },
+    {
+        "ids": [
+            2,
+            16,
+            34
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Person Name",
+        "value": "Brice O'Brien",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.20295009016990662,
+            0.4881383776664734,
+            0.3167521804571152,
+            0.5010838257148862
+        ],
+        "source_file": "votes_fjjc0186_page2.csv"
+    },
+    {
+        "ids": [
+            3,
+            17,
+            35
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Person Name",
+        "value": "Sumana Rajagopal",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5210723280906677,
+            0.4882334768772125,
+            0.6790067702531815,
+            0.5038540009409189
+        ],
+        "source_file": "votes_fjjc0186_page2.csv"
+    },
+    {
+        "ids": [
+            4,
+            18,
+            36
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Person Name",
+        "value": "Carol Sterling",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5212809443473816,
+            0.5069532990455627,
+            0.6336973756551743,
+            0.5231302194297314
+        ],
+        "source_file": "votes_fjjc0186_page2.csv"
+    },
+    {
+        "ids": [
+            5,
+            19,
+            37
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Person Name",
+        "value": "Mary Taylor",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5216162800788879,
+            0.5263873934745789,
+            0.6189429499208927,
+            0.5421122359111905
+        ],
+        "source_file": "votes_fjjc0186_page2.csv"
+    },
+    {
+        "ids": [
+            6,
+            7,
+            20,
+            21,
+            22,
+            29,
+            38,
+            39,
+            40,
+            45
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": [
+            "Date",
+            "Location",
+            "Email Address",
+            "Phone Number"
+        ],
+        "value": "774-9377",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5639002323150635,
+            0.3194582164287567,
+            0.6523245126008987,
+            0.3315434418618679
+        ],
+        "source_file": "votes_fjjc0186_page2.csv"
+    },
+    {
+        "ids": [
+            8,
+            23
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Location",
+        "value": "f:/media/rjr/camel/99plar/merch909.doc",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.14766013622283936,
+            0.4181526303291321,
+            0.37765008211135864,
+            0.42850801814347506
+        ],
+        "source_file": "votes_fjjc0186_page2.csv"
+    },
+    {
+        "ids": [
+            9,
+            24
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Organization Name",
+        "value": "LHC",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.36229151487350464,
+            0.13060906529426575,
+            0.4009610004723072,
+            0.14331114292144775
+        ],
+        "source_file": "votes_fjjc0186_page2.csv"
+    },
+    {
+        "ids": [
+            10,
+            25,
+            41
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Organization Name",
+        "value": "Detour",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6995028257369995,
+            0.09238717705011368,
+            0.7569864839315414,
+            0.10468796826899052
+        ],
+        "source_file": "votes_fjjc0186_page2.csv"
+    },
+    {
+        "ids": [
+            11,
+            26,
+            42
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Organization Name",
+        "value": "Kamel",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4400521218776703,
+            0.1125364601612091,
+            0.4939468540251255,
+            0.1248380858451128
+        ],
+        "source_file": "votes_fjjc0186_page2.csv"
+    },
+    {
+        "ids": [
+            12,
+            27,
+            43
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Organization Name",
+        "value": "RJRT",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.20312675833702087,
+            0.4503355324268341,
+            0.2510221116244793,
+            0.46414530649781227
+        ],
+        "source_file": "votes_fjjc0186_page2.csv"
+    },
+    {
+        "ids": [
+            13,
+            28,
+            44
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Date",
+        "value": "1999",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.31423184275627136,
+            0.13042594492435455,
+            0.3569217883050442,
+            0.1430329391732812
+        ],
+        "source_file": "votes_fjjc0186_page2.csv"
+    },
+    {
+        "ids": [
+            30,
+            50
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Contract Number",
+        "value": "negotiation for Camel merchandising be incorporated",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.46273255348205566,
+            0.185787171125412,
+            0.9117497429251671,
+            0.20214523654431105
+        ],
+        "source_file": "votes_fjjc0186_page2.csv"
+    },
+    {
+        "ids": [
+            31
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Contract Number",
+        "value": "merchandising dollar ranges (.5 - 1% of net media",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.452126681804657,
+            0.26144567131996155,
+            0.8734748773276806,
+            0.2772733848541975
+        ],
+        "source_file": "votes_fjjc0186_page2.csv"
+    },
+    {
+        "ids": [
+            46
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Contract Number",
+        "value": "Detour was receiving",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.6995028257369995,
+            0.09238717705011368,
+            0.8776529133319855,
+            0.10865387227386236
+        ],
+        "source_file": "votes_fjjc0186_page2.csv"
+    },
+    {
+        "ids": [
+            47
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Contract Number",
+        "value": "Kamel any way, there was no incentive to provide",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.4400521218776703,
+            0.11133123934268951,
+            0.8566277101635933,
+            0.12724651768803596
+        ],
+        "source_file": "votes_fjjc0186_page2.csv"
+    },
+    {
+        "ids": [
+            48
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Contract Number",
+        "value": "Kamel business if",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.763293981552124,
+            0.12945158779621124,
+            0.9136920981109142,
+            0.14292277116328478
+        ],
+        "source_file": "votes_fjjc0186_page2.csv"
+    },
+    {
+        "ids": [
+            49
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Contract Number",
+        "value": "merchandising is not provided.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.15054410696029663,
+            0.14909197390079498,
+            0.41194912046194077,
+            0.16418190021067858
+        ],
+        "source_file": "votes_fjjc0186_page2.csv"
+    },
+    {
+        "ids": [
+            51
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Contract Number",
+        "value": "dollars spent) are provided for each tier.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.15099136531352997,
+            0.2810763418674469,
+            0.48890944197773933,
+            0.29650338646024466
+        ],
+        "source_file": "votes_fjjc0186_page2.csv"
+    }
+]

@@ -1,0 +1,514 @@
+[
+    {
+        "ids": [
+            0,
+            25,
+            47
+        ],
+        "doc_id": "votes_fgjy0234_page1",
+        "pii_type": "Person Name",
+        "value": "Blasser, Sarah A (Eddins)",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.48135918378829956,
+            0.11061031371355057,
+            0.6438617929816246,
+            0.12248359434306622
+        ],
+        "source_file": "votes_fgjy0234_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            26,
+            48
+        ],
+        "doc_id": "votes_fgjy0234_page1",
+        "pii_type": "Person Name",
+        "value": "Masters, Tonilee",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7585440874099731,
+            0.12637706100940704,
+            0.868804395198822,
+            0.13726970925927162
+        ],
+        "source_file": "votes_fgjy0234_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            27,
+            49
+        ],
+        "doc_id": "votes_fgjy0234_page1",
+        "pii_type": "Person Name",
+        "value": "Psaros, Harry",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6983926892280579,
+            0.1417011171579361,
+            0.7867630943655968,
+            0.15309690218418837
+        ],
+        "source_file": "votes_fgjy0234_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            28,
+            50
+        ],
+        "doc_id": "votes_fgjy0234_page1",
+        "pii_type": "Person Name",
+        "value": "Schall, Mark",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3690416216850281,
+            0.15639959275722504,
+            0.4505102224647999,
+            0.1675609489902854
+        ],
+        "source_file": "votes_fgjy0234_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            29,
+            51
+        ],
+        "doc_id": "votes_fgjy0234_page1",
+        "pii_type": "Person Name",
+        "value": "Yeso, Melissa T",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3730033040046692,
+            0.17198865115642548,
+            0.4747740710154176,
+            0.18272515200078487
+        ],
+        "source_file": "votes_fgjy0234_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            12,
+            30,
+            37,
+            52,
+            59
+        ],
+        "doc_id": "votes_fgjy0234_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "Grelle, Edward G",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.10807391256093979,
+            0.28706100583076477,
+            0.24362442176789045,
+            0.2984748650342226
+        ],
+        "source_file": "votes_fgjy0234_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            31,
+            53
+        ],
+        "doc_id": "votes_fgjy0234_page1",
+        "pii_type": "Person Name",
+        "value": "Chianta, Maria",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.05963114649057388,
+            0.3446020185947418,
+            0.182294812053442,
+            0.35527666192501783
+        ],
+        "source_file": "votes_fgjy0234_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            32,
+            54
+        ],
+        "doc_id": "votes_fgjy0234_page1",
+        "pii_type": "Person Name",
+        "value": "Liuchan, Karrie",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.19207148253917694,
+            0.34444233775138855,
+            0.3182060495018959,
+            0.3554269978776574
+        ],
+        "source_file": "votes_fgjy0234_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            33,
+            55
+        ],
+        "doc_id": "votes_fgjy0234_page1",
+        "pii_type": "Email Address",
+        "value": "Charles J [Charles.Deitrick@covidien.com]; Eddy, Michael Michael.Eddy@covidien.com]; Masters, Tonilee",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16424359381198883,
+            0.1257718801498413,
+            0.868804395198822,
+            0.13783957995474339
+        ],
+        "source_file": "votes_fgjy0234_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            34,
+            56
+        ],
+        "doc_id": "votes_fgjy0234_page1",
+        "pii_type": "Email Address",
+        "value": "Tonilee.Masters@covidien.com; Pegram, Scott [Scott.Pegram@covidien.com]; Psaros, Harry",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16633671522140503,
+            0.1412966549396515,
+            0.7867630943655968,
+            0.15323926135897636
+        ],
+        "source_file": "votes_fgjy0234_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            35,
+            57
+        ],
+        "doc_id": "votes_fgjy0234_page1",
+        "pii_type": "Email Address",
+        "value": "Harry.Psaros@covidien.com; Schall, Mark [Mark.Schall@covidien.com]; Webb, Jessica",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16555167734622955,
+            0.15639959275722504,
+            0.7440014630556107,
+            0.1685431245714426
+        ],
+        "source_file": "votes_fgjy0234_page1.csv"
+    },
+    {
+        "ids": [
+            11,
+            36,
+            58
+        ],
+        "doc_id": "votes_fgjy0234_page1",
+        "pii_type": "Email Address",
+        "value": "Jessica.Webb@covidien.com; Yeso, Melissa T [Melissa.Yeso@Covidien.com]",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1703038066625595,
+            0.17168444395065308,
+            0.6787124425172806,
+            0.18342431169003248
+        ],
+        "source_file": "votes_fgjy0234_page1.csv"
+    },
+    {
+        "ids": [
+            13,
+            38
+        ],
+        "doc_id": "votes_fgjy0234_page1",
+        "pii_type": "Email Address",
+        "value": "Chianta, Maria; Liuchan, Karrie",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.05963114649057388,
+            0.34444233775138855,
+            0.3182060495018959,
+            0.3554269978776574
+        ],
+        "source_file": "votes_fgjy0234_page1.csv"
+    },
+    {
+        "ids": [
+            14,
+            22,
+            39,
+            44,
+            61,
+            62
+        ],
+        "doc_id": "votes_fgjy0234_page1",
+        "pii_type": [
+            "Date",
+            "Email Address",
+            "Phone Number"
+        ],
+        "value": "888-858-9225",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.11775808036327362,
+            0.7318902015686035,
+            0.2172761708498001,
+            0.7417604001238942
+        ],
+        "source_file": "votes_fgjy0234_page1.csv"
+    },
+    {
+        "ids": [
+            15,
+            23,
+            40,
+            45,
+            68
+        ],
+        "doc_id": "votes_fgjy0234_page1",
+        "pii_type": [
+            "Date",
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "975288",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.11740041524171829,
+            0.8688536882400513,
+            0.16727271676063538,
+            0.8780245864763856
+        ],
+        "source_file": "votes_fgjy0234_page1.csv"
+    },
+    {
+        "ids": [
+            16
+        ],
+        "doc_id": "votes_fgjy0234_page1",
+        "pii_type": "Location",
+        "value": "CST",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.2176801860332489,
+            0.5050479769706726,
+            0.24308668449521065,
+            0.5132955359295011
+        ],
+        "source_file": "votes_fgjy0234_page1.csv"
+    },
+    {
+        "ids": [
+            17
+        ],
+        "doc_id": "votes_fgjy0234_page1",
+        "pii_type": "Location",
+        "value": "USA Toll-Free",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.058471377938985825,
+            0.7090471982955933,
+            0.16986311227083206,
+            0.7188547337427735
+        ],
+        "source_file": "votes_fgjy0234_page1.csv"
+    },
+    {
+        "ids": [
+            18,
+            63
+        ],
+        "doc_id": "votes_fgjy0234_page1",
+        "pii_type": [
+            "Phone Number",
+            "Location"
+        ],
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fgjy0234",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.28809553384780884,
+            0.981331467628479,
+            0.7804918885231018,
+            0.997332688421011
+        ],
+        "source_file": "votes_fgjy0234_page1.csv"
+    },
+    {
+        "ids": [
+            19,
+            41,
+            64
+        ],
+        "doc_id": "votes_fgjy0234_page1",
+        "pii_type": "Date",
+        "value": "8/8/2011 1:34:03 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16466228663921356,
+            0.09516625851392746,
+            0.30549282021820545,
+            0.1071755662560463
+        ],
+        "source_file": "votes_fgjy0234_page1.csv"
+    },
+    {
+        "ids": [
+            20,
+            42,
+            65
+        ],
+        "doc_id": "votes_fgjy0234_page1",
+        "pii_type": "Date",
+        "value": "Friday, August 05, 2011 10:35 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.10942249745130539,
+            0.2986919581890106,
+            0.37739610113203526,
+            0.31042006704956293
+        ],
+        "source_file": "votes_fgjy0234_page1.csv"
+    },
+    {
+        "ids": [
+            21,
+            43,
+            66
+        ],
+        "doc_id": "votes_fgjy0234_page1",
+        "pii_type": "Date",
+        "value": "August 26th at 11am CST",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.058093003928661346,
+            0.5039074420928955,
+            0.5689639709889889,
+            0.5151146519929171
+        ],
+        "source_file": "votes_fgjy0234_page1.csv"
+    },
+    {
+        "ids": [
+            24,
+            46,
+            67
+        ],
+        "doc_id": "votes_fgjy0234_page1",
+        "pii_type": "Contract Number",
+        "value": "MNKOI 0000280195",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.8186280727386475,
+            0.9856794476509094,
+            0.9684263542294502,
+            0.9964012252166867
+        ],
+        "source_file": "votes_fgjy0234_page1.csv"
+    },
+    {
+        "ids": [
+            60
+        ],
+        "doc_id": "votes_fgjy0234_page1",
+        "pii_type": "Email Address",
+        "value": "Karrie Liuchan, PharmD",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.058484550565481186,
+            0.45822852849960327,
+            0.24250657856464386,
+            0.4691972257569432
+        ],
+        "source_file": "votes_fgjy0234_page1.csv"
+    }
+]

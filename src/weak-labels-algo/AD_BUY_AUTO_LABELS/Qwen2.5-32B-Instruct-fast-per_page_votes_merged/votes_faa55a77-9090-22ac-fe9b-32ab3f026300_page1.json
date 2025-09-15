@@ -1,0 +1,248 @@
+[
+  {
+    "ids": [
+      0,
+      10,
+      19
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Person Name",
+    "value": "RONNI KASSAL",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      451,
+      142,
+      498,
+      152
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      1,
+      20
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Person Name",
+    "value": "CHARLOTTE KOKEL",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      191,
+      361,
+      246,
+      371
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      2,
+      11,
+      21
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Phone Number",
+    "value": "312-755-3936",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      450,
+      169,
+      501,
+      179
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      3,
+      12,
+      22
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Phone Number",
+    "value": "312-755-3834",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      602,
+      169,
+      652,
+      179
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      4
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Location",
+    "value": "New York, NY 10019",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      19,
+      175,
+      94,
+      187
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      5,
+      13,
+      23
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Date",
+    "value": "6/8/2020 at 9:02 AM",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      450,
+      42,
+      523,
+      52
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      6,
+      14,
+      24
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Date",
+    "value": "6/6/20 - 6/8/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      451,
+      57,
+      503,
+      68
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      7,
+      16,
+      25
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Date",
+    "value": "06/08/20 9:02 AM",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      16,
+      361,
+      80,
+      371
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      8,
+      18,
+      26
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Contract # 26932832",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      249,
+      42,
+      329,
+      52
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      9
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Invoice Number",
+    "value": "26932832",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      293,
+      42,
+      329,
+      52
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      15
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Date",
+    "value": "6/6 - 6/8",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      499,
+      230,
+      529,
+      240
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      17
+    ],
+    "doc_id": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1",
+    "pii_type": "Date",
+    "value": "06/08/2020 at 09:02 AM",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      62,
+      816,
+      159,
+      827
+    ],
+    "source_file": "votes_faa55a77-9090-22ac-fe9b-32ab3f026300.pdf_page1.csv"
+  }
+]

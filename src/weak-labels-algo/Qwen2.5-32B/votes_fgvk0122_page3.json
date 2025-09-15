@@ -1,0 +1,209 @@
+[
+    {
+        "ids": [
+            0,
+            10,
+            19
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": "Person Name",
+        "value": "W. Bell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            485,
+            1832,
+            666,
+            1866
+        ],
+        "source_file": "votes_fgvk0122_page3.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            1,
+            11,
+            20
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": "Person Name",
+        "value": "W. Callaham",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            485,
+            1887,
+            769,
+            1922
+        ],
+        "source_file": "votes_fgvk0122_page3.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            2,
+            12,
+            21
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": "Person Name",
+        "value": "S. Clark",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            487,
+            1943,
+            690,
+            1976
+        ],
+        "source_file": "votes_fgvk0122_page3.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            3,
+            13,
+            22
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": "Person Name",
+        "value": "R. Cox",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            484,
+            1999,
+            641,
+            2033
+        ],
+        "source_file": "votes_fgvk0122_page3.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            4,
+            14,
+            23
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": "Person Name",
+        "value": "D. Spruill",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            484,
+            2054,
+            740,
+            2094
+        ],
+        "source_file": "votes_fgvk0122_page3.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            5,
+            15,
+            24
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": "Person Name",
+        "value": "H. Spielberg",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            485,
+            2110,
+            791,
+            2152
+        ],
+        "source_file": "votes_fgvk0122_page3.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            6,
+            9,
+            16,
+            18,
+            25,
+            26
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "2031158486",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1889,
+            3155,
+            2349,
+            3221
+        ],
+        "source_file": "votes_fgvk0122_page3.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            7
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": "Location",
+        "value": "DCC",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            750,
+            1664,
+            829,
+            1697
+        ],
+        "source_file": "votes_fgvk0122_page3.csv",
+        "probability": 0.12886882919786594
+    },
+    {
+        "ids": [
+            8,
+            17
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": "Organization Name",
+        "value": "https://www.industrydocuments.ucsf.edu",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            571,
+            3302,
+            2004,
+            3358
+        ],
+        "source_file": "votes_fgvk0122_page3.csv",
+        "probability": 0.722640459594319
+    }
+]

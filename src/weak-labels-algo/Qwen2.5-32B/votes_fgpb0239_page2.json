@@ -1,0 +1,277 @@
+[
+    {
+        "ids": [
+            0,
+            10
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Person Name",
+        "value": "Trudy",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            747,
+            161,
+            866,
+            203
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            1,
+            11
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Person Name",
+        "value": "Hightower, Annette",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1022,
+            657,
+            1424,
+            699
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            2,
+            12
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Person Name",
+        "value": "Annette Hightower",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            898,
+            1929,
+            1199,
+            1964
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            3,
+            13,
+            19
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Email Address",
+        "value": "ahightower@innovatix.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1430,
+            656,
+            2002,
+            698
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9993010075376519
+    },
+    {
+        "ids": [
+            4,
+            14,
+            20
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Email Address",
+        "value": "Jane.WILLIAMS@mallinckrodt.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1333,
+            769,
+            2031,
+            808
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9993010075376519
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Phone Number",
+        "value": "212-901-1307",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            944,
+            2090,
+            1208,
+            2124
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.03486143126373786
+    },
+    {
+        "ids": [
+            6
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Phone Number",
+        "value": "646-638-0792",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1272,
+            2089,
+            1535,
+            2123
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.03486143126373786
+    },
+    {
+        "ids": [
+            7,
+            15,
+            21
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Location",
+        "value": "555 W. 57th Street, 12th Floor New York, NY 10019",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1199,
+            2033,
+            2184,
+            2073
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.996034042417568
+    },
+    {
+        "ids": [
+            8,
+            17,
+            25
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Innovatix, LLC",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            900,
+            1884,
+            1116,
+            1916
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9900025300515797
+    },
+    {
+        "ids": [
+            9,
+            18,
+            26
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Date",
+        "value": "November 11, 2013, 10:26:17 AM EST",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1013,
+            714,
+            1719,
+            753
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            16,
+            22
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Innovatix",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1420,
+            273,
+            1601,
+            307
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.6158181671030045
+    },
+    {
+        "ids": [
+            23
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt, Inc.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1870,
+            1194,
+            2153,
+            1235
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.0658539807578667
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Tyco Healthcare Com",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            2195,
+            1194,
+            2549,
+            1234
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.0658539807578667
+    }
+]

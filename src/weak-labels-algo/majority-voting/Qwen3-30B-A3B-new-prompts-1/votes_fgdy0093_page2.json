@@ -1,0 +1,293 @@
+[
+    {
+        "ids": [
+            0,
+            11,
+            24
+        ],
+        "doc_id": "votes_fgdy0093_page2",
+        "pii_type": "Person Name",
+        "value": "E.Anni",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1598,
+            705,
+            2062,
+            826
+        ],
+        "source_file": "votes_fgdy0093_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            12,
+            25
+        ],
+        "doc_id": "votes_fgdy0093_page2",
+        "pii_type": "Person Name",
+        "value": "E. Ann Li",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1703,
+            836,
+            1917,
+            869
+        ],
+        "source_file": "votes_fgdy0093_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            13,
+            26
+        ],
+        "doc_id": "votes_fgdy0093_page2",
+        "pii_type": "Person Name",
+        "value": "Dr. A. H. Laurene",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            419,
+            1210,
+            843,
+            1250
+        ],
+        "source_file": "votes_fgdy0093_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            14,
+            27
+        ],
+        "doc_id": "votes_fgdy0093_page2",
+        "pii_type": "Person Name",
+        "value": "Dr. Murray Senkus",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            419,
+            1209,
+            1276,
+            1250
+        ],
+        "source_file": "votes_fgdy0093_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            15,
+            28
+        ],
+        "doc_id": "votes_fgdy0093_page2",
+        "pii_type": "Person Name",
+        "value": "Dr. F. A. Rodgman",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            418,
+            1256,
+            844,
+            1297
+        ],
+        "source_file": "votes_fgdy0093_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            16,
+            29
+        ],
+        "doc_id": "votes_fgdy0093_page2",
+        "pii_type": "Person Name",
+        "value": "Dr. H. J. Bluhm",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            418,
+            1256,
+            1248,
+            1297
+        ],
+        "source_file": "votes_fgdy0093_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            17,
+            30
+        ],
+        "doc_id": "votes_fgdy0093_page2",
+        "pii_type": "Person Name",
+        "value": "Mr. J. D. Barnhill",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            418,
+            1302,
+            848,
+            1336
+        ],
+        "source_file": "votes_fgdy0093_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            7,
+            18,
+            31
+        ],
+        "doc_id": "votes_fgdy0093_page2",
+        "pii_type": "Person Name",
+        "value": "Mr. T. H. Eskew",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            418,
+            1348,
+            799,
+            1389
+        ],
+        "source_file": "votes_fgdy0093_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            8,
+            19,
+            32
+        ],
+        "doc_id": "votes_fgdy0093_page2",
+        "pii_type": "Person Name",
+        "value": "Dr. J. D. Woods",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            822,
+            1349,
+            1180,
+            1385
+        ],
+        "source_file": "votes_fgdy0093_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            9,
+            22,
+            33
+        ],
+        "doc_id": "votes_fgdy0093_page2",
+        "pii_type": "Date",
+        "value": "October 11, 1978",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            706,
+            1412,
+            1090,
+            1452
+        ],
+        "source_file": "votes_fgdy0093_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            10,
+            23,
+            34
+        ],
+        "doc_id": "votes_fgdy0093_page2",
+        "pii_type": "Date",
+        "value": "November 14, 1978",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            709,
+            1477,
+            1117,
+            1518
+        ],
+        "source_file": "votes_fgdy0093_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            20
+        ],
+        "doc_id": "votes_fgdy0093_page2",
+        "pii_type": "Person Name",
+        "value": "I Wwoods",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            647,
+            1523,
+            1009,
+            1641
+        ],
+        "source_file": "votes_fgdy0093_page2.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            21
+        ],
+        "doc_id": "votes_fgdy0093_page2",
+        "pii_type": "Person Name",
+        "value": "Siftesbew",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            671,
+            1599,
+            1068,
+            1672
+        ],
+        "source_file": "votes_fgdy0093_page2.csv",
+        "probability": 0.3333333333333333
+    }
+]

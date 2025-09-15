@@ -1,0 +1,252 @@
+[
+    {
+        "ids": [
+            0,
+            11,
+            23
+        ],
+        "doc_id": "votes_fhyg0141_page1",
+        "pii_type": "Person Name",
+        "value": "Ernest Pepples",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            305,
+            441,
+            455,
+            460
+        ],
+        "source_file": "votes_fhyg0141_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            1,
+            13,
+            24
+        ],
+        "doc_id": "votes_fhyg0141_page1",
+        "pii_type": "Person Name",
+        "value": "W. T. Hoyt",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            559,
+            829,
+            668,
+            848
+        ],
+        "source_file": "votes_fhyg0141_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            2,
+            10,
+            22,
+            25,
+            29
+        ],
+        "doc_id": "votes_fhyg0141_page1",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "682172912",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            856,
+            1304,
+            1035,
+            1341
+        ],
+        "source_file": "votes_fhyg0141_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            15
+        ],
+        "doc_id": "votes_fhyg0141_page1",
+        "pii_type": "Location",
+        "value": "110 EAST 50TH STREET",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            480,
+            134,
+            670,
+            147
+        ],
+        "source_file": "votes_fhyg0141_page1.csv",
+        "probability": 0.805963146072398
+    },
+    {
+        "ids": [
+            4,
+            16
+        ],
+        "doc_id": "votes_fhyg0141_page1",
+        "pii_type": "Location",
+        "value": "NEW YORK, N.Y. 10022",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            479,
+            155,
+            669,
+            169
+        ],
+        "source_file": "votes_fhyg0141_page1.csv",
+        "probability": 0.805963146072398
+    },
+    {
+        "ids": [
+            5,
+            17
+        ],
+        "doc_id": "votes_fhyg0141_page1",
+        "pii_type": "Location",
+        "value": "2000 Citizens Plaza",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            265,
+            502,
+            468,
+            520
+        ],
+        "source_file": "votes_fhyg0141_page1.csv",
+        "probability": 0.805963146072398
+    },
+    {
+        "ids": [
+            6,
+            18
+        ],
+        "doc_id": "votes_fhyg0141_page1",
+        "pii_type": "Location",
+        "value": "Louisville, Kentucky 40202",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            264,
+            524,
+            551,
+            544
+        ],
+        "source_file": "votes_fhyg0141_page1.csv",
+        "probability": 0.805963146072398
+    },
+    {
+        "ids": [
+            7,
+            19,
+            26
+        ],
+        "doc_id": "votes_fhyg0141_page1",
+        "pii_type": "Organization Name",
+        "value": "THE COUNCIL FOR TOBACCO INC.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            277,
+            102,
+            869,
+            126
+        ],
+        "source_file": "votes_fhyg0141_page1.csv",
+        "probability": 0.9900025300515797
+    },
+    {
+        "ids": [
+            8,
+            12,
+            20,
+            27
+        ],
+        "doc_id": "votes_fhyg0141_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Brown & Williamson Tobacco Corporation",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            264,
+            481,
+            668,
+            502
+        ],
+        "source_file": "votes_fhyg0141_page1.csv",
+        "probability": 0.9991371871122463
+    },
+    {
+        "ids": [
+            9,
+            21,
+            28
+        ],
+        "doc_id": "votes_fhyg0141_page1",
+        "pii_type": "Date",
+        "value": "June 6, 1980",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            558,
+            207,
+            688,
+            226
+        ],
+        "source_file": "votes_fhyg0141_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            14
+        ],
+        "doc_id": "votes_fhyg0141_page1",
+        "pii_type": "Person Name",
+        "value": "Tom/A",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            576,
+            788,
+            667,
+            824
+        ],
+        "source_file": "votes_fhyg0141_page1.csv",
+        "probability": 0.04056118529657932
+    }
+]

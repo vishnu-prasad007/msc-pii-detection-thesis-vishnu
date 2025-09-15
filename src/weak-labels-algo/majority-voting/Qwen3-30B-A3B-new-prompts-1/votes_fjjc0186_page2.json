@@ -1,0 +1,398 @@
+[
+    {
+        "ids": [
+            0,
+            13,
+            30
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Person Name",
+        "value": "Patti Ittermann",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            671,
+            2197,
+            1085,
+            2257
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            14,
+            31
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Person Name",
+        "value": "Tricia Hoopes",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1720,
+            2198,
+            2107,
+            2269
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            15,
+            32
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Person Name",
+        "value": "Brice O'Brien",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            671,
+            2284,
+            1047,
+            2344
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            16,
+            33
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Person Name",
+        "value": "Sumana Rajagopal",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1723,
+            2284,
+            2245,
+            2357
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            17,
+            34
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Person Name",
+        "value": "Carol Sterling",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1723,
+            2372,
+            2095,
+            2447
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            18,
+            35
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Person Name",
+        "value": "Mary Taylor",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1724,
+            2462,
+            2046,
+            2536
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            19,
+            36
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Phone Number",
+        "value": "774-9377",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1864,
+            1494,
+            2157,
+            1551
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            7,
+            22,
+            38
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Organization Name",
+        "value": "Camel",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1131,
+            524,
+            1314,
+            582
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            8,
+            25,
+            41
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Organization Name",
+        "value": "Detour",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1728,
+            612,
+            1915,
+            671
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            9,
+            23,
+            39
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Organization Name",
+        "value": "Kamel",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1455,
+            526,
+            1633,
+            584
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            10,
+            24,
+            40
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Organization Name",
+        "value": "LHC",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1198,
+            611,
+            1326,
+            670
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            11,
+            27
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Organization Name",
+        "value": "LHC",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            866,
+            871,
+            995,
+            928
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            12
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Organization Name",
+        "value": "RJRT Agency",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            672,
+            2107,
+            1934,
+            2183
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            20
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Organization Name",
+        "value": "Camel",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1115,
+            437,
+            1296,
+            496
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            21,
+            37
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Organization Name",
+        "value": "Detour",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            2313,
+            432,
+            2503,
+            490
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            26,
+            42
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Organization Name",
+        "value": "Kamel",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            2523,
+            606,
+            2700,
+            666
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            28,
+            43
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Organization Name",
+        "value": "SLK",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1733,
+            1758,
+            1854,
+            1817
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            29,
+            44
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Organization Name",
+        "value": "RJRT",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            672,
+            2107,
+            830,
+            2171
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.6666666666666666
+    }
+]

@@ -1,0 +1,216 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            14
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Person Name",
+        "value": "D. Nicoli",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            814,
+            1521,
+            1065,
+            1574
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            1,
+            8,
+            15
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Person Name",
+        "value": "P.S. Wittenbauer",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            812,
+            1952,
+            1282,
+            2006
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            2
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Phone Number",
+        "value": "202-637-1505",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            811,
+            1809,
+            1170,
+            1862
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "probability": 0.07802454225169868
+    },
+    {
+        "ids": [
+            3
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Phone Number",
+        "value": "(212)878-2768",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1634,
+            2740,
+            2000,
+            2797
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "probability": 0.07802454225169868
+    },
+    {
+        "ids": [
+            4,
+            11,
+            18
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Location",
+        "value": "120 Park Avenue, New York, NY 10017",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1035,
+            793,
+            2268,
+            865
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "probability": 0.9986946830029205
+    },
+    {
+        "ids": [
+            5,
+            12,
+            20
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Organization Name",
+        "value": "Philip Morris Management Corp.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            861,
+            690,
+            2431,
+            795
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "probability": 0.991968246240452
+    },
+    {
+        "ids": [
+            6,
+            13,
+            21
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Date",
+        "value": "Date: Monday, February 26, 1996",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1918,
+            1088,
+            2871,
+            1161
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "probability": 0.9998134030756157
+    },
+    {
+        "ids": [
+            9,
+            16
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Phone Number",
+        "value": "Fax No. 202-637-1505",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            435,
+            1809,
+            1170,
+            1865
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "probability": 0.684579791630571
+    },
+    {
+        "ids": [
+            10,
+            17
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Phone Number",
+        "value": "IN CASE OF DIFFICULTY PLEASE CALL (212)878-2768",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            435,
+            2740,
+            2000,
+            2797
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "probability": 0.684579791630571
+    },
+    {
+        "ids": [
+            19
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Organization Name",
+        "value": "NOFDA",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            2315,
+            229,
+            2555,
+            300
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "probability": 0.05362073959906603
+    }
+]

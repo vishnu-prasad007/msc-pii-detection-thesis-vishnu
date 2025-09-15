@@ -1,0 +1,274 @@
+[
+    {
+        "ids": [
+            0,
+            11,
+            22
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Person Name",
+        "value": "ALMA TRINER",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            650,
+            1033,
+            971,
+            1068
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            1,
+            12,
+            23
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Person Name",
+        "value": "Dr. Charles J. Kensler",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            503,
+            1792,
+            1161,
+            1836
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            2,
+            13,
+            24
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Phone Number",
+        "value": "(617) 864-5770 (Ext. 2541)",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            662,
+            1077,
+            1392,
+            1119
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9989874148242464
+    },
+    {
+        "ids": [
+            3,
+            14,
+            25
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Location",
+        "value": "Cambridge, Mass. 02140",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            361,
+            838,
+            1025,
+            886
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9965290942566549
+    },
+    {
+        "ids": [
+            4,
+            15,
+            26
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Location",
+        "value": "BUENOS AIRES, ARGENTINA, October 7, 1978 ARGENTINA",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            507,
+            1409,
+            1657,
+            1453
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9965290942566549
+    },
+    {
+        "ids": [
+            5,
+            16,
+            28
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Organization Name",
+        "value": "Arthur D. Little, Inc.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            362,
+            697,
+            992,
+            743
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9937329907926641
+    },
+    {
+        "ids": [
+            6,
+            17,
+            29
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Organization Name",
+        "value": "Acorn Park",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            361,
+            796,
+            654,
+            832
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9937329907926641
+    },
+    {
+        "ids": [
+            7,
+            18,
+            30
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Date",
+        "value": "OCTOBER 7, 1978",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1833,
+            1031,
+            2260,
+            1075
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            8,
+            19,
+            31
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Date",
+        "value": "October 7, 1978",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1226,
+            1409,
+            1657,
+            1452
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            9,
+            20,
+            32
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Contract Number",
+        "value": "LIG- 92593",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            607,
+            3793,
+            895,
+            3836
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9354416064716374
+    },
+    {
+        "ids": [
+            10,
+            21,
+            33
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Contract Number",
+        "value": "LG 0382867",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2029,
+            3883,
+            2380,
+            3948
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.9354416064716374
+    },
+    {
+        "ids": [
+            27
+        ],
+        "doc_id": "votes_fgnh0009_page1",
+        "pii_type": "Location",
+        "value": "BUENOS AIRES",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            2000,
+            1701,
+            2367,
+            1741
+        ],
+        "source_file": "votes_fgnh0009_page1.csv",
+        "probability": 0.0366199020835172
+    }
+]

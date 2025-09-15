@@ -1,0 +1,188 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            15
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Person Name",
+        "value": "His Exellency The Prime Minister",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1882948875427246,
+            0.16694748401641846,
+            0.4080824926495552,
+            0.17919191252440214
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            8
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Person Name",
+        "value": "Your Excellency,",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.1881074458360672,
+            0.2485743761062622,
+            0.3023098260164261,
+            0.26064656022936106
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            10,
+            17
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Location",
+        "value": "Bangkok",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18760061264038086,
+            0.19403432309627533,
+            0.24929582327604294,
+            0.20572737697511911
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            11,
+            18
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Location",
+        "value": "Thailand",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18832312524318695,
+            0.20770575106143951,
+            0.2461017146706581,
+            0.2182137668132782
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            12
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Location",
+        "value": "Thailand",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.18705052137374878,
+            0.32926714420318604,
+            0.248348169028759,
+            0.34077800810337067
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            13,
+            19
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Organization Name",
+        "value": "Royal Thai Government",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18775133788585663,
+            0.1807791143655777,
+            0.34699052572250366,
+            0.19286934472620487
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            14,
+            20
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Organization Name",
+        "value": "Ministry of Public Health",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3465515673160553,
+            0.6566479206085205,
+            0.5081244595348835,
+            0.6689146440476179
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    },
+    {
+        "ids": [
+            9
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Phone Number",
+        "value": "9650",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.4363096356391907,
+            0.8511533141136169,
+            0.468302384018898,
+            0.8594030700623989
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    },
+    {
+        "ids": [
+            16
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Location",
+        "value": "PRAFT",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.44747194647789,
+            0.13345478475093842,
+            0.49526940658688545,
+            0.1427277335897088
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    }
+]

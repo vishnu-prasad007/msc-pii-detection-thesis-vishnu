@@ -1,0 +1,755 @@
+[
+    {
+        "ids": [
+            0,
+            33,
+            61
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Person Name",
+        "value": "John Hager",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            526,
+            658,
+            757,
+            703
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            1,
+            34,
+            62
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Person Name",
+        "value": "Jim Galioto",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            770,
+            655,
+            993,
+            699
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            2,
+            35,
+            63
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Person Name",
+        "value": "John Jewell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            527,
+            709,
+            760,
+            750
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            3,
+            36,
+            64
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Person Name",
+        "value": "Chuck Dawson",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            775,
+            705,
+            1066,
+            747
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            4,
+            37,
+            65
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Person Name",
+        "value": "Gary Destree",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1081,
+            703,
+            1342,
+            748
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            5,
+            38,
+            66
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Person Name",
+        "value": "Lance Gilbert",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1356,
+            700,
+            1614,
+            738
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            6,
+            39,
+            67
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Person Name",
+        "value": "John Hager",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            529,
+            808,
+            752,
+            852
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            7,
+            42,
+            70
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Person Name",
+        "value": "Jim Galioto",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            277,
+            1209,
+            492,
+            1246
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            8,
+            43,
+            71
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Person Name",
+        "value": "John Hager",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            277,
+            1260,
+            501,
+            1303
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            9,
+            40,
+            68
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Person Name",
+        "value": "Bob Sprinkle",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            276,
+            1108,
+            520,
+            1153
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            10,
+            41,
+            69
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Person Name",
+        "value": "Tom Kriz",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            275,
+            1159,
+            448,
+            1197
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            11,
+            44,
+            72
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Person Name",
+        "value": "Wodoson Smith",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1017,
+            1352,
+            1318,
+            1389
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            12,
+            45,
+            73
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Person Name",
+        "value": "Leon Massey",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            280,
+            1410,
+            535,
+            1454
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            13
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Location",
+        "value": "NEW YORK",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            973,
+            453,
+            1207,
+            492
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.07632413679079741
+    },
+    {
+        "ids": [
+            14,
+            46
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Organization Name",
+        "value": "GOLDEN BELT",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            428,
+            456,
+            737,
+            496
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.8780161471851319
+    },
+    {
+        "ids": [
+            15,
+            47
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Organization Name",
+        "value": "Golden Belt",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            621,
+            607,
+            845,
+            645
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.8780161471851319
+    },
+    {
+        "ids": [
+            16
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Organization Name",
+        "value": "AB",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1005,
+            656,
+            1062,
+            691
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.08513372203248497
+    },
+    {
+        "ids": [
+            17
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Organization Name",
+        "value": "ATCo",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            634,
+            1158,
+            745,
+            1193
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.08513372203248497
+    },
+    {
+        "ids": [
+            18,
+            48
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Organization Name",
+        "value": "Golden Belt",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            543,
+            1507,
+            768,
+            1545
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.8780161471851319
+    },
+    {
+        "ids": [
+            19,
+            50
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Organization Name",
+        "value": "AT",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            475,
+            1760,
+            532,
+            1795
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.8780161471851319
+    },
+    {
+        "ids": [
+            20,
+            51
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Organization Name",
+        "value": "Golden Belt",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            576,
+            1808,
+            799,
+            1845
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.8780161471851319
+    },
+    {
+        "ids": [
+            21
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Organization Name",
+        "value": "AB",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1229,
+            1804,
+            1286,
+            1840
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.08513372203248497
+    },
+    {
+        "ids": [
+            22,
+            49
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Organization Name",
+        "value": "AB",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            973,
+            1556,
+            1030,
+            1591
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.8780161471851319
+    },
+    {
+        "ids": [
+            23,
+            52
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Organization Name",
+        "value": "AB",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            382,
+            2213,
+            440,
+            2249
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.8780161471851319
+    },
+    {
+        "ids": [
+            24,
+            56
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Organization Name",
+        "value": "GB",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1062,
+            2256,
+            1123,
+            2294
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.8780161471851319
+    },
+    {
+        "ids": [
+            25,
+            53
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Organization Name",
+        "value": "AB",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            384,
+            2313,
+            441,
+            2348
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.8780161471851319
+    },
+    {
+        "ids": [
+            26,
+            74
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Organization Name",
+        "value": "GB",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            858,
+            2359,
+            918,
+            2396
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.8222880940186139
+    },
+    {
+        "ids": [
+            27,
+            54
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Organization Name",
+        "value": "ATCo",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1340,
+            2406,
+            1454,
+            2443
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.8780161471851319
+    },
+    {
+        "ids": [
+            28,
+            55
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Organization Name",
+        "value": "Golden Belt",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1205,
+            2456,
+            1429,
+            2493
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.8780161471851319
+    },
+    {
+        "ids": [
+            29,
+            58
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Date",
+        "value": "OCTOBER 11, 1994",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1242,
+            450,
+            1637,
+            491
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.9605621741705492
+    },
+    {
+        "ids": [
+            30,
+            76
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Date",
+        "value": "Jan 1, 1993",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            280,
+            1510,
+            506,
+            1551
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.9891058555799473
+    },
+    {
+        "ids": [
+            31,
+            59,
+            77
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Contract Number",
+        "value": "420000338",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1846,
+            2756,
+            2047,
+            2799
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.9777882244243308
+    },
+    {
+        "ids": [
+            32,
+            60,
+            78
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Contract Number",
+        "value": "420000338",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            6,
+            3003,
+            246,
+            3040
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.9777882244243308
+    },
+    {
+        "ids": [
+            57
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Organization Name",
+        "value": "B&W",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            392,
+            3055,
+            478,
+            3089
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.17771190598138614
+    },
+    {
+        "ids": [
+            75
+        ],
+        "doc_id": "votes_fggl0102_page1",
+        "pii_type": "Date",
+        "value": "GOLDEN BELT MEETING - NEW YORK - OCTOBER 11, 1994",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            428,
+            450,
+            1637,
+            496
+        ],
+        "source_file": "votes_fggl0102_page1.csv",
+        "probability": 0.03943782582945077
+    }
+]

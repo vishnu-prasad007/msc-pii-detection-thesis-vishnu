@@ -1,0 +1,746 @@
+[
+    {
+        "ids": [
+            0,
+            28,
+            53
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Person Name",
+        "value": "Jeffrey Wager",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            695,
+            430,
+            1060,
+            501
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            1
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Person Name",
+        "value": "Roland",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            918,
+            510,
+            1105,
+            568
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.07499590648417652
+    },
+    {
+        "ids": [
+            2,
+            30,
+            55
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Person Name",
+        "value": "William S. Caldwell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            634,
+            592,
+            1178,
+            663
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            3
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Person Name",
+        "value": "Pat",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1460,
+            595,
+            1560,
+            661
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.07499590648417652
+    },
+    {
+        "ids": [
+            4,
+            32,
+            57
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Person Name",
+        "value": "Jo Peay",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1574,
+            596,
+            1790,
+            664
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            5,
+            33,
+            58
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Person Name",
+        "value": "Don deBethizy",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1806,
+            596,
+            2212,
+            663
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            6
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Person Name",
+        "value": "Merouane",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            2514,
+            597,
+            2793,
+            664
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.07499590648417652
+    },
+    {
+        "ids": [
+            7,
+            35,
+            59
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Person Name",
+        "value": "Mark G. Scher, Ph.D.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            504,
+            672,
+            1058,
+            740
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            8,
+            36,
+            60
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Person Name",
+        "value": "Jeffrey D. Wager, M.D.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            503,
+            2605,
+            1116,
+            2678
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            9,
+            37,
+            63
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Email Address",
+        "value": "jwager@cwpp.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            681,
+            3501,
+            1170,
+            3572
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.9993010075376519
+    },
+    {
+        "ids": [
+            10,
+            64
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Email Address",
+        "value": "Greinwald@DRFALKPHARMA.DE",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1178,
+            3661,
+            2179,
+            3736
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.8286225190737826
+    },
+    {
+        "ids": [
+            11,
+            65
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Email Address",
+        "value": "jdwager@ibm.net",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            606,
+            3743,
+            1091,
+            3815
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.8286225190737826
+    },
+    {
+        "ids": [
+            12,
+            66
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Email Address",
+        "value": "M.Falk@falkfoundation.de",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            943,
+            3824,
+            1696,
+            3896
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.8286225190737826
+    },
+    {
+        "ids": [
+            13,
+            38,
+            67
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Phone Number",
+        "value": "508 370 3701",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            788,
+            3095,
+            1148,
+            3153
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.9990904025042505
+    },
+    {
+        "ids": [
+            14,
+            39,
+            68
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Phone Number",
+        "value": "508 370 4222",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            809,
+            3176,
+            1160,
+            3234
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.9990904025042505
+    },
+    {
+        "ids": [
+            15,
+            40,
+            69
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Phone Number",
+        "value": "617 497 6574",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            770,
+            3256,
+            1124,
+            3317
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.9990904025042505
+    },
+    {
+        "ids": [
+            16,
+            41,
+            70
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Phone Number",
+        "value": "617 497 6587",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            787,
+            3338,
+            1141,
+            3397
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.9990904025042505
+    },
+    {
+        "ids": [
+            17,
+            42,
+            71
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Phone Number",
+        "value": "617 584 0026",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            791,
+            3420,
+            1143,
+            3477
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.9990904025042505
+    },
+    {
+        "ids": [
+            18,
+            43,
+            72
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Location",
+        "value": "Sutie 301",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            504,
+            2849,
+            738,
+            2906
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.996034042417568
+    },
+    {
+        "ids": [
+            19,
+            44,
+            73
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Location",
+        "value": "161 Worcester Road",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            507,
+            2930,
+            1029,
+            2988
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.996034042417568
+    },
+    {
+        "ids": [
+            20,
+            45,
+            74
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Location",
+        "value": "Framingham, MA 01701",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            502,
+            3012,
+            1136,
+            3082
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.996034042417568
+    },
+    {
+        "ids": [
+            21,
+            46,
+            75
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Organization Name",
+        "value": "Commonwealth PharmaPartners, LLC",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            502,
+            2770,
+            1489,
+            2837
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.9900025300515797
+    },
+    {
+        "ids": [
+            22,
+            47,
+            76
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Date",
+        "value": "3/20/2000 10:49:42 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            912,
+            834,
+            1540,
+            891
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            23,
+            48,
+            77
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Date",
+        "value": "2000-Mar-20 10:49:42",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1072,
+            916,
+            1660,
+            973
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            24,
+            49,
+            78
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Date",
+        "value": "2000-Mar-20 10:08:18",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            804,
+            1076,
+            1390,
+            1136
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            25,
+            50,
+            79
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Date",
+        "value": "2000-Mar-20 10:49:42",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            928,
+            1159,
+            1519,
+            1219
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            26,
+            51,
+            80
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Date",
+        "value": "Friday, March 17, 2000 10:55 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            658,
+            3904,
+            1550,
+            3974
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            27,
+            52,
+            81
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Contract Number",
+        "value": "RJR0000001371017574",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            47,
+            4464,
+            744,
+            4524
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.9662050027718209
+    },
+    {
+        "ids": [
+            29,
+            54
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Person Name",
+        "value": "Greinwald, Roland",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            617,
+            510,
+            1105,
+            578
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.6937625365640808
+    },
+    {
+        "ids": [
+            31,
+            56
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Person Name",
+        "value": "Lippiello, Pat",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1193,
+            595,
+            1560,
+            664
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.6937625365640808
+    },
+    {
+        "ids": [
+            34
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Person Name",
+        "value": "Bencherif, Merouane",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            2225,
+            597,
+            2793,
+            664
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.04056118529657932
+    },
+    {
+        "ids": [
+            61
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Person Name",
+        "value": "Greinwald, Roland",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            676,
+            3661,
+            1164,
+            3731
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.019094487779212622
+    },
+    {
+        "ids": [
+            62
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Person Name",
+        "value": "Falk, Martin",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            608,
+            3823,
+            930,
+            3890
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.019094487779212622
+    },
+    {
+        "ids": [
+            82
+        ],
+        "doc_id": "votes_fjcx0221_page1",
+        "pii_type": "Contract Number",
+        "value": "70013 3629",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            46,
+            4546,
+            380,
+            4607
+        ],
+        "source_file": "votes_fjcx0221_page1.csv",
+        "probability": 0.06019907678829865
+    }
+]

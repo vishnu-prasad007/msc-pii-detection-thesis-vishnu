@@ -1,0 +1,388 @@
+[
+    {
+        "ids": [
+            0,
+            16,
+            32
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Person Name",
+        "value": "J. Burnside, Ph.D.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2735881209373474,
+            0.19440996646881104,
+            0.45390375703573227,
+            0.20807129610329866
+        ],
+        "source_file": "votes_fgph0228_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            17,
+            33
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Person Name",
+        "value": "S. Ambrose",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.33377817273139954,
+            0.2159639149904251,
+            0.43568629771471024,
+            0.22837805841118097
+        ],
+        "source_file": "votes_fgph0228_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            18,
+            34
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Location",
+        "value": "5050 Beech Place",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.10222218185663223,
+            0.10486465692520142,
+            0.22785109654068947,
+            0.11545647960156202
+        ],
+        "source_file": "votes_fgph0228_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            19,
+            35
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Location",
+        "value": "Temple Hills, Maryland 20748",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.10188763588666916,
+            0.11649296432733536,
+            0.31672168150544167,
+            0.12973980512470007
+        ],
+        "source_file": "votes_fgph0228_page1.csv"
+    },
+    {
+        "ids": [
+            4
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Location",
+        "value": "Wilmington, Massachusetts",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.6482622027397156,
+            0.7925193905830383,
+            0.904334768652916,
+            0.806574322283268
+        ],
+        "source_file": "votes_fgph0228_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            21,
+            38
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Organization Name",
+        "value": "BORRISTON LABORATORIES, INC. Borriston Laboratories, Inc.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.10249610990285873,
+            0.09103227406740189,
+            0.2941108662635088,
+            0.10253635607659817
+        ],
+        "source_file": "votes_fgph0228_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            22,
+            39
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Organization Name",
+        "value": "CHARLES RIVER BREEDING LABORATORIES Charles River Breeding Laboratories",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2739371657371521,
+            0.7912507057189941,
+            0.6371585130691528,
+            0.8063738709315658
+        ],
+        "source_file": "votes_fgph0228_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            23,
+            40
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Date",
+        "value": "2-24-83",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.8000937700271606,
+            0.08421924710273743,
+            0.871064268052578,
+            0.09548697806894779
+        ],
+        "source_file": "votes_fgph0228_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            24,
+            41
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Date",
+        "value": "2-24-83",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7492071390151978,
+            0.1941322386264801,
+            0.8204500749707222,
+            0.20571758598089218
+        ],
+        "source_file": "votes_fgph0228_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            25,
+            42
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Date",
+        "value": "3-01-83",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.74946528673172,
+            0.21579866111278534,
+            0.8201048672199249,
+            0.22739989776164293
+        ],
+        "source_file": "votes_fgph0228_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            26,
+            43
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Date",
+        "value": "12-03-82",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5682706832885742,
+            0.4903280436992645,
+            0.6556526720523834,
+            0.5034718830138445
+        ],
+        "source_file": "votes_fgph0228_page1.csv"
+    },
+    {
+        "ids": [
+            11,
+            27,
+            44
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Date",
+        "value": "1-28-83",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6693886518478394,
+            0.49019742012023926,
+            0.7399846836924553,
+            0.501843131147325
+        ],
+        "source_file": "votes_fgph0228_page1.csv"
+    },
+    {
+        "ids": [
+            12,
+            28,
+            45
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Date",
+        "value": "1-12-83",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5783922076225281,
+            0.5118143558502197,
+            0.6571976691484451,
+            0.5251960288733244
+        ],
+        "source_file": "votes_fgph0228_page1.csv"
+    },
+    {
+        "ids": [
+            13,
+            29,
+            46
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Date",
+        "value": "1-28-83",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6696591377258301,
+            0.5120134949684143,
+            0.7398450449109077,
+            0.5231699887663126
+        ],
+        "source_file": "votes_fgph0228_page1.csv"
+    },
+    {
+        "ids": [
+            14,
+            30,
+            47
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Date",
+        "value": "1-20-83",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5781362652778625,
+            0.5333674550056458,
+            0.655414029955864,
+            0.5466996897011995
+        ],
+        "source_file": "votes_fgph0228_page1.csv"
+    },
+    {
+        "ids": [
+            15,
+            31,
+            48
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Date",
+        "value": "2-14-83",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6684905290603638,
+            0.5333276987075806,
+            0.739999383687973,
+            0.5445937309414148
+        ],
+        "source_file": "votes_fgph0228_page1.csv"
+    },
+    {
+        "ids": [
+            20,
+            36
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Location",
+        "value": "Charles River Breeding Laboratories, Wilmington, Massachusetts",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.2739371657371521,
+            0.7912507057189941,
+            0.904334768652916,
+            0.806574322283268
+        ],
+        "source_file": "votes_fgph0228_page1.csv"
+    },
+    {
+        "ids": [
+            37
+        ],
+        "doc_id": "votes_fgph0228_page1",
+        "pii_type": "Organization Name",
+        "value": "LABORATORIES, INC.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.10203072428703308,
+            0.06335047632455826,
+            0.2569143529981375,
+            0.07464760448783636
+        ],
+        "source_file": "votes_fgph0228_page1.csv"
+    }
+]

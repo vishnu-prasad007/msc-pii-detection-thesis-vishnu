@@ -1,0 +1,240 @@
+[
+    {
+        "ids": [
+            0,
+            11,
+            22
+        ],
+        "doc_id": "votes_fjgh0000_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. II. E. Wright, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.13882866501808167,
+            0.13805381953716278,
+            0.31662807799875736,
+            0.15034053940325975
+        ],
+        "source_file": "votes_fjgh0000_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            12,
+            23
+        ],
+        "doc_id": "votes_fjgh0000_page1",
+        "pii_type": "Person Name",
+        "value": "R. S. Sprinkle, III",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.13880889117717743,
+            0.17632634937763214,
+            0.30121668241918087,
+            0.18887233640998602
+        ],
+        "source_file": "votes_fjgh0000_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            13,
+            24
+        ],
+        "doc_id": "votes_fjgh0000_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. J. T. Ashworth",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1811075359582901,
+            0.6408827304840088,
+            0.3351491838693619,
+            0.651172511279583
+        ],
+        "source_file": "votes_fjgh0000_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            14,
+            25
+        ],
+        "doc_id": "votes_fjgh0000_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. John G. Brooks",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18096591532230377,
+            0.654369592666626,
+            0.33433303609490395,
+            0.6648133061826229
+        ],
+        "source_file": "votes_fjgh0000_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            15,
+            26
+        ],
+        "doc_id": "votes_fjgh0000_page1",
+        "pii_type": "Person Name",
+        "value": "Dr. R. M. Irby, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18125954270362854,
+            0.6674055457115173,
+            0.34170228987932205,
+            0.6789533840492368
+        ],
+        "source_file": "votes_fjgh0000_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            16
+        ],
+        "doc_id": "votes_fjgh0000_page1",
+        "pii_type": "Person Name",
+        "value": "Dr. E. c. Cogbill",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.18100206553936005,
+            0.6804929375648499,
+            0.3251844272017479,
+            0.6916778329759836
+        ],
+        "source_file": "votes_fjgh0000_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            17,
+            27
+        ],
+        "doc_id": "votes_fjgh0000_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. B. F. Price",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18028418719768524,
+            0.6929962635040283,
+            0.30911751091480255,
+            0.7025464875623584
+        ],
+        "source_file": "votes_fjgh0000_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            18,
+            28
+        ],
+        "doc_id": "votes_fjgh0000_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. R. s. Sprinkle, III",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1810246706008911,
+            0.7057709693908691,
+            0.3770815394818783,
+            0.7176761897280812
+        ],
+        "source_file": "votes_fjgh0000_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            19
+        ],
+        "doc_id": "votes_fjgh0000_page1",
+        "pii_type": "Location",
+        "value": "New York",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.37508416175842285,
+            0.499735027551651,
+            0.4447609446942806,
+            0.5091597232967615
+        ],
+        "source_file": "votes_fjgh0000_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            20,
+            29
+        ],
+        "doc_id": "votes_fjgh0000_page1",
+        "pii_type": "Date",
+        "value": "December 6, 1972",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1381305456161499,
+            0.09941446781158447,
+            0.27566470950841904,
+            0.11150114703923464
+        ],
+        "source_file": "votes_fjgh0000_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            21,
+            30
+        ],
+        "doc_id": "votes_fjgh0000_page1",
+        "pii_type": "Contract Number",
+        "value": "ATX02 0182293",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6329265832901001,
+            0.8816307187080383,
+            0.7768905758857727,
+            0.8944404488429427
+        ],
+        "source_file": "votes_fjgh0000_page1.csv"
+    }
+]

@@ -1,0 +1,264 @@
+[
+    {
+        "ids": [
+            0,
+            10
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Person Name",
+        "value": "Trudy",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.2929878234863281,
+            0.047920700162649155,
+            0.3397121876478195,
+            0.0605514831840992
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            1,
+            11
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Person Name",
+        "value": "Hightower, Annette",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.40076112747192383,
+            0.196059450507164,
+            0.558299332857132,
+            0.20856500510126352
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            2,
+            12
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Person Name",
+        "value": "Annette Hightower",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.3521973490715027,
+            0.5756229758262634,
+            0.4701985791325569,
+            0.586018213070929
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            3,
+            13,
+            19
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Email Address",
+        "value": "ahightower@innovatix.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5608928799629211,
+            0.1955704689025879,
+            0.7850012928247452,
+            0.2082470841705799
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            4,
+            14,
+            20
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Email Address",
+        "value": "Jane.WILLIAMS@mallinckrodt.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5227279663085938,
+            0.22944007813930511,
+            0.7964632213115692,
+            0.2411130927503109
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Phone Number",
+        "value": "212-901-1307",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.3702586591243744,
+            0.6234077215194702,
+            0.47370702028274536,
+            0.6336974753066897
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            6
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Phone Number",
+        "value": "646-638-0792",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.4988502860069275,
+            0.6232956647872925,
+            0.6018518432974815,
+            0.6334922388195992
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            7,
+            15,
+            21
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Location",
+        "value": "555 W. 57th Street, 12th Floor New York, NY 10019",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.47026947140693665,
+            0.6063797473907471,
+            0.8564639538526535,
+            0.6184801300987601
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            8,
+            17,
+            25
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Innovatix, LLC",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3529011607170105,
+            0.5621417760848999,
+            0.43784112855792046,
+            0.5717228716239333
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            9,
+            18,
+            26
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Date",
+        "value": "November 11, 2013, 10:26:17 AM EST",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3971574604511261,
+            0.21291780471801758,
+            0.6740536242723465,
+            0.22451057191938162
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            16,
+            22
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Innovatix",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.5568224787712097,
+            0.0815059021115303,
+            0.6279958337545395,
+            0.09164190851151943
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            23
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt, Inc.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.7335055470466614,
+            0.35623860359191895,
+            0.8444680757820606,
+            0.36841328628361225
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Tyco Healthcare Com",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.8607685565948486,
+            0.35634708404541016,
+            0.9995337445288897,
+            0.3681273087859154
+        ],
+        "source_file": "votes_fgpb0239_page2.csv"
+    }
+]

@@ -1,0 +1,486 @@
+[
+    {
+        "ids": [
+            0,
+            15,
+            30,
+            39
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Mr. J. M. Mosely",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            217,
+            470,
+            399,
+            491
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            31,
+            40
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. Mosely",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            273,
+            605,
+            396,
+            626
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            2,
+            26,
+            32,
+            41,
+            53
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "John W. Boenigle JOHN BOENIGLE",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            550,
+            894,
+            835,
+            960
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            27,
+            33,
+            42,
+            54
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "John W. Boenigk JOHN BOENIGK",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            551,
+            942,
+            719,
+            964
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            8,
+            12,
+            36,
+            46,
+            49
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name",
+            "Location"
+        ],
+        "value": "MEDICAL COLLEGE OF VIRGINIA",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            391,
+            100,
+            751,
+            115
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            14,
+            34,
+            43
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "RICHMOND, VIRGINIA VIRCINIA",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            475,
+            160,
+            666,
+            174
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 0.9991601006789272
+    },
+    {
+        "ids": [
+            6,
+            18,
+            35,
+            44
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "400 Petersburg Turnpike",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            218,
+            537,
+            474,
+            558
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 0.9991601006789272
+    },
+    {
+        "ids": [
+            7,
+            19,
+            45,
+            52
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "Richmond-24, Virginia RICHMOND-24, VIRGINIA",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            217,
+            559,
+            453,
+            581
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 0.9421109639939541
+    },
+    {
+        "ids": [
+            9,
+            16,
+            37,
+            47,
+            50
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "The American Tobacco Company THE AMERICAN TOBACCO COMPANY",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            218,
+            492,
+            531,
+            514
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 0.9994792922522238
+    },
+    {
+        "ids": [
+            10,
+            38,
+            48
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Date",
+        "value": "October 11, 1955",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            705,
+            180,
+            881,
+            202
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            11,
+            57
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Contract Number",
+        "value": "NF - MCV - Gen Corr",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            762,
+            6,
+            973,
+            24
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 0.7676520611868158
+    },
+    {
+        "ids": [
+            13
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Contract Number",
+        "value": "MEDICINE DENTISTRY PHARMACY NURSING",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            431,
+            132,
+            709,
+            143
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 0.1538226533628269
+    },
+    {
+        "ids": [
+            17,
+            51
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Contract Number",
+        "value": "Research Laboratory RESEARCH LABORATORY",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            218,
+            515,
+            431,
+            537
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 0.7676520611868158
+    },
+    {
+        "ids": [
+            20
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Contract Number",
+        "value": "Dear Mr. Mosely:",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            219,
+            605,
+            396,
+            626
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 0.1538226533628269
+    },
+    {
+        "ids": [
+            21
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Contract Number",
+        "value": "I wish to express my appreciation for your informa-",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            330,
+            649,
+            892,
+            671
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 0.1538226533628269
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Contract Number",
+        "value": "tobacco for use in my extraction studies. Thank you very",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            219,
+            739,
+            850,
+            762
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 0.1538226533628269
+    },
+    {
+        "ids": [
+            23
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Contract Number",
+        "value": "much for your cooperation. I will advise you as to the suc-",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            218,
+            784,
+            882,
+            806
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 0.1538226533628269
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Contract Number",
+        "value": "cess or failure of the proposed studies.",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            220,
+            829,
+            660,
+            851
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 0.1538226533628269
+    },
+    {
+        "ids": [
+            25
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Contract Number",
+        "value": "Sincerely yours,",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            550,
+            874,
+            725,
+            897
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 0.1538226533628269
+    },
+    {
+        "ids": [
+            28,
+            55
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Contract Number",
+        "value": "Assoc. Professor of Pharmacy ASSOC. PROFESSOR OF PHARMACY",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            551,
+            965,
+            862,
+            986
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 0.7676520611868158
+    },
+    {
+        "ids": [
+            29,
+            56
+        ],
+        "doc_id": "votes_fgdp0140_page1",
+        "pii_type": "Contract Number",
+        "value": "JWB:H",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            219,
+            1010,
+            278,
+            1028
+        ],
+        "source_file": "votes_fgdp0140_page1.csv",
+        "probability": 0.7676520611868158
+    }
+]

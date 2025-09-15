@@ -1,0 +1,689 @@
+[
+  {
+    "ids": [
+      0,
+      31,
+      52
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Person Name",
+    "value": "lan Ambron",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      593,
+      141,
+      650,
+      149
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      1,
+      32,
+      53
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Person Name",
+    "value": "lan Ambron",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      27,
+      517,
+      84,
+      525
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      2,
+      33
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Location",
+    "value": "1010 Wisconsin Ave NW",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      236,
+      252,
+      357,
+      260
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      3,
+      34
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Location",
+    "value": "Washington, DC 20007-3674",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      233,
+      268,
+      379,
+      277
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      4,
+      35,
+      55
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "HOUSE MAJORITY PAC",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      235,
+      109,
+      359,
+      117
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      5,
+      38,
+      56
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "KSTC-TV, LLC",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      593,
+      123,
+      668,
+      132
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      6,
+      36,
+      57
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "Waterfront Strategies",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      235,
+      204,
+      347,
+      214
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      7,
+      37,
+      58
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "House Majority PAC",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      235,
+      300,
+      341,
+      309
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      8
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "CABLE",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      26,
+      603,
+      63,
+      611
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      9
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "KARE",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      27,
+      616,
+      57,
+      624
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      10
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "KMSP",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      27,
+      629,
+      58,
+      637
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      11
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "KMWB",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      27,
+      642,
+      61,
+      650
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      12
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "KPXM",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      27,
+      654,
+      58,
+      662
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      13
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "KRWF",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      27,
+      667,
+      59,
+      675
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      14
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "KSAX",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      26,
+      680,
+      57,
+      688
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      15
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "KSTP",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      26,
+      692,
+      56,
+      701
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      16
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "WCCO",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      26,
+      705,
+      62,
+      713
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      17
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "WFTC",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      26,
+      718,
+      59,
+      726
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      18,
+      40
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Date",
+    "value": "04/08/20 15:42:14",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      617,
+      20,
+      706,
+      28
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      19,
+      41,
+      60
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Date",
+    "value": "10/20/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      236,
+      141,
+      279,
+      149
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      20,
+      42,
+      61
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Date",
+    "value": "10/26/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      288,
+      141,
+      331,
+      149
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      21,
+      22
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Date",
+    "value": "04/08/20",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      235,
+      157,
+      279,
+      165
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      23,
+      24,
+      45,
+      46
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Date",
+    "value": "10/26/20",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      27,
+      460,
+      70,
+      468
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      25,
+      47,
+      62
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Date",
+    "value": "10/20/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      97,
+      768,
+      140,
+      776
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      26,
+      48,
+      63
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Date",
+    "value": "10/26/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      146,
+      768,
+      189,
+      776
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      27,
+      64
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Date",
+    "value": "10/20/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      75,
+      803,
+      118,
+      811
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      28,
+      65
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Date",
+    "value": "10/26/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      140,
+      803,
+      183,
+      811
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      29,
+      66
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "ORDER",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      380,
+      33,
+      459,
+      47
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      30,
+      49,
+      67
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "45TV",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      600,
+      45,
+      723,
+      86
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      39,
+      59
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "KSTC-TV, LLC",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      26,
+      552,
+      100,
+      561
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      43
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Date",
+    "value": "09/28/20",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      26,
+      447,
+      70,
+      455
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      44
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": "Date",
+    "value": "10/25/20",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      102,
+      447,
+      145,
+      455
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      50,
+      68
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": [
+      "Contract Number",
+      "Invoice Number"
+    ],
+    "value": "384678",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      235,
+      77,
+      273,
+      85
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      51,
+      54,
+      69
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1",
+    "pii_type": [
+      "Phone Number",
+      "Contract Number",
+      "Invoice Number"
+    ],
+    "value": "09813062",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      235,
+      93,
+      285,
+      101
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page1.csv"
+  }
+]

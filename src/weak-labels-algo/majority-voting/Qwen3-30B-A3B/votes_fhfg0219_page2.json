@@ -1,0 +1,325 @@
+[
+    {
+        "ids": [
+            0,
+            15,
+            29
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Person Name",
+        "value": "Dr. A. W. Spears",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            416,
+            351,
+            852,
+            412
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            16,
+            30
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Person Name",
+        "value": "Ron Milstein",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1470,
+            980,
+            1785,
+            1029
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            17,
+            31
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Person Name",
+        "value": "Haney Bell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1469,
+            1050,
+            1740,
+            1109
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            18,
+            32
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Person Name",
+        "value": "Michael Shannon",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1476,
+            1328,
+            1898,
+            1378
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            19,
+            33
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Person Name",
+        "value": "Ron Milstein",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1465,
+            1609,
+            1779,
+            1659
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            20,
+            34
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Person Name",
+        "value": "Haney Bell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1465,
+            1678,
+            1735,
+            1738
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            21,
+            35
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Person Name",
+        "value": "Haney Bell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1461,
+            2026,
+            1732,
+            2086
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            7,
+            22,
+            36
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Person Name",
+        "value": "Ron Milstein",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1458,
+            2374,
+            1774,
+            2425
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            8,
+            23,
+            37
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Person Name",
+        "value": "Haney Bell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1456,
+            2864,
+            1726,
+            2923
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            9,
+            24,
+            38
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Person Name",
+        "value": "Ron Milstein",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1455,
+            3141,
+            1768,
+            3191
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            10,
+            11,
+            25,
+            39
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Person Name",
+        "value": "Haney Bell Bell*",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1451,
+            3420,
+            1750,
+            3479
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            12,
+            26,
+            40
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Organization Name",
+        "value": "SEC",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            403,
+            2234,
+            518,
+            2283
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            13,
+            27,
+            41
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Organization Name",
+        "value": "NYSE",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            632,
+            2234,
+            792,
+            2282
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            14,
+            28,
+            42
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Date",
+        "value": "August 9, 1999",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            415,
+            491,
+            792,
+            551
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 1.0
+    }
+]

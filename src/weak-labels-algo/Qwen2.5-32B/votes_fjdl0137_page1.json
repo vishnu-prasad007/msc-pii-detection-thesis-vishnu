@@ -1,0 +1,122 @@
+[
+    {
+        "ids": [
+            0
+        ],
+        "doc_id": "votes_fjdl0137_page1",
+        "pii_type": "Person Name",
+        "value": "Dixon, W. E.",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            235,
+            386,
+            368,
+            407
+        ],
+        "source_file": "votes_fjdl0137_page1.csv",
+        "probability": 0.07499590648417652
+    },
+    {
+        "ids": [
+            1
+        ],
+        "doc_id": "votes_fjdl0137_page1",
+        "pii_type": "Organization Name",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fjdl0137",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            253,
+            1543,
+            953,
+            1571
+        ],
+        "source_file": "votes_fjdl0137_page1.csv",
+        "probability": 0.1028057144625539
+    },
+    {
+        "ids": [
+            2,
+            6
+        ],
+        "doc_id": "votes_fjdl0137_page1",
+        "pii_type": "Contract Number",
+        "value": "ne",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1044,
+            5,
+            1070,
+            17
+        ],
+        "source_file": "votes_fjdl0137_page1.csv",
+        "probability": 0.6029314133878007
+    },
+    {
+        "ids": [
+            3,
+            4
+        ],
+        "doc_id": "votes_fjdl0137_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Mr. Hammor",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            279,
+            142,
+            393,
+            159
+        ],
+        "source_file": "votes_fjdl0137_page1.csv",
+        "probability": 0.0298515118307445
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fjdl0137_page1",
+        "pii_type": "Date",
+        "value": "12-19-48",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            746,
+            34,
+            837,
+            51
+        ],
+        "source_file": "votes_fjdl0137_page1.csv",
+        "probability": 0.02681909180830383
+    },
+    {
+        "ids": [
+            7
+        ],
+        "doc_id": "votes_fjdl0137_page1",
+        "pii_type": "Contract Number",
+        "value": "Content Smoke - His to Gen",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            758,
+            19,
+            1045,
+            42
+        ],
+        "source_file": "votes_fjdl0137_page1.csv",
+        "probability": 0.06019907678829865
+    }
+]

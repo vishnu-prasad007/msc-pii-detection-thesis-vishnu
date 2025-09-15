@@ -1,0 +1,175 @@
+[
+    {
+        "ids": [
+            0,
+            8
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Person Name",
+        "value": "Gaworski, Charles L.",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            928,
+            573,
+            1386,
+            621
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 0.9223996674224194
+    },
+    {
+        "ids": [
+            1,
+            9
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Person Name",
+        "value": "Gaworski, Charles L.",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            488,
+            1356,
+            944,
+            1402
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 0.9223996674224194
+    },
+    {
+        "ids": [
+            2
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Person Name",
+        "value": "Chuck",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            307,
+            2022,
+            450,
+            2061
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 0.12241525286457304
+    },
+    {
+        "ids": [
+            3,
+            7,
+            11,
+            14,
+            17
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "PM3009480642",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2762,
+            4090,
+            3169,
+            4136
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            12,
+            15
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Date",
+        "value": "Thursday, May 20, 2004 2:16 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            926,
+            629,
+            1662,
+            678
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            5,
+            13,
+            16
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Date",
+        "value": "Friday, June 08, 2001 9:24 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            486,
+            1409,
+            1169,
+            1460
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            6
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Contract Number",
+        "value": "1",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1640,
+            3880,
+            1657,
+            3913
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 0.1538226533628269
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Person Name",
+        "value": "Raj",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            308,
+            1632,
+            395,
+            1681
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 0.02850581844543203
+    }
+]

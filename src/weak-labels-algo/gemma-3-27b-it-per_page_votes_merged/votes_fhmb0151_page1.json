@@ -1,0 +1,221 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            16
+        ],
+        "doc_id": "votes_fhmb0151_page1",
+        "pii_type": "Person Name",
+        "value": "Karen Eisen",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7853416204452515,
+            0.13103953003883362,
+            0.8906325772404671,
+            0.1423888746649027
+        ],
+        "source_file": "votes_fhmb0151_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            8,
+            17
+        ],
+        "doc_id": "votes_fhmb0151_page1",
+        "pii_type": "Person Name",
+        "value": "D. Beran",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.213219553232193,
+            0.5562009811401367,
+            0.2791135348379612,
+            0.5673827845603228
+        ],
+        "source_file": "votes_fhmb0151_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            9,
+            18
+        ],
+        "doc_id": "votes_fhmb0151_page1",
+        "pii_type": "Person Name",
+        "value": "N. Lund",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.21290169656276703,
+            0.5706882476806641,
+            0.2761181555688381,
+            0.5814993642270565
+        ],
+        "source_file": "votes_fhmb0151_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            10,
+            19
+        ],
+        "doc_id": "votes_fhmb0151_page1",
+        "pii_type": "Person Name",
+        "value": "S. Piskor",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.21315525472164154,
+            0.5847927331924438,
+            0.28242454677820206,
+            0.5959907341748476
+        ],
+        "source_file": "votes_fhmb0151_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            11,
+            20
+        ],
+        "doc_id": "votes_fhmb0151_page1",
+        "pii_type": "Person Name",
+        "value": "J. Taylor",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2124951332807541,
+            0.5990815162658691,
+            0.27995261922478676,
+            0.6128215063363314
+        ],
+        "source_file": "votes_fhmb0151_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            12,
+            15,
+            21,
+            25,
+            27
+        ],
+        "doc_id": "votes_fhmb0151_page1",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number",
+            "Location"
+        ],
+        "value": "2045725812",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.813025712966919,
+            0.9307441115379333,
+            0.941098764538765,
+            0.9434334021061659
+        ],
+        "source_file": "votes_fhmb0151_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            14,
+            23,
+            26
+        ],
+        "doc_id": "votes_fhmb0151_page1",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "July 31, 1992",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.21372556686401367,
+            0.15673960745334625,
+            0.31537042930722237,
+            0.17067171540111303
+        ],
+        "source_file": "votes_fhmb0151_page1.csv"
+    },
+    {
+        "ids": [
+            13
+        ],
+        "doc_id": "votes_fhmb0151_page1",
+        "pii_type": "Organization Name",
+        "value": "Marlboro",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.3489052355289459,
+            0.25626876950263977,
+            0.41751308739185333,
+            0.2674064440652728
+        ],
+        "source_file": "votes_fhmb0151_page1.csv"
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fhmb0151_page1",
+        "pii_type": "Location",
+        "value": "PM",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.15488474071025848,
+            0.09290723502635956,
+            0.1691512679681182,
+            0.10407153144478798
+        ],
+        "source_file": "votes_fhmb0151_page1.csv"
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fhmb0151_page1",
+        "pii_type": "Location",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fhmb0151",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.21920163929462433,
+            0.9808216094970703,
+            0.7797106057405472,
+            0.9976943302899599
+        ],
+        "source_file": "votes_fhmb0151_page1.csv"
+    }
+]

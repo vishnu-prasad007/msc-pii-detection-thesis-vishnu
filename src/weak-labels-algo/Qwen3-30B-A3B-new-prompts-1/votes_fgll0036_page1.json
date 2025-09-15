@@ -1,0 +1,299 @@
+[
+    {
+        "ids": [
+            0,
+            14,
+            26
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Person Name",
+        "value": "Paul Jacobsen",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            807,
+            989,
+            1168,
+            1027
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            1,
+            15,
+            27
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Person Name",
+        "value": "James N. Gardner",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            807,
+            1502,
+            1256,
+            1539
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            2,
+            16,
+            28
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Phone Number",
+        "value": "(503) 226-7677",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1215,
+            526,
+            1598,
+            572
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.9999586296752602
+    },
+    {
+        "ids": [
+            3,
+            17,
+            29
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Phone Number",
+        "value": "(503) 226-7697",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1229,
+            573,
+            1614,
+            618
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.9999586296752602
+    },
+    {
+        "ids": [
+            4,
+            18,
+            30
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Phone Number",
+        "value": "1-206-646-3091",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            808,
+            1268,
+            1192,
+            1306
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.9999586296752602
+    },
+    {
+        "ids": [
+            5,
+            19,
+            31
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Phone Number",
+        "value": "1-206-646-3093",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            809,
+            1361,
+            1196,
+            1399
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.9999586296752602
+    },
+    {
+        "ids": [
+            6,
+            20,
+            32
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Location",
+        "value": "222 s. W. Columbia, Suite 1600",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            847,
+            434,
+            1682,
+            478
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.9994942493793072
+    },
+    {
+        "ids": [
+            7,
+            21,
+            33
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Location",
+        "value": "Portland, Oregon 97201-6616",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            889,
+            481,
+            1641,
+            526
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.9994942493793072
+    },
+    {
+        "ids": [
+            8,
+            22
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Location",
+        "value": "CITY/STATE: Bellevue, Washington",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            355,
+            1174,
+            1364,
+            1216
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.931004126329875
+    },
+    {
+        "ids": [
+            9,
+            13,
+            23,
+            34
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": [
+            "Person Name",
+            "Organization Name"
+        ],
+        "value": "LINDSAY, HART, NEIL & WEIGLER",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            858,
+            388,
+            1672,
+            432
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            10,
+            24,
+            35
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Organization Name",
+        "value": "The Tobacco Institute",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            807,
+            1082,
+            1391,
+            1120
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.997213720928886
+    },
+    {
+        "ids": [
+            11,
+            25,
+            36
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Date",
+        "value": "August 28, 1991",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            807,
+            896,
+            1224,
+            936
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.9999750930787068
+    },
+    {
+        "ids": [
+            12
+        ],
+        "doc_id": "votes_fgll0036_page1",
+        "pii_type": "Contract Number",
+        "value": "52711-0005",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            812,
+            1778,
+            1085,
+            1815
+        ],
+        "source_file": "votes_fgll0036_page1.csv",
+        "probability": 0.16277336328464415
+    }
+]

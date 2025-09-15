@@ -1,0 +1,713 @@
+[
+    {
+        "ids": [
+            0,
+            17,
+            32
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Person Name",
+        "value": "Dr. S. Sears",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            440,
+            1170,
+            798,
+            1206
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            1,
+            33
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Person Name",
+        "value": "Dr. Sears",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            682,
+            1270,
+            948,
+            1306
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 0.8622531513884912
+    },
+    {
+        "ids": [
+            2,
+            18,
+            34,
+            61
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Alan",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1663,
+            1389,
+            1953,
+            1528
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            19,
+            35,
+            62
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "A. Rodgman",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1691,
+            1520,
+            1993,
+            1564
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            20,
+            36,
+            65
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Dr. W. M. Hildebolt",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            284,
+            1816,
+            855,
+            1856
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            21,
+            37,
+            66
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Mr. B. V. Hardin",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            281,
+            1867,
+            769,
+            1906
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            22,
+            38,
+            67
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Dr. A. W. Hayes",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            284,
+            1919,
+            736,
+            1965
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            7,
+            23,
+            39,
+            68
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Mr. D. R. Pugh",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            281,
+            1970,
+            708,
+            2015
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            8,
+            24,
+            40,
+            69
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Dr. W. S. Simmons",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            285,
+            2019,
+            795,
+            2057
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            9,
+            25,
+            41,
+            70
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Dr. M. E. Stowe",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            284,
+            2069,
+            737,
+            2107
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            10,
+            26,
+            42,
+            71
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Dr. C. E. Teague, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            283,
+            2120,
+            906,
+            2164
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            11,
+            27,
+            43,
+            72
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Mr. H. C. Threatt, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            281,
+            2169,
+            935,
+            2212
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            12,
+            28,
+            44,
+            73
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Mr. W. D. Dahne",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            280,
+            2219,
+            736,
+            2257
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            13,
+            29,
+            45,
+            74
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Mr. T. H. Eskew",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            280,
+            2270,
+            738,
+            2308
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            14,
+            75
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "0165",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            2456,
+            2920,
+            2498,
+            3040
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            15,
+            30,
+            46,
+            57
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "Kepner-Tregoe Course",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            438,
+            1068,
+            1038,
+            1114
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 0.9994792922522238
+    },
+    {
+        "ids": [
+            16,
+            47
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Organization Name",
+        "value": "Kepner-Tregoe",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            288,
+            1219,
+            673,
+            1264
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 0.7749052148181887
+    },
+    {
+        "ids": [
+            31,
+            59
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "Kepner-Tregoe instructor. Two Kepner-Tregoe courses will be",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            288,
+            1215,
+            2083,
+            1264
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 0.9239622788702215
+    },
+    {
+        "ids": [
+            48
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Contract Number",
+        "value": "Weekly Highlights, Fundamental R&D",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            282,
+            141,
+            1135,
+            191
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            49
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Contract Number",
+        "value": "Page 3",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            284,
+            196,
+            437,
+            245
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            50
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Contract Number",
+        "value": "There is evidence that the formaldehyde collecting on the",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            441,
+            562,
+            2026,
+            611
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            51
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Contract Number",
+        "value": "chimney of the smoking apparatus is present as",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            289,
+            613,
+            1665,
+            659
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            52
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Contract Number",
+        "value": "hexamethylenetetramine (HMTA) . However, we have not been able to",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            297,
+            663,
+            2239,
+            709
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            53
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Contract Number",
+        "value": "detect the presence of HMTA in ETS. The possibility exists that",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            288,
+            714,
+            2207,
+            761
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            54
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Contract Number",
+        "value": "HMTA is an artifact of the sidestream collection apparatus.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            288,
+            764,
+            2045,
+            811
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            55
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Contract Number",
+        "value": "Further experiments are in progress.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            290,
+            813,
+            1356,
+            860
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            56
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Contract Number",
+        "value": "MISCELLANEOUS",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            287,
+            968,
+            682,
+            1002
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            58
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Contract Number",
+        "value": "Dr. S. Sears has officially been certified as a",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            440,
+            1166,
+            1843,
+            1214
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            60
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Contract Number",
+        "value": "presented by Dr. Sears to R&D personnel later this year.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            286,
+            1267,
+            1954,
+            1315
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            63
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Contract Number",
+        "value": "/ng",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            287,
+            1618,
+            380,
+            1668
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            64
+        ],
+        "doc_id": "votes_fgyk0087_page3",
+        "pii_type": "Contract Number",
+        "value": "Distribution:",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            286,
+            1715,
+            666,
+            1755
+        ],
+        "source_file": "votes_fgyk0087_page3.csv",
+        "probability": 0.18724450043103621
+    }
+]

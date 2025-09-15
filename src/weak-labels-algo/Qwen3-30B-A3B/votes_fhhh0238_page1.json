@@ -1,0 +1,371 @@
+[
+    {
+        "ids": [
+            0,
+            12,
+            28
+        ],
+        "doc_id": "votes_fhhh0238_page1",
+        "pii_type": "Person Name",
+        "value": "Spaulding, Eileen L.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            420,
+            270,
+            742,
+            309
+        ],
+        "source_file": "votes_fhhh0238_page1.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            1,
+            13,
+            29
+        ],
+        "doc_id": "votes_fhhh0238_page1",
+        "pii_type": "Person Name",
+        "value": "Gula, Debbie A",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            420,
+            372,
+            670,
+            409
+        ],
+        "source_file": "votes_fhhh0238_page1.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            2,
+            15,
+            30
+        ],
+        "doc_id": "votes_fhhh0238_page1",
+        "pii_type": "Person Name",
+        "value": "Smugula, Molly",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            277,
+            963,
+            576,
+            1001
+        ],
+        "source_file": "votes_fhhh0238_page1.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            3,
+            16,
+            31
+        ],
+        "doc_id": "votes_fhhh0238_page1",
+        "pii_type": "Person Name",
+        "value": "Banks, Sharron",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            982,
+            1039,
+            1280,
+            1075
+        ],
+        "source_file": "votes_fhhh0238_page1.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            4,
+            17,
+            32
+        ],
+        "doc_id": "votes_fhhh0238_page1",
+        "pii_type": "Person Name",
+        "value": "Spatz, John",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            706,
+            1079,
+            953,
+            1116
+        ],
+        "source_file": "votes_fhhh0238_page1.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            5,
+            18,
+            33
+        ],
+        "doc_id": "votes_fhhh0238_page1",
+        "pii_type": "Person Name",
+        "value": "Mitchell, Pattie",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1364,
+            1077,
+            1722,
+            1116
+        ],
+        "source_file": "votes_fhhh0238_page1.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            6,
+            19,
+            34
+        ],
+        "doc_id": "votes_fhhh0238_page1",
+        "pii_type": "Person Name",
+        "value": "Watts, Jayme L",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1746,
+            1082,
+            2049,
+            1117
+        ],
+        "source_file": "votes_fhhh0238_page1.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            7,
+            21,
+            35
+        ],
+        "doc_id": "votes_fhhh0238_page1",
+        "pii_type": "Email Address",
+        "value": "Eileen.Spaulding@mallinckrodt.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            753,
+            270,
+            1382,
+            309
+        ],
+        "source_file": "votes_fhhh0238_page1.csv",
+        "probability": 0.9999642977249807
+    },
+    {
+        "ids": [
+            8,
+            22,
+            36
+        ],
+        "doc_id": "votes_fhhh0238_page1",
+        "pii_type": "Email Address",
+        "value": "Debbie.Gula@mallinckrodt.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            669,
+            371,
+            1246,
+            410
+        ],
+        "source_file": "votes_fhhh0238_page1.csv",
+        "probability": 0.9999642977249807
+    },
+    {
+        "ids": [
+            9,
+            26,
+            38
+        ],
+        "doc_id": "votes_fhhh0238_page1",
+        "pii_type": "Date",
+        "value": "12/19/2013 2:58:22 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            420,
+            320,
+            822,
+            359
+        ],
+        "source_file": "votes_fhhh0238_page1.csv",
+        "probability": 0.9999113980940532
+    },
+    {
+        "ids": [
+            10,
+            27,
+            39
+        ],
+        "doc_id": "votes_fhhh0238_page1",
+        "pii_type": "Date",
+        "value": "Thursday, December 19, 2013 9:50 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            275,
+            1002,
+            1026,
+            1041
+        ],
+        "source_file": "votes_fhhh0238_page1.csv",
+        "probability": 0.9999113980940532
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fhhh0238_page1",
+        "pii_type": "Contract Number",
+        "value": "MNKOI 0001771814",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            2088,
+            3304,
+            2466,
+            3340
+        ],
+        "source_file": "votes_fhhh0238_page1.csv",
+        "probability": 0.07176527446882788
+    },
+    {
+        "ids": [
+            14
+        ],
+        "doc_id": "votes_fhhh0238_page1",
+        "pii_type": "Person Name",
+        "value": "Eileen",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            150,
+            772,
+            277,
+            804
+        ],
+        "source_file": "votes_fhhh0238_page1.csv",
+        "probability": 0.02598655978191918
+    },
+    {
+        "ids": [
+            20
+        ],
+        "doc_id": "votes_fhhh0238_page1",
+        "pii_type": "Person Name",
+        "value": "Molly",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            148,
+            1460,
+            256,
+            1497
+        ],
+        "source_file": "votes_fhhh0238_page1.csv",
+        "probability": 0.02598655978191918
+    },
+    {
+        "ids": [
+            23,
+            37
+        ],
+        "doc_id": "votes_fhhh0238_page1",
+        "pii_type": "Organization Name",
+        "value": "Hobart",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            497,
+            424,
+            614,
+            455
+        ],
+        "source_file": "votes_fhhh0238_page1.csv",
+        "probability": 0.9226815376944175
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fhhh0238_page1",
+        "pii_type": "Organization Name",
+        "value": "Hobart",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            342,
+            1118,
+            470,
+            1149
+        ],
+        "source_file": "votes_fhhh0238_page1.csv",
+        "probability": 0.16106151252424816
+    },
+    {
+        "ids": [
+            25
+        ],
+        "doc_id": "votes_fhhh0238_page1",
+        "pii_type": "Organization Name",
+        "value": "Hobart",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            705,
+            1192,
+            872,
+            1224
+        ],
+        "source_file": "votes_fhhh0238_page1.csv",
+        "probability": 0.16106151252424816
+    }
+]

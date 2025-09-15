@@ -1,0 +1,521 @@
+[
+    {
+        "ids": [
+            0,
+            20,
+            43
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Coffey, Tracey R",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            284,
+            377,
+            590,
+            422
+        ],
+        "source_file": "votes_fhkm0251_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            21,
+            44
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Annemieke Glass",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            228,
+            478,
+            541,
+            515
+        ],
+        "source_file": "votes_fhkm0251_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            22,
+            45
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Rehkop, Brenda D",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            227,
+            528,
+            561,
+            573
+        ],
+        "source_file": "votes_fhkm0251_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            23,
+            46
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Annemike Annemike,",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            148,
+            686,
+            345,
+            724
+        ],
+        "source_file": "votes_fhkm0251_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            24,
+            47
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Tracey",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            149,
+            876,
+            277,
+            919
+        ],
+        "source_file": "votes_fhkm0251_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            25,
+            48
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Annemieke Glass",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            282,
+            983,
+            598,
+            1021
+        ],
+        "source_file": "votes_fhkm0251_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            26,
+            49
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Coffey, Tracey R",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            227,
+            1083,
+            534,
+            1127
+        ],
+        "source_file": "votes_fhkm0251_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            7,
+            27,
+            50
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Marcel Hendriks",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            589,
+            1134,
+            882,
+            1171
+        ],
+        "source_file": "votes_fhkm0251_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            8,
+            28,
+            51
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Pepijn Grau",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1136,
+            1135,
+            1348,
+            1178
+        ],
+        "source_file": "votes_fhkm0251_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            9,
+            29,
+            52
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Louise Groenenboom",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1604,
+            1134,
+            1992,
+            1171
+        ],
+        "source_file": "votes_fhkm0251_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            10,
+            30,
+            53
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Irma",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2245,
+            1135,
+            2334,
+            1171
+        ],
+        "source_file": "votes_fhkm0251_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            11,
+            31,
+            54
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Karsten",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            150,
+            1185,
+            300,
+            1226
+        ],
+        "source_file": "votes_fhkm0251_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            12,
+            32,
+            55
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Dominique Zwinkels",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            317,
+            1185,
+            696,
+            1228
+        ],
+        "source_file": "votes_fhkm0251_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            13,
+            33,
+            56
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Annemieke Glass",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            709,
+            1184,
+            1022,
+            1222
+        ],
+        "source_file": "votes_fhkm0251_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            14,
+            34,
+            57
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Dear Tracey",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            149,
+            1384,
+            388,
+            1427
+        ],
+        "source_file": "votes_fhkm0251_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            15,
+            35,
+            58
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Organization Name",
+        "value": "SCMS",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            309,
+            156,
+            427,
+            189
+        ],
+        "source_file": "votes_fhkm0251_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            16,
+            36,
+            60
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Organization Name",
+        "value": "nl.pfscm.org",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            553,
+            478,
+            811,
+            523
+        ],
+        "source_file": "votes_fhkm0251_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            17,
+            40
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            791,
+            2601,
+            1035,
+            2635
+        ],
+        "source_file": "votes_fhkm0251_page2.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            18,
+            41,
+            62
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Date",
+        "value": "Monday, August 11, 2008 10:57 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            273,
+            428,
+            929,
+            471
+        ],
+        "source_file": "votes_fhkm0251_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            19,
+            42,
+            63
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Date",
+        "value": "Thursday, August 07, 2008 8:52 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            269,
+            1032,
+            934,
+            1077
+        ],
+        "source_file": "votes_fhkm0251_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            37
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Organization Name",
+        "value": "nl.pfscm.org",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            610,
+            984,
+            869,
+            1027
+        ],
+        "source_file": "votes_fhkm0251_page2.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            38,
+            59
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Organization Name",
+        "value": "pfscm.org",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            894,
+            1134,
+            1118,
+            1179
+        ],
+        "source_file": "votes_fhkm0251_page2.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            39,
+            61
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Organization Name",
+        "value": "nl.pfscm.org",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1034,
+            1184,
+            1294,
+            1229
+        ],
+        "source_file": "votes_fhkm0251_page2.csv",
+        "probability": 0.6666666666666666
+    }
+]

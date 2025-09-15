@@ -1,0 +1,232 @@
+[
+    {
+        "ids": [
+            0,
+            10,
+            20
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Person Name",
+        "value": "KARA QUICK",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            831,
+            464,
+            1047,
+            496
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            1,
+            11,
+            21
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Location",
+        "value": "1 WILEY DR",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            833,
+            714,
+            1027,
+            746
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "probability": 0.9986946830029205
+    },
+    {
+        "ids": [
+            2,
+            12,
+            22
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Location",
+        "value": "SOMERSET",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            834,
+            769,
+            1017,
+            800
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "probability": 0.9986946830029205
+    },
+    {
+        "ids": [
+            3,
+            13,
+            23
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Location",
+        "value": "NU",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            830,
+            822,
+            872,
+            853
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "probability": 0.9986946830029205
+    },
+    {
+        "ids": [
+            4,
+            14,
+            24
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Location",
+        "value": "08873",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            830,
+            875,
+            930,
+            906
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "probability": 0.9986946830029205
+    },
+    {
+        "ids": [
+            5,
+            15,
+            25
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Location",
+        "value": "UNITED STATES",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            831,
+            929,
+            1095,
+            961
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "probability": 0.9986946830029205
+    },
+    {
+        "ids": [
+            6,
+            16,
+            26
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Organization Name",
+        "value": "JWS WILEY PUBLISHERS800-758-9477 NJ",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            830,
+            284,
+            1515,
+            316
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "probability": 0.991968246240452
+    },
+    {
+        "ids": [
+            7,
+            17,
+            27
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Organization Name",
+        "value": "JOHNWILEY & SONS INC",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            830,
+            631,
+            1243,
+            663
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "probability": 0.991968246240452
+    },
+    {
+        "ids": [
+            8,
+            18,
+            28
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Date",
+        "value": "5/1/12",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            58,
+            69,
+            153,
+            98
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "probability": 0.9998134030756157
+    },
+    {
+        "ids": [
+            9,
+            19,
+            29
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Date",
+        "value": "05/13/2011",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            831,
+            201,
+            1007,
+            231
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "probability": 0.9998134030756157
+    }
+]

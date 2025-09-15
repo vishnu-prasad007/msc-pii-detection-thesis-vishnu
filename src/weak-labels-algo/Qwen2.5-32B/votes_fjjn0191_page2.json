@@ -1,0 +1,580 @@
+[
+    {
+        "ids": [
+            0,
+            27
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Ernesto Antich",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            551,
+            1086,
+            786,
+            1119
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            1,
+            28
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Eugenio Rengifo",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            550,
+            1131,
+            817,
+            1172
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            2,
+            29
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Patricio Bellolio",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            550,
+            1178,
+            809,
+            1212
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            3,
+            30
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Dr CJP de Siqueira",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            550,
+            1223,
+            879,
+            1265
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            4,
+            31
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Edgar Codero",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            551,
+            1270,
+            771,
+            1309
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            5,
+            32
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Orlando Schoenstedt",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            551,
+            1315,
+            875,
+            1349
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            6,
+            33
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Peter Taylor",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            549,
+            1361,
+            751,
+            1400
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            7,
+            34
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Amilcar Santamaria",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            548,
+            1406,
+            864,
+            1438
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            8,
+            35
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "David Vega",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            549,
+            1450,
+            741,
+            1490
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            9,
+            36
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "Hugh Tweed",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            547,
+            1497,
+            754,
+            1536
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "S.4 ena",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            592,
+            2192,
+            774,
+            2258
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.07499590648417652
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Person Name",
+        "value": "pp. Dr S Boyse",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            450,
+            2311,
+            732,
+            2378
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.07499590648417652
+    },
+    {
+        "ids": [
+            12
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Phone Number",
+        "value": "0784 455 000",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1373,
+            2814,
+            1560,
+            2836
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.03486143126373786
+    },
+    {
+        "ids": [
+            13,
+            39
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Venezuela",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1118,
+            1084,
+            1279,
+            1117
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.8994426145085483
+    },
+    {
+        "ids": [
+            14,
+            40
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Chile",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1119,
+            1131,
+            1203,
+            1165
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.8994426145085483
+    },
+    {
+        "ids": [
+            15,
+            41
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Chile",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1118,
+            1177,
+            1203,
+            1210
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.8994426145085483
+    },
+    {
+        "ids": [
+            16,
+            42
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Brazil",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1117,
+            1223,
+            1209,
+            1256
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.8994426145085483
+    },
+    {
+        "ids": [
+            17,
+            43
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Costa Rica",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1120,
+            1269,
+            1286,
+            1302
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.8994426145085483
+    },
+    {
+        "ids": [
+            18,
+            44
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Guatemala",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1118,
+            1315,
+            1283,
+            1347
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.8994426145085483
+    },
+    {
+        "ids": [
+            19,
+            45
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Panama",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1118,
+            1361,
+            1240,
+            1393
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.8994426145085483
+    },
+    {
+        "ids": [
+            20,
+            46
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Honduras",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1117,
+            1407,
+            1267,
+            1437
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.8994426145085483
+    },
+    {
+        "ids": [
+            21,
+            47
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "El Salvador",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1118,
+            1451,
+            1302,
+            1483
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.8994426145085483
+    },
+    {
+        "ids": [
+            22,
+            48
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "Nicaragua",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1118,
+            1496,
+            1277,
+            1535
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.8994426145085483
+    },
+    {
+        "ids": [
+            23,
+            37
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Organization Name",
+        "value": "BAT BRITISH-AMERICAN TOBACCO COMPANY LIMITED",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            575,
+            576,
+            1877,
+            612
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.722640459594319
+    },
+    {
+        "ids": [
+            24,
+            38,
+            50
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Date",
+        "value": "3 April 1992",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            549,
+            811,
+            753,
+            851
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            25
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Contract Number",
+        "value": "USSG.",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1905,
+            398,
+            2052,
+            438
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.13216465187220952
+    },
+    {
+        "ids": [
+            26
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Contract Number",
+        "value": "FAKED",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1479,
+            407,
+            1879,
+            527
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.13216465187220952
+    },
+    {
+        "ids": [
+            49
+        ],
+        "doc_id": "votes_fjjn0191_page2",
+        "pii_type": "Location",
+        "value": "London",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1424,
+            2905,
+            1515,
+            2925
+        ],
+        "source_file": "votes_fjjn0191_page2.csv",
+        "probability": 0.04234709291034525
+    }
+]

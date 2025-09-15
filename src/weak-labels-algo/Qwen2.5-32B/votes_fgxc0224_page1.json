@@ -1,0 +1,399 @@
+[
+    {
+        "ids": [
+            0,
+            16
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Person Name",
+        "value": "Ms. L. J. Beasley",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            840,
+            684,
+            1413,
+            746
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            1
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. G. W. McKenna",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1841,
+            684,
+            2414,
+            738
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.07499590648417652
+    },
+    {
+        "ids": [
+            2,
+            17
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. E. M. Blackmer",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            840,
+            750,
+            1445,
+            806
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            3
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. G. C. Pennell",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            840,
+            748,
+            2408,
+            805
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.07499590648417652
+    },
+    {
+        "ids": [
+            4,
+            18
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. D. N. Iauco",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            840,
+            815,
+            1345,
+            871
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. R. M. Sanders",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            840,
+            815,
+            2413,
+            870
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.07499590648417652
+    },
+    {
+        "ids": [
+            6,
+            19
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Person Name",
+        "value": "Ms. A. Jardine",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            840,
+            881,
+            1311,
+            937
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            7,
+            20
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. S. R. Strawsburg",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1841,
+            881,
+            2514,
+            945
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            8,
+            21
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. A. A. Lyon",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            840,
+            948,
+            1311,
+            1011
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            9,
+            22
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. T. W. Robertson",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            840,
+            946,
+            2481,
+            1001
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            10,
+            23
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Person Name",
+        "value": "William P. Whitlatch",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            838,
+            1142,
+            1509,
+            1199
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            11,
+            24
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Person Name",
+        "value": "Yancey Ford",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1036,
+            2781,
+            1429,
+            2844
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            12,
+            26,
+            33
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Organization Name",
+        "value": "Wetterau",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1835,
+            3240,
+            2105,
+            3293
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.9900025300515797
+    },
+    {
+        "ids": [
+            13,
+            27,
+            34
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Date",
+        "value": "February 7, 1991",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1481,
+            425,
+            2011,
+            490
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            14,
+            29,
+            35
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Date",
+        "value": "February 4, 1991",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2278,
+            2315,
+            2837,
+            2379
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            15,
+            30,
+            36
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Contract Number",
+        "value": "No 408 By",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2259,
+            533,
+            2920,
+            660
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.9662050027718209
+    },
+    {
+        "ids": [
+            25,
+            32
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Organization Name",
+        "value": "Kroger Company",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1949,
+            2978,
+            2419,
+            3043
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.6158181671030045
+    },
+    {
+        "ids": [
+            28
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Date",
+        "value": "January 31,",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            2682,
+            1862,
+            3039,
+            1927
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.021763954864900913
+    },
+    {
+        "ids": [
+            31
+        ],
+        "doc_id": "votes_fgxc0224_page1",
+        "pii_type": "Location",
+        "value": "St. Louis",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            2405,
+            3239,
+            2706,
+            3293
+        ],
+        "source_file": "votes_fgxc0224_page1.csv",
+        "probability": 0.04234709291034525
+    }
+]

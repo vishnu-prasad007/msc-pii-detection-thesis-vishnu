@@ -1,0 +1,136 @@
+[
+    {
+        "ids": [
+            0,
+            5,
+            10
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Person Name",
+        "value": "Dear Jeffrey, Jeffrey",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            503,
+            501,
+            882,
+            571
+        ],
+        "source_file": "votes_fjcx0221_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            6,
+            11
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Person Name",
+        "value": "Martin Falk",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            919,
+            910,
+            1228,
+            967
+        ],
+        "source_file": "votes_fjcx0221_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            7,
+            12
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Person Name",
+        "value": "Roland Greinwald",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            919,
+            1640,
+            1387,
+            1698
+        ],
+        "source_file": "votes_fjcx0221_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            8,
+            13
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Organization Name",
+        "value": "Targacept",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1632,
+            1319,
+            1892,
+            1387
+        ],
+        "source_file": "votes_fjcx0221_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            9,
+            14
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Contract Number",
+        "value": "RJR0000001371017574",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            42,
+            4461,
+            746,
+            4522
+        ],
+        "source_file": "votes_fjcx0221_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            15
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Contract Number",
+        "value": "70013 3630",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            44,
+            4542,
+            384,
+            4603
+        ],
+        "source_file": "votes_fjcx0221_page2.csv",
+        "probability": 0.3333333333333333
+    }
+]

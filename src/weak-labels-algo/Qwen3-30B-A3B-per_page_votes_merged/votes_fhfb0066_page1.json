@@ -1,0 +1,84 @@
+[
+    {
+        "ids": [
+            0,
+            3,
+            6
+        ],
+        "doc_id": "votes_fhfb0066_page1",
+        "pii_type": "Person Name",
+        "value": "Dr. H. s. Tong",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.32517170906066895,
+            0.6969733238220215,
+            0.44034381955862045,
+            0.7050613025203347
+        ],
+        "source_file": "votes_fhfb0066_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            4,
+            7
+        ],
+        "doc_id": "votes_fhfb0066_page1",
+        "pii_type": "Date",
+        "value": "October 15, 1972",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6402780413627625,
+            0.20597773790359497,
+            0.7732966132462025,
+            0.2155493339523673
+        ],
+        "source_file": "votes_fhfb0066_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            5
+        ],
+        "doc_id": "votes_fhfb0066_page1",
+        "pii_type": "Contract Number",
+        "value": "H-102-5",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.767082691192627,
+            0.14212501049041748,
+            0.8274627402424812,
+            0.15132522583007812
+        ],
+        "source_file": "votes_fhfb0066_page1.csv"
+    },
+    {
+        "ids": [
+            8
+        ],
+        "doc_id": "votes_fhfb0066_page1",
+        "pii_type": "Contract Number",
+        "value": "Project t H-102-5",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.6881911754608154,
+            0.14212501049041748,
+            0.8274627402424812,
+            0.15441308915615082
+        ],
+        "source_file": "votes_fhfb0066_page1.csv"
+    }
+]

@@ -1,0 +1,324 @@
+[
+  {
+    "ids": [
+      0,
+      13,
+      27
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Person Name",
+    "value": "Brant Fink",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      115,
+      343,
+      171,
+      352
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      1,
+      14,
+      28
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Person Name",
+    "value": "Chrissie Hastie",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      114,
+      439,
+      198,
+      448
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      2,
+      16,
+      30
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Person Name",
+    "value": "Henry Nicholas Nicholas, Chairman",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      57,
+      520,
+      202,
+      531
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      3,
+      17,
+      31
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Email Address",
+    "value": "bfink@strategicmediaplacement.co",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      591,
+      343,
+      784,
+      353
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      4,
+      18,
+      32
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Email Address",
+    "value": "chrissie@incompliance.net",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      590,
+      438,
+      739,
+      449
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      5,
+      19,
+      33
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Phone Number",
+    "value": "740.201.5500",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      398,
+      343,
+      475,
+      352
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      6,
+      20,
+      34
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Phone Number",
+    "value": "702.259.5559",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      398,
+      438,
+      475,
+      447
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      7,
+      21,
+      35
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Location",
+    "value": "7669 Stagers Loop, Delaware, OH 43015 Address:",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      56,
+      323,
+      341,
+      334
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      8,
+      22,
+      36
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Location",
+    "value": "5315 Wall Street #135, Madison, WI 53718 Address:",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      56,
+      419,
+      349,
+      430
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      9,
+      23
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "Strategic Media Placement",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      90,
+      84,
+      238,
+      95
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      10,
+      24,
+      37
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "Strategic Media Placement",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      147,
+      305,
+      295,
+      315
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      11,
+      25,
+      38
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "Marsy's Law for Wisconsin, LLC",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      225,
+      285,
+      401,
+      296
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      12,
+      26,
+      39
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "Marsy's Law for Wisconsin, LLC",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      102,
+      400,
+      278,
+      411
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      15,
+      29
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Person Name",
+    "value": "Chrissie Hastie, Treasurer",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      57,
+      509,
+      202,
+      519
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      40
+    ],
+    "doc_id": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2",
+    "pii_type": "Invoice Number",
+    "value": "Invoice",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      267,
+      107,
+      319,
+      118
+    ],
+    "source_file": "votes_0a32ce11-7ed9-14ee-8856-6a1edfad9ff3.pdf_page2.csv"
+  }
+]

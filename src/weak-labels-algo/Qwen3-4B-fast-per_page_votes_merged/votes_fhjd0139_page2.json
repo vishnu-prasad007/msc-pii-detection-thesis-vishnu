@@ -1,0 +1,127 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            12
+        ],
+        "doc_id": "votes_fhjd0139_page2",
+        "pii_type": "Person Name",
+        "value": "T. E. Whitehair, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.13566191494464874,
+            0.10416190326213837,
+            0.3132668361067772,
+            0.11733043473213911
+        ],
+        "source_file": "votes_fhjd0139_page2.csv"
+    },
+    {
+        "ids": [
+            1,
+            4,
+            13,
+            16,
+            18
+        ],
+        "doc_id": "votes_fhjd0139_page2",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Huithel",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.48386648297309875,
+            0.4713042378425598,
+            0.7277006804943085,
+            0.5252992324531078
+        ],
+        "source_file": "votes_fhjd0139_page2.csv"
+    },
+    {
+        "ids": [
+            2,
+            8,
+            14,
+            19
+        ],
+        "doc_id": "votes_fhjd0139_page2",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "J. F. WILKELM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4898926317691803,
+            0.5139204263687134,
+            0.6057211756706238,
+            0.5262705720961094
+        ],
+        "source_file": "votes_fhjd0139_page2.csv"
+    },
+    {
+        "ids": [
+            3,
+            6,
+            9,
+            11,
+            15,
+            20
+        ],
+        "doc_id": "votes_fhjd0139_page2",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "464008206",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7086198925971985,
+            0.8728417158126831,
+            0.8526506274938583,
+            0.8899470213800669
+        ],
+        "source_file": "votes_fhjd0139_page2.csv"
+    },
+    {
+        "ids": [
+            5,
+            10,
+            17
+        ],
+        "doc_id": "votes_fhjd0139_page2",
+        "pii_type": "Date",
+        "value": "AUGUST 13, 1984",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6856609582901001,
+            0.09102437645196915,
+            0.8202233612537384,
+            0.10415003169327974
+        ],
+        "source_file": "votes_fhjd0139_page2.csv"
+    }
+]

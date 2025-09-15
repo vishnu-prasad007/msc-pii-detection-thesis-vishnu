@@ -1,0 +1,280 @@
+[
+    {
+        "ids": [
+            0,
+            12,
+            23
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Person Name",
+        "value": "Ruby Handles",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5834451913833618,
+            0.8881598114967346,
+            0.9002681374549866,
+            0.9371648579835892
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            13,
+            24
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Location",
+        "value": "Address 220",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.48907971382141113,
+            0.920876145362854,
+            0.6473802328109741,
+            0.9391722064465284
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            14,
+            25
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "GRAHAM ADVERTISING",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.43589919805526733,
+            0.07937310636043549,
+            0.6518495976924896,
+            0.09319605678319931
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            16,
+            27
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "MCA-GRAHAM Advertising",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.31769880652427673,
+            0.23759104311466217,
+            0.5862618684768677,
+            0.25261775590479374
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            17,
+            28
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "Lorillard",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6494385004043579,
+            0.23637820780277252,
+            0.7487918511033058,
+            0.252031059935689
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            18,
+            29
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "Loews Theatres, Inc.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.05413530394434929,
+            0.2543655335903168,
+            0.2713383287191391,
+            0.27046909369528294
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            19,
+            30
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "Lorillard",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.431855171918869,
+            0.6220621466636658,
+            0.5309537127614021,
+            0.6368674039840698
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            31
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "Loews Theatres, Inc.",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.6812569499015808,
+            0.6222168207168579,
+            0.8964733295142651,
+            0.6384874507784843
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            20,
+            32
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "MCA- GRAHAM Advertising. Advertising",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.24851667881011963,
+            0.6915149092674255,
+            0.5325450450181961,
+            0.7073264326900244
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            21,
+            33
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "Lorillard",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.548014223575592,
+            0.6919253468513489,
+            0.6474793925881386,
+            0.7069511441513896
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "Lorillard",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.3085907995700836,
+            0.6566123962402344,
+            0.40226782858371735,
+            0.6696476750075817
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            11,
+            22,
+            34
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Date",
+        "value": "Date 12-5-78",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5266775488853455,
+            0.9422664642333984,
+            0.7651309967041016,
+            0.9707328546792269
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    },
+    {
+        "ids": [
+            15,
+            26
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "Lorillard",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.2839081287384033,
+            0.11622878164052963,
+            0.37882639467716217,
+            0.12880346830934286
+        ],
+        "source_file": "votes_fgwb0124_page1.csv"
+    }
+]

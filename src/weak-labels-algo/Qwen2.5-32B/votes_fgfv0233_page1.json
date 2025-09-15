@@ -1,0 +1,180 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            13
+        ],
+        "doc_id": "votes_fgfv0233_page1",
+        "pii_type": "Person Name",
+        "value": "Chip Lavie, M.D.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            531,
+            235,
+            1057,
+            301
+        ],
+        "source_file": "votes_fgfv0233_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            1,
+            8,
+            15
+        ],
+        "doc_id": "votes_fgfv0233_page1",
+        "pii_type": "Person Name",
+        "value": "Carl \"Chip\" Lavie MD, FACC",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            190,
+            1148,
+            1020,
+            1213
+        ],
+        "source_file": "votes_fgfv0233_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            2,
+            9,
+            16
+        ],
+        "doc_id": "votes_fgfv0233_page1",
+        "pii_type": "Email Address",
+        "value": "clavie@ochsner.org",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1066,
+            234,
+            1673,
+            302
+        ],
+        "source_file": "votes_fgfv0233_page1.csv",
+        "probability": 0.9993010075376519
+    },
+    {
+        "ids": [
+            3,
+            10,
+            17
+        ],
+        "doc_id": "votes_fgfv0233_page1",
+        "pii_type": "Email Address",
+        "value": "sblair@mailbox.sc.edu",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            407,
+            326,
+            1907,
+            393
+        ],
+        "source_file": "votes_fgfv0233_page1.csv",
+        "probability": 0.9993010075376519
+    },
+    {
+        "ids": [
+            4,
+            11,
+            18
+        ],
+        "doc_id": "votes_fgfv0233_page1",
+        "pii_type": "Email Address",
+        "value": "rapplebaum@coca-cola.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1021,
+            418,
+            1886,
+            486
+        ],
+        "source_file": "votes_fgfv0233_page1.csv",
+        "probability": 0.9993010075376519
+    },
+    {
+        "ids": [
+            5,
+            19
+        ],
+        "doc_id": "votes_fgfv0233_page1",
+        "pii_type": "Organization Name",
+        "value": "Ochsner Clinical School-UQ School of Medicine",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            189,
+            1857,
+            1520,
+            1920
+        ],
+        "source_file": "votes_fgfv0233_page1.csv",
+        "probability": 0.8132620043598049
+    },
+    {
+        "ids": [
+            6,
+            12,
+            20
+        ],
+        "doc_id": "votes_fgfv0233_page1",
+        "pii_type": "Date",
+        "value": "Mon, 10 Aug 2015 19:41:13 +0000",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            532,
+            603,
+            1479,
+            668
+        ],
+        "source_file": "votes_fgfv0233_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            14
+        ],
+        "doc_id": "votes_fgfv0233_page1",
+        "pii_type": "Person Name",
+        "value": "Rhona Applebaum",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            531,
+            419,
+            1031,
+            484
+        ],
+        "source_file": "votes_fgfv0233_page1.csv",
+        "probability": 0.019094487779212622
+    }
+]

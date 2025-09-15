@@ -1,0 +1,212 @@
+[
+    {
+        "ids": [
+            0,
+            9,
+            16
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Person Name",
+        "value": "Ms. Karen Miller",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.14662474393844604,
+            0.3131905496120453,
+            0.33458828926086426,
+            0.32577255088835955
+        ],
+        "source_file": "votes_fhgx0106_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            10,
+            17
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Phone Number",
+        "value": "617-247-2363",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.8243170976638794,
+            0.1079958826303482,
+            0.9359077364206314,
+            0.12032209523022175
+        ],
+        "source_file": "votes_fhgx0106_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            18
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Location",
+        "value": "545 Boylston Street, Boston, Massachusetts 02116",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.4051971435546875,
+            0.10889426618814468,
+            0.8193364217877388,
+            0.1259835185483098
+        ],
+        "source_file": "votes_fhgx0106_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            19
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Location",
+        "value": "38 Rue Boissiere, 75116 Paris, France",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.40505099296569824,
+            0.12619131803512573,
+            0.714058194309473,
+            0.14127336908131838
+        ],
+        "source_file": "votes_fhgx0106_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            20
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Location",
+        "value": "New York, NY 10017",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.14742204546928406,
+            0.3581864535808563,
+            0.370001595467329,
+            0.3718795981258154
+        ],
+        "source_file": "votes_fhgx0106_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            12,
+            21
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Organization Name",
+        "value": "MARKETING RESEARCH",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.15562328696250916,
+            0.1114986389875412,
+            0.3972070664167404,
+            0.12706839758902788
+        ],
+        "source_file": "votes_fhgx0106_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            13,
+            22
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Organization Name",
+        "value": "Philip Morris",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1474905163049698,
+            0.3289424777030945,
+            0.29968253523111343,
+            0.3434761902317405
+        ],
+        "source_file": "votes_fhgx0106_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            14,
+            23
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Date",
+        "value": "October 25, 1988",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5324497818946838,
+            0.23554305732250214,
+            0.7192125655710697,
+            0.24859893321990967
+        ],
+        "source_file": "votes_fhgx0106_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            15,
+            24
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Contract Number",
+        "value": "Project #1112",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.14806796610355377,
+            0.40398404002189636,
+            0.29977312311530113,
+            0.41869440767914057
+        ],
+        "source_file": "votes_fhgx0106_page1.csv"
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Phone Number",
+        "value": "7277850",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.720069169998169,
+            0.12544116377830505,
+            0.7911725491285324,
+            0.13694736920297146
+        ],
+        "source_file": "votes_fhgx0106_page1.csv"
+    }
+]

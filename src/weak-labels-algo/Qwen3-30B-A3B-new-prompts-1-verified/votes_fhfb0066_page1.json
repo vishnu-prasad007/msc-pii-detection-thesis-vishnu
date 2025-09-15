@@ -1,0 +1,93 @@
+[
+    {
+        "ids": [
+            0,
+            3,
+            6
+        ],
+        "doc_id": "votes_fhfb0066_page1",
+        "pii_type": "Person Name",
+        "value": "Dr. H. s. Tong",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            562,
+            1597,
+            761,
+            1616
+        ],
+        "source_file": "votes_fhfb0066_page1.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            1,
+            4,
+            7
+        ],
+        "doc_id": "votes_fhfb0066_page1",
+        "pii_type": "Date",
+        "value": "October 15, 1972",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1106,
+            472,
+            1336,
+            494
+        ],
+        "source_file": "votes_fhfb0066_page1.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0
+        ],
+        "probability": 0.9995747794346704
+    },
+    {
+        "ids": [
+            2,
+            5
+        ],
+        "doc_id": "votes_fhfb0066_page1",
+        "pii_type": "Contract Number",
+        "value": "H-102-5",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1326,
+            326,
+            1430,
+            347
+        ],
+        "source_file": "votes_fhfb0066_page1.csv",
+        "votes": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1
+        ],
+        "probability": 0.2891305446921093
+    }
+]

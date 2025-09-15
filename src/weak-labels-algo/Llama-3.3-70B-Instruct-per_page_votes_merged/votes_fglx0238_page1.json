@@ -1,0 +1,704 @@
+[
+    {
+        "ids": [
+            0,
+            29,
+            66
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Person Name",
+        "value": "Palmer, Shelley",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16475972533226013,
+            0.0663735568523407,
+            0.26638876646757126,
+            0.07816846389323473
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            30,
+            67
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Person Name",
+        "value": "Clark, Jennifer",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1645432859659195,
+            0.09670767933130264,
+            0.2589000016450882,
+            0.10762813035398722
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            31,
+            68
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Person Name",
+        "value": "Coston, Tina M.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5011398792266846,
+            0.09676723927259445,
+            0.6044559441506863,
+            0.1077377237379551
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            32,
+            69
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Person Name",
+        "value": "Munson, Justin",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.8357632756233215,
+            0.09693562984466553,
+            0.9359265379607677,
+            0.10767955705523491
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            33,
+            70
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Person Name",
+        "value": "Oakley, Debra L",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.42226696014404297,
+            0.11193583160638809,
+            0.5271990401670337,
+            0.1235238453373313
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            34,
+            71
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Person Name",
+        "value": "Wright, Patrice A",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7676852941513062,
+            0.11208349466323853,
+            0.8811459578573704,
+            0.12361969891935587
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            35,
+            72
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Person Name",
+        "value": "Spaulding, Eileen L.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.408912718296051,
+            0.12711592018604279,
+            0.5361657375469804,
+            0.13874702528119087
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            36,
+            73
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Person Name",
+        "value": "Ehrhart, Carolyn J",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16487973928451538,
+            0.15767137706279755,
+            0.2814247580245137,
+            0.16915867663919926
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            37,
+            74
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Person Name",
+        "value": "Adams, Rose H",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5372877717018127,
+            0.15766559541225433,
+            0.6361236236989498,
+            0.16865440551191568
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            38,
+            75
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Person Name",
+        "value": "Sechrist, Bill",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.20673209428787231,
+            0.17262308299541473,
+            0.5452628508210182,
+            0.18446367979049683
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            39
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Person Name",
+        "value": "Shelley Palmer",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.05910513177514076,
+            0.3246441185474396,
+            0.16913055628538132,
+            0.3371363468468189
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            11,
+            40,
+            53,
+            76
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": [
+            "Email Address",
+            "Location"
+        ],
+        "value": "Jennifer.Clark@mallinckrodt.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.26332855224609375,
+            0.09649594128131866,
+            0.49549606442451477,
+            0.10825641918927431
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            12,
+            41,
+            54,
+            77
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": [
+            "Email Address",
+            "Location"
+        ],
+        "value": "Tina.Coston@mallinckrodt.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6094381213188171,
+            0.09643259644508362,
+            0.8291901499032974,
+            0.10793095827102661
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            13,
+            42,
+            55,
+            78
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": [
+            "Email Address",
+            "Location"
+        ],
+        "value": "Debra.Oakley@mallinckrodt.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5304004549980164,
+            0.1115686446428299,
+            0.769123449921608,
+            0.12373147625476122
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            14,
+            43,
+            56,
+            79
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": [
+            "Email Address",
+            "Location"
+        ],
+        "value": "Patrice.Wright@mallinckrodt.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.17020776867866516,
+            0.12702696025371552,
+            0.40371108055114746,
+            0.1388515755534172
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            15,
+            44,
+            57,
+            80
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": [
+            "Email Address",
+            "Location"
+        ],
+        "value": "Carrie.Johnson@mallinckrodt.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16479744017124176,
+            0.14235354959964752,
+            0.40348006784915924,
+            0.1537773571908474
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            16,
+            45,
+            58,
+            81
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": [
+            "Email Address",
+            "Location"
+        ],
+        "value": "Carolyn.Ehrhart@mallinckrodt.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2815605103969574,
+            0.15749052166938782,
+            0.5313665717840195,
+            0.16903474181890488
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            17,
+            46,
+            59,
+            82
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": [
+            "Email Address",
+            "Location"
+        ],
+        "value": "Rose.Adams2@mallinckrodt.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6385449767112732,
+            0.15734681487083435,
+            0.87733194231987,
+            0.16882294975221157
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            18,
+            47,
+            60,
+            83
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": [
+            "Email Address",
+            "Location"
+        ],
+        "value": "Bill.Sechrist@mallinckrodt.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5505644679069519,
+            0.1726810783147812,
+            0.7641464322805405,
+            0.18440143577754498
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            19,
+            48,
+            61,
+            84
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": [
+            "Email Address",
+            "Location"
+        ],
+        "value": "shelley.palmer@mallinckrodt.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.05900902673602104,
+            0.38177621364593506,
+            0.3051123879849911,
+            0.3942392263561487
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            20,
+            49,
+            85
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Phone Number",
+        "value": "607.538.2038",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.08105289191007614,
+            0.3675634264945984,
+            0.18230602890253067,
+            0.3780857650563121
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            21,
+            50,
+            86
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Phone Number",
+        "value": "607-353-5481",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2179362028837204,
+            0.3673771917819977,
+            0.31843215227127075,
+            0.3778915964066982
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            22,
+            51,
+            87
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Phone Number",
+        "value": "607-538-2508",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.34842735528945923,
+            0.36749154329299927,
+            0.45399554818868637,
+            0.3775135977193713
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            23,
+            52,
+            88
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Location",
+        "value": "172 Railroad Ave I Hobart, NY 13788",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.05969778448343277,
+            0.3532199561595917,
+            0.32739903032779694,
+            0.36564986128360033
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Location",
+        "value": "St Louis",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.16270680725574493,
+            0.1872694492340088,
+            0.3585757613182068,
+            0.19960204977542162
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            25
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.058557454496622086,
+            0.3386368155479431,
+            0.15568939223885536,
+            0.34890111815184355
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            26,
+            63,
+            91
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Date",
+        "value": "3/7/2014 6:08:50 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16516442596912384,
+            0.08074982464313507,
+            0.30570072680711746,
+            0.09275361895561218
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            27,
+            64,
+            92
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Date",
+        "value": "03/06/2014",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16270680725574493,
+            0.1872694492340088,
+            0.3585757613182068,
+            0.19960204977542162
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            28,
+            65,
+            93
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Contract Number",
+        "value": "MNKOI 0001785399",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.8185850381851196,
+            0.9856266975402832,
+            0.9682865515351295,
+            0.9964178251102567
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            62,
+            90
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt Pharmaceuticals",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.058557454496622086,
+            0.3386211693286896,
+            0.28793369233608246,
+            0.34900927171111107
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    },
+    {
+        "ids": [
+            89
+        ],
+        "doc_id": "votes_fglx0238_page1",
+        "pii_type": "Location",
+        "value": "Hobart, NY",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.1971217393875122,
+            0.3532199561595917,
+            0.2779984939843416,
+            0.36499441135674715
+        ],
+        "source_file": "votes_fglx0238_page1.csv"
+    }
+]

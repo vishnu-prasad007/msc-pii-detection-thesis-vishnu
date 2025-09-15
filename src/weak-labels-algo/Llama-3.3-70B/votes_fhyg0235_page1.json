@@ -1,0 +1,388 @@
+[
+    {
+        "ids": [
+            0,
+            17,
+            29
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Person Name",
+        "value": "Missy Henry",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            865,
+            802,
+            1124,
+            851
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.9997390584202765
+    },
+    {
+        "ids": [
+            1,
+            18,
+            30
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Person Name",
+        "value": "Diana Walker",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            703,
+            989,
+            1009,
+            1029
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.9997390584202765
+    },
+    {
+        "ids": [
+            2
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Person Name",
+        "value": "Missy",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            369,
+            1497,
+            488,
+            1546
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.026342329866584975
+    },
+    {
+        "ids": [
+            3
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Person Name",
+        "value": "Diana",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            368,
+            1555,
+            487,
+            1594
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.026342329866584975
+    },
+    {
+        "ids": [
+            4
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Person Name",
+        "value": "Missy",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1513,
+            1614,
+            1635,
+            1662
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.026342329866584975
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Person Name",
+        "value": "Diana",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1919,
+            1672,
+            2040,
+            1712
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.026342329866584975
+    },
+    {
+        "ids": [
+            6
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Person Name",
+        "value": "Diana",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            367,
+            1901,
+            486,
+            1941
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.026342329866584975
+    },
+    {
+        "ids": [
+            7
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Person Name",
+        "value": "Missy",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            368,
+            2823,
+            489,
+            2871
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.026342329866584975
+    },
+    {
+        "ids": [
+            8,
+            19,
+            31
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Email Address",
+        "value": "Diana.Walker@fda.hhs.gov",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            540,
+            1249,
+            1134,
+            1299
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            9,
+            20,
+            32
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Phone Number",
+        "value": "301-796-4029",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            720,
+            1162,
+            1007,
+            1203
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.9999978866788498
+    },
+    {
+        "ids": [
+            10,
+            21,
+            33
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt Inc.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            372,
+            392,
+            761,
+            434
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.9930561197603293
+    },
+    {
+        "ids": [
+            11,
+            22,
+            34
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Organization Name",
+        "value": "Neuromed",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1354,
+            2132,
+            1567,
+            2172
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.9930561197603293
+    },
+    {
+        "ids": [
+            12,
+            23,
+            35
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Date",
+        "value": "03.22.10",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            517,
+            544,
+            694,
+            584
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.9998803392147021
+    },
+    {
+        "ids": [
+            13,
+            26
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Date",
+        "value": "March 12, 2010",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            888,
+            2421,
+            1224,
+            2469
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.9232862458282003
+    },
+    {
+        "ids": [
+            14,
+            25,
+            37
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Date",
+        "value": "4/2010",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1348,
+            1613,
+            1499,
+            1653
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.9998803392147021
+    },
+    {
+        "ids": [
+            15,
+            27,
+            38
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Contract Number",
+        "value": "021217",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            858,
+            630,
+            1008,
+            669
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.9625082861620624
+    },
+    {
+        "ids": [
+            16,
+            28,
+            39
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Contract Number",
+        "value": "S-001",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1916,
+            1845,
+            2047,
+            1893
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.9625082861620624
+    },
+    {
+        "ids": [
+            24,
+            36
+        ],
+        "doc_id": "votes_fhyg0235_page1",
+        "pii_type": "Date",
+        "value": "3/2010",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            657,
+            1613,
+            796,
+            1653
+        ],
+        "source_file": "votes_fhyg0235_page1.csv",
+        "probability": 0.9484934825025902
+    }
+]

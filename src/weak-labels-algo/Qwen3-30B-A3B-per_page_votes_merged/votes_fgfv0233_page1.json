@@ -1,0 +1,200 @@
+[
+    {
+        "ids": [
+            0,
+            9,
+            18
+        ],
+        "doc_id": "votes_fgfv0233_page1",
+        "pii_type": "Person Name",
+        "value": "\"Chip Lavie, M.D.\" Chip M.D.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.15620848536491394,
+            0.05345790088176727,
+            0.3109361566603184,
+            0.06847071275115013
+        ],
+        "source_file": "votes_fgfv0233_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            10,
+            19
+        ],
+        "doc_id": "votes_fgfv0233_page1",
+        "pii_type": "Person Name",
+        "value": "\"Rhona Applebaum\" Rhona Applebaum",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.15626539289951324,
+            0.0952378660440445,
+            0.3033432513475418,
+            0.1099895192310214
+        ],
+        "source_file": "votes_fgfv0233_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            11,
+            20
+        ],
+        "doc_id": "votes_fgfv0233_page1",
+        "pii_type": "Person Name",
+        "value": "\"Carl \"Chip\" Lavie MD, FACC\" Carl FACC",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.055985551327466965,
+            0.2609700858592987,
+            0.2999815233051777,
+            0.27559421118348837
+        ],
+        "source_file": "votes_fgfv0233_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            12,
+            21
+        ],
+        "doc_id": "votes_fgfv0233_page1",
+        "pii_type": "Email Address",
+        "value": "clavie@ochsner.org",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3133969008922577,
+            0.05323125794529915,
+            0.4919586181640625,
+            0.06865052878856659
+        ],
+        "source_file": "votes_fgfv0233_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            13,
+            22
+        ],
+        "doc_id": "votes_fgfv0233_page1",
+        "pii_type": "Email Address",
+        "value": "sblair@mailbox.sc.edu",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.11971922218799591,
+            0.07403629273176193,
+            0.5608898550271988,
+            0.08938346058130264
+        ],
+        "source_file": "votes_fgfv0233_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            14,
+            23
+        ],
+        "doc_id": "votes_fgfv0233_page1",
+        "pii_type": "Email Address",
+        "value": "rapplebaum@coca-cola.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.30036675930023193,
+            0.0949070006608963,
+            0.5547930896282196,
+            0.1104013342410326
+        ],
+        "source_file": "votes_fgfv0233_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            15,
+            24
+        ],
+        "doc_id": "votes_fgfv0233_page1",
+        "pii_type": "Organization Name",
+        "value": "John Ochsner Heart and Vascular Institute",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.055645592510700226,
+            0.35800814628601074,
+            0.3862055689096451,
+            0.36972140334546566
+        ],
+        "source_file": "votes_fgfv0233_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            16,
+            25
+        ],
+        "doc_id": "votes_fgfv0233_page1",
+        "pii_type": "Organization Name",
+        "value": "Ochsner Clinical School-UQ School of Medicine",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.05557076632976532,
+            0.4220890402793884,
+            0.44704243540763855,
+            0.43628220073878765
+        ],
+        "source_file": "votes_fgfv0233_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            17,
+            26
+        ],
+        "doc_id": "votes_fgfv0233_page1",
+        "pii_type": "Date",
+        "value": "Mon, 10 Aug 2015 19:41:13 +0000",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.15640296041965485,
+            0.1370609700679779,
+            0.4350739158689976,
+            0.151847037486732
+        ],
+        "source_file": "votes_fgfv0233_page1.csv"
+    }
+]

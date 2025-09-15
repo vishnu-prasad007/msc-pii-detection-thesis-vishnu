@@ -1,0 +1,272 @@
+[
+    {
+        "ids": [
+            0,
+            11,
+            22
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "Susan Stuntz",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            595,
+            447,
+            936,
+            483
+        ],
+        "source_file": "votes_fhyh0038_page1.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            1,
+            12,
+            23
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "Bob Lewis",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            597,
+            493,
+            851,
+            530
+        ],
+        "source_file": "votes_fhyh0038_page1.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            2,
+            13,
+            24
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "Karen Fernicola Suhr",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            596,
+            585,
+            1160,
+            623
+        ],
+        "source_file": "votes_fhyh0038_page1.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            3,
+            14,
+            21
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "Mark Smith",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1048,
+            820,
+            1329,
+            857
+        ],
+        "source_file": "votes_fhyh0038_page1.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            4,
+            15,
+            25
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "Bonnie DeWitt",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            476,
+            2596,
+            841,
+            2633
+        ],
+        "source_file": "votes_fhyh0038_page1.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            5,
+            16,
+            26
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "Jim Goold",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            474,
+            2642,
+            729,
+            2678
+        ],
+        "source_file": "votes_fhyh0038_page1.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            6,
+            17,
+            27
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Person Name",
+        "value": "John Rupp",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            475,
+            2690,
+            728,
+            2733
+        ],
+        "source_file": "votes_fhyh0038_page1.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            7,
+            18,
+            28
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Location",
+        "value": "Edinburgh, Scotland",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            826,
+            961,
+            1377,
+            1005
+        ],
+        "source_file": "votes_fhyh0038_page1.csv",
+        "probability": 0.9986946830029205
+    },
+    {
+        "ids": [
+            8,
+            29
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Location",
+        "value": "Florida",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1109,
+            1006,
+            1302,
+            1043
+        ],
+        "source_file": "votes_fhyh0038_page1.csv",
+        "probability": 0.7507627474092854
+    },
+    {
+        "ids": [
+            9,
+            19,
+            31
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Date",
+        "value": "April 14, 1993",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1292,
+            258,
+            1685,
+            304
+        ],
+        "source_file": "votes_fhyh0038_page1.csv",
+        "probability": 0.9998134030756157
+    },
+    {
+        "ids": [
+            10,
+            20,
+            32
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Contract Number",
+        "value": "TI31861787",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2164,
+            3090,
+            2433,
+            3135
+        ],
+        "source_file": "votes_fhyh0038_page1.csv",
+        "probability": 0.9892306065093162
+    },
+    {
+        "ids": [
+            30
+        ],
+        "doc_id": "votes_fhyh0038_page1",
+        "pii_type": "Location",
+        "value": "U.S.A.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1192,
+            1428,
+            1353,
+            1462
+        ],
+        "source_file": "votes_fhyh0038_page1.csv",
+        "probability": 0.007094757680058001
+    }
+]

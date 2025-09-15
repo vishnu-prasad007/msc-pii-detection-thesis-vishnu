@@ -1,0 +1,878 @@
+[
+    {
+        "ids": [
+            0,
+            14
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. V. B. Lougee, III",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.10747325420379639,
+            0.11988753080368042,
+            0.3654040992259979,
+            0.13370684161782265
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            15
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Person Name",
+        "value": "R. S. Sprinkle, III",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.10795144736766815,
+            0.16561545431613922,
+            0.3422089107334614,
+            0.18016938865184784
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            16,
+            21,
+            34,
+            37,
+            39
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name",
+            "Phone Number"
+        ],
+        "value": "Mr. William J. Moore",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.17076291143894196,
+            0.7416045665740967,
+            0.40893595293164253,
+            0.7538100657984614
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            17,
+            22,
+            35,
+            76
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": [
+            "Contract Number",
+            "Person Name",
+            "Phone Number"
+        ],
+        "value": "Mr. Arnold Henson",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.17030639946460724,
+            0.7891674637794495,
+            0.37369050085544586,
+            0.8007996957749128
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            18,
+            77
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "Chief Counsel, AB",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.17205604910850525,
+            0.8038053512573242,
+            0.3748740553855896,
+            0.8163383100181818
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            23,
+            40,
+            47
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": [
+            "Organization Name",
+            "Contract Number"
+        ],
+        "value": "Al",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.08862977474927902,
+            0.02679399400949478,
+            0.10564140230417252,
+            0.040381274186074734
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            24,
+            41,
+            48
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": [
+            "Organization Name",
+            "Contract Number"
+        ],
+        "value": "The American Tobacco Company",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.46193960309028625,
+            0.033836472779512405,
+            0.8731309175491333,
+            0.07543333247303963
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            25,
+            42
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Organization Name",
+        "value": "AMERICAN BRANDS, INC.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6403047442436218,
+            0.07162783294916153,
+            0.7877798695117235,
+            0.07848142087459564
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            26,
+            43
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Organization Name",
+        "value": "FTC",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.41731899976730347,
+            0.3379325270652771,
+            0.45409177616238594,
+            0.34836068842560053
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            27,
+            44
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Organization Name",
+        "value": "AB",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.34911951422691345,
+            0.8039281368255615,
+            0.3748740553855896,
+            0.8144655721262097
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            28,
+            45
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Date",
+        "value": "July 10, 1978",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.10776343941688538,
+            0.07306939363479614,
+            0.26220835000276566,
+            0.0870456425473094
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            11,
+            29,
+            46
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Date",
+        "value": "June 27 and 28, 1978",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.44223177433013916,
+            0.32173070311546326,
+            0.6877228915691376,
+            0.33477024361491203
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            12,
+            30
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "NYO 627 (8-68)",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.03636625409126282,
+            0.011283977888524532,
+            0.126097172498703,
+            0.019268961623311043
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            13,
+            19,
+            36,
+            78
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": [
+            "Email Address",
+            "Contract Number"
+        ],
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fhbh0177 Source:",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2150413542985916,
+            0.9819300770759583,
+            0.7861802130937576,
+            0.9971643704921007
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            20,
+            32,
+            38
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": [
+            "Person Name",
+            "Phone Number"
+        ],
+        "value": "Mr. V. B. Lougee, III, President and Chief Operating Officer",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.10747325420379639,
+            0.11861411482095718,
+            0.8197464868426323,
+            0.13370684161782265
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            31
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "Industry hah",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.6578298807144165,
+            0.0018418931867927313,
+            0.9044731557369232,
+            0.04047404765151441
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            33
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Person Name",
+        "value": "R. S. Sprinkle, III, Research and Development Director",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.10795144736766815,
+            0.16511787474155426,
+            0.7497172504663467,
+            0.18016938865184784
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            49
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "A DIVISION OF AMERICAN BRANDS, INC.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.5515856146812439,
+            0.07054271548986435,
+            0.7877798695117235,
+            0.07848142087459564
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            50
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "T",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.04152059555053711,
+            0.0813373476266861,
+            0.050934371538460255,
+            0.08979751728475094
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            51
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "E",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.04118902608752251,
+            0.09139972180128098,
+            0.051070867106318474,
+            0.10045521333813667
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            52
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "T",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.04126502200961113,
+            0.1158875823020935,
+            0.05152864195406437,
+            0.1250148918479681
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            53
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "0",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.04109623655676842,
+            0.12885092198848724,
+            0.050941577181220055,
+            0.13695706240832806
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            54
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "F",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.04174647852778435,
+            0.1535155028104782,
+            0.05095649603754282,
+            0.16181955952197313
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            55
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "R",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.04224292188882828,
+            0.16381557285785675,
+            0.051439372822642326,
+            0.17219594400376081
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            56
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "M",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.0413021445274353,
+            0.1835901141166687,
+            0.05200998019427061,
+            0.19193866569548845
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            57
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "R",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.042420897632837296,
+            0.2036156803369522,
+            0.05185890011489391,
+            0.21223164722323418
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            58
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "E",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.04244382306933403,
+            0.21485155820846558,
+            0.05165134370326996,
+            0.22355236392468214
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            59
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "F",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.04260832443833351,
+            0.22602121531963348,
+            0.05192118976265192,
+            0.23524077888578176
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            60
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "We are reporting below the average of smoke analyses for PALL MALL",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.108735591173172,
+            0.2902293801307678,
+            0.8926497511565685,
+            0.3053079731762409
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            61
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "Light 100's Cigarettes. Samples were taken at random during pro-",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.10967443883419037,
+            0.30590811371803284,
+            0.8814388327300549,
+            0.3208887791261077
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            62
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "duction at Durham Branch on June 27 and 28, 1978, and smoke. analy-",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.10982465744018555,
+            0.32173070311546326,
+            0.8917061984539032,
+            0.3354226443916559
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            63
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "ses were conducted by the FTC method.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.11055058985948563,
+            0.3370075821876526,
+            0.5446545630693436,
+            0.35138703417032957
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            64
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "Average",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.5248389840126038,
+            0.38435783982276917,
+            0.6092881113290787,
+            0.3982103792950511
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            65
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "Brand",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.16893744468688965,
+            0.39999279379844666,
+            0.22939151898026466,
+            0.41142972372472286
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            66
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "PALL MALL Light 100's F, SP, 100 mm",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.07395198196172714,
+            0.430583119392395,
+            0.5038777980953455,
+            0.4452911913394928
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            67
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "1 F - filter; SP - soft pack; mm - millimeters",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.11125706881284714,
+            0.47617998719215393,
+            0.6562488079071045,
+            0.49157005548477173
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            68
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "2 Average weight reported in grams",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.11144661158323288,
+            0.4924788773059845,
+            0.5143466629087925,
+            0.5075421594083309
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            69
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "3 TPM Dry (\"Tar\") - milligrams total particulate matter less",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.11219204217195511,
+            0.507114589214325,
+            0.8226325809955597,
+            0.5227825129404664
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            70
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "nicotine and water",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.1337798833847046,
+            0.5242100954055786,
+            0.34763769805431366,
+            0.5360212530940771
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            71
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "4 Milligrams total alkaloids reported as nicotine",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.11201372742652893,
+            0.5384579300880432,
+            0.692212738096714,
+            0.5543041238561273
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            72
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "RDC",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.11298055946826935,
+            0.6804662346839905,
+            0.14856262877583504,
+            0.6912559485062957
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            73
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "ful (2,1",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.4779247045516968,
+            0.6994932293891907,
+            0.6006020307540894,
+            0.7419052571058273
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            74
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "CC:",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.11328192800283432,
+            0.7451240420341492,
+            0.14425780065357685,
+            0.7539299502968788
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            75
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "Advertising Manager",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.1688394695520401,
+            0.7570264339447021,
+            0.39709828048944473,
+            0.7712254086509347
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    }
+]

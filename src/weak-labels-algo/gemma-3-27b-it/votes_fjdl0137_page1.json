@@ -1,0 +1,113 @@
+[
+    {
+        "ids": [
+            0,
+            3,
+            6
+        ],
+        "doc_id": "votes_fjdl0137_page1",
+        "pii_type": "Person Name",
+        "value": "Hammor Mr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            279,
+            142,
+            393,
+            159
+        ],
+        "source_file": "votes_fjdl0137_page1.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            1,
+            4,
+            7
+        ],
+        "doc_id": "votes_fjdl0137_page1",
+        "pii_type": "Person Name",
+        "value": "Dixon, W. E.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            235,
+            386,
+            368,
+            407
+        ],
+        "source_file": "votes_fjdl0137_page1.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            2,
+            5,
+            9,
+            11
+        ],
+        "doc_id": "votes_fjdl0137_page1",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "12-19-48",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            746,
+            34,
+            837,
+            51
+        ],
+        "source_file": "votes_fjdl0137_page1.csv",
+        "probability": 0.9999987397789659
+    },
+    {
+        "ids": [
+            8
+        ],
+        "doc_id": "votes_fjdl0137_page1",
+        "pii_type": "Location",
+        "value": "ne",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1044,
+            5,
+            1070,
+            17
+        ],
+        "source_file": "votes_fjdl0137_page1.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fjdl0137_page1",
+        "pii_type": "Location",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fjdl0137",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            253,
+            1543,
+            953,
+            1571
+        ],
+        "source_file": "votes_fjdl0137_page1.csv",
+        "probability": 0.11727918502265558
+    }
+]

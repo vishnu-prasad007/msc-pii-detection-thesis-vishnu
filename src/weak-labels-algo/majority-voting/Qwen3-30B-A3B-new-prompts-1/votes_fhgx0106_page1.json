@@ -1,0 +1,244 @@
+[
+    {
+        "ids": [
+            0,
+            8,
+            17
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Person Name",
+        "value": "Ms. Karen Miller",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            375,
+            1045,
+            857,
+            1087
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            10,
+            19
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Phone Number",
+        "value": "617-247-2363",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2110,
+            360,
+            2396,
+            402
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Phone Number",
+        "value": "7277850",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1843,
+            419,
+            2025,
+            457
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            3
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Location",
+        "value": "MARKETING RESEARCH 545 Boylston Street, Boston, Massachusetts 02116, 617-247-2363",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            398,
+            360,
+            2396,
+            424
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            4,
+            12,
+            21
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Location",
+        "value": "38 Rue Boissiere, 75116 Paris, France 7277850",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1037,
+            419,
+            2025,
+            472
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            13,
+            23
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Location",
+        "value": "New York, NY 10017",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            377,
+            1196,
+            947,
+            1241
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            9,
+            15,
+            18,
+            25
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": [
+            "Person Name",
+            "Organization Name"
+        ],
+        "value": "Philip Morris",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            378,
+            1098,
+            767,
+            1147
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            7,
+            16,
+            26
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Date",
+        "value": "October 25, 1988",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1363,
+            786,
+            1841,
+            830
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            11,
+            20
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Location",
+        "value": "545 Boylston Street, Boston, Massachusetts 02116",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1037,
+            363,
+            2098,
+            421
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            14,
+            24
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Organization Name",
+        "value": "MARKETING RESEARCH",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            398,
+            372,
+            1017,
+            424
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fhgx0106_page1",
+        "pii_type": "Location",
+        "value": "120 Park Ave.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            382,
+            1151,
+            758,
+            1189
+        ],
+        "source_file": "votes_fhgx0106_page1.csv",
+        "probability": 0.3333333333333333
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "ids": [
+            0,
+            5,
+            10
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Person Name",
+        "value": "Timothy M. Finnegan, Esq.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            527,
+            292,
+            1339,
+            365
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            1,
+            6,
+            11
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Person Name",
+        "value": "Frank G. Colby",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1898,
+            2212,
+            2354,
+            2285
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            2,
+            7,
+            12
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Person Name",
+        "value": "Max Crohn, Esq.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            683,
+            2616,
+            1162,
+            2684
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            3,
+            8,
+            13
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Person Name",
+        "value": "Dr. Charles Nystrom",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            720,
+            2765,
+            1367,
+            2828
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            4,
+            9,
+            14
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Date",
+        "value": "June 23, 1983",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2486,
+            301,
+            2916,
+            367
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.9999113980940532
+    }
+]

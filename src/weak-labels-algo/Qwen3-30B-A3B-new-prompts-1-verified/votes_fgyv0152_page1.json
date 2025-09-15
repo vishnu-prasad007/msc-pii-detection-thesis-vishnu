@@ -1,0 +1,246 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            15
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Person Name",
+        "value": "D. Nicoli",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            814,
+            1521,
+            1065,
+            1574
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999997859950661
+    },
+    {
+        "ids": [
+            1,
+            8,
+            16
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Person Name",
+        "value": "P.S. Wittenbauer",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            812,
+            1952,
+            1282,
+            2006
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            1,
+            0,
+            0
+        ],
+        "probability": 0.8594484148779769
+    },
+    {
+        "ids": [
+            2,
+            9,
+            17
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Phone Number",
+        "value": "202-637-1505",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            811,
+            1809,
+            1170,
+            1862
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999902387186
+    },
+    {
+        "ids": [
+            3,
+            10,
+            18
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Phone Number",
+        "value": "(212)878-2768",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1634,
+            2740,
+            2000,
+            2797
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999902387186
+    },
+    {
+        "ids": [
+            4,
+            11,
+            19
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Location",
+        "value": "120 Park Avenue, New York, NY 10017",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1035,
+            793,
+            2268,
+            865
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999997426401738
+    },
+    {
+        "ids": [
+            5,
+            13,
+            20
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Organization Name",
+        "value": "Philip Morris Management Corp.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            861,
+            690,
+            2431,
+            795
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999892338036044
+    },
+    {
+        "ids": [
+            6,
+            14,
+            21
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Date",
+        "value": "Monday, February 26, 1996 Date:",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1918,
+            1088,
+            2871,
+            1161
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "votes": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0
+        ],
+        "probability": 0.0020733149550210593
+    },
+    {
+        "ids": [
+            12
+        ],
+        "doc_id": "votes_fgyv0152_page1",
+        "pii_type": "Organization Name",
+        "value": "u'RJR's Elepsi",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            2330,
+            307,
+            3040,
+            422
+        ],
+        "source_file": "votes_fgyv0152_page1.csv",
+        "votes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "probability": 1.0766196395777447e-05
+    }
+]

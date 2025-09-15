@@ -1,0 +1,178 @@
+[
+    {
+        "ids": [
+            0,
+            8,
+            16
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. V. B. Lougee, III, President and Chief Operating Officer",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.10747325420379639,
+            0.11861411482095718,
+            0.8197464868426323,
+            0.13370684161782265
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            9,
+            17
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Person Name",
+        "value": "R. S. Sprinkle, III, Research and Development Director",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.10795144736766815,
+            0.16511787474155426,
+            0.7497172504663467,
+            0.18016938865184784
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            10,
+            18
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. William J. Moore",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.17076291143894196,
+            0.7416045665740967,
+            0.40893595293164253,
+            0.7538100657984614
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            11,
+            19
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. Arnold Henson",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.17030639946460724,
+            0.7891674637794495,
+            0.37369050085544586,
+            0.8007996957749128
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            12,
+            20
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Organization Name",
+        "value": "The American Tobacco Company",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.46193960309028625,
+            0.033836472779512405,
+            0.8731309175491333,
+            0.07543333247303963
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            13,
+            21
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Organization Name",
+        "value": "AMERICAN BRANDS, INC.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6403047442436218,
+            0.07162783294916153,
+            0.7877798695117235,
+            0.07848142087459564
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            14,
+            22
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Date",
+        "value": "July 10, 1978",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.10776343941688538,
+            0.07306939363479614,
+            0.26220835000276566,
+            0.0870456425473094
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            15,
+            23
+        ],
+        "doc_id": "votes_fhbh0177_page1",
+        "pii_type": "Contract Number",
+        "value": "NYO 627 (8-68)",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.03636625409126282,
+            0.011283977888524532,
+            0.126097172498703,
+            0.019268961623311043
+        ],
+        "source_file": "votes_fhbh0177_page1.csv"
+    }
+]

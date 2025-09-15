@@ -1,0 +1,240 @@
+[
+    {
+        "ids": [
+            0,
+            14
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Location",
+        "value": "Bangkok",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.18760061264038086,
+            0.19403432309627533,
+            0.24929582327604294,
+            0.20572737697511911
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            15
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Location",
+        "value": "Thailand",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.18832312524318695,
+            0.20770575106143951,
+            0.2461017146706581,
+            0.2182137668132782
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            5,
+            17
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Organization Name",
+        "value": "Royal Thai Government",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18775133788585663,
+            0.1807791143655777,
+            0.34699052572250366,
+            0.19286934472620487
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            6,
+            18
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Organization Name",
+        "value": "Royal Thai Government",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.38525694608688354,
+            0.4376559257507324,
+            0.5395298451185226,
+            0.45009379740804434
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    },
+    {
+        "ids": [
+            4
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Organization Name",
+        "value": "Ministry of Public Health",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.3465515673160553,
+            0.6566479206085205,
+            0.5081244595348835,
+            0.6689146440476179
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            16
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Organization Name",
+        "value": "PRAFT",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.44747194647789,
+            0.13345478475093842,
+            0.49526940658688545,
+            0.1427277335897088
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    },
+    {
+        "ids": [
+            8
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Contract Number",
+        "value": "Z'd",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.2055487036705017,
+            0.8544719219207764,
+            0.23152728751301765,
+            0.8629291160032153
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            19
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Contract Number",
+        "value": "9650",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.4363096356391907,
+            0.8511533141136169,
+            0.468302384018898,
+            0.8594030700623989
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            20
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Contract Number",
+        "value": "258",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.5133253931999207,
+            0.8499724268913269,
+            0.5433479603379965,
+            0.8583267563953996
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    },
+    {
+        "ids": [
+            11,
+            21
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Contract Number",
+        "value": "917",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.5509371161460876,
+            0.8497087359428406,
+            0.5762548558413982,
+            0.8577250931411982
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    },
+    {
+        "ids": [
+            12
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Contract Number",
+        "value": "WODD:90",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.685345470905304,
+            0.8473352193832397,
+            0.7410656772553921,
+            0.8558780252933502
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    },
+    {
+        "ids": [
+            13,
+            22
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Contract Number",
+        "value": "330",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.8097389936447144,
+            0.845827043056488,
+            0.8338219355791807,
+            0.8542801681905985
+        ],
+        "source_file": "votes_fgdn0202_page1.csv"
+    }
+]

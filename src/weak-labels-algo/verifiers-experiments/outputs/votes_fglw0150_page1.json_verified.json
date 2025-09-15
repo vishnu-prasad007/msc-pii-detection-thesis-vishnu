@@ -1,0 +1,174 @@
+[
+  {
+    "ids": [
+      0,
+      5,
+      9
+    ],
+    "doc_id": "votes_fglw0150_page1",
+    "pii_type": "Person Name",
+    "value": "Gaworski, Charles L.",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.2728520929813385,
+      0.1301683634519577,
+      0.40758126601576805,
+      0.14113960601389408
+    ],
+    "source_file": "votes_fglw0150_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      1,
+      6,
+      10
+    ],
+    "doc_id": "votes_fglw0150_page1",
+    "pii_type": "Person Name",
+    "value": "Gaworski, Charles L.",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.14348885416984558,
+      0.3080873191356659,
+      0.2777426205575466,
+      0.31866172328591347
+    ],
+    "source_file": "votes_fglw0150_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      2,
+      7,
+      12
+    ],
+    "doc_id": "votes_fglw0150_page1",
+    "pii_type": "Date",
+    "value": "Thursday, May 20, 2004 2:16 PM",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.2722792327404022,
+      0.14296261966228485,
+      0.4889303110539913,
+      0.1541628148406744
+    ],
+    "source_file": "votes_fglw0150_page1.csv",
+    "votes": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      3,
+      8,
+      13
+    ],
+    "doc_id": "votes_fglw0150_page1",
+    "pii_type": "Date",
+    "value": "Friday, June 08, 2001 9:24 AM",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.14288291335105896,
+      0.3201729953289032,
+      0.34384798631072044,
+      0.3318778546527028
+    ],
+    "source_file": "votes_fglw0150_page1.csv",
+    "votes": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      4
+    ],
+    "doc_id": "votes_fglw0150_page1",
+    "pii_type": "Contract Number",
+    "value": "PM3009480642",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      0.8123062252998352,
+      0.9294990301132202,
+      0.9319190159440041,
+      0.9400603091344237
+    ],
+    "source_file": "votes_fglw0150_page1.csv",
+    "votes": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      11
+    ],
+    "doc_id": "votes_fglw0150_page1",
+    "pii_type": "Person Name",
+    "value": "Chuck",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      0.09031035006046295,
+      0.4594610333442688,
+      0.13235284388065338,
+      0.4683830300346017
+    ],
+    "source_file": "votes_fglw0150_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+]

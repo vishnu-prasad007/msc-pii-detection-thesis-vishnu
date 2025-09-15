@@ -1,0 +1,854 @@
+[
+    {
+        "ids": [
+            0,
+            6,
+            8,
+            15,
+            48,
+            83
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Technical Advisor",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6408140063285828,
+            0.9295743107795715,
+            0.8114336207509041,
+            0.940385377034545
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            1,
+            3,
+            4,
+            9,
+            12,
+            13,
+            49,
+            81
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Organization Name",
+            "Person Name",
+            "Location"
+        ],
+        "value": "Fiske Brothers Refining Co.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18836599588394165,
+            0.9063388705253601,
+            0.4578409790992737,
+            0.9198351837694645
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            2,
+            10,
+            11,
+            47,
+            80,
+            115
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Email Address",
+            "Contract Number",
+            "Location"
+        ],
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fhmm0017 Source:",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.21655528247356415,
+            0.9788604378700256,
+            0.788363978266716,
+            0.9968605097383261
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            5,
+            14,
+            82
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": "Organization Name",
+        "value": "PREPARED BY",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5062968134880066,
+            0.9139313101768494,
+            0.603912740945816,
+            0.9233575323596597
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            7,
+            16,
+            84
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": "Date",
+        "value": "September 24, 1985",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.20427455008029938,
+            0.9366567730903625,
+            0.38223982602357864,
+            0.9503885833546519
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            17,
+            50,
+            85
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "SECTION V HEALTH HAZARD DATA",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.34379708766937256,
+            0.017406195402145386,
+            0.6448673941195011,
+            0.03275633882731199
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            18,
+            51,
+            86
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "THRESMOLD LIMIT VALUE None",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.0663362517952919,
+            0.04319212958216667,
+            0.3528688848018646,
+            0.05600607953965664
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            19,
+            52,
+            87
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "EFFECTS OF OVEREXPOSURE None",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.06763280183076859,
+            0.06386338919401169,
+            0.3535393103957176,
+            0.07989353965967894
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            20,
+            53,
+            88
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "EMERGENCY ANO FIRST AID PROCEDURES External - Normal Good Hygiene",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.06799542903900146,
+            0.11057913303375244,
+            0.6799118891358376,
+            0.12953843548893929
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            21,
+            54,
+            89
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "Internal - Consult a PHysician",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.37707677483558655,
+            0.14032705128192902,
+            0.6805119961500168,
+            0.1526989433914423
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            22,
+            55,
+            90
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "SECTION VI REACTIVITY DATA",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.36320963501930237,
+            0.20259732007980347,
+            0.6280978880822659,
+            0.21743744052946568
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            23,
+            56,
+            91
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "STASILITY UNSTABLE CONDITIONS TO AVOID",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.0693172812461853,
+            0.22761408984661102,
+            0.5620136633515358,
+            0.24202172737568617
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            24,
+            57,
+            92
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "STABLE X",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.21535493433475494,
+            0.2538681626319885,
+            0.3873319271951914,
+            0.26567041501402855
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            25,
+            58,
+            93
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "INCOMPATASILITY (Materials to avoid)",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.0695996880531311,
+            0.27559635043144226,
+            0.30991458147764206,
+            0.2866675425320864
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            26,
+            59,
+            94
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "HAZARDOUS DECOMPOSITION PRODUCTS",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.07059788703918457,
+            0.2989910840988159,
+            0.32530343532562256,
+            0.3087302129715681
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            27,
+            60,
+            95
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "HAZARDOUS MAY OCCUR CONDITIONS TO AVOID",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.07093445956707001,
+            0.32503995299339294,
+            0.6538091152906418,
+            0.34316118620336056
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            28,
+            61,
+            96
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "POLYMERIZATION",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.07104900479316711,
+            0.3448781371116638,
+            0.17635208368301392,
+            0.3539705676957965
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            29,
+            62,
+            97
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "WILL NOT OCCUR X",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.2578697204589844,
+            0.35596227645874023,
+            0.4700012970715761,
+            0.3659285260364413
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            30,
+            63,
+            98
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "SECTION VII SPILL OR LEAK PROCEDURES",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.31399351358413696,
+            0.4143502414226532,
+            0.6807844340801239,
+            0.4291936820372939
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            31,
+            64,
+            99
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "STEPS TO BE TAKEN IN CASE MATERIAL is RELEASED OR SPILLED",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.07512112706899643,
+            0.4366993010044098,
+            0.4749084338545799,
+            0.44735449086874723
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            32,
+            65,
+            100
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "Normal cleanup with use of \"oil dri\" or absorbant material",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.07440751791000366,
+            0.467548131942749,
+            0.6596819087862968,
+            0.4821695424616337
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            33,
+            66,
+            101
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "WASTE DISPOSAL METHOD Incinerate or approved waste disposal",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.07553832232952118,
+            0.5142013430595398,
+            0.5105293914675713,
+            0.5284015396609902
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            34,
+            67,
+            102
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "SECTION VIII SPECIAL PROTECTION INFORMATION",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.2785167694091797,
+            0.6043592095375061,
+            0.7167358621954918,
+            0.6193804936483502
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            35,
+            68,
+            103
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "RESPIRATORY PROTECTION (Specify type)",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.07850521057844162,
+            0.6303326487541199,
+            0.32922548055648804,
+            0.6409795992076397
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            36,
+            69,
+            104
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "VENTILATION LOCAL EXHAUST X SPECIAL",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.07910420745611191,
+            0.6515704989433289,
+            0.6855202913284302,
+            0.6692515211179852
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            37,
+            70,
+            105
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "MECHANICAL (General) OTHER",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.22213447093963623,
+            0.6777371764183044,
+            0.6743367798626423,
+            0.6879139468073845
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            38,
+            71,
+            106
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "PROTECTIVE GLOVES normally not necessary EYE PROTECTION \u00e1s against any foreign material",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.07974477857351303,
+            0.700795590877533,
+            0.8423882573843002,
+            0.7189988559111953
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            39,
+            72,
+            107
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "OTHER PROTECTIVE EQUIPMENT",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.0804116353392601,
+            0.72701096534729,
+            0.27270782738924026,
+            0.7355471765622497
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            40,
+            73,
+            108
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "SECTION IX SPECIAL PRECAUTIONS",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.34284108877182007,
+            0.7676669955253601,
+            0.6553773283958435,
+            0.7828582255169749
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            41,
+            74,
+            109
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "PRECAUTIONS TO BE TAKEN IN HANDLING AND STORING",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.08023013174533844,
+            0.7912348508834839,
+            0.4308028928935528,
+            0.8007732722908258
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            42,
+            75,
+            110
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "Storage at normal room temperature preferred",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.12816135585308075,
+            0.8155362606048584,
+            0.5707973316311836,
+            0.8297818377614021
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            43,
+            76,
+            111
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "OTHER PRECAUTIONS",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.08094589412212372,
+            0.8377557396888733,
+            0.21093924343585968,
+            0.8461966486647725
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            44,
+            77,
+            112
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "Fiske Brothers Refining Co. Machilor",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.18836599588394165,
+            0.8789812326431274,
+            0.8888271749019623,
+            0.9367566928267479
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            45,
+            78,
+            113
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "COMPANY NAME PREPARED BY",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.06866428256034851,
+            0.9139313101768494,
+            0.603912740945816,
+            0.9236112674698234
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    },
+    {
+        "ids": [
+            46,
+            79,
+            114
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "DATE PREPARED September 24, 1985 Technical Advisor",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.06951366364955902,
+            0.9295743107795715,
+            0.8114336207509041,
+            0.9503885833546519
+        ],
+        "source_file": "votes_fhmm0017_page2.csv"
+    }
+]

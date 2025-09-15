@@ -1,0 +1,197 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            15
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Person Name",
+        "value": "His Exellency The Prime Minister",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            467,
+            586,
+            1012,
+            629
+        ],
+        "source_file": "votes_fgdn0202_page1.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            1,
+            8
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Person Name",
+        "value": "Your Excellency,",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            467,
+            872,
+            750,
+            914
+        ],
+        "source_file": "votes_fgdn0202_page1.csv",
+        "probability": 0.9200817366604126
+    },
+    {
+        "ids": [
+            2,
+            10,
+            17
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Location",
+        "value": "Bangkok",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            465,
+            681,
+            618,
+            722
+        ],
+        "source_file": "votes_fgdn0202_page1.csv",
+        "probability": 0.9546725906404269
+    },
+    {
+        "ids": [
+            3,
+            11,
+            18
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Location",
+        "value": "Thailand",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            467,
+            729,
+            610,
+            765
+        ],
+        "source_file": "votes_fgdn0202_page1.csv",
+        "probability": 0.9546725906404269
+    },
+    {
+        "ids": [
+            4,
+            12
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Location",
+        "value": "Thailand",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            464,
+            1155,
+            616,
+            1195
+        ],
+        "source_file": "votes_fgdn0202_page1.csv",
+        "probability": 0.5802636913403714
+    },
+    {
+        "ids": [
+            5,
+            13,
+            19
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Organization Name",
+        "value": "Royal Thai Government",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            466,
+            634,
+            861,
+            677
+        ],
+        "source_file": "votes_fgdn0202_page1.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            6,
+            14,
+            20
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Organization Name",
+        "value": "Ministry of Public Health",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            859,
+            2304,
+            1260,
+            2347
+        ],
+        "source_file": "votes_fgdn0202_page1.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            9
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Phone Number",
+        "value": "9650",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1082,
+            2986,
+            1161,
+            3015
+        ],
+        "source_file": "votes_fgdn0202_page1.csv",
+        "probability": 0.00582798232176912
+    },
+    {
+        "ids": [
+            16
+        ],
+        "doc_id": "votes_fgdn0202_page1",
+        "pii_type": "Location",
+        "value": "PRAFT",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1110,
+            468,
+            1228,
+            501
+        ],
+        "source_file": "votes_fgdn0202_page1.csv",
+        "probability": 0.11727918502265558
+    }
+]

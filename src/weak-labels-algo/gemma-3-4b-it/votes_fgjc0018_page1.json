@@ -1,0 +1,221 @@
+[
+    {
+        "ids": [
+            0,
+            3,
+            5,
+            15,
+            18,
+            20,
+            22,
+            31,
+            33,
+            35
+        ],
+        "doc_id": "votes_fgjc0018_page1",
+        "pii_type": [
+            "Phone Number",
+            "Email Address",
+            "Person Name",
+            "Location"
+        ],
+        "value": "Meyne, Rob W.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            297,
+            255,
+            506,
+            289
+        ],
+        "source_file": "votes_fgjc0018_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            2,
+            4,
+            8,
+            16,
+            17,
+            19,
+            21,
+            30,
+            32,
+            34,
+            38
+        ],
+        "doc_id": "votes_fgjc0018_page1",
+        "pii_type": [
+            "Organization Name",
+            "Phone Number",
+            "Person Name",
+            "Email Address",
+            "Location"
+        ],
+        "value": "EVANSG",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            336,
+            214,
+            471,
+            243
+        ],
+        "source_file": "votes_fgjc0018_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            9,
+            14,
+            23,
+            29,
+            36,
+            43
+        ],
+        "doc_id": "votes_fgjc0018_page1",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name",
+            "Location"
+        ],
+        "value": "RJR0000000507077043",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            14,
+            2209,
+            371,
+            2240
+        ],
+        "source_file": "votes_fgjc0018_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            7,
+            24,
+            37
+        ],
+        "doc_id": "votes_fgjc0018_page1",
+        "pii_type": "Location",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fgjc0018",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            505,
+            2249,
+            1345,
+            2287
+        ],
+        "source_file": "votes_fgjc0018_page1.csv",
+        "probability": 0.9756927193958248
+    },
+    {
+        "ids": [
+            10,
+            25,
+            39
+        ],
+        "doc_id": "votes_fgjc0018_page1",
+        "pii_type": "Date",
+        "value": "9/20/1996 9:55:00 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            450,
+            374,
+            754,
+            403
+        ],
+        "source_file": "votes_fgjc0018_page1.csv",
+        "probability": 0.9980073602097371
+    },
+    {
+        "ids": [
+            11,
+            26,
+            40
+        ],
+        "doc_id": "votes_fgjc0018_page1",
+        "pii_type": "Date",
+        "value": "2001-Nov-20 02:05:10",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            532,
+            414,
+            835,
+            444
+        ],
+        "source_file": "votes_fgjc0018_page1.csv",
+        "probability": 0.9980073602097371
+    },
+    {
+        "ids": [
+            12,
+            27,
+            41
+        ],
+        "doc_id": "votes_fgjc0018_page1",
+        "pii_type": "Date",
+        "value": "1996-Sep-20 09:55:00",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            398,
+            495,
+            692,
+            530
+        ],
+        "source_file": "votes_fgjc0018_page1.csv",
+        "probability": 0.9980073602097371
+    },
+    {
+        "ids": [
+            13,
+            28,
+            42
+        ],
+        "doc_id": "votes_fgjc0018_page1",
+        "pii_type": "Date",
+        "value": "1996-Sep-20 09:55:00",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            461,
+            534,
+            757,
+            570
+        ],
+        "source_file": "votes_fgjc0018_page1.csv",
+        "probability": 0.9980073602097371
+    }
+]

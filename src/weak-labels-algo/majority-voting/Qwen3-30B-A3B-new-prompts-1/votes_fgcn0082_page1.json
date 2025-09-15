@@ -1,0 +1,115 @@
+[
+    {
+        "ids": [
+            0,
+            5,
+            10
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Person Name",
+        "value": "Chaikin, Karen",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            146,
+            370,
+            373,
+            403
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            6,
+            11
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Person Name",
+        "value": "Chaikin, Karen",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            482,
+            437,
+            658,
+            464
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            7,
+            12
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Person Name",
+        "value": "Mohrmann, Christine",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            481,
+            499,
+            731,
+            524
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            8,
+            13
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Date",
+        "value": "Tuesday, September 28, 1999 4:02 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            482,
+            469,
+            948,
+            496
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            9
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Contract Number",
+        "value": "2071863150",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1340,
+            294,
+            1550,
+            347
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.6666666666666666
+    }
+]

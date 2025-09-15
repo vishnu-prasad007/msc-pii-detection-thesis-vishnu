@@ -1,0 +1,178 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            13
+        ],
+        "doc_id": "votes_fgjc0018_page1",
+        "pii_type": "Person Name",
+        "value": "EVANSG",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            336,
+            214,
+            471,
+            243
+        ],
+        "source_file": "votes_fgjc0018_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            1,
+            8,
+            14
+        ],
+        "doc_id": "votes_fgjc0018_page1",
+        "pii_type": "Person Name",
+        "value": "Meyne, Rob W.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            297,
+            255,
+            506,
+            289
+        ],
+        "source_file": "votes_fgjc0018_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            2,
+            9,
+            16
+        ],
+        "doc_id": "votes_fgjc0018_page1",
+        "pii_type": "Date",
+        "value": "9/20/1996 9:55:00 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            450,
+            374,
+            754,
+            403
+        ],
+        "source_file": "votes_fgjc0018_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            3,
+            10,
+            17
+        ],
+        "doc_id": "votes_fgjc0018_page1",
+        "pii_type": "Date",
+        "value": "2001-Nov-20 02:05:10",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            532,
+            414,
+            835,
+            444
+        ],
+        "source_file": "votes_fgjc0018_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            4,
+            11,
+            18
+        ],
+        "doc_id": "votes_fgjc0018_page1",
+        "pii_type": "Date",
+        "value": "1996-Sep-20 09:55:00",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            398,
+            495,
+            692,
+            530
+        ],
+        "source_file": "votes_fgjc0018_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            5,
+            19
+        ],
+        "doc_id": "votes_fgjc0018_page1",
+        "pii_type": "Date",
+        "value": "1996-Sep-20 09:55:00",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            461,
+            534,
+            757,
+            570
+        ],
+        "source_file": "votes_fgjc0018_page1.csv",
+        "probability": 0.8919581073985893
+    },
+    {
+        "ids": [
+            6,
+            12
+        ],
+        "doc_id": "votes_fgjc0018_page1",
+        "pii_type": "Contract Number",
+        "value": "RJR0000000507077043",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            14,
+            2209,
+            371,
+            2240
+        ],
+        "source_file": "votes_fgjc0018_page1.csv",
+        "probability": 0.7414301971243858
+    },
+    {
+        "ids": [
+            15
+        ],
+        "doc_id": "votes_fgjc0018_page1",
+        "pii_type": "Phone Number",
+        "value": "700177723",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            14,
+            2248,
+            185,
+            2278
+        ],
+        "source_file": "votes_fgjc0018_page1.csv",
+        "probability": 0.042298016739327426
+    }
+]

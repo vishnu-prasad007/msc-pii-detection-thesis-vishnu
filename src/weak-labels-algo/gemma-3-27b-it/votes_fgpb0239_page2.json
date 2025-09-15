@@ -1,0 +1,991 @@
+[
+    {
+        "ids": [
+            0,
+            42,
+            85
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Person Name",
+        "value": "Trudy",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            747,
+            161,
+            866,
+            203
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            1,
+            43,
+            86
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Person Name",
+        "value": "Annette Hightower",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1022,
+            657,
+            1424,
+            699
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            2,
+            44
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Person Name",
+        "value": "Jane",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            947,
+            933,
+            1033,
+            966
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9200817366604126
+    },
+    {
+        "ids": [
+            3,
+            45,
+            87
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Person Name",
+        "value": "Annette Hightower",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            898,
+            1929,
+            1199,
+            1964
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            4,
+            46,
+            89
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Email Address",
+        "value": "Jane.WILLIAMS@mallinckrodt.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1333,
+            769,
+            2031,
+            808
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9999992501420173
+    },
+    {
+        "ids": [
+            5,
+            47,
+            88
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Email Address",
+        "value": "ahightower@innovatix.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1430,
+            656,
+            2002,
+            698
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9999992501420173
+    },
+    {
+        "ids": [
+            6,
+            48,
+            90
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Email Address",
+        "value": "ahightower@innovatix.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1581,
+            2089,
+            2093,
+            2129
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9999992501420173
+    },
+    {
+        "ids": [
+            7,
+            49,
+            91
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Phone Number",
+        "value": "212-901-1307",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            944,
+            2090,
+            1208,
+            2124
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9999993523779069
+    },
+    {
+        "ids": [
+            8,
+            50,
+            92
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Phone Number",
+        "value": "646-638-0792",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1272,
+            2089,
+            1535,
+            2123
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9999993523779069
+    },
+    {
+        "ids": [
+            9,
+            52,
+            94
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Location",
+        "value": "555 W. 57th Street, 12th Floor New York, NY 10019 Innovatix, LLC I",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            900,
+            2032,
+            2184,
+            2074
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9546725906404269
+    },
+    {
+        "ids": [
+            10,
+            53,
+            96
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Innovatix",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1420,
+            273,
+            1601,
+            307
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            11,
+            54,
+            97
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1870,
+            1194,
+            2077,
+            1235
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            12,
+            55,
+            98
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1870,
+            1261,
+            2078,
+            1301
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            13,
+            56,
+            99
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1870,
+            1328,
+            2076,
+            1368
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            14,
+            57,
+            100
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1869,
+            1394,
+            2076,
+            1433
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            15,
+            58,
+            101
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1869,
+            1461,
+            2076,
+            1501
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            16,
+            59,
+            102
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1869,
+            1528,
+            2076,
+            1567
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            17,
+            60,
+            103
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1869,
+            1594,
+            2076,
+            1633
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            18,
+            61,
+            104
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1870,
+            1661,
+            2076,
+            1700
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            19,
+            62,
+            105
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1869,
+            1728,
+            2076,
+            1767
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            20,
+            63,
+            93,
+            106
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": [
+            "Location",
+            "Organization Name"
+        ],
+        "value": "Innovatix, LLC",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            900,
+            1884,
+            1116,
+            1916
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            21,
+            64,
+            107
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Innovatix, LLC",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            900,
+            2033,
+            1158,
+            2073
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            22,
+            65,
+            108
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Tyco Healthcare",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2195,
+            1194,
+            2463,
+            1234
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            23,
+            66,
+            109
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Tyco Healthcare",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2195,
+            1261,
+            2464,
+            1300
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            24,
+            67,
+            110
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Tyco Healthcare",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2196,
+            1328,
+            2463,
+            1368
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            25,
+            68,
+            111
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Tyco Healthcare",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2196,
+            1394,
+            2464,
+            1434
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            26,
+            69,
+            112
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Tyco Healthcare",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2196,
+            1461,
+            2464,
+            1501
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            27,
+            70,
+            113
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Tyco Healthcare",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2195,
+            1528,
+            2465,
+            1568
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            28,
+            71,
+            114
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Tyco Healthcare",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2196,
+            1594,
+            2465,
+            1634
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            29,
+            72,
+            115
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Tyco Healthcare",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2195,
+            1661,
+            2465,
+            1701
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            30,
+            73,
+            116
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Organization Name",
+        "value": "Tyco Healthcare",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2195,
+            1728,
+            2465,
+            1768
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            31,
+            74,
+            117
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Date",
+        "value": "November 11, 2013, 10:26:17 AM EST",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1013,
+            714,
+            1719,
+            753
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9999806273337076
+    },
+    {
+        "ids": [
+            32,
+            75,
+            118
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Date",
+        "value": "9/30/13",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1002,
+            1129,
+            1162,
+            1167
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9999806273337076
+    },
+    {
+        "ids": [
+            33,
+            76,
+            119
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406900076",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1598,
+            1193,
+            1828,
+            1228
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            34,
+            77,
+            120
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406907576",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1598,
+            1260,
+            1827,
+            1295
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            35,
+            78,
+            121
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406036501",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1598,
+            1328,
+            1824,
+            1362
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            36,
+            79,
+            122
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406036562",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1599,
+            1394,
+            1826,
+            1428
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            37,
+            80,
+            123
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406036601",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1599,
+            1462,
+            1823,
+            1494
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            38,
+            81,
+            124
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406036662",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1600,
+            1529,
+            1824,
+            1561
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            39,
+            82,
+            125
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406345434",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1599,
+            1595,
+            1826,
+            1627
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            40,
+            83,
+            126
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406577101",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1599,
+            1662,
+            1823,
+            1694
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            41,
+            84,
+            127
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Contract Number",
+        "value": "00406577162",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1599,
+            1728,
+            1826,
+            1761
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            51,
+            95
+        ],
+        "doc_id": "votes_fgpb0239_page2",
+        "pii_type": "Location",
+        "value": "New York, NY 10019",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1807,
+            2033,
+            2184,
+            2073
+        ],
+        "source_file": "votes_fgpb0239_page2.csv",
+        "probability": 0.6496131543550141
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "ids": [
+            0,
+            2,
+            3
+        ],
+        "doc_id": "votes_fjdl0137_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Mr. Hammor",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            279,
+            142,
+            393,
+            159
+        ],
+        "source_file": "votes_fjdl0137_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            4,
+            6
+        ],
+        "doc_id": "votes_fjdl0137_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Dixon, W. E.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            235,
+            386,
+            368,
+            407
+        ],
+        "source_file": "votes_fjdl0137_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fjdl0137_page1",
+        "pii_type": "Organization Name",
+        "value": "Source: https://www.industrydocuments.ucsf.edu/docs/fjdl0137",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            253,
+            1543,
+            953,
+            1571
+        ],
+        "source_file": "votes_fjdl0137_page1.csv",
+        "probability": 0.05689127786710964
+    }
+]

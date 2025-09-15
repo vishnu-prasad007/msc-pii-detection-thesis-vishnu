@@ -1,0 +1,246 @@
+[
+    {
+        "ids": [
+            0,
+            8,
+            18
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Phone Number",
+        "value": "70013 3630",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.013228756375610828,
+            0.9709508419036865,
+            0.11607528105378151,
+            0.9838903760537505
+        ],
+        "source_file": "votes_fjcx0221_page2.csv"
+    },
+    {
+        "ids": [
+            1,
+            11,
+            20
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "April 5",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.30184370279312134,
+            0.1419532299041748,
+            0.35751613415777683,
+            0.15699072554707527
+        ],
+        "source_file": "votes_fjcx0221_page2.csv"
+    },
+    {
+        "ids": [
+            2,
+            12,
+            21,
+            25
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "9.00 a.m.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.26444557309150696,
+            0.17675764858722687,
+            0.34574102237820625,
+            0.18920284137129784
+        ],
+        "source_file": "votes_fjcx0221_page2.csv"
+    },
+    {
+        "ids": [
+            3,
+            13,
+            23,
+            26
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "2009",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.9120250940322876,
+            0.9028273224830627,
+            0.9297846555709839,
+            0.9369742125272751
+        ],
+        "source_file": "votes_fjcx0221_page2.csv"
+    },
+    {
+        "ids": [
+            4,
+            10,
+            14,
+            27
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "RJR0000001371017574",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.012710283510386944,
+            0.9535865783691406,
+            0.225756268016994,
+            0.9666874902322888
+        ],
+        "source_file": "votes_fjcx0221_page2.csv"
+    },
+    {
+        "ids": [
+            5,
+            15
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Person Name",
+        "value": "Jeffrey",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.20671990513801575,
+            0.10701550543308258,
+            0.2667916864156723,
+            0.12212105561047792
+        ],
+        "source_file": "votes_fjcx0221_page2.csv"
+    },
+    {
+        "ids": [
+            6,
+            16
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Person Name",
+        "value": "Martin Falk",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.2778837978839874,
+            0.1944265067577362,
+            0.37137946859002113,
+            0.20671019051223993
+        ],
+        "source_file": "votes_fjcx0221_page2.csv"
+    },
+    {
+        "ids": [
+            7,
+            17
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Person Name",
+        "value": "Roland Greinwald",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.2779887318611145,
+            0.3506643772125244,
+            0.41968484967947006,
+            0.36293383222073317
+        ],
+        "source_file": "votes_fjcx0221_page2.csv"
+    },
+    {
+        "ids": [
+            9,
+            22
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": [
+            "Location",
+            "Organization Name"
+        ],
+        "value": "Targacept",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.49352169036865234,
+            0.28196731209754944,
+            0.5723432749509811,
+            0.296425299718976
+        ],
+        "source_file": "votes_fjcx0221_page2.csv"
+    },
+    {
+        "ids": [
+            19
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Location",
+        "value": "Dear Jeffrey,",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.15210548043251038,
+            0.10701550543308258,
+            0.2667916864156723,
+            0.12212105561047792
+        ],
+        "source_file": "votes_fjcx0221_page2.csv"
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Location",
+        "value": "ttps://www.industrydocuments.ucsf.edu/docs/fjcx0221",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.28256574273109436,
+            0.9820957183837891,
+            0.7788287401199341,
+            0.9973570303991437
+        ],
+        "source_file": "votes_fjcx0221_page2.csv"
+    }
+]

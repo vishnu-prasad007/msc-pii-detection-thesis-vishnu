@@ -1,0 +1,351 @@
+[
+    {
+        "ids": [
+            0,
+            5,
+            13,
+            20,
+            33,
+            41
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "Valerie Vaughan",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            896,
+            1197,
+            1343,
+            1268
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            6,
+            14,
+            18,
+            21,
+            34,
+            42
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Phone Number",
+            "Person Name",
+            "Location"
+        ],
+        "value": "Leonard Jones",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            892,
+            1280,
+            1276,
+            1338
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            7,
+            15,
+            22,
+            35,
+            43
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "Don Kisling",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            894,
+            1442,
+            1219,
+            1515
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            9,
+            24,
+            28,
+            36,
+            38,
+            45,
+            50
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Email Address",
+            "Contract Number",
+            "Organization Name",
+            "Location"
+        ],
+        "value": "Lorillard",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1378,
+            288,
+            1960,
+            479
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            17,
+            40
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Phone Number",
+            "Location"
+        ],
+        "value": "Collett Thach",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            897,
+            1114,
+            1257,
+            1173
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": NaN
+    },
+    {
+        "ids": [
+            8,
+            23,
+            44
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Location",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fjfw0152",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            720,
+            4594,
+            2613,
+            4667
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 0.9756927193958248
+    },
+    {
+        "ids": [
+            10,
+            25,
+            39,
+            46,
+            51
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name",
+            "Location"
+        ],
+        "value": "TOBACCO COMPANY",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1611,
+            433,
+            1935,
+            472
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            11,
+            26,
+            48
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Date",
+        "value": "March 26, 1999",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            501,
+            868,
+            924,
+            938
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 0.9980073602097371
+    },
+    {
+        "ids": [
+            12,
+            27,
+            49
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Date",
+        "value": "March 19, 1999",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            716,
+            2100,
+            1152,
+            2170
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 0.9980073602097371
+    },
+    {
+        "ids": [
+            16,
+            19,
+            32,
+            37
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": [
+            "Email Address",
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "Kelli Scruggs",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1846,
+            3572,
+            2218,
+            3645
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 0.3000000000004
+    },
+    {
+        "ids": [
+            29
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Contract Number",
+        "value": "Newport Slim",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            2397,
+            1937,
+            2783,
+            2008
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 0.26090111733760796
+    },
+    {
+        "ids": [
+            30
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Contract Number",
+        "value": "Newport Continuity",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            979,
+            2019,
+            1541,
+            2089
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 0.26090111733760796
+    },
+    {
+        "ids": [
+            31
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Contract Number",
+        "value": "Newport Lights Direct Mail Programs",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            979,
+            2018,
+            2688,
+            2091
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 0.26090111733760796
+    },
+    {
+        "ids": [
+            47
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Organization Name",
+        "value": "Lorillard'",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            2448,
+            3571,
+            2701,
+            3631
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 0.04615078191616081
+    }
+]

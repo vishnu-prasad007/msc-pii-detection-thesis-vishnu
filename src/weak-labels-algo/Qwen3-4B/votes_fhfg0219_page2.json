@@ -1,0 +1,764 @@
+[
+    {
+        "ids": [
+            0,
+            47,
+            62
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Person Name",
+        "value": "Dr. A. W. Spears",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            416,
+            351,
+            852,
+            412
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            1,
+            24,
+            48,
+            63,
+            80
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Ron Milstein",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1470,
+            980,
+            1785,
+            1029
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            13,
+            25,
+            49,
+            64,
+            81
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Haney Bell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1469,
+            1050,
+            1740,
+            1109
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            27,
+            50,
+            65,
+            83
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Michael Shannon",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1476,
+            1328,
+            1898,
+            1378
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            29,
+            51,
+            66,
+            85
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Ron Milstein",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1465,
+            1609,
+            1779,
+            1659
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            15,
+            30,
+            52,
+            67,
+            86
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Haney Bell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1465,
+            1678,
+            1735,
+            1738
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            14,
+            33,
+            53,
+            68,
+            89
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Haney Bell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1461,
+            2026,
+            1732,
+            2086
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            7,
+            36,
+            54,
+            69,
+            92
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Ron Milstein",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1458,
+            2374,
+            1774,
+            2425
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            8,
+            16,
+            40,
+            55,
+            70,
+            96
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Haney Bell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1456,
+            2864,
+            1726,
+            2923
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            9,
+            42,
+            56,
+            71,
+            98
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "Ron Milstein",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1455,
+            3141,
+            1768,
+            3191
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            10,
+            17,
+            44,
+            57,
+            72,
+            100
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Haney Bell* Bell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1451,
+            3420,
+            1750,
+            3479
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Person Name",
+        "value": "Ron",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            589,
+            3770,
+            693,
+            3818
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 0.12241525286457304
+    },
+    {
+        "ids": [
+            12,
+            20,
+            58,
+            73,
+            76
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "Page Two",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            414,
+            421,
+            664,
+            482
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 0.9994792922522238
+    },
+    {
+        "ids": [
+            18,
+            21,
+            61,
+            74,
+            77
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": [
+            "Contract Number",
+            "Date"
+        ],
+        "value": "August 9, 1999",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            415,
+            491,
+            792,
+            551
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            19,
+            75
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Contract Number",
+        "value": "Dr. A. W. Spears, et al",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            416,
+            351,
+            967,
+            412
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 0.7676520611868158
+    },
+    {
+        "ids": [
+            22,
+            78
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Contract Number",
+        "value": "Anti-trust:",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            414,
+            702,
+            667,
+            750
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 0.7676520611868158
+    },
+    {
+        "ids": [
+            23,
+            79
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Contract Number",
+        "value": "- General Matters (Anti-trust compliance programs, general counseling, leaf matters)",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            611,
+            840,
+            2646,
+            903
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 0.7676520611868158
+    },
+    {
+        "ids": [
+            26,
+            82
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Contract Number",
+        "value": "- Field Sales",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            610,
+            1187,
+            911,
+            1238
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 0.7676520611868158
+    },
+    {
+        "ids": [
+            28,
+            84
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Contract Number",
+        "value": "- Excel Promotion Programs",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            606,
+            1467,
+            1299,
+            1528
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 0.7676520611868158
+    },
+    {
+        "ids": [
+            31,
+            87
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Contract Number",
+        "value": "Consumer Complaints/Inquiries. Unsolicited Outside",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            408,
+            1816,
+            1686,
+            1873
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 0.7676520611868158
+    },
+    {
+        "ids": [
+            32,
+            88
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Contract Number",
+        "value": "Ideas, and Governmental Requests for Information:",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            406,
+            1886,
+            1644,
+            1939
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 0.7676520611868158
+    },
+    {
+        "ids": [
+            34,
+            90
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Contract Number",
+        "value": "Corporate, Corporate Secretarial and Related",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            401,
+            2164,
+            1490,
+            2223
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 0.7676520611868158
+    },
+    {
+        "ids": [
+            35,
+            91
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Contract Number",
+        "value": "SEC and NYSE Reporting Matters:",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            403,
+            2234,
+            1259,
+            2291
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 0.7676520611868158
+    },
+    {
+        "ids": [
+            37,
+            93
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Contract Number",
+        "value": "Human Resources:",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            399,
+            2512,
+            857,
+            2562
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 0.7676520611868158
+    },
+    {
+        "ids": [
+            38,
+            94
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Contract Number",
+        "value": "- Plant and R & D Related (including Collective",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            599,
+            2653,
+            1754,
+            2715
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 0.7676520611868158
+    },
+    {
+        "ids": [
+            39,
+            95
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Contract Number",
+        "value": "Bargaining, Union and Labor Relations)",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            628,
+            2723,
+            1598,
+            2784
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 0.7676520611868158
+    },
+    {
+        "ids": [
+            41,
+            97
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Contract Number",
+        "value": "- Benefit Plans",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            597,
+            3002,
+            954,
+            3051
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 0.7676520611868158
+    },
+    {
+        "ids": [
+            43,
+            99
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Contract Number",
+        "value": "- Policies",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            593,
+            3280,
+            822,
+            3328
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 0.7676520611868158
+    },
+    {
+        "ids": [
+            45,
+            101
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Contract Number",
+        "value": "* With Ron as primary \"back-up\"",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            392,
+            3768,
+            1225,
+            3830
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 0.7676520611868158
+    },
+    {
+        "ids": [
+            46,
+            102
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Contract Number",
+        "value": "Source: https://www.industrydocuments.ucsf.edu/docs/fhfg0219",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            764,
+            4316,
+            2636,
+            4387
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 0.7676520611868158
+    },
+    {
+        "ids": [
+            59
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Organization Name",
+        "value": "SEC",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            403,
+            2234,
+            518,
+            2283
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 0.050651127642433146
+    },
+    {
+        "ids": [
+            60
+        ],
+        "doc_id": "votes_fhfg0219_page2",
+        "pii_type": "Organization Name",
+        "value": "NYSE",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            632,
+            2234,
+            792,
+            2282
+        ],
+        "source_file": "votes_fhfg0219_page2.csv",
+        "probability": 0.050651127642433146
+    }
+]

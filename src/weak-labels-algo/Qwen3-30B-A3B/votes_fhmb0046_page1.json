@@ -1,0 +1,92 @@
+[
+    {
+        "ids": [
+            0,
+            3,
+            7
+        ],
+        "doc_id": "votes_fhmb0046_page1",
+        "pii_type": "Person Name",
+        "value": "Martha Martha:",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            362,
+            1057,
+            534,
+            1090
+        ],
+        "source_file": "votes_fhmb0046_page1.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            1,
+            4,
+            8
+        ],
+        "doc_id": "votes_fhmb0046_page1",
+        "pii_type": "Person Name",
+        "value": "Marty Gleason",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            488,
+            1747,
+            817,
+            1788
+        ],
+        "source_file": "votes_fhmb0046_page1.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            2,
+            5,
+            9
+        ],
+        "doc_id": "votes_fhmb0046_page1",
+        "pii_type": "Date",
+        "value": "February 13, 1991",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            368,
+            882,
+            789,
+            924
+        ],
+        "source_file": "votes_fhmb0046_page1.csv",
+        "probability": 0.9999113980940532
+    },
+    {
+        "ids": [
+            6,
+            10
+        ],
+        "doc_id": "votes_fhmb0046_page1",
+        "pii_type": "Contract Number",
+        "value": "T14181-4307",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            2117,
+            3139,
+            2380,
+            3178
+        ],
+        "source_file": "votes_fhmb0046_page1.csv",
+        "probability": 0.9282347255311721
+    }
+]

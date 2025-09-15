@@ -1,0 +1,226 @@
+[
+    {
+        "ids": [
+            0,
+            10,
+            19
+        ],
+        "doc_id": "votes_fgwm0211_page1",
+        "pii_type": "Person Name",
+        "value": "Dr. T. Hirji",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            578,
+            815,
+            866,
+            850
+        ],
+        "source_file": "votes_fgwm0211_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            1,
+            11,
+            20
+        ],
+        "doc_id": "votes_fgwm0211_page1",
+        "pii_type": "Person Name",
+        "value": "N . Davis",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1369,
+            808,
+            1562,
+            838
+        ],
+        "source_file": "votes_fgwm0211_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            2,
+            12,
+            21
+        ],
+        "doc_id": "votes_fgwm0211_page1",
+        "pii_type": "Person Name",
+        "value": "David Stimson",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1260,
+            1480,
+            1569,
+            1513
+        ],
+        "source_file": "votes_fgwm0211_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            3,
+            13,
+            22
+        ],
+        "doc_id": "votes_fgwm0211_page1",
+        "pii_type": "Person Name",
+        "value": "N. DAVIS",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1100,
+            2004,
+            1290,
+            2034
+        ],
+        "source_file": "votes_fgwm0211_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            4,
+            14
+        ],
+        "doc_id": "votes_fgwm0211_page1",
+        "pii_type": "Person Name",
+        "value": "Javed lighter",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1791,
+            1929,
+            2171,
+            2031
+        ],
+        "source_file": "votes_fgwm0211_page1.csv",
+        "probability": 0.9350515521816805
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fgwm0211_page1",
+        "pii_type": "Location",
+        "value": "BATUKE R&D Centre,",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            578,
+            856,
+            1005,
+            890
+        ],
+        "source_file": "votes_fgwm0211_page1.csv",
+        "probability": 0.07632413679079741
+    },
+    {
+        "ids": [
+            6,
+            15,
+            23
+        ],
+        "doc_id": "votes_fgwm0211_page1",
+        "pii_type": "Location",
+        "value": "Southampton.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            581,
+            899,
+            861,
+            936
+        ],
+        "source_file": "votes_fgwm0211_page1.csv",
+        "probability": 0.9994942493793072
+    },
+    {
+        "ids": [
+            7,
+            16,
+            24
+        ],
+        "doc_id": "votes_fgwm0211_page1",
+        "pii_type": "Organization Name",
+        "value": "BAT",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1146,
+            505,
+            1248,
+            533
+        ],
+        "source_file": "votes_fgwm0211_page1.csv",
+        "probability": 0.997213720928886
+    },
+    {
+        "ids": [
+            8,
+            17,
+            25
+        ],
+        "doc_id": "votes_fgwm0211_page1",
+        "pii_type": "Organization Name",
+        "value": "BRITISH-AMERICAN TOBACCO COMPANY LTD",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            451,
+            565,
+            1971,
+            625
+        ],
+        "source_file": "votes_fgwm0211_page1.csv",
+        "probability": 0.997213720928886
+    },
+    {
+        "ids": [
+            9,
+            18,
+            26
+        ],
+        "doc_id": "votes_fgwm0211_page1",
+        "pii_type": "Date",
+        "value": "1st July 1987",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1374,
+            1014,
+            1682,
+            1052
+        ],
+        "source_file": "votes_fgwm0211_page1.csv",
+        "probability": 0.9999750930787068
+    }
+]

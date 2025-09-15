@@ -1,0 +1,95 @@
+[
+    {
+        "ids": [
+            0,
+            3,
+            6
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Person Name",
+        "value": "Sharon T. Yortnoy",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            513,
+            3089,
+            1020,
+            3128
+        ],
+        "source_file": "votes_fhhd0023_page2.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            1,
+            4,
+            7
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Organization Name",
+        "value": "RTC Direct",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            194,
+            633,
+            492,
+            667
+        ],
+        "source_file": "votes_fhhd0023_page2.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+        ],
+        "probability": 0.9998521211121829
+    },
+    {
+        "ids": [
+            2,
+            5,
+            8
+        ],
+        "doc_id": "votes_fhhd0023_page2",
+        "pii_type": "Date",
+        "value": "6/14/25",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1817,
+            2933,
+            2050,
+            3092
+        ],
+        "source_file": "votes_fhhd0023_page2.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            0,
+            1,
+            1
+        ],
+        "probability": 0.9999579350283254
+    }
+]

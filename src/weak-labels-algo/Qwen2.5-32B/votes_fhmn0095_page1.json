@@ -1,0 +1,197 @@
+[
+    {
+        "ids": [
+            0,
+            6,
+            12
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Person Name",
+        "value": "Dr. J. N. Lester",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            192,
+            656,
+            422,
+            685
+        ],
+        "source_file": "votes_fhmn0095_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            1,
+            7,
+            13
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Location",
+        "value": "Winston-Salem, N.C., U.S.A.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            897,
+            492,
+            1314,
+            528
+        ],
+        "source_file": "votes_fhmn0095_page1.csv",
+        "probability": 0.996034042417568
+    },
+    {
+        "ids": [
+            2,
+            8,
+            14
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Location",
+        "value": "London, SW7 2BU, England",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            192,
+            858,
+            609,
+            896
+        ],
+        "source_file": "votes_fhmn0095_page1.csv",
+        "probability": 0.996034042417568
+    },
+    {
+        "ids": [
+            3,
+            9,
+            15
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Organization Name",
+        "value": "R. J. Reynolds Tobacco Company",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            897,
+            410,
+            1392,
+            449
+        ],
+        "source_file": "votes_fhmn0095_page1.csv",
+        "probability": 0.9900025300515797
+    },
+    {
+        "ids": [
+            4,
+            10,
+            16
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Organization Name",
+        "value": "Imperial College of Science, Technology and Medicine",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            192,
+            778,
+            984,
+            815
+        ],
+        "source_file": "votes_fhmn0095_page1.csv",
+        "probability": 0.9900025300515797
+    },
+    {
+        "ids": [
+            5,
+            11,
+            19
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Date",
+        "value": "October 2, 1991",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            898,
+            250,
+            1128,
+            285
+        ],
+        "source_file": "votes_fhmn0095_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            17
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Organization Name",
+        "value": "Brigham Young University",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            900,
+            1550,
+            1289,
+            1589
+        ],
+        "source_file": "votes_fhmn0095_page1.csv",
+        "probability": 0.0658539807578667
+    },
+    {
+        "ids": [
+            18
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Organization Name",
+        "value": "Harvard University",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1141,
+            1551,
+            1482,
+            1589
+        ],
+        "source_file": "votes_fhmn0095_page1.csv",
+        "probability": 0.0658539807578667
+    },
+    {
+        "ids": [
+            20
+        ],
+        "doc_id": "votes_fhmn0095_page1",
+        "pii_type": "Contract Number",
+        "value": "(1)",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1448,
+            2038,
+            1490,
+            2077
+        ],
+        "source_file": "votes_fhmn0095_page1.csv",
+        "probability": 0.06019907678829865
+    }
+]

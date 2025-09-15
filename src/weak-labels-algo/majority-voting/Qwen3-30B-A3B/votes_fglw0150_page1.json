@@ -1,0 +1,115 @@
+[
+    {
+        "ids": [
+            0,
+            4,
+            9
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Person Name",
+        "value": "Gaworski, Charles L.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            928,
+            573,
+            1386,
+            621
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            5,
+            10
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Person Name",
+        "value": "Gaworski, Charles L.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            488,
+            1356,
+            944,
+            1402
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            6,
+            11
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Date",
+        "value": "Thursday, May 20, 2004 2:16 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            926,
+            629,
+            1662,
+            678
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            7,
+            12
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Date",
+        "value": "Friday, June 08, 2001 9:24 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            486,
+            1409,
+            1169,
+            1460
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            8,
+            13
+        ],
+        "doc_id": "votes_fglw0150_page1",
+        "pii_type": "Contract Number",
+        "value": "PM3009480642",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            2762,
+            4090,
+            3169,
+            4136
+        ],
+        "source_file": "votes_fglw0150_page1.csv",
+        "probability": 0.6666666666666666
+    }
+]

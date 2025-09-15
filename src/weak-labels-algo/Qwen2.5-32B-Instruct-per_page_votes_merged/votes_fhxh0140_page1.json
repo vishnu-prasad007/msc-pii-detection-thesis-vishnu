@@ -1,0 +1,128 @@
+[
+    {
+        "ids": [
+            0,
+            5,
+            8,
+            9
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "U.S. ARMY",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4557933807373047,
+            0.11092761158943176,
+            0.5595950558781624,
+            0.12212115433067083
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            10
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Date",
+        "value": "March 1, 1986",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.2603479027748108,
+            0.30509600043296814,
+            0.4191059432923794,
+            0.31730124447494745
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            11
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Date",
+        "value": "March 11, 1986",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.39903199672698975,
+            0.37912067770957947,
+            0.568125419318676,
+            0.39118724688887596
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            12
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Date",
+        "value": "June 11, 1986",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.23743967711925507,
+            0.540460467338562,
+            0.39732061326503754,
+            0.5524259032681584
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            6,
+            13
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Contract Number",
+        "value": "TIMN 353405",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7352181673049927,
+            0.9320210218429565,
+            0.915548786520958,
+            0.9522014763206244
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            7
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Person Name",
+        "value": "Secretary Weinberger",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.43598660826683044,
+            0.7314638495445251,
+            0.6666639372706413,
+            0.7447763876989484
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    }
+]

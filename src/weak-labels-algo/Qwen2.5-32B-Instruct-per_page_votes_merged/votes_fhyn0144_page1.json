@@ -1,0 +1,314 @@
+[
+    {
+        "ids": [
+            0,
+            10,
+            15
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Person Name",
+        "value": "Robert A. Welsh",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2479177564382553,
+            0.21063484251499176,
+            0.37414219602942467,
+            0.22032905649393797
+        ],
+        "source_file": "votes_fhyn0144_page1.csv"
+    },
+    {
+        "ids": [
+            1
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Person Name",
+        "value": "Arthur c. Diesing, Secretary",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.5788583159446716,
+            0.41217952966690063,
+            0.8177749663591385,
+            0.42342028487473726
+        ],
+        "source_file": "votes_fhyn0144_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            11,
+            16
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Phone Number",
+        "value": "(502) 568-7000",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5672360062599182,
+            0.8264473676681519,
+            0.631241861730814,
+            0.8346469006501138
+        ],
+        "source_file": "votes_fhyn0144_page1.csv"
+    },
+    {
+        "ids": [
+            3
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Location",
+        "value": "10 Painters Mill Road",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.21627967059612274,
+            0.24903373420238495,
+            0.3900735452771187,
+            0.2588623631745577
+        ],
+        "source_file": "votes_fhyn0144_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            12,
+            17
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Location",
+        "value": "Owings Mills, MD 21117",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.21543222665786743,
+            0.2609066069126129,
+            0.40634893253445625,
+            0.2732334481552243
+        ],
+        "source_file": "votes_fhyn0144_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            18
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Location",
+        "value": "1500 BROWN * WILLIAMSON TOWER, PO BOX 35090. LOUISVILLE, KY 4D232",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.21257570385932922,
+            0.8262785077095032,
+            0.5644725617021322,
+            0.8348493850789964
+        ],
+        "source_file": "votes_fhyn0144_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            23
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Organization Name",
+        "value": "Quest International",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.21470129489898682,
+            0.23656697571277618,
+            0.3732528015971184,
+            0.24763179291039705
+        ],
+        "source_file": "votes_fhyn0144_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            24
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Organization Name",
+        "value": "B&W Additives Advisory Committee",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.579787015914917,
+            0.4247174859046936,
+            0.8506418913602829,
+            0.4352978002279997
+        ],
+        "source_file": "votes_fhyn0144_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            13,
+            26
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Date",
+        "value": "July 7, 1988",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5784465074539185,
+            0.15746334195137024,
+            0.6799817234277725,
+            0.1694021439179778
+        ],
+        "source_file": "votes_fhyn0144_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            14
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Contract Number",
+        "value": "ACD/vr/333",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.21623677015304565,
+            0.45137590169906616,
+            0.3016575425863266,
+            0.4615690167993307
+        ],
+        "source_file": "votes_fhyn0144_page1.csv"
+    },
+    {
+        "ids": [
+            19
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Organization Name",
+        "value": "MINNESOTA TOBACCO LITIGATION PROTECTIVE ORDER",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.31293585896492004,
+            0.025910191237926483,
+            0.8228322640061378,
+            0.037802414037287235
+        ],
+        "source_file": "votes_fhyn0144_page1.csv"
+    },
+    {
+        "ids": [
+            20
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Organization Name",
+        "value": "TOBACCO CORPORATION",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.20781266689300537,
+            0.09747669845819473,
+            0.364956796169281,
+            0.10662323981523514
+        ],
+        "source_file": "votes_fhyn0144_page1.csv"
+    },
+    {
+        "ids": [
+            21
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Organization Name",
+        "value": "BROWN & WILLLAMSON",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.20818942785263062,
+            0.08823737502098083,
+            0.3575221076607704,
+            0.0972437635064125
+        ],
+        "source_file": "votes_fhyn0144_page1.csv"
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Organization Name",
+        "value": "B&W",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.4682255983352661,
+            0.09034821391105652,
+            0.5176177024841309,
+            0.10572410933673382
+        ],
+        "source_file": "votes_fhyn0144_page1.csv"
+    },
+    {
+        "ids": [
+            25
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Organization Name",
+        "value": "BROWN * WILLIAMSON TOWER",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.23388591408729553,
+            0.8273242712020874,
+            0.385871946811676,
+            0.8348493850789964
+        ],
+        "source_file": "votes_fhyn0144_page1.csv"
+    },
+    {
+        "ids": [
+            27
+        ],
+        "doc_id": "votes_fhyn0144_page1",
+        "pii_type": "Contract Number",
+        "value": "1481m",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.21795780956745148,
+            0.47734302282333374,
+            0.26037153974175453,
+            0.48719959054142237
+        ],
+        "source_file": "votes_fhyn0144_page1.csv"
+    }
+]

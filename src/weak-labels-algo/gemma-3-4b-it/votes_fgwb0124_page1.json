@@ -1,0 +1,703 @@
+[
+    {
+        "ids": [
+            0
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Person Name",
+        "value": "GRAHAM",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1116,
+            271,
+            1309,
+            308
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.029583056335569933
+    },
+    {
+        "ids": [
+            1,
+            21,
+            50
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Person Name",
+        "value": "Ruby Handles",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1494,
+            2937,
+            2305,
+            3099
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.9996925870572029
+    },
+    {
+        "ids": [
+            2,
+            28,
+            29,
+            31,
+            54,
+            58
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": [
+            "Phone Number",
+            "Email Address",
+            "Location"
+        ],
+        "value": "220",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1477,
+            3048,
+            1657,
+            3106
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            7,
+            30,
+            37,
+            62
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": [
+            "Date",
+            "Phone Number",
+            "Location"
+        ],
+        "value": "12-5-78",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1491,
+            3116,
+            1959,
+            3210
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            32,
+            49,
+            55,
+            59,
+            64
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number",
+            "Organization Name",
+            "Location"
+        ],
+        "value": "GRAHAM ADVERTISING",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1116,
+            262,
+            1669,
+            308
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            33,
+            60
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "Lorillard",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            727,
+            384,
+            970,
+            426
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.9843362849023228
+    },
+    {
+        "ids": [
+            6,
+            61
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Organization Name",
+        "value": "MCA-GRAHAM Advertising",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            813,
+            786,
+            1501,
+            835
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.6970026252676942
+    },
+    {
+        "ids": [
+            8,
+            38,
+            63
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Date",
+        "value": "Date",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            145,
+            3153,
+            264,
+            3200
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.9980073602097371
+    },
+    {
+        "ids": [
+            9,
+            39
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "For good and valuable consideration,",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            144,
+            488,
+            1086,
+            550
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.7597024381286119
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "I, for myself, my heirs, successors, executors, administrators assigns, licensees,",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            138,
+            662,
+            2352,
+            719
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.15104804710745337
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "hereby",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            2018,
+            720,
+            2197,
+            779
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.15104804710745337
+    },
+    {
+        "ids": [
+            12,
+            40
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "I hereby warrant that I have not entered into any agreement in conflict with the terms",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            141,
+            1656,
+            2341,
+            1712
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.7597024381286119
+    },
+    {
+        "ids": [
+            13,
+            41
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "Ihereby warrant that for a period of one year imm'ediately heretofore to date,",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            370,
+            1711,
+            2381,
+            1769
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.7597024381286119
+    },
+    {
+        "ids": [
+            14,
+            42
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "rights granted by me, as set forth hereinabove, have not been in effect with respect to",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            138,
+            1773,
+            2372,
+            1827
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.7597024381286119
+    },
+    {
+        "ids": [
+            15,
+            43
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "any tobacco product or company and I will not authorize or permit such grants for one",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            142,
+            1828,
+            2365,
+            1884
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.7597024381286119
+    },
+    {
+        "ids": [
+            16,
+            44
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "year hereafter. I further warrant that I have not, immediately heretofore, for a period",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            140,
+            1885,
+            2399,
+            1941
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.7597024381286119
+    },
+    {
+        "ids": [
+            17,
+            45
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "of one year permitted the use of my likeness in connection with any product, service or",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            141,
+            1942,
+            2405,
+            1997
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.7597024381286119
+    },
+    {
+        "ids": [
+            18,
+            46
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "campaign antithetical to smoking, nor will I for a period of one year hereafter.",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            142,
+            1998,
+            2181,
+            2055
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.7597024381286119
+    },
+    {
+        "ids": [
+            19,
+            47
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "I hereby sell, assign and transfer to Lorillard, A Division of Loews Theatres, Inc. all",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            143,
+            2057,
+            2399,
+            2112
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.7597024381286119
+    },
+    {
+        "ids": [
+            20,
+            48
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "my right, title and inter est in and to all the reproductions (referred to above).",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            145,
+            2114,
+            2158,
+            2167
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.7597024381286119
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Person Name",
+        "value": "me",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            2063,
+            1145,
+            2140,
+            1178
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.02509929741123842
+    },
+    {
+        "ids": [
+            23
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Person Name",
+        "value": "name",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1898,
+            1204,
+            2050,
+            1244
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.02509929741123842
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Person Name",
+        "value": "endorsement",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            140,
+            1253,
+            470,
+            1296
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.02509929741123842
+    },
+    {
+        "ids": [
+            25
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Person Name",
+        "value": "date",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            2253,
+            1716,
+            2381,
+            1767
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.02509929741123842
+    },
+    {
+        "ids": [
+            26
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Person Name",
+        "value": "any of them",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1333,
+            2403,
+            1647,
+            2457
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.02509929741123842
+    },
+    {
+        "ids": [
+            27
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Person Name",
+        "value": "any of them",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            147,
+            2578,
+            572,
+            2632
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.02509929741123842
+    },
+    {
+        "ids": [
+            34,
+            52,
+            57,
+            67
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": [
+            "Person Name",
+            "Contract Number",
+            "Organization Name",
+            "Location"
+        ],
+        "value": "Loews Theatres, Inc.",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            139,
+            841,
+            695,
+            894
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            35,
+            51,
+            53,
+            66
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": [
+            "Person Name",
+            "Organization Name",
+            "Contract Number"
+        ],
+        "value": "Lorillard",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1663,
+            782,
+            1917,
+            833
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.3000000000004
+    },
+    {
+        "ids": [
+            36,
+            68
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": [
+            "Organization Name",
+            "Contract Number"
+        ],
+        "value": "Lorillard",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1106,
+            2057,
+            1359,
+            2106
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            56,
+            65
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "Lorillard Individual Consent and Release Form",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            727,
+            372,
+            1934,
+            426
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.22620577940232584
+    },
+    {
+        "ids": [
+            69
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "Lorillard",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            790,
+            2171,
+            1030,
+            2215
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.054906893014309066
+    },
+    {
+        "ids": [
+            70
+        ],
+        "doc_id": "votes_fgwb0124_page1",
+        "pii_type": "Contract Number",
+        "value": "Lorillard",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1403,
+            2288,
+            1658,
+            2338
+        ],
+        "source_file": "votes_fgwb0124_page1.csv",
+        "probability": 0.054906893014309066
+    }
+]

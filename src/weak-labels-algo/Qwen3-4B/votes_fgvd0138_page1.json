@@ -1,0 +1,298 @@
+[
+    {
+        "ids": [
+            0
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Person Name",
+        "value": "L. R: LEWIS",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            203,
+            144,
+            320,
+            162
+        ],
+        "source_file": "votes_fgvd0138_page1.csv",
+        "probability": 0.12241525286457304
+    },
+    {
+        "ids": [
+            1,
+            13,
+            25
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Person Name",
+        "value": "I. E. WHITEHAIR",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            494,
+            146,
+            651,
+            163
+        ],
+        "source_file": "votes_fgvd0138_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            2,
+            14,
+            26
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Person Name",
+        "value": "M. L. Reynolds",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            203,
+            207,
+            351,
+            225
+        ],
+        "source_file": "votes_fgvd0138_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            3,
+            15,
+            27
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Person Name",
+        "value": "L. E. Gravely",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            235,
+            206,
+            623,
+            226
+        ],
+        "source_file": "votes_fgvd0138_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            4,
+            16,
+            28
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Person Name",
+        "value": "W. Deines",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            777,
+            206,
+            873,
+            221
+        ],
+        "source_file": "votes_fgvd0138_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            5,
+            17,
+            29
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Person Name",
+        "value": "A. J. Mellman",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            203,
+            227,
+            341,
+            244
+        ],
+        "source_file": "votes_fgvd0138_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            6,
+            18,
+            30
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Person Name",
+        "value": "H. Woertz",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            487,
+            227,
+            581,
+            243
+        ],
+        "source_file": "votes_fgvd0138_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            7,
+            19,
+            31
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Person Name",
+        "value": "T. Riehl",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            203,
+            249,
+            288,
+            265
+        ],
+        "source_file": "votes_fgvd0138_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            8,
+            20,
+            32
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Person Name",
+        "value": "J. D. Woods",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            487,
+            247,
+            601,
+            264
+        ],
+        "source_file": "votes_fgvd0138_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            9,
+            21,
+            24,
+            33,
+            36
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "465664996",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            874,
+            1320,
+            1043,
+            1343
+        ],
+        "source_file": "votes_fgvd0138_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            10,
+            22,
+            34
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Organization Name",
+        "value": "BROWN . WILLIAMSON TOBACCO COMPORATION",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            399,
+            86,
+            740,
+            98
+        ],
+        "source_file": "votes_fgvd0138_page1.csv",
+        "probability": 0.9937329907926641
+    },
+    {
+        "ids": [
+            11,
+            23,
+            35
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Date",
+        "value": "February 1, 1985",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            733,
+            292,
+            904,
+            309
+        ],
+        "source_file": "votes_fgvd0138_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            12
+        ],
+        "doc_id": "votes_fgvd0138_page1",
+        "pii_type": "Person Name",
+        "value": "LEWIS",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            266,
+            144,
+            320,
+            160
+        ],
+        "source_file": "votes_fgvd0138_page1.csv",
+        "probability": 0.02850581844543203
+    }
+]

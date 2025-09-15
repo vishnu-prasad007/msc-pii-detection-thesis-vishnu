@@ -1,0 +1,291 @@
+[
+    {
+        "ids": [
+            0,
+            10,
+            21
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Person Name",
+        "value": "Edward A. Horrigam, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            391,
+            600,
+            772,
+            627
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            1,
+            11,
+            23
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Location",
+        "value": "Winston-Salem North Carolina 27102",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            324,
+            708,
+            915,
+            732
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "probability": 0.9546725906404269
+    },
+    {
+        "ids": [
+            2,
+            12,
+            22
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Location",
+        "value": "401- North Main Street",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            324,
+            681,
+            677,
+            704
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "probability": 0.9546725906404269
+    },
+    {
+        "ids": [
+            3,
+            13,
+            24
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Location",
+        "value": "66\u00a3 Fitth Avenue. New York. New York 10019",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            306,
+            1738,
+            702,
+            1759
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "probability": 0.9546725906404269
+    },
+    {
+        "ids": [
+            4,
+            14,
+            25
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Organization Name",
+        "value": "Lorillard",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            306,
+            120,
+            738,
+            239
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            5,
+            15,
+            26
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Organization Name",
+        "value": "R. J. Reynolds Tobacco Company",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            323,
+            655,
+            830,
+            681
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            6,
+            16,
+            27
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Organization Name",
+        "value": "N.A.T.D.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            662,
+            764,
+            849,
+            787
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            7,
+            17,
+            30
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Organization Name",
+        "value": "LOEWS THEATRES.INC.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            424,
+            1712,
+            608,
+            1731
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            8,
+            18,
+            31
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Date",
+        "value": "March 15, 1982",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            932,
+            436,
+            1171,
+            461
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "probability": 0.9999806273337076
+    },
+    {
+        "ids": [
+            9,
+            20,
+            32
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Contract Number",
+        "value": "USX156 405",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1583,
+            2114,
+            1698,
+            2132
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            19,
+            33
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Contract Number",
+        "value": "LOC013 1991",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            49,
+            1983,
+            240,
+            2009
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "probability": 0.8907804365662109
+    },
+    {
+        "ids": [
+            28
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Organization Name",
+        "value": "N.A.T.D.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            322,
+            1012,
+            507,
+            1037
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "probability": 0.023593355075766473
+    },
+    {
+        "ids": [
+            29
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Organization Name",
+        "value": "N.A.T.D.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            471,
+            1528,
+            602,
+            1552
+        ],
+        "source_file": "votes_fhvb0035_page1.csv",
+        "probability": 0.023593355075766473
+    }
+]

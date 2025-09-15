@@ -1,0 +1,236 @@
+[
+    {
+        "ids": [
+            0,
+            9,
+            19
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": "Person Name",
+        "value": "BRIAN M. LAWRENCE",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.21336784958839417,
+            0.22351452708244324,
+            0.4162459671497345,
+            0.23458337225019932
+        ],
+        "source_file": "votes_fgnn0231_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            10,
+            20
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": "Person Name",
+        "value": "JERRY W. REDDING",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6657052040100098,
+            0.22330178320407867,
+            0.8553848564624786,
+            0.23525215405970812
+        ],
+        "source_file": "votes_fgnn0231_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            11,
+            21
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": "Person Name",
+        "value": "Ken Shu",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16744700074195862,
+            0.6500768065452576,
+            0.2516164816915989,
+            0.6615446135401726
+        ],
+        "source_file": "votes_fgnn0231_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            12,
+            22
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": "Person Name",
+        "value": "Milly Wong",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16698302328586578,
+            0.6644191145896912,
+            0.2865344397723675,
+            0.6786460913717747
+        ],
+        "source_file": "votes_fgnn0231_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            13,
+            23
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": "Person Name",
+        "value": "Dwo Lymn",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16812701523303986,
+            0.680223286151886,
+            0.263407900929451,
+            0.6934360954910517
+        ],
+        "source_file": "votes_fgnn0231_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            14,
+            24
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": "Person Name",
+        "value": "Jerry W. Redding",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5713756680488586,
+            0.6796059608459473,
+            0.7633839324116707,
+            0.6940646199509501
+        ],
+        "source_file": "votes_fgnn0231_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            15,
+            25
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": "Person Name",
+        "value": "Gary Dull",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16768808662891388,
+            0.6945220828056335,
+            0.27373890578746796,
+            0.7080987058579922
+        ],
+        "source_file": "votes_fgnn0231_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            17,
+            26
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": "Organization Name",
+        "value": "Tobacco Company",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.27255746722221375,
+            0.08930651843547821,
+            0.3874944821000099,
+            0.10250844527035952
+        ],
+        "source_file": "votes_fgnn0231_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            18,
+            28
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": "Date",
+        "value": "March 12, 1991",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6645826101303101,
+            0.1784619688987732,
+            0.8306525461375713,
+            0.1920908261090517
+        ],
+        "source_file": "votes_fgnn0231_page1.csv"
+    },
+    {
+        "ids": [
+            16
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": "Organization Name",
+        "value": "RgReynolds",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.09349595010280609,
+            0.04535478353500366,
+            0.39122940599918365,
+            0.10449729487299919
+        ],
+        "source_file": "votes_fgnn0231_page1.csv"
+    },
+    {
+        "ids": [
+            27
+        ],
+        "doc_id": "votes_fgnn0231_page1",
+        "pii_type": "Organization Name",
+        "value": "Takasago",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.3844899535179138,
+            0.28241148591041565,
+            0.4786069542169571,
+            0.2956100534647703
+        ],
+        "source_file": "votes_fgnn0231_page1.csv"
+    }
+]

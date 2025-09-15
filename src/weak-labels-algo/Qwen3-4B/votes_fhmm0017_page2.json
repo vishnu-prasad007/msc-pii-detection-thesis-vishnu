@@ -1,0 +1,118 @@
+[
+    {
+        "ids": [
+            0,
+            2,
+            7
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Location",
+            "Person Name"
+        ],
+        "value": "Machilor",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1596,
+            2582,
+            2275,
+            2752
+        ],
+        "source_file": "votes_fhmm0017_page2.csv",
+        "probability": NaN
+    },
+    {
+        "ids": [
+            1,
+            5,
+            6,
+            10,
+            13
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "05489",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1911,
+            39,
+            2132,
+            113
+        ],
+        "source_file": "votes_fhmm0017_page2.csv",
+        "probability": 0.9991601006789272
+    },
+    {
+        "ids": [
+            3,
+            8
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": "Organization Name",
+        "value": "Fiske Brothers Refining Co. Machilor",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            482,
+            2582,
+            2275,
+            2752
+        ],
+        "source_file": "votes_fhmm0017_page2.csv",
+        "probability": 0.7669708737418256
+    },
+    {
+        "ids": [
+            4,
+            9,
+            12
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": "Date",
+        "value": "September 24, 1985 DATE PREPARED",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            178,
+            2752,
+            979,
+            2792
+        ],
+        "source_file": "votes_fhmm0017_page2.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fhmm0017_page2",
+        "pii_type": "Organization Name",
+        "value": "Fiske Brothers Refining Co.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            482,
+            2663,
+            1172,
+            2702
+        ],
+        "source_file": "votes_fhmm0017_page2.csv",
+        "probability": 0.05285594042746515
+    }
+]

@@ -1,0 +1,176 @@
+[
+    {
+        "ids": [
+            0,
+            6,
+            10
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Organization Name",
+        "value": "B&W",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.12986408174037933,
+            0.09690435975790024,
+            0.2312946915626526,
+            0.1264666672796011
+        ],
+        "source_file": "votes_fjbw0138_page1.csv"
+    },
+    {
+        "ids": [
+            1
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Organization Name",
+        "value": "B&W",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.2952531576156616,
+            0.30818793177604675,
+            0.3392745181918144,
+            0.3200027719140053
+        ],
+        "source_file": "votes_fjbw0138_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            7,
+            12
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Organization Name",
+        "value": "CARLTON",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3288513123989105,
+            0.3245648145675659,
+            0.4162195697426796,
+            0.33649071771651506
+        ],
+        "source_file": "votes_fjbw0138_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            13
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Date",
+        "value": "09/03/96",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.5640695691108704,
+            0.8477923274040222,
+            0.6361344307661057,
+            0.8597503351047635
+        ],
+        "source_file": "votes_fjbw0138_page1.csv"
+    },
+    {
+        "ids": [
+            4
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Contract Number",
+        "value": "C #2311",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.5643104314804077,
+            0.8313854932785034,
+            0.6305275820195675,
+            0.8432517042383552
+        ],
+        "source_file": "votes_fjbw0138_page1.csv"
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Phone Number",
+        "value": "621915825",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.686374306678772,
+            0.8674290180206299,
+            0.83902508020401,
+            0.8833270482718945
+        ],
+        "source_file": "votes_fjbw0138_page1.csv"
+    },
+    {
+        "ids": [
+            8
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Organization Name",
+        "value": "CARLTON",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.10583711415529251,
+            0.4394886791706085,
+            0.19206823408603668,
+            0.4512462066486478
+        ],
+        "source_file": "votes_fjbw0138_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            14
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Contract Number",
+        "value": "C #2311 (CC)",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.5643104314804077,
+            0.8313854932785034,
+            0.6766306273639202,
+            0.8462249394506216
+        ],
+        "source_file": "votes_fjbw0138_page1.csv"
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Organization Name",
+        "value": "CARLTON",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.264928936958313,
+            0.23214949667453766,
+            0.3843414857983589,
+            0.24768872186541557
+        ],
+        "source_file": "votes_fjbw0138_page1.csv"
+    }
+]

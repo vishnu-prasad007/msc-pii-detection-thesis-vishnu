@@ -1,0 +1,671 @@
+[
+    {
+        "ids": [
+            0,
+            8,
+            18
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Person Name",
+        "value": "W. R\u00f5er",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            976,
+            505,
+            1139,
+            536
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            1,
+            19
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Person Name",
+        "value": "J.B. Boder",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            975,
+            553,
+            1210,
+            584
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.8622531513884912
+    },
+    {
+        "ids": [
+            2,
+            9,
+            20,
+            44
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": [
+            "Contract Number",
+            "Person Name"
+        ],
+        "value": "W. R\u00f6er",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1582,
+            2451,
+            1745,
+            2483
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            10,
+            21
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Person Name",
+        "value": "E. Grossen",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1952,
+            2597,
+            2190,
+            2629
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            4,
+            11,
+            15,
+            46
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "thromen",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1632,
+            2673,
+            1942,
+            2776
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            12
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Organization Name",
+        "value": "FTR Manufacturing and QC Projects",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            976,
+            353,
+            1744,
+            393
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.7669708737418256
+    },
+    {
+        "ids": [
+            6,
+            17,
+            23
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Date",
+        "value": "28/04/78",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            471,
+            2894,
+            653,
+            2930
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            7,
+            48
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "63",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1193,
+            3300,
+            1249,
+            3334
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.7676520611868158
+    },
+    {
+        "ids": [
+            13,
+            28
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "KLK Dryer Tests",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            468,
+            826,
+            814,
+            865
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.9239622788702215
+    },
+    {
+        "ids": [
+            14
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Organization Name",
+        "value": "Quadrabeam",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1138,
+            1224,
+            1377,
+            1261
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.050651127642433146
+    },
+    {
+        "ids": [
+            16,
+            22
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Date",
+        "value": "March 24 - April 28, 1978",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            977,
+            453,
+            1560,
+            491
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.8137258661073878
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "PROJECT TITLE : FTR Manufacturing and QC Projects",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            467,
+            353,
+            1744,
+            393
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            25
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "Period Covered : March 24 - April 28, 1978",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            468,
+            453,
+            1560,
+            491
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            26
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "Report Written by : W. R\u00f5er",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            470,
+            504,
+            1139,
+            543
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            27
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "Report Approved by : J.B. Boder",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            470,
+            553,
+            1210,
+            592
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            29
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "As we carry on for another 3 months with the MLF improvement programme,",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            468,
+            923,
+            2112,
+            964
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            30
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "the dryer tests will be interrupted during this period.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            472,
+            972,
+            1738,
+            1014
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            31
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "Process Control in the Primary",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            468,
+            1124,
+            1167,
+            1162
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            32
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "It has been decided that the Quadrabeam moisture meter will be evaluated",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            469,
+            1221,
+            2143,
+            1261
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            33
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "at the following points:",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            470,
+            1272,
+            1017,
+            1311
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            34
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "Entrance dryer, cut rag dryer, exit at rag dryer : and exit Burley dryer.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            469,
+            1344,
+            2178,
+            1387
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            35
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "Stem Expansion",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            468,
+            1495,
+            794,
+            1533
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            36
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "8 different stem lots have been selected and parallel industrial and",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            470,
+            1590,
+            1954,
+            1630
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            37
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "laboratory tests will be carried out on these stem lots. Each industrial",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            471,
+            1640,
+            2139,
+            1680
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            38
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "trial consists of approximately 500 kgs.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            472,
+            1691,
+            1393,
+            1729
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            39
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "Due to high production volumes, PMH test can only be started in the second",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            468,
+            1766,
+            2189,
+            1805
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            40
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "half of May.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            469,
+            1815,
+            742,
+            1855
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            41
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "Taxation",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            466,
+            1966,
+            656,
+            1995
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            42
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "Additional tests are carried out in order to obtain more precise results",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            468,
+            2059,
+            2139,
+            2096
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            43
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "(mainly moisture determination) .",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            475,
+            2108,
+            1207,
+            2148
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            45
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "In his absence, E. Grossen",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1585,
+            2597,
+            2190,
+            2631
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            47
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "WOR/mos",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            467,
+            2943,
+            626,
+            2978
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            49
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "Source: https://www.industrydocuments.ucsf.edu/docs/fhkm0113",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            530,
+            3441,
+            1975,
+            3494
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.18724450043103621
+    }
+]

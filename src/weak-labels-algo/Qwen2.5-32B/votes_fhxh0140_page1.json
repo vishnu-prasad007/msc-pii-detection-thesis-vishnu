@@ -1,0 +1,134 @@
+[
+    {
+        "ids": [
+            0,
+            5,
+            8,
+            9
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "U.S. ARMY",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1160,
+            363,
+            1424,
+            399
+        ],
+        "source_file": "votes_fhxh0140_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            10
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Date",
+        "value": "March 1, 1986",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            662,
+            998,
+            1066,
+            1038
+        ],
+        "source_file": "votes_fhxh0140_page1.csv",
+        "probability": 0.8919581073985893
+    },
+    {
+        "ids": [
+            2,
+            11
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Date",
+        "value": "March 11, 1986",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1015,
+            1240,
+            1445,
+            1279
+        ],
+        "source_file": "votes_fhxh0140_page1.csv",
+        "probability": 0.8919581073985893
+    },
+    {
+        "ids": [
+            3,
+            12
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Date",
+        "value": "June 11, 1986",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            604,
+            1767,
+            1011,
+            1806
+        ],
+        "source_file": "votes_fhxh0140_page1.csv",
+        "probability": 0.8919581073985893
+    },
+    {
+        "ids": [
+            4,
+            6,
+            13
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Contract Number",
+        "value": "TIMN 353405",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1870,
+            3048,
+            2329,
+            3114
+        ],
+        "source_file": "votes_fhxh0140_page1.csv",
+        "probability": 0.9662050027718209
+    },
+    {
+        "ids": [
+            7
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Person Name",
+        "value": "Secretary Weinberger",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1109,
+            2392,
+            1696,
+            2435
+        ],
+        "source_file": "votes_fhxh0140_page1.csv",
+        "probability": 0.019094487779212622
+    }
+]

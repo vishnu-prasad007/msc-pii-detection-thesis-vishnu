@@ -1,0 +1,167 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            14
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Person Name",
+        "value": "Timothy M. Finnegan, Esq.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            527,
+            292,
+            1339,
+            365
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            1,
+            8,
+            15
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Person Name",
+        "value": "Frank G. Colby",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1898,
+            2212,
+            2354,
+            2285
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            2,
+            9,
+            16
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Person Name",
+        "value": "Max Crohn, Esq.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            683,
+            2616,
+            1162,
+            2684
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            3,
+            10,
+            17
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Person Name",
+        "value": "Dr. Charles Nystrom",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            720,
+            2765,
+            1367,
+            2828
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            4,
+            11,
+            19
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Organization Name",
+        "value": "RJRT",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1404,
+            2758,
+            1535,
+            2814
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.9900025300515797
+    },
+    {
+        "ids": [
+            5,
+            12,
+            18,
+            20
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "June 23, 1983",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2486,
+            301,
+            2916,
+            367
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            13,
+            21
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Contract Number",
+        "value": "CIVIL ACTION NO. 99-CV-2496",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2154,
+            4385,
+            2688,
+            4423
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.9662050027718209
+    }
+]

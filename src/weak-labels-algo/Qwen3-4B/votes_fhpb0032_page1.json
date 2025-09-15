@@ -1,0 +1,394 @@
+[
+    {
+        "ids": [
+            0,
+            12,
+            25
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Person Name",
+        "value": "Kim Logue",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            708,
+            490,
+            926,
+            537
+        ],
+        "source_file": "votes_fhpb0032_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            1,
+            13,
+            26
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Person Name",
+        "value": "Ben Kelahan",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            709,
+            597,
+            953,
+            636
+        ],
+        "source_file": "votes_fhpb0032_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            2,
+            14,
+            27
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Person Name",
+        "value": "Frankel",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            917,
+            1532,
+            1061,
+            1570
+        ],
+        "source_file": "votes_fhpb0032_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            3,
+            16,
+            31
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Date",
+        "value": "March 12, 1996",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1686,
+            325,
+            1991,
+            371
+        ],
+        "source_file": "votes_fhpb0032_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            4,
+            17,
+            38
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Date",
+        "value": "2-28-96",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            920,
+            1704,
+            1070,
+            1740
+        ],
+        "source_file": "votes_fhpb0032_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            5,
+            18,
+            32
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Date",
+        "value": "3-11-96",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            434,
+            1960,
+            559,
+            1992
+        ],
+        "source_file": "votes_fhpb0032_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            6,
+            19,
+            33
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Date",
+        "value": "3-11-96",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            434,
+            2006,
+            559,
+            2038
+        ],
+        "source_file": "votes_fhpb0032_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            7,
+            20,
+            34
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Date",
+        "value": "3-4-96",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            434,
+            2053,
+            539,
+            2084
+        ],
+        "source_file": "votes_fhpb0032_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            8,
+            21,
+            35
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Date",
+        "value": "3-4-96",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            432,
+            2099,
+            539,
+            2130
+        ],
+        "source_file": "votes_fhpb0032_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            9,
+            22,
+            36
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Date",
+        "value": "2-28-96",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            433,
+            2145,
+            560,
+            2176
+        ],
+        "source_file": "votes_fhpb0032_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            10,
+            23,
+            37
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Date",
+        "value": "2-23-96",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            432,
+            2191,
+            560,
+            2223
+        ],
+        "source_file": "votes_fhpb0032_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            11,
+            24,
+            42
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Contract Number",
+        "value": "TI30610009",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2187,
+            3126,
+            2461,
+            3168
+        ],
+        "source_file": "votes_fhpb0032_page1.csv",
+        "probability": 0.9354416064716374
+    },
+    {
+        "ids": [
+            15,
+            29
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Location",
+        "value": "FL",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            917,
+            1088,
+            976,
+            1124
+        ],
+        "source_file": "votes_fhpb0032_page1.csv",
+        "probability": 0.8059238588609867
+    },
+    {
+        "ids": [
+            28
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Location",
+        "value": "FL",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            709,
+            705,
+            767,
+            743
+        ],
+        "source_file": "votes_fhpb0032_page1.csv",
+        "probability": 0.0366199020835172
+    },
+    {
+        "ids": [
+            30
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Location",
+        "value": "Florida",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1141,
+            1257,
+            1277,
+            1294
+        ],
+        "source_file": "votes_fhpb0032_page1.csv",
+        "probability": 0.0366199020835172
+    },
+    {
+        "ids": [
+            39
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Contract Number",
+        "value": "FL HB 1445",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            709,
+            705,
+            949,
+            743
+        ],
+        "source_file": "votes_fhpb0032_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            40
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Contract Number",
+        "value": "HB 1445",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            918,
+            1145,
+            1090,
+            1181
+        ],
+        "source_file": "votes_fhpb0032_page1.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            41
+        ],
+        "doc_id": "votes_fhpb0032_page1",
+        "pii_type": "Contract Number",
+        "value": "SB 1202",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1359,
+            1421,
+            1519,
+            1457
+        ],
+        "source_file": "votes_fhpb0032_page1.csv",
+        "probability": 0.18724450043103621
+    }
+]

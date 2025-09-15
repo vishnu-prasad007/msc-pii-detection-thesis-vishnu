@@ -1,0 +1,132 @@
+[
+    {
+        "ids": [
+            0,
+            5,
+            11
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Person Name",
+        "value": "Mike Jacques, extension #5660",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            477,
+            1104,
+            862,
+            1136
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            1,
+            6,
+            12
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Person Name",
+        "value": "Kevin Richardson, extension #3440",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            477,
+            1139,
+            909,
+            1169
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "probability": 0.9995034818424403
+    },
+    {
+        "ids": [
+            2,
+            7
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Phone Number",
+        "value": "extension #5660",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            659,
+            1106,
+            862,
+            1132
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "probability": 0.9176914079198916
+    },
+    {
+        "ids": [
+            3,
+            8
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Phone Number",
+        "value": "extension #3440",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            706,
+            1141,
+            909,
+            1166
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "probability": 0.9176914079198916
+    },
+    {
+        "ids": [
+            4,
+            10
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Date",
+        "value": "4/7/99",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1008,
+            726,
+            1092,
+            752
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "probability": 0.9273938421177121
+    },
+    {
+        "ids": [
+            9,
+            13
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Organization Name",
+        "value": "R.J. REYNOLDS TOBACCO COMPANY",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            201,
+            1241,
+            709,
+            1268
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "probability": 0.6968065787778354
+    }
+]

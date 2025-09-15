@@ -1,0 +1,289 @@
+[
+    {
+        "ids": [
+            0,
+            12,
+            19
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "Hirsch",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2748,
+            639,
+            2948,
+            696
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Person Name",
+        "value": "Frank G. Colby",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1898,
+            2212,
+            2354,
+            2285
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.029583056335569933
+    },
+    {
+        "ids": [
+            2,
+            4,
+            9,
+            16,
+            21
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": [
+            "Email Address",
+            "Person Name",
+            "Location"
+        ],
+        "value": "Max Crohn, Esq.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            683,
+            2616,
+            1162,
+            2684
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Person Name",
+        "value": "Dr. Charles Nystrom",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            720,
+            2765,
+            1367,
+            2828
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.029583056335569933
+    },
+    {
+        "ids": [
+            5,
+            10,
+            17,
+            22
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": [
+            "Email Address",
+            "Location"
+        ],
+        "value": "Dr. Charles Nystrom, RJRT",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            720,
+            2758,
+            1535,
+            2828
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            13,
+            23
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Location",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fgwk0174",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            942,
+            4596,
+            2588,
+            4666
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.9756927193958248
+    },
+    {
+        "ids": [
+            7,
+            14,
+            26,
+            27
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Date",
+        "value": "June 23, 1983",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2486,
+            301,
+            2916,
+            367
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.9980073602097371
+    },
+    {
+        "ids": [
+            8,
+            15,
+            28
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Contract Number",
+        "value": "COMPELLED PRODUCTION-PRODUCTION PURSUANT TO COURT ORDER #1015, CIVIL ACTION NO. 99-CV-2496",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            680,
+            4385,
+            2688,
+            4427
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.9023971445662724
+    },
+    {
+        "ids": [
+            11,
+            18
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Location",
+        "value": "Timothy M. Finnegan, Esq.",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            527,
+            292,
+            1339,
+            365
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.6848981530286745
+    },
+    {
+        "ids": [
+            20
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Location",
+        "value": "1,3, 4, etc.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            2406,
+            1040,
+            2869,
+            1108
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.15157377707122235
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Location",
+        "value": "Court Order #1015, CIVIL ACTION NO. 99-CV-2496",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1737,
+            4385,
+            2688,
+            4427
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.15157377707122235
+    },
+    {
+        "ids": [
+            25
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Organization Name",
+        "value": "RJRT",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1404,
+            2758,
+            1535,
+            2814
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.04615078191616081
+    },
+    {
+        "ids": [
+            29
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Contract Number",
+        "value": "COMPELLED GO/C PRODUCTION",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            156,
+            2463,
+            3189,
+            2646
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.054906893014309066
+    }
+]

@@ -1,0 +1,530 @@
+[
+    {
+        "ids": [
+            0,
+            18,
+            40
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "Becker, Steven A",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.19586515426635742,
+            0.10562598705291748,
+            0.32414693385362625,
+            0.11765989195555449
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            19
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "Yaeger, Ed",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.14631737768650055,
+            0.4199661314487457,
+            0.22894123755395412,
+            0.43268614914268255
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    },
+    {
+        "ids": [
+            2
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "Steven Becker",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.11763840168714523,
+            0.26298537850379944,
+            0.22572041675448418,
+            0.27310468535870314
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            25,
+            42
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "Steven Becker",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.11739058792591095,
+            0.6918841004371643,
+            0.22496908903121948,
+            0.7022196175530553
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            26,
+            43
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Email Address",
+        "value": "steven.becker@covidien.com",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.11754830926656723,
+            0.362906813621521,
+            0.33459942787885666,
+            0.3756124610081315
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Email Address",
+        "value": "steven.becker@covidien.com",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.11743153631687164,
+            0.7915767431259155,
+            0.3329385668039322,
+            0.804469239898026
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            27,
+            44
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Phone Number",
+        "value": "651454 2736 Tel",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.11688454449176788,
+            0.32013288140296936,
+            0.23975325375795364,
+            0.33046188205480576
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            28,
+            45
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Phone Number",
+        "value": "651 260 4668 Cell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.11715158075094223,
+            0.3344899117946625,
+            0.24960830062627792,
+            0.34485534857958555
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            29,
+            46
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Phone Number",
+        "value": "651 405 1885 Fax",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.11777201294898987,
+            0.3486374616622925,
+            0.24913180619478226,
+            0.35911805275827646
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            30,
+            47
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Phone Number",
+        "value": "651454 2736 Tel",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1169622391462326,
+            0.7484917044639587,
+            0.23966336995363235,
+            0.7592903431504965
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            31,
+            48
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Phone Number",
+        "value": "651 260 4668 Cell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.11740275472402573,
+            0.7628669142723083,
+            0.2498270645737648,
+            0.7738551953807473
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    },
+    {
+        "ids": [
+            11,
+            32,
+            49
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Phone Number",
+        "value": "651 405 1885 Fax",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.11771728098392487,
+            0.777072012424469,
+            0.24846208095550537,
+            0.7879024157300591
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    },
+    {
+        "ids": [
+            12,
+            33,
+            50
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Organization Name",
+        "value": "Covidien Mallinckrodt",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.11712392419576645,
+            0.30593228340148926,
+            0.2750387489795685,
+            0.3161333743482828
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    },
+    {
+        "ids": [
+            13,
+            34
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Organization Name",
+        "value": "Covidien Mallinckrodt",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.11688955873250961,
+            0.7343551516532898,
+            0.2753452956676483,
+            0.7447446370497346
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    },
+    {
+        "ids": [
+            14,
+            35,
+            51
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Date",
+        "value": "Thur 12/15/2011 5:21:29 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.19534707069396973,
+            0.11999586224555969,
+            0.4037813153117895,
+            0.13049781508743763
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    },
+    {
+        "ids": [
+            15,
+            36,
+            52
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Date",
+        "value": "Thursday, December 15, 2011 9:13 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16019155085086823,
+            0.3914774954319,
+            0.4476991072297096,
+            0.40396333392709494
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    },
+    {
+        "ids": [
+            16,
+            37,
+            53
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Date",
+        "value": "Thursday, December 15, 2011 9:57 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.16033707559108734,
+            0.5771454572677612,
+            0.4471499715000391,
+            0.5899067800492048
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    },
+    {
+        "ids": [
+            17,
+            38,
+            55
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Contract Number",
+        "value": "MNKOI 0001856177",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.8187217116355896,
+            0.9856480360031128,
+            0.9683772772550583,
+            0.99639802146703
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    },
+    {
+        "ids": [
+            20
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "D'Andrea, Michael",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.16606396436691284,
+            0.3773205578327179,
+            0.2989802584052086,
+            0.38934916257858276
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    },
+    {
+        "ids": [
+            21
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "Becker, Steven A",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.16583779454231262,
+            0.5629702806472778,
+            0.29417950473725796,
+            0.5748512214049697
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "D'Andrea, Michael",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.14615681767463684,
+            0.5915858745574951,
+            0.2794300764799118,
+            0.6034947289153934
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    },
+    {
+        "ids": [
+            23
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "D'Andrea, Michael",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.16579696536064148,
+            0.8058670163154602,
+            0.2993898205459118,
+            0.8183755027130246
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "Becker, Steven A",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.146140456199646,
+            0.8347381949424744,
+            0.274016285315156,
+            0.8464111275970936
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    },
+    {
+        "ids": [
+            39
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "D'Andrea, Michael[Michael.D'Andrea@henryschein.com]",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.19563046097755432,
+            0.09098779410123825,
+            0.6059363782405853,
+            0.10430220607668161
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    },
+    {
+        "ids": [
+            41
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Person Name",
+        "value": "Ed",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.20907916128635406,
+            0.4199661314487457,
+            0.22894123755395412,
+            0.43033425509929657
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    },
+    {
+        "ids": [
+            54
+        ],
+        "doc_id": "votes_fhhp0238_page1",
+        "pii_type": "Date",
+        "value": "Thursday, December 15, 2011 8:49 AM",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.16048380732536316,
+            0.8198245167732239,
+            0.44746755063533783,
+            0.8330716416239738
+        ],
+        "source_file": "votes_fhhp0238_page1.csv"
+    }
+]

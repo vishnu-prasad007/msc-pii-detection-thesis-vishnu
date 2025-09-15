@@ -1,0 +1,240 @@
+[
+  {
+    "ids": [
+      0,
+      8,
+      15
+    ],
+    "doc_id": "votes_fhbh0177_page1",
+    "pii_type": "Person Name",
+    "value": "Mr. V. B. Lougee, III",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.10747325420379639,
+      0.11988753080368042,
+      0.3654040992259979,
+      0.13370684161782265
+    ],
+    "source_file": "votes_fhbh0177_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      1,
+      9,
+      16
+    ],
+    "doc_id": "votes_fhbh0177_page1",
+    "pii_type": "Person Name",
+    "value": "R. S. Sprinkle, III",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.10795144736766815,
+      0.16561545431613922,
+      0.3422089107334614,
+      0.18016938865184784
+    ],
+    "source_file": "votes_fhbh0177_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      2,
+      10,
+      17
+    ],
+    "doc_id": "votes_fhbh0177_page1",
+    "pii_type": "Person Name",
+    "value": "Mr. William J. Moore",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.17076291143894196,
+      0.7416045665740967,
+      0.40893595293164253,
+      0.7538100657984614
+    ],
+    "source_file": "votes_fhbh0177_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      3,
+      11,
+      18
+    ],
+    "doc_id": "votes_fhbh0177_page1",
+    "pii_type": "Person Name",
+    "value": "Mr. Arnold Henson",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.17030639946460724,
+      0.7891674637794495,
+      0.37369050085544586,
+      0.8007996957749128
+    ],
+    "source_file": "votes_fhbh0177_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      4,
+      12,
+      19
+    ],
+    "doc_id": "votes_fhbh0177_page1",
+    "pii_type": "Organization Name",
+    "value": "The American Tobacco Company",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.46193960309028625,
+      0.033836472779512405,
+      0.8731309175491333,
+      0.07543333247303963
+    ],
+    "source_file": "votes_fhbh0177_page1.csv",
+    "votes": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "ids": [
+      5,
+      13,
+      20
+    ],
+    "doc_id": "votes_fhbh0177_page1",
+    "pii_type": "Organization Name",
+    "value": "AMERICAN BRANDS, INC.",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.6403047442436218,
+      0.07162783294916153,
+      0.7877798695117235,
+      0.07848142087459564
+    ],
+    "source_file": "votes_fhbh0177_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      6,
+      21
+    ],
+    "doc_id": "votes_fhbh0177_page1",
+    "pii_type": "Organization Name",
+    "value": "FTC",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      0.41731899976730347,
+      0.3379325270652771,
+      0.45409177616238594,
+      0.34836068842560053
+    ],
+    "source_file": "votes_fhbh0177_page1.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "ids": [
+      7,
+      14,
+      22
+    ],
+    "doc_id": "votes_fhbh0177_page1",
+    "pii_type": "Date",
+    "value": "July 10, 1978",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.10776343941688538,
+      0.07306939363479614,
+      0.26220835000276566,
+      0.0870456425473094
+    ],
+    "source_file": "votes_fhbh0177_page1.csv",
+    "votes": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+]

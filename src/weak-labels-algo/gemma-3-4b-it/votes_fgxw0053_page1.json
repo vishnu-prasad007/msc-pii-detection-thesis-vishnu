@@ -1,0 +1,321 @@
+[
+    {
+        "ids": [
+            0,
+            13,
+            25
+        ],
+        "doc_id": "votes_fgxw0053_page1",
+        "pii_type": "Person Name",
+        "value": "Tom Saloun",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            290,
+            480,
+            448,
+            505
+        ],
+        "source_file": "votes_fgxw0053_page1.csv",
+        "probability": 0.9996925870572029
+    },
+    {
+        "ids": [
+            1,
+            2,
+            14,
+            15,
+            26,
+            27
+        ],
+        "doc_id": "votes_fgxw0053_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "R. Anise",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            344,
+            1510,
+            459,
+            1537
+        ],
+        "source_file": "votes_fgxw0053_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            4,
+            16,
+            17,
+            28,
+            30
+        ],
+        "doc_id": "votes_fgxw0053_page1",
+        "pii_type": [
+            "Location",
+            "Phone Number"
+        ],
+        "value": "120 PARK AVENUE, NEW YORK, NY 10017-5592",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            911,
+            361,
+            1472,
+            387
+        ],
+        "source_file": "votes_fgxw0053_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            29,
+            32
+        ],
+        "doc_id": "votes_fgxw0053_page1",
+        "pii_type": [
+            "Phone Number",
+            "Location"
+        ],
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fgxw0053",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            485,
+            2249,
+            1353,
+            2285
+        ],
+        "source_file": "votes_fgxw0053_page1.csv",
+        "probability": NaN
+    },
+    {
+        "ids": [
+            6,
+            18,
+            31
+        ],
+        "doc_id": "votes_fgxw0053_page1",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "PHILIP MORRIS USA",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            118,
+            323,
+            493,
+            355
+        ],
+        "source_file": "votes_fgxw0053_page1.csv",
+        "probability": 0.9998412938516642
+    },
+    {
+        "ids": [
+            7,
+            20
+        ],
+        "doc_id": "votes_fgxw0053_page1",
+        "pii_type": "Organization Name",
+        "value": "IRI",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1080,
+            639,
+            1126,
+            664
+        ],
+        "source_file": "votes_fgxw0053_page1.csv",
+        "probability": 0.7915008489091985
+    },
+    {
+        "ids": [
+            8,
+            21
+        ],
+        "doc_id": "votes_fgxw0053_page1",
+        "pii_type": "Organization Name",
+        "value": "InfoScan",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1083,
+            1249,
+            1198,
+            1274
+        ],
+        "source_file": "votes_fgxw0053_page1.csv",
+        "probability": 0.7915008489091985
+    },
+    {
+        "ids": [
+            9,
+            22
+        ],
+        "doc_id": "votes_fgxw0053_page1",
+        "pii_type": "Organization Name",
+        "value": "SPACE",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1205,
+            1185,
+            1304,
+            1210
+        ],
+        "source_file": "votes_fgxw0053_page1.csv",
+        "probability": 0.7915008489091985
+    },
+    {
+        "ids": [
+            10,
+            23,
+            33
+        ],
+        "doc_id": "votes_fgxw0053_page1",
+        "pii_type": "Date",
+        "value": "November 11, 1992",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1108,
+            413,
+            1366,
+            443
+        ],
+        "source_file": "votes_fgxw0053_page1.csv",
+        "probability": 0.9980073602097371
+    },
+    {
+        "ids": [
+            11,
+            34
+        ],
+        "doc_id": "votes_fgxw0053_page1",
+        "pii_type": "Date",
+        "value": "September",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1273,
+            672,
+            1411,
+            702
+        ],
+        "source_file": "votes_fgxw0053_page1.csv",
+        "probability": 0.8067804935997114
+    },
+    {
+        "ids": [
+            12,
+            35
+        ],
+        "doc_id": "votes_fgxw0053_page1",
+        "pii_type": "Date",
+        "value": "September",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            685,
+            769,
+            827,
+            799
+        ],
+        "source_file": "votes_fgxw0053_page1.csv",
+        "probability": 0.8067804935997114
+    },
+    {
+        "ids": [
+            19
+        ],
+        "doc_id": "votes_fgxw0053_page1",
+        "pii_type": "Organization Name",
+        "value": "c-store",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            695,
+            643,
+            784,
+            666
+        ],
+        "source_file": "votes_fgxw0053_page1.csv",
+        "probability": 0.07394166507412661
+    },
+    {
+        "ids": [
+            24,
+            36
+        ],
+        "doc_id": "votes_fgxw0053_page1",
+        "pii_type": "Contract Number",
+        "value": "INTER-OFFICE CORRESPONDENCE",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            828,
+            322,
+            1474,
+            354
+        ],
+        "source_file": "votes_fgxw0053_page1.csv",
+        "probability": 0.5079515526551848
+    },
+    {
+        "ids": [
+            37
+        ],
+        "doc_id": "votes_fgxw0053_page1",
+        "pii_type": "Contract Number",
+        "value": "Marlboro 30 '92 Deal Volume",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            295,
+            542,
+            710,
+            570
+        ],
+        "source_file": "votes_fgxw0053_page1.csv",
+        "probability": 0.054906893014309066
+    }
+]

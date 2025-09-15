@@ -1,0 +1,534 @@
+[
+    {
+        "ids": [
+            0,
+            17,
+            40
+        ],
+        "doc_id": "votes_fhvj0109_page1",
+        "pii_type": "Person Name",
+        "value": "Glenn E. Barnett",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            961,
+            2454,
+            1350,
+            2494
+        ],
+        "source_file": "votes_fhvj0109_page1.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            1,
+            18,
+            41
+        ],
+        "doc_id": "votes_fhvj0109_page1",
+        "pii_type": "Person Name",
+        "value": "J.J.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            888,
+            2508,
+            1215,
+            2685
+        ],
+        "source_file": "votes_fhvj0109_page1.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            2,
+            19,
+            42,
+            45
+        ],
+        "doc_id": "votes_fhvj0109_page1",
+        "pii_type": [
+            "Location",
+            "Organization Name"
+        ],
+        "value": "RICHMOND",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            569,
+            149,
+            769,
+            193
+        ],
+        "source_file": "votes_fhvj0109_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            20
+        ],
+        "doc_id": "votes_fhvj0109_page1",
+        "pii_type": "Organization Name",
+        "value": "ALPINE",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            887,
+            1138,
+            1034,
+            1186
+        ],
+        "source_file": "votes_fhvj0109_page1.csv",
+        "probability": 0.8837384049991688
+    },
+    {
+        "ids": [
+            4,
+            21,
+            47
+        ],
+        "doc_id": "votes_fhvj0109_page1",
+        "pii_type": "Organization Name",
+        "value": "J.M. Fry",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            738,
+            1189,
+            934,
+            1235
+        ],
+        "source_file": "votes_fhvj0109_page1.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            5,
+            22
+        ],
+        "doc_id": "votes_fhvj0109_page1",
+        "pii_type": "Organization Name",
+        "value": "S.A.",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            2062,
+            1182,
+            2156,
+            1228
+        ],
+        "source_file": "votes_fhvj0109_page1.csv",
+        "probability": 0.8837384049991688
+    },
+    {
+        "ids": [
+            6,
+            23,
+            48
+        ],
+        "doc_id": "votes_fhvj0109_page1",
+        "pii_type": "Organization Name",
+        "value": "Benkert",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1311,
+            1531,
+            1503,
+            1572
+        ],
+        "source_file": "votes_fhvj0109_page1.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            7,
+            24,
+            49
+        ],
+        "doc_id": "votes_fhvj0109_page1",
+        "pii_type": "Organization Name",
+        "value": "Ajax",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1069,
+            1650,
+            1168,
+            1694
+        ],
+        "source_file": "votes_fhvj0109_page1.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            8,
+            25,
+            50
+        ],
+        "doc_id": "votes_fhvj0109_page1",
+        "pii_type": "Organization Name",
+        "value": "DeMauduit",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            625,
+            2793,
+            845,
+            2831
+        ],
+        "source_file": "votes_fhvj0109_page1.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            9,
+            32,
+            43,
+            51
+        ],
+        "doc_id": "votes_fhvj0109_page1",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "May 19, 1980",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2152,
+            204,
+            2447,
+            256
+        ],
+        "source_file": "votes_fhvj0109_page1.csv",
+        "probability": 0.9999987397789659
+    },
+    {
+        "ids": [
+            10,
+            33,
+            44,
+            52
+        ],
+        "doc_id": "votes_fhvj0109_page1",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "January 22, 1979",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1497,
+            2745,
+            1879,
+            2789
+        ],
+        "source_file": "votes_fhvj0109_page1.csv",
+        "probability": 0.9999987397789659
+    },
+    {
+        "ids": [
+            11,
+            34,
+            53
+        ],
+        "doc_id": "votes_fhvj0109_page1",
+        "pii_type": "Contract Number",
+        "value": "10-123-A",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1247,
+            1036,
+            1449,
+            1078
+        ],
+        "source_file": "votes_fhvj0109_page1.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            12,
+            35,
+            54
+        ],
+        "doc_id": "votes_fhvj0109_page1",
+        "pii_type": "Contract Number",
+        "value": "10-145-A",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2248,
+            1074,
+            2438,
+            1118
+        ],
+        "source_file": "votes_fhvj0109_page1.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            13,
+            36,
+            55
+        ],
+        "doc_id": "votes_fhvj0109_page1",
+        "pii_type": "Contract Number",
+        "value": "60-900-A",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1719,
+            1180,
+            1934,
+            1227
+        ],
+        "source_file": "votes_fhvj0109_page1.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            14,
+            37,
+            56
+        ],
+        "doc_id": "votes_fhvj0109_page1",
+        "pii_type": "Contract Number",
+        "value": "12-541-A",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1316,
+            1577,
+            1513,
+            1618
+        ],
+        "source_file": "votes_fhvj0109_page1.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            15,
+            38,
+            57
+        ],
+        "doc_id": "votes_fhvj0109_page1",
+        "pii_type": "Contract Number",
+        "value": "60-406-A",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1826,
+            1647,
+            2030,
+            1686
+        ],
+        "source_file": "votes_fhvj0109_page1.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            16,
+            39,
+            58
+        ],
+        "doc_id": "votes_fhvj0109_page1",
+        "pii_type": "Contract Number",
+        "value": "10-156-A",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            949,
+            2842,
+            1139,
+            2884
+        ],
+        "source_file": "votes_fhvj0109_page1.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            26
+        ],
+        "doc_id": "votes_fhvj0109_page1",
+        "pii_type": "Organization Name",
+        "value": "P.M.",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            790,
+            1042,
+            878,
+            1080
+        ],
+        "source_file": "votes_fhvj0109_page1.csv",
+        "probability": 0.07003450320163163
+    },
+    {
+        "ids": [
+            27
+        ],
+        "doc_id": "votes_fhvj0109_page1",
+        "pii_type": "Organization Name",
+        "value": "P.M.",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1783,
+            1082,
+            1870,
+            1117
+        ],
+        "source_file": "votes_fhvj0109_page1.csv",
+        "probability": 0.07003450320163163
+    },
+    {
+        "ids": [
+            28
+        ],
+        "doc_id": "votes_fhvj0109_page1",
+        "pii_type": "Organization Name",
+        "value": "P.M.",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1255,
+            1188,
+            1343,
+            1228
+        ],
+        "source_file": "votes_fhvj0109_page1.csv",
+        "probability": 0.07003450320163163
+    },
+    {
+        "ids": [
+            29
+        ],
+        "doc_id": "votes_fhvj0109_page1",
+        "pii_type": "Organization Name",
+        "value": "P.M.",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            845,
+            1581,
+            942,
+            1620
+        ],
+        "source_file": "votes_fhvj0109_page1.csv",
+        "probability": 0.07003450320163163
+    },
+    {
+        "ids": [
+            30
+        ],
+        "doc_id": "votes_fhvj0109_page1",
+        "pii_type": "Organization Name",
+        "value": "P.M.",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1364,
+            1651,
+            1456,
+            1687
+        ],
+        "source_file": "votes_fhvj0109_page1.csv",
+        "probability": 0.07003450320163163
+    },
+    {
+        "ids": [
+            31
+        ],
+        "doc_id": "votes_fhvj0109_page1",
+        "pii_type": "Organization Name",
+        "value": "S.A",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            2169,
+            1649,
+            2253,
+            1693
+        ],
+        "source_file": "votes_fhvj0109_page1.csv",
+        "probability": 0.07003450320163163
+    },
+    {
+        "ids": [
+            46
+        ],
+        "doc_id": "votes_fhvj0109_page1",
+        "pii_type": "Organization Name",
+        "value": "ALPINE K.S.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            571,
+            202,
+            837,
+            242
+        ],
+        "source_file": "votes_fhvj0109_page1.csv",
+        "probability": 0.023593355075766473
+    }
+]

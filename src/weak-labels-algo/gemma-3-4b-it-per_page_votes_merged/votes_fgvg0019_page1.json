@@ -1,0 +1,156 @@
+[
+    {
+        "ids": [
+            0,
+            2,
+            8,
+            10,
+            17,
+            19,
+            22,
+            24
+        ],
+        "doc_id": "votes_fgvg0019_page1",
+        "pii_type": [
+            "Email Address",
+            "Organization Name",
+            "Person Name",
+            "Location"
+        ],
+        "value": "Borschke, August J.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2892325222492218,
+            0.1325274407863617,
+            0.43868463113904,
+            0.1472337218001485
+        ],
+        "source_file": "votes_fgvg0019_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            3,
+            9,
+            11,
+            18,
+            20,
+            23,
+            25
+        ],
+        "doc_id": "votes_fgvg0019_page1",
+        "pii_type": [
+            "Email Address",
+            "Organization Name",
+            "Person Name",
+            "Location"
+        ],
+        "value": "Dube, Mike",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2896614074707031,
+            0.1528945118188858,
+            0.37873273715376854,
+            0.167028047144413
+        ],
+        "source_file": "votes_fgvg0019_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            7,
+            13,
+            16,
+            21,
+            28
+        ],
+        "doc_id": "votes_fgvg0019_page1",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "DPO 459561513639",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.058938805013895035,
+            0.9732044339179993,
+            0.2137596756219864,
+            0.9859281769022346
+        ],
+        "source_file": "votes_fgvg0019_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            14,
+            26
+        ],
+        "doc_id": "votes_fgvg0019_page1",
+        "pii_type": "Date",
+        "value": "3/22/2006 11:39:31 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.28883251547813416,
+            0.21333375573158264,
+            0.4719094857573509,
+            0.2257683863863349
+        ],
+        "source_file": "votes_fgvg0019_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            15,
+            27
+        ],
+        "doc_id": "votes_fgvg0019_page1",
+        "pii_type": "Date",
+        "value": "3/22/2006 11:39:31 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2888776957988739,
+            0.23362664878368378,
+            0.4712011869996786,
+            0.2457398809492588
+        ],
+        "source_file": "votes_fgvg0019_page1.csv"
+    },
+    {
+        "ids": [
+            12
+        ],
+        "doc_id": "votes_fgvg0019_page1",
+        "pii_type": "Email Address",
+        "value": "ttps://www.industrydocuments.ucsf.edu/docs/fgvg0019",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.27870404720306396,
+            0.9787640571594238,
+            0.7858228087425232,
+            0.9999999739229679
+        ],
+        "source_file": "votes_fgvg0019_page1.csv"
+    }
+]

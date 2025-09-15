@@ -1,0 +1,94 @@
+[
+    {
+        "ids": [
+            0,
+            4,
+            8
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Person Name",
+        "value": "P. D. Greenberg",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            423,
+            591,
+            657,
+            627
+        ],
+        "source_file": "votes_fgvv0063_page2.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            1,
+            5,
+            9
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Person Name",
+        "value": "T. BEANE",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1121,
+            2016,
+            1267,
+            2045
+        ],
+        "source_file": "votes_fgvv0063_page2.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            2,
+            6,
+            10
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Organization Name",
+        "value": "PHILIP MORRIS USA",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            281,
+            341,
+            705,
+            377
+        ],
+        "source_file": "votes_fgvv0063_page2.csv",
+        "probability": 0.997746690646689
+    },
+    {
+        "ids": [
+            3,
+            7,
+            11
+        ],
+        "doc_id": "votes_fgvv0063_page2",
+        "pii_type": "Date",
+        "value": "March 30, 2000",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1217,
+            516,
+            1443,
+            548
+        ],
+        "source_file": "votes_fgvv0063_page2.csv",
+        "probability": 0.9999113980940532
+    }
+]

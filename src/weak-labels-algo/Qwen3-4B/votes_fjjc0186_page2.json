@@ -1,0 +1,373 @@
+[
+    {
+        "ids": [
+            0,
+            13
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Person Name",
+        "value": "Patti Ittermann",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            671,
+            2197,
+            1085,
+            2257
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.9223996674224194
+    },
+    {
+        "ids": [
+            1,
+            14
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Person Name",
+        "value": "Tricia Hoopes",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1720,
+            2198,
+            2107,
+            2269
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.9223996674224194
+    },
+    {
+        "ids": [
+            2,
+            15
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Person Name",
+        "value": "Brice O'Brien",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            671,
+            2284,
+            1047,
+            2344
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.9223996674224194
+    },
+    {
+        "ids": [
+            3,
+            16
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Person Name",
+        "value": "Sumana Rajagopal",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1723,
+            2284,
+            2245,
+            2357
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.9223996674224194
+    },
+    {
+        "ids": [
+            4,
+            17
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Person Name",
+        "value": "Carol Sterling",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1723,
+            2372,
+            2095,
+            2447
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.9223996674224194
+    },
+    {
+        "ids": [
+            5,
+            18
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Person Name",
+        "value": "Mary Taylor",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1724,
+            2462,
+            2046,
+            2536
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.9223996674224194
+    },
+    {
+        "ids": [
+            6,
+            19,
+            20
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Phone Number",
+        "value": "774-9377",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1864,
+            1494,
+            2157,
+            1551
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.9989874148242464
+    },
+    {
+        "ids": [
+            7,
+            21
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Organization Name",
+        "value": "Detour",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            2313,
+            432,
+            2503,
+            490
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.7749052148181887
+    },
+    {
+        "ids": [
+            8
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Organization Name",
+        "value": "Camel",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1115,
+            437,
+            1296,
+            496
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.0666910951015001
+    },
+    {
+        "ids": [
+            9,
+            23
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Organization Name",
+        "value": "LHC",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1198,
+            611,
+            1326,
+            670
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.7749052148181887
+    },
+    {
+        "ids": [
+            10,
+            12,
+            24,
+            26
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "SLK",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1733,
+            1758,
+            1854,
+            1817
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.9538379552891831
+    },
+    {
+        "ids": [
+            11,
+            25
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Organization Name",
+        "value": "RJRT Agency",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            672,
+            2107,
+            1934,
+            2183
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.7749052148181887
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Organization Name",
+        "value": "Detour",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1728,
+            612,
+            1915,
+            671
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.05285594042746515
+    },
+    {
+        "ids": [
+            27
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Contract Number",
+        "value": "5 2",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            3195,
+            4074,
+            3238,
+            4148
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            28
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Contract Number",
+        "value": "2 5",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            3196,
+            4161,
+            3239,
+            4234
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            29
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Contract Number",
+        "value": "6",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            3199,
+            4247,
+            3241,
+            4276
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            30
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Contract Number",
+        "value": "6",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            3199,
+            4333,
+            3243,
+            4364
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.18724450043103621
+    },
+    {
+        "ids": [
+            31
+        ],
+        "doc_id": "votes_fjjc0186_page2",
+        "pii_type": "Contract Number",
+        "value": "8",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            3201,
+            4419,
+            3245,
+            4452
+        ],
+        "source_file": "votes_fjjc0186_page2.csv",
+        "probability": 0.18724450043103621
+    }
+]

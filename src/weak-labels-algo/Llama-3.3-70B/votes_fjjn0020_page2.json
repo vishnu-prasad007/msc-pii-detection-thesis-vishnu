@@ -1,0 +1,340 @@
+[
+    {
+        "ids": [
+            0,
+            8
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Person Name",
+        "value": "Mike Jacques",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            477,
+            1104,
+            652,
+            1136
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "probability": 0.9441355554870619
+    },
+    {
+        "ids": [
+            1,
+            9,
+            23
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Person Name",
+        "value": "Kevin Richardson Richardson, extension #3440",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            477,
+            1139,
+            909,
+            1169
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "probability": 0.9997390584202765
+    },
+    {
+        "ids": [
+            2,
+            10,
+            24
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Phone Number",
+        "value": "5660",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            783,
+            1106,
+            862,
+            1132
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "probability": 0.9999978866788498
+    },
+    {
+        "ids": [
+            3,
+            11,
+            25
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Phone Number",
+        "value": "3440",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            830,
+            1141,
+            909,
+            1166
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "probability": 0.9999978866788498
+    },
+    {
+        "ids": [
+            4,
+            12,
+            26
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Organization Name",
+        "value": "R.J. REYNOLDS TOBACCO COMPANY",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            201,
+            1241,
+            709,
+            1268
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "probability": 0.9930561197603293
+    },
+    {
+        "ids": [
+            5,
+            13,
+            27
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Organization Name",
+        "value": "Marlboro",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            743,
+            585,
+            852,
+            611
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "probability": 0.9930561197603293
+    },
+    {
+        "ids": [
+            6,
+            17,
+            28
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Date",
+        "value": "4/7/99",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1008,
+            726,
+            1092,
+            752
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "probability": 0.9998803392147021
+    },
+    {
+        "ids": [
+            7
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Date",
+        "value": "Q2'99",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            484,
+            722,
+            573,
+            753
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "probability": 0.009875612101608158
+    },
+    {
+        "ids": [
+            14
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Organization Name",
+        "value": "DORAL",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            355,
+            548,
+            450,
+            574
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "probability": 0.08045625298154675
+    },
+    {
+        "ids": [
+            15
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Organization Name",
+        "value": "WINSTON",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            355,
+            305,
+            488,
+            330
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "probability": 0.08045625298154675
+    },
+    {
+        "ids": [
+            16
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Organization Name",
+        "value": "CAMEL",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            548,
+            306,
+            641,
+            332
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "probability": 0.08045625298154675
+    },
+    {
+        "ids": [
+            18,
+            29
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Contract Number",
+        "value": "PRP",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            928,
+            690,
+            985,
+            715
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "probability": 0.7866297151697789
+    },
+    {
+        "ids": [
+            19,
+            30
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Contract Number",
+        "value": "PRP",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            254,
+            721,
+            319,
+            751
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "probability": 0.7866297151697789
+    },
+    {
+        "ids": [
+            20,
+            31
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Contract Number",
+        "value": "PRP",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            254,
+            756,
+            310,
+            781
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "probability": 0.7866297151697789
+    },
+    {
+        "ids": [
+            21,
+            32
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Contract Number",
+        "value": "RJR",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1425,
+            971,
+            1481,
+            996
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "probability": 0.7866297151697789
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fjjn0020_page2",
+        "pii_type": "Person Name",
+        "value": "Mike Jacques, extension #5660",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            477,
+            1104,
+            862,
+            1136
+        ],
+        "source_file": "votes_fjjn0020_page2.csv",
+        "probability": 0.010751105769101325
+    }
+]

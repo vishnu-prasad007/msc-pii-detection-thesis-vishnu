@@ -1,0 +1,250 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            10,
+            16,
+            20,
+            27
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": [
+            "Location",
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Biu",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.09672565758228302,
+            0.36749178171157837,
+            0.2042134776711464,
+            0.42284712940454483
+        ],
+        "source_file": "votes_fgxc0224_page5.csv"
+    },
+    {
+        "ids": [
+            1,
+            11,
+            21
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Person Name",
+        "value": "William P. Whitlatch",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1268540322780609,
+            0.42084720730781555,
+            0.32347381114959717,
+            0.43414668645709753
+        ],
+        "source_file": "votes_fgxc0224_page5.csv"
+    },
+    {
+        "ids": [
+            2,
+            12,
+            22
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Person Name",
+        "value": "Mr. E. J. Fackelman",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1847720891237259,
+            0.5103060603141785,
+            0.3706231936812401,
+            0.5226737037301064
+        ],
+        "source_file": "votes_fgxc0224_page5.csv"
+    },
+    {
+        "ids": [
+            3,
+            13,
+            23
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Person Name",
+        "value": "Dr. J. L. Gemma",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18525323271751404,
+            0.5250377058982849,
+            0.3331032395362854,
+            0.5372802363708615
+        ],
+        "source_file": "votes_fgxc0224_page5.csv"
+    },
+    {
+        "ids": [
+            4,
+            14,
+            24
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Person Name",
+        "value": "Mr. J. D. Weber",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18476635217666626,
+            0.5396654605865479,
+            0.3335484005510807,
+            0.5521107036620378
+        ],
+        "source_file": "votes_fgxc0224_page5.csv"
+    },
+    {
+        "ids": [
+            5,
+            15,
+            25
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Person Name",
+        "value": "Mr. J. R. Moore",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1843719184398651,
+            0.554613471031189,
+            0.33280767872929573,
+            0.5671932911500335
+        ],
+        "source_file": "votes_fgxc0224_page5.csv"
+    },
+    {
+        "ids": [
+            6,
+            17,
+            26,
+            29
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "Page Five",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.12895791232585907,
+            0.11005565524101257,
+            0.2162749022245407,
+            0.1251577427610755
+        ],
+        "source_file": "votes_fgxc0224_page5.csv"
+    },
+    {
+        "ids": [
+            8,
+            19,
+            32
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "WPW/lw",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1265277862548828,
+            0.47999224066734314,
+            0.1868627592921257,
+            0.49558497313410044
+        ],
+        "source_file": "votes_fgxc0224_page5.csv"
+    },
+    {
+        "ids": [
+            9,
+            18,
+            28
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Date",
+        "value": "February 7, 1991",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1289776861667633,
+            0.09480561316013336,
+            0.2842232286930084,
+            0.10955831874161959
+        ],
+        "source_file": "votes_fgxc0224_page5.csv"
+    },
+    {
+        "ids": [
+            30
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Contract Number",
+        "value": "MORE DIRECT MARKETING REPORT - COMPETITIVE CONTINUITY WAVE II",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.128037691116333,
+            0.15364710986614227,
+            0.7260583061724901,
+            0.16594027169048786
+        ],
+        "source_file": "votes_fgxc0224_page5.csv"
+    },
+    {
+        "ids": [
+            31
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Contract Number",
+        "value": "Business Information and Analysis Department",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.12743331491947174,
+            0.43590253591537476,
+            0.5579649358987808,
+            0.4509691931307316
+        ],
+        "source_file": "votes_fgxc0224_page5.csv"
+    }
+]

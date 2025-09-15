@@ -1,0 +1,169 @@
+[
+    {
+        "ids": [
+            0,
+            8,
+            16
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": "Person Name",
+        "value": "W. Bell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            485,
+            1832,
+            666,
+            1866
+        ],
+        "source_file": "votes_fgvk0122_page3.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            9,
+            17
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": "Person Name",
+        "value": "W. Callaham",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            485,
+            1887,
+            769,
+            1922
+        ],
+        "source_file": "votes_fgvk0122_page3.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            10,
+            18
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": "Person Name",
+        "value": "S. Clark",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            487,
+            1943,
+            690,
+            1976
+        ],
+        "source_file": "votes_fgvk0122_page3.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            11,
+            19
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": "Person Name",
+        "value": "R. Cox",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            484,
+            1999,
+            641,
+            2033
+        ],
+        "source_file": "votes_fgvk0122_page3.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            12,
+            20
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": "Person Name",
+        "value": "D. Spruill",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            484,
+            2054,
+            740,
+            2094
+        ],
+        "source_file": "votes_fgvk0122_page3.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            13,
+            21
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": "Person Name",
+        "value": "H. Spielberg",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            485,
+            2110,
+            791,
+            2152
+        ],
+        "source_file": "votes_fgvk0122_page3.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            7,
+            14,
+            15,
+            22,
+            23
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "2031158486",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1889,
+            3155,
+            2349,
+            3221
+        ],
+        "source_file": "votes_fgvk0122_page3.csv",
+        "probability": 1.0
+    }
+]

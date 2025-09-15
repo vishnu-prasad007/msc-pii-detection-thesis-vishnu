@@ -1,0 +1,337 @@
+[
+    {
+        "ids": [
+            0,
+            14,
+            18,
+            26,
+            30
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "U.S. Army ARMY",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4557933807373047,
+            0.11092761158943176,
+            0.5595950558781624,
+            0.12212115433067083
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            16,
+            28,
+            32
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "DoD",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7599387168884277,
+            0.8498169779777527,
+            0.7954166159033775,
+            0.8604305842891335
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            19
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Date",
+        "value": "March 1, 1986",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.2603479027748108,
+            0.30509600043296814,
+            0.4191059432923794,
+            0.31730124447494745
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            20
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Date",
+        "value": "March 11, 1986",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.39903199672698975,
+            0.37912067770957947,
+            0.568125419318676,
+            0.39118724688887596
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            21
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Date",
+        "value": "June 11, 1986",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.23743967711925507,
+            0.540460467338562,
+            0.39732061326503754,
+            0.5524259032681584
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            22,
+            34
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Contract Number",
+        "value": "TIMN 353405",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7352181673049927,
+            0.9320210218429565,
+            0.915548786520958,
+            0.9522014763206244
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            7,
+            17,
+            29,
+            35
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": [
+            "Location",
+            "Email Address",
+            "Contract Number"
+        ],
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fhxh0140 https://www.industrydocuments.ucsf.edu",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.22074784338474274,
+            0.9808133244514465,
+            0.77906633913517,
+            0.9973880313336849
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            23
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Phone Number",
+        "value": "The Senate FY 86 Defense Appropriations Bill contained a",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.20155124366283417,
+            0.2134079784154892,
+            0.8488010596483946,
+            0.22784700524061918
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            9
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Phone Number",
+        "value": "The Assistant",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.6429318785667419,
+            0.2736833989620209,
+            0.7907867953181267,
+            0.2851147959008813
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Phone Number",
+        "value": "by March 1, 1986, addressing health and other issues.",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.22471332550048828,
+            0.3038189113140106,
+            0.8338402062654495,
+            0.3194063538685441
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Phone Number",
+        "value": "Deputy Secretary",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.6071316003799438,
+            0.36444970965385437,
+            0.7928061857819557,
+            0.3774491399526596
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            12
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Phone Number",
+        "value": "March 11, 1986. The Directive",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.39903199672698975,
+            0.3786047399044037,
+            0.7451413050293922,
+            0.39118724688887596
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            13,
+            25
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Phone Number",
+        "value": "On June 11, 1986, the U.S. Army announced its Tobacco",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.2027880996465683,
+            0.5391393899917603,
+            0.8165753185749054,
+            0.5526775065809488
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            15,
+            27,
+            33
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "U.S. Army",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.4587068259716034,
+            0.5404009819030762,
+            0.5617062970995903,
+            0.5526775065809488
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Phone Number",
+        "value": "The Directive",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.5952699780464172,
+            0.3786047399044037,
+            0.7451413050293922,
+            0.39001864939928055
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            31
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Organization Name",
+        "value": "Defense Department",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.35350674390792847,
+            0.33370983600616455,
+            0.6064433678984642,
+            0.3478387799113989
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    }
+]

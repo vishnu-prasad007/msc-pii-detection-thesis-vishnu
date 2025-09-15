@@ -1,0 +1,219 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            14
+        ],
+        "doc_id": "votes_fhfg0219_page6",
+        "pii_type": "Person Name",
+        "value": "Dr. A. W. Spears, et al Spears",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            401,
+            346,
+            960,
+            406
+        ],
+        "source_file": "votes_fhfg0219_page6.csv",
+        "votes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "probability": 1.6800576162742343e-08
+    },
+    {
+        "ids": [
+            1,
+            8,
+            15
+        ],
+        "doc_id": "votes_fhfg0219_page6",
+        "pii_type": "Person Name",
+        "value": "Ron Milstein",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1526,
+            904,
+            1847,
+            953
+        ],
+        "source_file": "votes_fhfg0219_page6.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            2,
+            9,
+            16
+        ],
+        "doc_id": "votes_fhfg0219_page6",
+        "pii_type": "Person Name",
+        "value": "Ronald S. Milstein",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1775,
+            1601,
+            2233,
+            1655
+        ],
+        "source_file": "votes_fhfg0219_page6.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            3,
+            10,
+            17
+        ],
+        "doc_id": "votes_fhfg0219_page6",
+        "pii_type": "Person Name",
+        "value": "Barry Hirsch, Esq.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            592,
+            1881,
+            1045,
+            1942
+        ],
+        "source_file": "votes_fhfg0219_page6.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            4,
+            11,
+            18
+        ],
+        "doc_id": "votes_fhfg0219_page6",
+        "pii_type": "Person Name",
+        "value": "Gary Garson, Esq.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            595,
+            1953,
+            1041,
+            2012
+        ],
+        "source_file": "votes_fhfg0219_page6.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            5,
+            12,
+            19
+        ],
+        "doc_id": "votes_fhfg0219_page6",
+        "pii_type": "Person Name",
+        "value": "Glen Zarin, Esq.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            593,
+            2021,
+            993,
+            2083
+        ],
+        "source_file": "votes_fhfg0219_page6.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            6,
+            13,
+            20
+        ],
+        "doc_id": "votes_fhfg0219_page6",
+        "pii_type": "Date",
+        "value": "August 9, 1999",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            402,
+            486,
+            781,
+            546
+        ],
+        "source_file": "votes_fhfg0219_page6.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.999999713175462
+    }
+]

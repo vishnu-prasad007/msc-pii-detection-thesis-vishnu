@@ -1,0 +1,138 @@
+[
+    {
+        "ids": [
+            0,
+            6,
+            12
+        ],
+        "doc_id": "votes_fgjy0234_page2",
+        "pii_type": "Person Name",
+        "value": "Ed Grelle",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            149,
+            146,
+            338,
+            180
+        ],
+        "source_file": "votes_fgjy0234_page2.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            1,
+            7,
+            13
+        ],
+        "doc_id": "votes_fgjy0234_page2",
+        "pii_type": "Phone Number",
+        "value": "Tel: 314-654-3549",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            148,
+            529,
+            533,
+            562
+        ],
+        "source_file": "votes_fgjy0234_page2.csv",
+        "probability": 0.9990904025042505
+    },
+    {
+        "ids": [
+            2,
+            8,
+            14
+        ],
+        "doc_id": "votes_fgjy0234_page2",
+        "pii_type": "Phone Number",
+        "value": "cell: 314-402-2317",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            150,
+            604,
+            537,
+            639
+        ],
+        "source_file": "votes_fgjy0234_page2.csv",
+        "probability": 0.9990904025042505
+    },
+    {
+        "ids": [
+            3,
+            9,
+            15
+        ],
+        "doc_id": "votes_fgjy0234_page2",
+        "pii_type": "Location",
+        "value": "Hazelwood, MO 63042",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            150,
+            452,
+            595,
+            491
+        ],
+        "source_file": "votes_fgjy0234_page2.csv",
+        "probability": 0.996034042417568
+    },
+    {
+        "ids": [
+            4,
+            10,
+            16
+        ],
+        "doc_id": "votes_fgjy0234_page2",
+        "pii_type": "Organization Name",
+        "value": "Covidien",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            149,
+            300,
+            319,
+            333
+        ],
+        "source_file": "votes_fgjy0234_page2.csv",
+        "probability": 0.9900025300515797
+    },
+    {
+        "ids": [
+            5,
+            11
+        ],
+        "doc_id": "votes_fgjy0234_page2",
+        "pii_type": "Contract Number",
+        "value": "MNKOI 0000280196",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            2088,
+            3304,
+            2470,
+            3340
+        ],
+        "source_file": "votes_fgjy0234_page2.csv",
+        "probability": 0.7414301971243858
+    }
+]

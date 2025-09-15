@@ -1,0 +1,324 @@
+[
+    {
+        "ids": [
+            0,
+            16
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Susan White",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.1843302845954895,
+            0.13332925736904144,
+            0.2959735281765461,
+            0.14602412842214108
+        ],
+        "source_file": "votes_fgmp0189_page3.csv"
+    },
+    {
+        "ids": [
+            1,
+            17,
+            31
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Steve McQuilkin",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1854580193758011,
+            0.32543325424194336,
+            0.325887031853199,
+            0.33917321916669607
+        ],
+        "source_file": "votes_fgmp0189_page3.csv"
+    },
+    {
+        "ids": [
+            2,
+            18,
+            32
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Jan",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.40475648641586304,
+            0.3430594205856323,
+            0.4361908808350563,
+            0.3551852749660611
+        ],
+        "source_file": "votes_fgmp0189_page3.csv"
+    },
+    {
+        "ids": [
+            3,
+            19,
+            33
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Anita Scism",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6296876668930054,
+            0.3602672815322876,
+            0.7320844158530235,
+            0.373006091453135
+        ],
+        "source_file": "votes_fgmp0189_page3.csv"
+    },
+    {
+        "ids": [
+            4
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Steve",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.6213703751564026,
+            0.4299810826778412,
+            0.6710320636630058,
+            0.4424887327477336
+        ],
+        "source_file": "votes_fgmp0189_page3.csv"
+    },
+    {
+        "ids": [
+            5,
+            21,
+            35
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Andy Schindler",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.44902554154396057,
+            0.42971816658973694,
+            0.5787743330001831,
+            0.44574263971298933
+        ],
+        "source_file": "votes_fgmp0189_page3.csv"
+    },
+    {
+        "ids": [
+            6,
+            20,
+            34
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Steve Goldstone",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6213703751564026,
+            0.42945683002471924,
+            0.7704662382602692,
+            0.44279972556978464
+        ],
+        "source_file": "votes_fgmp0189_page3.csv"
+    },
+    {
+        "ids": [
+            7,
+            22,
+            36
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Jason Wright",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3556273579597473,
+            0.4644465744495392,
+            0.4706128314137459,
+            0.48030167631804943
+        ],
+        "source_file": "votes_fgmp0189_page3.csv"
+    },
+    {
+        "ids": [
+            8,
+            23,
+            37
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Person Name",
+        "value": "Carol Makovich",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5126001834869385,
+            0.4644331932067871,
+            0.6454263105988503,
+            0.47771183867007494
+        ],
+        "source_file": "votes_fgmp0189_page3.csv"
+    },
+    {
+        "ids": [
+            9,
+            15,
+            24,
+            29,
+            38,
+            46,
+            48
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": [
+            "Date",
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "70071 5263",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.018600156530737877,
+            0.9760270714759827,
+            0.1225179098546505,
+            0.9885292276740074
+        ],
+        "source_file": "votes_fgmp0189_page3.csv"
+    },
+    {
+        "ids": [
+            10,
+            11,
+            25,
+            26,
+            39,
+            40,
+            41,
+            44
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "Tobaccoville",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7329360246658325,
+            0.27342572808265686,
+            0.8423226624727249,
+            0.2861985759809613
+        ],
+        "source_file": "votes_fgmp0189_page3.csv"
+    },
+    {
+        "ids": [
+            12,
+            27,
+            42
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Organization Name",
+        "value": "RJR",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6070552468299866,
+            0.1334511786699295,
+            0.6447007805109024,
+            0.14592187199741602
+        ],
+        "source_file": "votes_fgmp0189_page3.csv"
+    },
+    {
+        "ids": [
+            13,
+            28,
+            43
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": "Organization Name",
+        "value": "RJR",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.671476423740387,
+            0.20305372774600983,
+            0.7092607691884041,
+            0.21596559323370457
+        ],
+        "source_file": "votes_fgmp0189_page3.csv"
+    },
+    {
+        "ids": [
+            14,
+            30,
+            45,
+            47
+        ],
+        "doc_id": "votes_fgmp0189_page3",
+        "pii_type": [
+            "Date",
+            "Contract Number"
+        ],
+        "value": "RJR0000000046027194",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.01940491609275341,
+            0.9583040475845337,
+            0.2333031129091978,
+            0.9717414658516645
+        ],
+        "source_file": "votes_fgmp0189_page3.csv"
+    }
+]

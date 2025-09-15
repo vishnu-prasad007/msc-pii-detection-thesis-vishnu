@@ -1,0 +1,192 @@
+[
+  {
+    "ids": [
+      0,
+      8,
+      15
+    ],
+    "doc_id": "votes_ee19ec76-3531-254f-c21f-869b6cf0916c.pdf_page2",
+    "pii_type": "Location",
+    "value": "Grand Rapids WXSP",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      667,
+      52,
+      775,
+      61
+    ],
+    "source_file": "votes_ee19ec76-3531-254f-c21f-869b6cf0916c.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      1,
+      9,
+      16
+    ],
+    "doc_id": "votes_ee19ec76-3531-254f-c21f-869b6cf0916c.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "POL/Priorities USA Action PAC",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      439,
+      36,
+      592,
+      44
+    ],
+    "source_file": "votes_ee19ec76-3531-254f-c21f-869b6cf0916c.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      2,
+      10,
+      17
+    ],
+    "doc_id": "votes_ee19ec76-3531-254f-c21f-869b6cf0916c.pdf_page2",
+    "pii_type": "Date",
+    "value": "02/17/20 16:41:31",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      617,
+      20,
+      705,
+      28
+    ],
+    "source_file": "votes_ee19ec76-3531-254f-c21f-869b6cf0916c.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      3,
+      11,
+      18
+    ],
+    "doc_id": "votes_ee19ec76-3531-254f-c21f-869b6cf0916c.pdf_page2",
+    "pii_type": "Date",
+    "value": "06/09/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      119,
+      68,
+      163,
+      75
+    ],
+    "source_file": "votes_ee19ec76-3531-254f-c21f-869b6cf0916c.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      4,
+      12,
+      19
+    ],
+    "doc_id": "votes_ee19ec76-3531-254f-c21f-869b6cf0916c.pdf_page2",
+    "pii_type": "Date",
+    "value": "06/15/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      172,
+      68,
+      215,
+      76
+    ],
+    "source_file": "votes_ee19ec76-3531-254f-c21f-869b6cf0916c.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      5,
+      20
+    ],
+    "doc_id": "votes_ee19ec76-3531-254f-c21f-869b6cf0916c.pdf_page2",
+    "pii_type": "Date",
+    "value": "06/09/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      75,
+      130,
+      118,
+      137
+    ],
+    "source_file": "votes_ee19ec76-3531-254f-c21f-869b6cf0916c.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      6,
+      21
+    ],
+    "doc_id": "votes_ee19ec76-3531-254f-c21f-869b6cf0916c.pdf_page2",
+    "pii_type": "Date",
+    "value": "06/15/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      139,
+      129,
+      183,
+      137
+    ],
+    "source_file": "votes_ee19ec76-3531-254f-c21f-869b6cf0916c.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      7,
+      13,
+      22
+    ],
+    "doc_id": "votes_ee19ec76-3531-254f-c21f-869b6cf0916c.pdf_page2",
+    "pii_type": "Contract Number",
+    "value": "2385643",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      119,
+      36,
+      163,
+      44
+    ],
+    "source_file": "votes_ee19ec76-3531-254f-c21f-869b6cf0916c.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      14
+    ],
+    "doc_id": "votes_ee19ec76-3531-254f-c21f-869b6cf0916c.pdf_page2",
+    "pii_type": "Invoice Number",
+    "value": "Order / Rev: 2385643",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      24,
+      36,
+      163,
+      44
+    ],
+    "source_file": "votes_ee19ec76-3531-254f-c21f-869b6cf0916c.pdf_page2.csv"
+  }
+]

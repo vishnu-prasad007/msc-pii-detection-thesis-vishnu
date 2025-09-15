@@ -1,0 +1,266 @@
+[
+    {
+        "ids": [
+            0,
+            12,
+            19
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. Stuart Facey",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2055092304944992,
+            0.21727558970451355,
+            0.29790960997343063,
+            0.22858978807926178
+        ],
+        "source_file": "votes_fgck0201_page1.csv"
+    },
+    {
+        "ids": [
+            1
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Person Name",
+        "value": "Stuart",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.23392397165298462,
+            0.31609606742858887,
+            0.27059346064925194,
+            0.32626271340996027
+        ],
+        "source_file": "votes_fgck0201_page1.csv"
+    },
+    {
+        "ids": [
+            2
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Person Name",
+        "value": "Stuart",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.24673756957054138,
+            0.5094133019447327,
+            0.28300611674785614,
+            0.5183285037055612
+        ],
+        "source_file": "votes_fgck0201_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            20
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Person Name",
+        "value": "Dick Brentnall",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.5584791302680969,
+            0.37693288922309875,
+            0.6376747824251652,
+            0.38626090437173843
+        ],
+        "source_file": "votes_fgck0201_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            13,
+            21
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Person Name",
+        "value": "Eleanor Yu",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.19890804588794708,
+            0.6157618165016174,
+            0.2647286131978035,
+            0.6247213799506426
+        ],
+        "source_file": "votes_fgck0201_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            14,
+            22
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Location",
+        "value": "Woking, Surrey GU21 1YB",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.20495417714118958,
+            0.2669507563114166,
+            0.3523246217519045,
+            0.2781250113621354
+        ],
+        "source_file": "votes_fgck0201_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            15,
+            23
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Organization Name",
+        "value": "BAAT [U.K. and Export] Limited",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.20467810332775116,
+            0.24196866154670715,
+            0.38453759625554085,
+            0.25408334750682116
+        ],
+        "source_file": "votes_fgck0201_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            16,
+            24
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Organization Name",
+        "value": "Export House",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2043973058462143,
+            0.25409623980522156,
+            0.28052856400609016,
+            0.2651861645281315
+        ],
+        "source_file": "votes_fgck0201_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            17,
+            25
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Date",
+        "value": "June 17, 1991",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.20554859936237335,
+            0.18104960024356842,
+            0.279416736215353,
+            0.1912702163681388
+        ],
+        "source_file": "votes_fgck0201_page1.csv"
+    },
+    {
+        "ids": [
+            9
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Date",
+        "value": "July 1st",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.6127371788024902,
+            0.4374922811985016,
+            0.6538897277787328,
+            0.448377656750381
+        ],
+        "source_file": "votes_fgck0201_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            18,
+            26
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Contract Number",
+        "value": "F.02",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6770395040512085,
+            0.12654384970664978,
+            0.7043972089886665,
+            0.13299337355419993
+        ],
+        "source_file": "votes_fgck0201_page1.csv"
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Contract Number",
+        "value": "3002",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.5603833794593811,
+            0.8666504621505737,
+            0.583350345492363,
+            0.873025625012815
+        ],
+        "source_file": "votes_fgck0201_page1.csv"
+    },
+    {
+        "ids": [
+            27
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Contract Number",
+        "value": "3002 Sisiner",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.5603833794593811,
+            0.8666504621505737,
+            0.6227757036685944,
+            0.8731003231368959
+        ],
+        "source_file": "votes_fgck0201_page1.csv"
+    }
+]

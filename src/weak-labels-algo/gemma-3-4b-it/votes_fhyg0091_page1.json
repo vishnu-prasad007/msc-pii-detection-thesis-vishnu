@@ -1,0 +1,364 @@
+[
+    {
+        "ids": [
+            0,
+            10,
+            17,
+            32,
+            45,
+            48
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": [
+            "Organization Name",
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "J. H. Sherrill, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            319,
+            2978,
+            882,
+            3023
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            3,
+            18,
+            26,
+            33,
+            35
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": [
+            "Email Address",
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Mr. R. A. Blevins, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            466,
+            3244,
+            1126,
+            3287
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            4,
+            19,
+            27,
+            34,
+            36
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": [
+            "Email Address",
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Mr. T. P. Haller",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            466,
+            3298,
+            947,
+            3337
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            7,
+            22,
+            24,
+            37,
+            38,
+            41
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": [
+            "Location",
+            "Phone Number"
+        ],
+        "value": "3434",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2381,
+            3183,
+            2416,
+            3295
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": "Phone Number",
+        "value": "x",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            2397,
+            3121,
+            2423,
+            3149
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 0.08718184774678951
+    },
+    {
+        "ids": [
+            8,
+            25,
+            43
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": "Organization Name",
+        "value": "Marketing Research Department",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            314,
+            3033,
+            1186,
+            3080
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 0.9843362849023228
+    },
+    {
+        "ids": [
+            9,
+            29,
+            42,
+            44,
+            47
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": [
+            "Location",
+            "Organization Name",
+            "Contract Number"
+        ],
+        "value": "HS",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            331,
+            2843,
+            482,
+            2976
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            11,
+            28,
+            39,
+            46
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "October 31, 1972",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1386,
+            253,
+            1868,
+            296
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 0.9999684532634993
+    },
+    {
+        "ids": [
+            12
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": "Date",
+        "value": "2-3 weeks",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            751,
+            1320,
+            1016,
+            1358
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 0.029048290087628027
+    },
+    {
+        "ids": [
+            13
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": "Date",
+        "value": "2-3 weeks",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1626,
+            1751,
+            1893,
+            1790
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 0.029048290087628027
+    },
+    {
+        "ids": [
+            14
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": "Date",
+        "value": "late February",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1172,
+            2125,
+            1579,
+            2171
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 0.029048290087628027
+    },
+    {
+        "ids": [
+            15
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": "Date",
+        "value": "January",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            2078,
+            2077,
+            2285,
+            2122
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 0.029048290087628027
+    },
+    {
+        "ids": [
+            16,
+            31,
+            40
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "Mr. Clyde W. Fitzgerald",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            330,
+            411,
+            1020,
+            458
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            20,
+            21
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": "Email Address",
+        "value": "Mr. R. A. Blevins, Jr. 3434 cc :",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            319,
+            3183,
+            2416,
+            3295
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 0.06620864289453628
+    },
+    {
+        "ids": [
+            23,
+            30
+        ],
+        "doc_id": "votes_fhyg0091_page1",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "JHS:pd x",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            318,
+            3121,
+            2423,
+            3186
+        ],
+        "source_file": "votes_fhyg0091_page1.csv",
+        "probability": 0.12024331400962188
+    }
+]

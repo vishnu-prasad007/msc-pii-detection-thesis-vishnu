@@ -1,0 +1,150 @@
+[
+    {
+        "ids": [
+            0,
+            6,
+            11
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Person Name",
+        "value": "W. R\u00f5er",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3911781311035156,
+            0.1442572921514511,
+            0.4564645327627659,
+            0.15303770918399096
+        ],
+        "source_file": "votes_fhkm0113_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            7,
+            12
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Person Name",
+        "value": "J.B. Boder",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3908211886882782,
+            0.15777690708637238,
+            0.48494063317775726,
+            0.1667733872309327
+        ],
+        "source_file": "votes_fhkm0113_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            8,
+            13
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Person Name",
+        "value": "W. R\u00f6er",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6339375972747803,
+            0.6998124122619629,
+            0.6989415101706982,
+            0.708858473226428
+        ],
+        "source_file": "votes_fhkm0113_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            9,
+            14
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Person Name",
+        "value": "E. Grossen",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7822041511535645,
+            0.7414183020591736,
+            0.8773276209831238,
+            0.7504024486988783
+        ],
+        "source_file": "votes_fhkm0113_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            15
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Person Name",
+        "value": "thromen",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.6538735628128052,
+            0.7629485726356506,
+            0.7780879884958267,
+            0.7924102433025837
+        ],
+        "source_file": "votes_fhkm0113_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            10,
+            17
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Date",
+        "value": "28/04/78",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18887127935886383,
+            0.8260781168937683,
+            0.2617533504962921,
+            0.8365522380918264
+        ],
+        "source_file": "votes_fhkm0113_page1.csv"
+    },
+    {
+        "ids": [
+            16
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Date",
+        "value": "April 28, 1978",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.49365851283073425,
+            0.12920616567134857,
+            0.6249196454882622,
+            0.14007759653031826
+        ],
+        "source_file": "votes_fhkm0113_page1.csv"
+    }
+]

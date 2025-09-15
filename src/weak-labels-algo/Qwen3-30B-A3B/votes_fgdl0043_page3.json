@@ -1,0 +1,1288 @@
+[
+    {
+        "ids": [
+            0,
+            55,
+            111
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Person Name",
+        "value": "Mr. Mike Donohue",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            375,
+            362,
+            791,
+            398
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            1,
+            56,
+            112
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Person Name",
+        "value": "Mr. John Feddema",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            376,
+            518,
+            793,
+            552
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            2,
+            57,
+            113
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Person Name",
+        "value": "Mr. John Gearhart",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            376,
+            669,
+            818,
+            703
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            3,
+            58,
+            114
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Person Name",
+        "value": "Mr. Dave Hall",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            376,
+            865,
+            710,
+            898
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            4,
+            59,
+            115
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Person Name",
+        "value": "Mr. Bob Kurschner",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            376,
+            1016,
+            820,
+            1050
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            5,
+            60,
+            116
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Person Name",
+        "value": "Mr. Pat Mattingly",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            377,
+            1168,
+            821,
+            1210
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            6,
+            61,
+            117
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Person Name",
+        "value": "Mr. Glen Shepard",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            378,
+            1360,
+            795,
+            1402
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            7,
+            62,
+            118
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Person Name",
+        "value": "Mr. Steve Sneegas",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            378,
+            1516,
+            819,
+            1555
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            8,
+            63,
+            119
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Person Name",
+        "value": "Mr. John Sowell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            379,
+            1668,
+            765,
+            1701
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            9,
+            64,
+            120
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Person Name",
+        "value": "Mr. Bill Walsh",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            380,
+            1820,
+            743,
+            1855
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            10,
+            65,
+            121
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Person Name",
+        "value": "Mr. Don Phelps",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            381,
+            2131,
+            743,
+            2171
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            11,
+            66,
+            122
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Phone Number",
+        "value": "916/348-7224",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1929,
+            367,
+            2235,
+            403
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9999515951349895
+    },
+    {
+        "ids": [
+            12,
+            67,
+            123
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Phone Number",
+        "value": "408/492-1276",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1929,
+            524,
+            2236,
+            561
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9999515951349895
+    },
+    {
+        "ids": [
+            13,
+            68,
+            124
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Phone Number",
+        "value": "415/964-4555",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1931,
+            674,
+            2237,
+            709
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9999515951349895
+    },
+    {
+        "ids": [
+            14,
+            69,
+            125
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Phone Number",
+        "value": "213/747-9326",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1931,
+            868,
+            2235,
+            904
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9999515951349895
+    },
+    {
+        "ids": [
+            15,
+            70,
+            126
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Phone Number",
+        "value": "800/999-2377",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1933,
+            1019,
+            2237,
+            1055
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9999515951349895
+    },
+    {
+        "ids": [
+            16,
+            71,
+            127
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Phone Number",
+        "value": "213/692-3059",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1933,
+            1171,
+            2239,
+            1208
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9999515951349895
+    },
+    {
+        "ids": [
+            17,
+            72,
+            128
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Phone Number",
+        "value": "714/975-1108",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1934,
+            1362,
+            2237,
+            1400
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9999515951349895
+    },
+    {
+        "ids": [
+            18,
+            73,
+            129
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Phone Number",
+        "value": "714/371-8500",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1932,
+            1515,
+            2239,
+            1553
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9999515951349895
+    },
+    {
+        "ids": [
+            19,
+            74,
+            130
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Phone Number",
+        "value": "619/724-3286",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1935,
+            1669,
+            2240,
+            1707
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9999515951349895
+    },
+    {
+        "ids": [
+            20,
+            75,
+            131
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Phone Number",
+        "value": "714/777-9200",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1932,
+            1821,
+            2238,
+            1859
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9999515951349895
+    },
+    {
+        "ids": [
+            21,
+            76,
+            132
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Phone Number",
+        "value": "213/944-5766",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1932,
+            2129,
+            2240,
+            2167
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9999515951349895
+    },
+    {
+        "ids": [
+            22,
+            77,
+            133
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Location",
+        "value": "4059 Palm Avenue",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1027,
+            403,
+            1438,
+            435
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9995031197982197
+    },
+    {
+        "ids": [
+            23,
+            78,
+            134
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Location",
+        "value": "Sacramento, CA 95342",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1027,
+            442,
+            1564,
+            479
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9995031197982197
+    },
+    {
+        "ids": [
+            24,
+            79,
+            135
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Location",
+        "value": "481 Laurelwood Road",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1027,
+            559,
+            1517,
+            591
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9995031197982197
+    },
+    {
+        "ids": [
+            25,
+            80,
+            136
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Location",
+        "value": "Santa Clara, CA 95054-2416",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1026,
+            596,
+            1724,
+            632
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9995031197982197
+    },
+    {
+        "ids": [
+            26,
+            81,
+            137
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Location",
+        "value": "110 Pioneer Way",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1028,
+            709,
+            1414,
+            750
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9995031197982197
+    },
+    {
+        "ids": [
+            27,
+            82,
+            138
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Location",
+        "value": "Mountain View, CA 94041",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1024,
+            788,
+            1644,
+            827
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9995031197982197
+    },
+    {
+        "ids": [
+            28,
+            83,
+            139
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Location",
+        "value": "1433 West Pico Boulevard",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1028,
+            905,
+            1645,
+            936
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9995031197982197
+    },
+    {
+        "ids": [
+            29,
+            84,
+            140
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Location",
+        "value": "Los Angeles, CA 90015",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1025,
+            943,
+            1593,
+            980
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9995031197982197
+    },
+    {
+        "ids": [
+            30,
+            85,
+            141
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Location",
+        "value": "P.O. Box 219",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1027,
+            1057,
+            1334,
+            1088
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9995031197982197
+    },
+    {
+        "ids": [
+            31,
+            86,
+            142
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Location",
+        "value": "Walnut, CA 91739",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1026,
+            1094,
+            1463,
+            1130
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9995031197982197
+    },
+    {
+        "ids": [
+            32,
+            87,
+            143
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Location",
+        "value": "11618 E. Washington Boulevard",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1029,
+            1206,
+            1776,
+            1246
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9995031197982197
+    },
+    {
+        "ids": [
+            33,
+            88,
+            144
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Location",
+        "value": "Whittier, CA 90606",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1026,
+            1284,
+            1517,
+            1324
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9995031197982197
+    },
+    {
+        "ids": [
+            34,
+            90,
+            146
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Location",
+        "value": "Irvine, CA 92714",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1029,
+            1438,
+            1465,
+            1475
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9995031197982197
+    },
+    {
+        "ids": [
+            35,
+            91,
+            147
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Location",
+        "value": "2430 Railroad Street",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1029,
+            1553,
+            1544,
+            1586
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9995031197982197
+    },
+    {
+        "ids": [
+            36,
+            92,
+            148
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Location",
+        "value": "Corona, CA 91720",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1028,
+            1592,
+            1466,
+            1629
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9995031197982197
+    },
+    {
+        "ids": [
+            37,
+            93,
+            149
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Location",
+        "value": "511 Olive Avenue",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1029,
+            1706,
+            1442,
+            1738
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9995031197982197
+    },
+    {
+        "ids": [
+            38,
+            94,
+            150
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Location",
+        "value": "Vista, CA 92083",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1028,
+            1746,
+            1439,
+            1782
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9995031197982197
+    },
+    {
+        "ids": [
+            39,
+            95,
+            151
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Location",
+        "value": "1275 North Manassero Street",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1031,
+            1860,
+            1727,
+            1891
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9995031197982197
+    },
+    {
+        "ids": [
+            40,
+            96,
+            152
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Location",
+        "value": "Anaheim, CA 92807-1934",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1029,
+            1898,
+            1619,
+            1936
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9995031197982197
+    },
+    {
+        "ids": [
+            41,
+            97,
+            153
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Location",
+        "value": "11307 Shoemaker Avenue",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1031,
+            2169,
+            1598,
+            2201
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9995031197982197
+    },
+    {
+        "ids": [
+            42,
+            98,
+            154
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Location",
+        "value": "Santa Fe Springs, CA 90670",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1031,
+            2207,
+            1726,
+            2246
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9995031197982197
+    },
+    {
+        "ids": [
+            43,
+            99,
+            155
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Organization Name",
+        "value": "DIVERSE FOOD SYSTEMS",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1024,
+            365,
+            1541,
+            396
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.997746690646689
+    },
+    {
+        "ids": [
+            44,
+            100,
+            156
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Organization Name",
+        "value": "MARRIOTT CORPORATION",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1023,
+            520,
+            1545,
+            553
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.997746690646689
+    },
+    {
+        "ids": [
+            45,
+            101,
+            157
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Organization Name",
+        "value": "PERRY VENDING SERVICE",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1025,
+            672,
+            1569,
+            702
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.997746690646689
+    },
+    {
+        "ids": [
+            46,
+            102,
+            158
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Organization Name",
+        "value": "ROWE INTERNATIONAL, INC.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1024,
+            867,
+            1639,
+            901
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.997746690646689
+    },
+    {
+        "ids": [
+            47,
+            103,
+            159
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Organization Name",
+        "value": "IMPERIAL CUP CORPORATION",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1028,
+            1019,
+            1648,
+            1049
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.997746690646689
+    },
+    {
+        "ids": [
+            48,
+            104,
+            160
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Organization Name",
+        "value": "COIN ACCEPTORS, INC.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1026,
+            1171,
+            1536,
+            1206
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.997746690646689
+    },
+    {
+        "ids": [
+            49,
+            105,
+            161
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Organization Name",
+        "value": "COINSERVCO",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1026,
+            1363,
+            1288,
+            1393
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.997746690646689
+    },
+    {
+        "ids": [
+            50,
+            106,
+            162
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Organization Name",
+        "value": "FASNACK A.F.S., INC.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1028,
+            1515,
+            1538,
+            1549
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.997746690646689
+    },
+    {
+        "ids": [
+            51,
+            107,
+            163
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Organization Name",
+        "value": "NORTH COUNTY VENDING",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1027,
+            1668,
+            1545,
+            1700
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.997746690646689
+    },
+    {
+        "ids": [
+            52,
+            108,
+            164
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Organization Name",
+        "value": "CONTINENTAL VENDING, INC.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1027,
+            1822,
+            1667,
+            1857
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.997746690646689
+    },
+    {
+        "ids": [
+            53,
+            109,
+            165
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Organization Name",
+        "value": "FOOD SYSTEMS, INC.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1030,
+            2130,
+            1487,
+            2165
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.997746690646689
+    },
+    {
+        "ids": [
+            54,
+            110,
+            166
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Contract Number",
+        "value": "TCAL0303870",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1748,
+            2809,
+            2051,
+            2847
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.9885223957628627
+    },
+    {
+        "ids": [
+            89,
+            145
+        ],
+        "doc_id": "votes_fgdl0043_page3",
+        "pii_type": "Location",
+        "value": "31 Monte Carlo",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1029,
+            1400,
+            1388,
+            1432
+        ],
+        "source_file": "votes_fgdl0043_page3.csv",
+        "probability": 0.8932381832378042
+    }
+]

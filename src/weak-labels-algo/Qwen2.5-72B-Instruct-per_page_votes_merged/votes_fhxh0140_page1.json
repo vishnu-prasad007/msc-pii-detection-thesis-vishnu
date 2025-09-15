@@ -1,0 +1,92 @@
+[
+    {
+        "ids": [
+            0,
+            4,
+            8
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Organization Name",
+        "value": "U.S. Army",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4557933807373047,
+            0.11092761158943176,
+            0.5595950558781624,
+            0.12212115433067083
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            5,
+            9
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Organization Name",
+        "value": "Department of Defense",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.35350674390792847,
+            0.3336351215839386,
+            0.6064433678984642,
+            0.3478387799113989
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            6,
+            10
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": "Organization Name",
+        "value": "Defense Department",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5859826803207397,
+            0.5688664317131042,
+            0.7929728850722313,
+            0.5819131843745708
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            7,
+            11
+        ],
+        "doc_id": "votes_fhxh0140_page1",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "TIMN 353405",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.7352181673049927,
+            0.9320210218429565,
+            0.915548786520958,
+            0.9522014763206244
+        ],
+        "source_file": "votes_fhxh0140_page1.csv"
+    }
+]

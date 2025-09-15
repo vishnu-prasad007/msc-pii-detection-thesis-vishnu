@@ -1,0 +1,147 @@
+[
+    {
+        "ids": [
+            0,
+            4,
+            7,
+            10,
+            13,
+            17
+        ],
+        "doc_id": "votes_fhbd0057_page2",
+        "pii_type": [
+            "Location",
+            "Person Name",
+            "Email Address"
+        ],
+        "value": "Isabelle Delage",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            165,
+            324,
+            403,
+            350
+        ],
+        "source_file": "votes_fhbd0057_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            5,
+            14
+        ],
+        "doc_id": "votes_fhbd0057_page2",
+        "pii_type": "Person Name",
+        "value": "Isabelle D.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            108,
+            493,
+            276,
+            516
+        ],
+        "source_file": "votes_fhbd0057_page2.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            2,
+            6,
+            15
+        ],
+        "doc_id": "votes_fhbd0057_page2",
+        "pii_type": "Person Name",
+        "value": "Diane L.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            249,
+            691,
+            371,
+            710
+        ],
+        "source_file": "votes_fhbd0057_page2.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            3,
+            12,
+            19
+        ],
+        "doc_id": "votes_fhbd0057_page2",
+        "pii_type": "Contract Number",
+        "value": "CAN/22",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            311,
+            377,
+            405,
+            401
+        ],
+        "source_file": "votes_fhbd0057_page2.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            8,
+            9,
+            16
+        ],
+        "doc_id": "votes_fhbd0057_page2",
+        "pii_type": [
+            "Phone Number",
+            "Location"
+        ],
+        "value": "2085785372",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1203,
+            292,
+            1412,
+            332
+        ],
+        "source_file": "votes_fhbd0057_page2.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            11,
+            18
+        ],
+        "doc_id": "votes_fhbd0057_page2",
+        "pii_type": "Location",
+        "value": "http://industrydocuments.library.ucsf.edu/tobacco/docs/fhbd0057",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            426,
+            2249,
+            1432,
+            2285
+        ],
+        "source_file": "votes_fhbd0057_page2.csv",
+        "probability": 0.6496131543550141
+    }
+]

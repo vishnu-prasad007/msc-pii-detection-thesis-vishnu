@@ -1,0 +1,2177 @@
+[
+  {
+    "ids": [
+      0,
+      91
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Person Name",
+    "value": "Nina For PA",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      424,
+      97,
+      487,
+      105
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      1,
+      44,
+      92
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Person Name",
+    "value": "Nicole Elie",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      628,
+      202,
+      680,
+      210
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      2,
+      45,
+      93
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Phone Number",
+    "value": "(215) 977-1900",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      164,
+      97,
+      259,
+      108
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      3
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Location",
+    "value": "1555 Hamilton St",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      165,
+      71,
+      276,
+      81
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      4,
+      5,
+      95
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Location",
+    "value": "Philadelphia, PA 19147-2740",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      124,
+      203,
+      294,
+      214
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      6,
+      47,
+      96
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "KYW-TV",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      165,
+      59,
+      219,
+      68
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      7,
+      48,
+      98
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "Dudley Media",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      124,
+      181,
+      203,
+      191
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      8,
+      49,
+      97
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "KYW-TV",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      558,
+      202,
+      601,
+      210
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      9,
+      52,
+      102
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/26/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      650,
+      20,
+      694,
+      28
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      10,
+      53,
+      103
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/21/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      674,
+      97,
+      717,
+      105
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      11,
+      54,
+      104
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/22/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      747,
+      97,
+      790,
+      105
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      12,
+      55,
+      105
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/23/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      423,
+      123,
+      469,
+      131
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      13,
+      56,
+      106
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/26/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      475,
+      123,
+      519,
+      131
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      14,
+      107
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/23/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      97,
+      380,
+      141,
+      388
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      15,
+      108
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/26/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      155,
+      380,
+      199,
+      388
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      16,
+      57,
+      109
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/23/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      71,
+      412,
+      114,
+      420
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      17,
+      58,
+      110
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/29/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      135,
+      412,
+      179,
+      420
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      18,
+      59,
+      111
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/23/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      97,
+      426,
+      141,
+      434
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      19,
+      60,
+      112
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/26/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      155,
+      426,
+      198,
+      434
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      20,
+      63,
+      115
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/23/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      97,
+      473,
+      141,
+      480
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      21,
+      64,
+      116
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/26/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      155,
+      473,
+      198,
+      480
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      22,
+      65,
+      117
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/23/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      71,
+      504,
+      114,
+      512
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      23,
+      66,
+      118
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/29/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      135,
+      504,
+      179,
+      512
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      24,
+      67,
+      119
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/23/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      97,
+      518,
+      141,
+      526
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      25,
+      68,
+      120
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/26/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      155,
+      518,
+      198,
+      526
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      26,
+      69,
+      121
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/23/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      71,
+      550,
+      114,
+      558
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      27,
+      70,
+      122
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/29/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      135,
+      550,
+      179,
+      558
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      28,
+      71,
+      123
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/23/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      97,
+      565,
+      141,
+      573
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      29,
+      72,
+      124
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/26/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      155,
+      565,
+      198,
+      573
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      30,
+      73,
+      125
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/23/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      71,
+      597,
+      114,
+      605
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      31,
+      74,
+      126
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/29/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      135,
+      597,
+      179,
+      605
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      32,
+      75,
+      127
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/23/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      97,
+      611,
+      141,
+      619
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      33,
+      76,
+      128
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/26/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      155,
+      611,
+      198,
+      619
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      34,
+      77,
+      129
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/23/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      71,
+      643,
+      114,
+      651
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      35,
+      78,
+      130
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/29/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      135,
+      643,
+      179,
+      651
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      36,
+      79,
+      131
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/23/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      97,
+      657,
+      141,
+      665
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      37,
+      80,
+      132
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/26/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      155,
+      657,
+      199,
+      665
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      38,
+      83,
+      135
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/23/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      97,
+      703,
+      141,
+      711
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      39,
+      84,
+      136
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/26/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      155,
+      703,
+      198,
+      711
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      40,
+      85,
+      137
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/23/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      71,
+      735,
+      114,
+      743
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      41,
+      86,
+      138
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/29/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      135,
+      735,
+      179,
+      743
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      42,
+      88
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": [
+      "Contract Number",
+      "Invoice Number"
+    ],
+    "value": "302226",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      572,
+      70,
+      609,
+      78
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      43,
+      90
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": [
+      "Contract Number",
+      "Invoice Number"
+    ],
+    "value": "508223",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      682,
+      333,
+      720,
+      341
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      46,
+      94
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Location",
+    "value": "Philadelphia, PA 19130",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      165,
+      84,
+      318,
+      96
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      50,
+      99
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "CBS",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      264,
+      799,
+      282,
+      805
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      51,
+      101
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "WideOrbit",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      772,
+      822,
+      811,
+      829
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      61,
+      113
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/23/20",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      71,
+      458,
+      114,
+      466
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      62,
+      114
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/29/20",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      135,
+      458,
+      179,
+      466
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      81,
+      133
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/23/20",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      71,
+      689,
+      114,
+      697
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      82,
+      134
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Date",
+    "value": "05/29/20",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      135,
+      689,
+      179,
+      697
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      87
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "03",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      28,
+      48,
+      155,
+      103
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      89
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Invoice Number",
+    "value": "102377",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      558,
+      333,
+      595,
+      341
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      100
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "KYW",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      62,
+      380,
+      87,
+      388
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      139
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Contract Agreement Between: Print Date 05/26/20 Page 1 of 5",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      24,
+      20,
+      803,
+      29
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      140
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Contract / Revision Alt Order #",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      558,
+      57,
+      734,
+      65
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      141
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "03 1555 Hamilton St 302226 /",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      28,
+      48,
+      632,
+      103
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      142
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Philadelphia, PA 19130 Advertiser Original Date / Revision",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      165,
+      84,
+      780,
+      96
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      143
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "(215) 977-1900 Nina For PA 05/21/20 / 05/22/20",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      164,
+      97,
+      790,
+      108
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      144
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Contract Dates Estimate #",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      423,
+      110,
+      611,
+      118
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      145
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "05/23/20 05/26/20",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      423,
+      123,
+      519,
+      131
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      146
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Product",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      424,
+      137,
+      463,
+      145
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      147
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "D - PA AUDITOR JUDGE",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      422,
+      150,
+      549,
+      158
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      148
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Billing Cycle Billing Calendar Cash/Trade",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      558,
+      163,
+      794,
+      173
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      149
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Dudley Media EOM/EOC Broadcast Cash",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      124,
+      176,
+      762,
+      191
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      150
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "919 Catharine St Property Account Executive Sales Office",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      123,
+      189,
+      795,
+      201
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      151
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Philadelphia, PA 19147-2740 KYW-TV Nicole Elie CTS-POL",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      124,
+      202,
+      784,
+      214
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      152
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "US Special Handling",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      124,
+      215,
+      640,
+      225
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      153
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Demographic",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      558,
+      242,
+      624,
+      251
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      154
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Households",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      558,
+      255,
+      616,
+      262
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      155
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Agy Code Advertiser Code Product 1/2",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      557,
+      294,
+      792,
+      304
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      156
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Agency Ref Advertiser Ref",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      557,
+      320,
+      733,
+      330
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      157
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "102377 508223",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      558,
+      333,
+      720,
+      341
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      158
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Start/End Spots/",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      357,
+      354,
+      587,
+      364
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      159
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "*Line Ch Start Date End Date Description Time Days Length Week Rate Type Spots Amount",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      28,
+      365,
+      810,
+      376
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      160
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "N 1 KYW 05/23/20 05/26/20 Eyewitness News @ 5a 458a-6a :15/:15 BK 1 $275.00",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      25,
+      380,
+      814,
+      390
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      161
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "LUR",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      61,
+      393,
+      84,
+      401
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      162
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Start Date End Date Weekdays Spots/Week Rate",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      71,
+      402,
+      415,
+      412
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      163
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Week: 05/23/20 05/29/20 -T----- 1 $275.00",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      34,
+      412,
+      415,
+      421
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      164
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "N 2 KYW 05/23/20 05/26/20 Eyewitness News @ 6a 557a-7a :15/:15 BK 1 $325.00",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      25,
+      426,
+      813,
+      436
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      165
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "LUR",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      62,
+      439,
+      84,
+      447
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      166
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Start Date End Date Weekdays Spots/Week Rate",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      71,
+      448,
+      415,
+      458
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      167
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Week: 05/23/20 05/29/20 -T- 1 $325.00",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      34,
+      458,
+      414,
+      467
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      168
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "N 3 KYW 05/23/20 05/26/20 CBS This Morning 658a-9a :15/:15 BK 2 $750.00",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      25,
+      472,
+      813,
+      482
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      169
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "LUR",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      62,
+      485,
+      84,
+      493
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      170
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Start Date End Date Weekdays Spots/Week Rate",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      71,
+      495,
+      415,
+      504
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      171
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Week: 05/23/20 05/29/20 -T----- 2 $375.00",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      34,
+      504,
+      415,
+      513
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      172
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "N 4 KYW 05/23/20 05/26/20 Price is Right 1058a-12n :15/:15 BK 1 $650.00",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      25,
+      518,
+      813,
+      528
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      173
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "LUR",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      62,
+      531,
+      84,
+      539
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      174
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Start Date End Date Weekdays Spots/Week Rate",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      71,
+      541,
+      415,
+      550
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      175
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Week: 05/23/20 05/29/20 T- 1 $650.00",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      34,
+      550,
+      415,
+      559
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      176
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "N 5 KYW 05/23/20 05/26/20 Eyewitness News 12n 1158a-1230p :15/:15 BK 1 $550.00",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      25,
+      564,
+      813,
+      574
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      177
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "LUR",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      61,
+      577,
+      84,
+      585
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      178
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Start Date End Date Weekdays Spots/Week Rate",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      71,
+      587,
+      415,
+      596
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      179
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Week: 05/23/20 05/29/20 1 $550.00",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      34,
+      596,
+      415,
+      605
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      180
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "N 6 KYW 05/23/20 05/26/20 The Talk 158p-3p :15/:15 BK 1 $450.00",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      25,
+      610,
+      813,
+      620
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      181
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "LUR",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      62,
+      624,
+      84,
+      631
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      182
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Start Date End Date Weekdays Spots/Week Rate",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      71,
+      633,
+      415,
+      642
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      183
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Week: 05/23/20 05/29/20 1 $450.00",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      34,
+      642,
+      415,
+      651
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      184
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "N 7 KYW 05/23/20 05/26/20 Eyewitness News @ 4p 358p-5 :15/:15 BK 1 $450.00",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      25,
+      656,
+      813,
+      666
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      185
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "LUR",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      62,
+      670,
+      84,
+      678
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      186
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Start Date End Date Weekdays Spots/Week Rate",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      71,
+      679,
+      415,
+      688
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      187
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Week: 05/23/20 05/29/20 1 $450.00",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      34,
+      688,
+      415,
+      697
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      188
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "N 8 KYW 05/23/20 05/26/20 Eyewitness News @ 5p 458p-6p :15/:15 BK 1 $450.00",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      25,
+      703,
+      813,
+      712
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      189
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "LUR",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      61,
+      716,
+      84,
+      724
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      190
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Start Date End Date Weekdays Spots/Week Rate",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      71,
+      725,
+      415,
+      735
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      191
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Week: 05/23/20 05/29/20 1 $450.00",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      34,
+      734,
+      415,
+      743
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      192
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "(* Line Transactions: N = New, E = Edited, D = Deleted)",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      282,
+      774,
+      556,
+      784
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      193
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "Less Agency commission of 15% Except on Non-Commissionable Amounts. Conditions on the reverse of this page and any attachment hereto are an integral part of this Agreement. If this contract is with an Advertiser, references to Agency apply to Advertiser, except no commission will be allowed an Advertiser.",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      42,
+      784,
+      781,
+      799
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      194
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "The CBS cancellation policy for Advertisers is four weeks prior to the a spot being cancelled",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      247,
+      799,
+      583,
+      807
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      195
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "powered by WideOrbit",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      728,
+      822,
+      811,
+      830
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      196
+    ],
+    "doc_id": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1",
+    "pii_type": "Invoice Number",
+    "value": "3",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      44,
+      473,
+      51,
+      480
+    ],
+    "source_file": "votes_f21fcdd1-214c-c145-29cc-362e0b0ef1e3.pdf_page1.csv"
+  }
+]

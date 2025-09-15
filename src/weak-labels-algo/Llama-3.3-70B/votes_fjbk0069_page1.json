@@ -1,0 +1,470 @@
+[
+    {
+        "ids": [
+            0,
+            16,
+            36
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Person Name",
+        "value": "Lee Stitzenberger",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            416,
+            644,
+            748,
+            675
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9997390584202765
+    },
+    {
+        "ids": [
+            1,
+            17,
+            37
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Person Name",
+        "value": "Jim Pontarelli",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            416,
+            677,
+            686,
+            703
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9997390584202765
+    },
+    {
+        "ids": [
+            2,
+            18,
+            38
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Person Name",
+        "value": "Chip Nielsen",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            418,
+            741,
+            652,
+            772
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9997390584202765
+    },
+    {
+        "ids": [
+            3,
+            19,
+            39
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Phone Number",
+        "value": "(916) 446-6752",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            341,
+            455,
+            459,
+            470
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9999978866788498
+    },
+    {
+        "ids": [
+            4,
+            5,
+            20,
+            21,
+            40,
+            41
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Phone Number",
+        "value": "(415) 389-6800",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            855,
+            444,
+            1000,
+            462
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9999978866788498
+    },
+    {
+        "ids": [
+            6
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Location",
+        "value": "591 REDWOOD HIGHWAY, #4000 SAN FRANCISCO",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            691,
+            370,
+            1442,
+            394
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.016337611536053582
+    },
+    {
+        "ids": [
+            7,
+            29,
+            49
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Location",
+        "value": "770 L STREET, SUITE 800 MILL VALLEY, CALIFORNIA 94941 SAN FRANCISCO, CALIFORNIA 94108 650 CALIFORNIA STREET, SUITE 2650",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            233,
+            409,
+            1536,
+            449
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9978305293961849
+    },
+    {
+        "ids": [
+            8,
+            27,
+            47
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Location",
+        "value": "SACRAMENTO, CALIFORNIA 95814",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            187,
+            434,
+            496,
+            451
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9978305293961849
+    },
+    {
+        "ids": [
+            9,
+            50
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Location",
+        "value": "MARIN COUNTY Marin County",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            979,
+            1256,
+            1214,
+            1284
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.8663276207379208
+    },
+    {
+        "ids": [
+            10,
+            30,
+            51
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Organization Name",
+        "value": "LAW OFFICES OF",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            780,
+            252,
+            936,
+            269
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9930561197603293
+    },
+    {
+        "ids": [
+            11,
+            31,
+            52
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Organization Name",
+        "value": "NIELSEN, MERKSAMER,",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            668,
+            280,
+            1049,
+            305
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9930561197603293
+    },
+    {
+        "ids": [
+            12,
+            32,
+            53
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Organization Name",
+        "value": "PARRINELLO, MUELLER & NAYLOR",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            577,
+            311,
+            1142,
+            336
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9930561197603293
+    },
+    {
+        "ids": [
+            13,
+            33,
+            54
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Organization Name",
+        "value": "Californians for Statewide Smoking",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            227,
+            966,
+            1206,
+            995
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9930561197603293
+    },
+    {
+        "ids": [
+            14,
+            34,
+            56
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Date",
+        "value": "September 27, 1995",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            678,
+            518,
+            1024,
+            545
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9998803392147021
+    },
+    {
+        "ids": [
+            15,
+            35,
+            57
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Contract Number",
+        "value": "6797.01",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            233,
+            1807,
+            364,
+            1830
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9625082861620624
+    },
+    {
+        "ids": [
+            22,
+            23,
+            42,
+            43
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Phone Number",
+        "value": "(415) 388-6874",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            1328,
+            493,
+            1442,
+            510
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9988605308099171
+    },
+    {
+        "ids": [
+            24,
+            44
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Location",
+        "value": "591 REDWOOD HIGHWAY, #4000",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            691,
+            375,
+            1028,
+            394
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9170722955107813
+    },
+    {
+        "ids": [
+            25,
+            45
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Location",
+        "value": "770 L STREET, SUITE 800",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            233,
+            413,
+            451,
+            430
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9170722955107813
+    },
+    {
+        "ids": [
+            26,
+            46
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Location",
+        "value": "650 CALIFORNIA STREET, SUITE 2650",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            285,
+            409,
+            1536,
+            430
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9170722955107813
+    },
+    {
+        "ids": [
+            28,
+            48
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Location",
+        "value": "MILL VALLEY, CALIFORNIA 94941",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            680,
+            409,
+            1038,
+            429
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.9170722955107813
+    },
+    {
+        "ids": [
+            55
+        ],
+        "doc_id": "votes_fjbk0069_page1",
+        "pii_type": "Organization Name",
+        "value": "Proposition 188 Committee",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            594,
+            803,
+            1077,
+            835
+        ],
+        "source_file": "votes_fjbk0069_page1.csv",
+        "probability": 0.029892773673884453
+    }
+]

@@ -1,0 +1,258 @@
+[
+    {
+        "ids": [
+            0,
+            8,
+            19
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Person Name",
+        "value": "Timothy M. Finnegan, Esq.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            527,
+            292,
+            1339,
+            365
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            1,
+            9,
+            20,
+            25
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "Hirsch",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2748,
+            639,
+            2948,
+            696
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            11,
+            22
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Person Name",
+        "value": "Max Crohn, Esq.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            683,
+            2616,
+            1162,
+            2684
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            3,
+            12,
+            23
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Person Name",
+        "value": "Dr. Charles Nystrom",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            720,
+            2765,
+            1367,
+            2828
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.9999208111536538
+    },
+    {
+        "ids": [
+            4,
+            10,
+            21,
+            26
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "Frank G. Colby",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1898,
+            2212,
+            2354,
+            2285
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            16,
+            28
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Organization Name",
+        "value": "RJRT",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1404,
+            2758,
+            1535,
+            2814
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.9975340744639603
+    },
+    {
+        "ids": [
+            6,
+            14,
+            17,
+            24,
+            29
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "June 23, 1983",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2486,
+            301,
+            2916,
+            367
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.9999987397789659
+    },
+    {
+        "ids": [
+            7,
+            18,
+            31
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Contract Number",
+        "value": "COURT ORDER #1015",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1737,
+            4386,
+            2145,
+            4427
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            13
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Person Name",
+        "value": "Hirsch",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1995,
+            1445,
+            2195,
+            1502
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.017377940404673362
+    },
+    {
+        "ids": [
+            15,
+            27
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Location",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fgwk0174",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            942,
+            4596,
+            2588,
+            4666
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.6496131543550141
+    },
+    {
+        "ids": [
+            30
+        ],
+        "doc_id": "votes_fgwk0174_page4",
+        "pii_type": "Contract Number",
+        "value": "CIVIL ACTION NO. 99-CV-2496",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            2154,
+            4385,
+            2688,
+            4423
+        ],
+        "source_file": "votes_fgwk0174_page4.csv",
+        "probability": 0.03864965855267409
+    }
+]

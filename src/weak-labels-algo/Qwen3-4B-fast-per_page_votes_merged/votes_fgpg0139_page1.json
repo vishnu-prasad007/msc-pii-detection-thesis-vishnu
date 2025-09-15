@@ -1,0 +1,874 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            26
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. R. D. Chumney, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.14949116110801697,
+            0.13266420364379883,
+            0.3921652939170599,
+            0.14602317195385695
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            27
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Person Name",
+        "value": "J. E. Mann",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.1506054550409317,
+            0.17478275299072266,
+            0.26245715469121933,
+            0.18553844932466745
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            28
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Person Name",
+        "value": "D. E. Cawthon",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.1834913194179535,
+            0.17453180253505707,
+            0.4617210403084755,
+            0.1854831576347351
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            8,
+            29
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Location",
+        "value": "Reidsville",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.48178523778915405,
+            0.5640442967414856,
+            0.5925891250371933,
+            0.574928330257535
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            13
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Organization Name",
+        "value": "MALIBU Export",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.3264964818954468,
+            0.676131010055542,
+            0.4719851016998291,
+            0.6891593253239989
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            14,
+            30
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Organization Name",
+        "value": "PT Bukit Muria Jaya",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.32815995812416077,
+            0.7040069699287415,
+            0.5374738126993179,
+            0.7171366401016712
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            15
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Date",
+        "value": "May 13, 1993",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.7256635427474976,
+            0.13296984136104584,
+            0.8585539422929287,
+            0.1462342357262969
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            9
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Organization Name",
+        "value": "PALL MALL",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.18663571774959564,
+            0.4111202359199524,
+            0.29619958251714706,
+            0.42379556968808174
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Organization Name",
+        "value": "PALL MALL",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.5042984485626221,
+            0.5502611398696899,
+            0.6052110344171524,
+            0.560954469256103
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Organization Name",
+        "value": "PALL MALL",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.6371966004371643,
+            0.564495325088501,
+            0.738185491412878,
+            0.5749293956905603
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            12
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Organization Name",
+        "value": "MALIBU",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.3604206442832947,
+            0.35512763261795044,
+            0.4283033311367035,
+            0.36563100945204496
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            16,
+            32
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "CONFIDENTIAL",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.7258287072181702,
+            0.10453180968761444,
+            0.8602274805307388,
+            0.1154082641005516
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            17,
+            31,
+            33
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": [
+            "Contract Number",
+            "Date"
+        ],
+        "value": "Mr. R. D. Chumney, Jr. May 13, 1993",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.14949116110801697,
+            0.13266420364379883,
+            0.8585539422929287,
+            0.1462342357262969
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            18,
+            34
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "J. E. Mann and D. E. Cawthon",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.1506054550409317,
+            0.17442557215690613,
+            0.4617210403084755,
+            0.18553844932466745
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            19,
+            35
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "Weekly Report - Product Development",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.15009641647338867,
+            0.21614955365657806,
+            0.5383113324642181,
+            0.22915161028504372
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            20,
+            42
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "Burn Regulation",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.11674658954143524,
+            0.38257381319999695,
+            0.2843564823269844,
+            0.39465564116835594
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            21,
+            49
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "Spray Casing",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.11714556068181992,
+            0.535695493221283,
+            0.25042666494846344,
+            0.5484827272593975
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            22,
+            54
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "cigt. Paper Evaluation",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.11648296564817429,
+            0.6197629570960999,
+            0.3618948310613632,
+            0.6333216316998005
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            23,
+            64
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "omd",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.1165890097618103,
+            0.8303679823875427,
+            0.15019583329558372,
+            0.8415565406903625
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            24,
+            65
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "CC: RSS, DRB, JFA, BFP, JGB, JEM",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.11668533086776733,
+            0.8585283160209656,
+            0.48337241634726524,
+            0.8715605661273003
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            25,
+            66
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "Source: https://www.industrydocuments.ucsf.edu/docs/fgpg0139",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.20399808883666992,
+            0.9799743890762329,
+            0.7992190718650818,
+            0.9974376857280731
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            36
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "Short Cigarettes",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.11686736345291138,
+            0.2576337456703186,
+            0.2954932227730751,
+            0.269897885620594
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            37
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "Several Full Flavor models made to the new configuration - 69 mm",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.1173664927482605,
+            0.27094441652297974,
+            0.826743395999074,
+            0.2847220450639725
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            38
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "length with 15 mm filter and 21 mm overwrap are delivering",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.11769962310791016,
+            0.2848966121673584,
+            0.760545440018177,
+            0.2988449763506651
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            39
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "approximately 14 mg \"tar\" and about 1.8 mg/puff.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.1175064966082573,
+            0.29896509647369385,
+            0.6458345726132393,
+            0.3122585555538535
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            40
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "In addition a Lights version gave 9.95 mg \"tar\" with 1.3 mg/puff.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.11726317554712296,
+            0.3262231945991516,
+            0.8343564420938492,
+            0.3404033463448286
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            41
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "All of the above have MALIBU Lights blend.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.11614605784416199,
+            0.3542760908603668,
+            0.5787613391876221,
+            0.3680069660767913
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            43
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "84 mm x 24.8 mm non-filtered cigarettes were made with TC-204RA",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.1178237721323967,
+            0.39617252349853516,
+            0.8159930258989334,
+            0.4100213721394539
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            44
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "blend (PALL MALL Famous w/7.65% KC1 as follows:",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.11624034494161606,
+            0.4109030067920685,
+            0.6330109313130379,
+            0.4241772461682558
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            45
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "Code Cigt. Paper",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.27268311381340027,
+            0.4382217526435852,
+            0.5713486187160015,
+            0.45127065666019917
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            46
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "BR-252 878",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.2619473934173584,
+            0.4669131338596344,
+            0.5259449891746044,
+            0.4772572908550501
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            47
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "BR-253 523",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.26096460223197937,
+            0.4808902144432068,
+            0.5256070494651794,
+            0.4911571005359292
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            48
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "These are undergoing analyses and usual burn tests.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.11615804582834244,
+            0.5075837969779968,
+            0.6787305101752281,
+            0.5211065020412207
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            50
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "Sixty cartons each of unmonogramed PALL MALL Famous Control and Test",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.11726818233728409,
+            0.550059974193573,
+            0.8691614307463169,
+            0.5633917534723878
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            51
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "(spray cased) cigarettes made in Reidsville to PALL MALL Famous",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.12050630152225494,
+            0.563971996307373,
+            0.815095879137516,
+            0.5777774592861533
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            52
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "If these are satisfactory",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.28387951850891113,
+            0.5778543949127197,
+            0.8483275175094604,
+            0.5909795574843884
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            53
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "they will be consumer tested.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.11675366759300232,
+            0.5920658111572266,
+            0.43555667996406555,
+            0.6055607376620173
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            55
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "A non-ventilated King Size model was made to the below listed",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.11580090969800949,
+            0.6334726214408875,
+            0.7931120544672012,
+            0.6478755250573158
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            56
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "Blend - MALIBU Export",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.1606641709804535,
+            0.6759122014045715,
+            0.4719851016998291,
+            0.6891593253239989
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            57
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "Filter - 2.5/30,000 w/492 p.w. @ 37 cm p.d.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.16086648404598236,
+            0.6898322701454163,
+            0.7008406333625317,
+            0.7036276012659073
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            58
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "cigt. Paper - PT Bukit Muria Jaya BMJ540AVB",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.16110287606716156,
+            0.7036831974983215,
+            0.6479936391115189,
+            0.7174765476956964
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            59
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "Tipping - Mundet beater dye cork",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.160857692360878,
+            0.7178115844726562,
+            0.5718048363924026,
+            0.7315210485830903
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            60
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "Cigt. Size - 83 mm x 24.7 mm",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.16125142574310303,
+            0.7320841550827026,
+            0.4598481021821499,
+            0.7456191489472985
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            61
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "63 mm Tobacco Column",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.329134464263916,
+            0.746224045753479,
+            0.5497879013419151,
+            0.7572747319936752
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            62
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "20 mm Filter",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.3283960223197937,
+            0.7600159645080566,
+            0.46029093861579895,
+            0.77130729239434
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    },
+    {
+        "ids": [
+            63
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Contract Number",
+        "value": "These were submitted for analyses.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.11578355729579926,
+            0.7874444127082825,
+            0.4908272996544838,
+            0.8019246188923717
+        ],
+        "source_file": "votes_fgpg0139_page1.csv"
+    }
+]

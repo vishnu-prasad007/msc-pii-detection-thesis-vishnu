@@ -1,0 +1,316 @@
+[
+    {
+        "ids": [
+            0,
+            12,
+            25
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Mr H F Dymond",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            801,
+            796,
+            1081,
+            835
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            13,
+            26
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Dr R Baker",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            801,
+            845,
+            993,
+            877
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            14,
+            27
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Mr I C Brown",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            801,
+            896,
+            1039,
+            928
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            15,
+            28
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Dr L Rudge",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            802,
+            944,
+            999,
+            985
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            16,
+            29
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Ray Thornton",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            802,
+            1041,
+            1030,
+            1081
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            17,
+            30
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Alan Heard",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1472,
+            1380,
+            1662,
+            1413
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            19,
+            31
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Location",
+        "value": "Southampton",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1119,
+            796,
+            1333,
+            835
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            7,
+            20,
+            32
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Location",
+        "value": "Southampton",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1029,
+            845,
+            1242,
+            883
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            8,
+            21,
+            33
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Location",
+        "value": "Southampton",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1075,
+            895,
+            1289,
+            935
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            9,
+            22,
+            34
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Location",
+        "value": "Staines",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1038,
+            945,
+            1152,
+            976
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            10,
+            23,
+            35
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Location",
+        "value": "Millbank",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1243,
+            1430,
+            1402,
+            1461
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            11,
+            24,
+            36
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Date",
+        "value": "13th January 1992",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            583,
+            1140,
+            880,
+            1180
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            18
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Tina",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1308,
+            1528,
+            1386,
+            1559
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            37
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Date",
+        "value": "30th January",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            980,
+            1430,
+            1187,
+            1469
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.3333333333333333
+    }
+]

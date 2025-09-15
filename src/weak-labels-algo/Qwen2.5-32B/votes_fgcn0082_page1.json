@@ -1,0 +1,173 @@
+[
+    {
+        "ids": [
+            0,
+            11
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Person Name",
+        "value": "Chaikin, Karen",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            146,
+            370,
+            373,
+            403
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.8128964067822458
+    },
+    {
+        "ids": [
+            1,
+            12
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Person Name",
+        "value": "Mohrmann, Christine",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            481,
+            499,
+            731,
+            524
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.8128964067822458
+    },
+    {
+        "ids": [
+            2,
+            4,
+            10,
+            14,
+            16
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "2071863150",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1340,
+            294,
+            1550,
+            347
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            9,
+            15
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Date",
+        "value": "Tuesday, September 28, 1999 4:02 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            482,
+            469,
+            948,
+            496
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Person Name",
+        "value": "Karen",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            281,
+            371,
+            373,
+            397
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.04056118529657932
+    },
+    {
+        "ids": [
+            6
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Person Name",
+        "value": "Karen",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            586,
+            437,
+            658,
+            461
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.04056118529657932
+    },
+    {
+        "ids": [
+            7,
+            13
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Person Name",
+        "value": "Chris",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            263,
+            623,
+            345,
+            652
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.6937625365640808
+    },
+    {
+        "ids": [
+            8
+        ],
+        "doc_id": "votes_fgcn0082_page1",
+        "pii_type": "Person Name",
+        "value": "KC",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            148,
+            699,
+            196,
+            727
+        ],
+        "source_file": "votes_fgcn0082_page1.csv",
+        "probability": 0.04056118529657932
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "ids": [
+            0,
+            5,
+            10
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Person Name",
+        "value": "DALE HILL",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            365,
+            504,
+            526,
+            531
+        ],
+        "source_file": "votes_fgcg0076_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            1,
+            6,
+            11
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Person Name",
+        "value": "Cindy Arterbery",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            364,
+            578,
+            569,
+            610
+        ],
+        "source_file": "votes_fgcg0076_page1.csv",
+        "probability": 0.9998236182634986
+    },
+    {
+        "ids": [
+            2,
+            7
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Location",
+        "value": "RICHMOND, VIRGINIA",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            776,
+            391,
+            954,
+            410
+        ],
+        "source_file": "votes_fgcg0076_page1.csv",
+        "probability": 0.931004126329875
+    },
+    {
+        "ids": [
+            3,
+            8,
+            12
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Organization Name",
+        "value": "PHILIP MORRIS U.S.A.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            646,
+            223,
+            1086,
+            260
+        ],
+        "source_file": "votes_fgcg0076_page1.csv",
+        "probability": 0.997213720928886
+    },
+    {
+        "ids": [
+            4,
+            9,
+            13
+        ],
+        "doc_id": "votes_fgcg0076_page1",
+        "pii_type": "Date",
+        "value": "June 26, 1995",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1143,
+            510,
+            1316,
+            540
+        ],
+        "source_file": "votes_fgcg0076_page1.csv",
+        "probability": 0.9999750930787068
+    }
+]

@@ -1,0 +1,224 @@
+[
+    {
+        "ids": [
+            0,
+            8,
+            17
+        ],
+        "doc_id": "votes_fhfb0066_page1",
+        "pii_type": "Person Name",
+        "value": "Dr. H. s. Tong",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.32517170906066895,
+            0.6969733238220215,
+            0.44034381955862045,
+            0.7050613025203347
+        ],
+        "source_file": "votes_fhfb0066_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            10,
+            18,
+            21
+        ],
+        "doc_id": "votes_fhfb0066_page1",
+        "pii_type": [
+            "Phone Number",
+            "Location"
+        ],
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fhfb0066",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.22222287952899933,
+            0.980851948261261,
+            0.7819858342409134,
+            0.9981428012251854
+        ],
+        "source_file": "votes_fhfb0066_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            9,
+            11,
+            22
+        ],
+        "doc_id": "votes_fhfb0066_page1",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "October 15, 1972",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6402780413627625,
+            0.20597773790359497,
+            0.7732966132462025,
+            0.2155493339523673
+        ],
+        "source_file": "votes_fhfb0066_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            12,
+            23
+        ],
+        "doc_id": "votes_fhfb0066_page1",
+        "pii_type": "Date",
+        "value": "10/72",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.43913018703460693,
+            0.5001115202903748,
+            0.48093651607632637,
+            0.5104319956153631
+        ],
+        "source_file": "votes_fhfb0066_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            13,
+            24
+        ],
+        "doc_id": "votes_fhfb0066_page1",
+        "pii_type": "Date",
+        "value": "11/72",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4396156966686249,
+            0.5211858153343201,
+            0.4807811416685581,
+            0.5311728762462735
+        ],
+        "source_file": "votes_fhfb0066_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            14,
+            25
+        ],
+        "doc_id": "votes_fhfb0066_page1",
+        "pii_type": "Date",
+        "value": "12/72",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.43969354033470154,
+            0.5419985055923462,
+            0.4809974692761898,
+            0.5518413195386529
+        ],
+        "source_file": "votes_fhfb0066_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            15,
+            20,
+            26
+        ],
+        "doc_id": "votes_fhfb0066_page1",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "Project t H-102-5",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.6881911754608154,
+            0.14212501049041748,
+            0.8274627402424812,
+            0.15441308915615082
+        ],
+        "source_file": "votes_fhfb0066_page1.csv"
+    },
+    {
+        "ids": [
+            7
+        ],
+        "doc_id": "votes_fhfb0066_page1",
+        "pii_type": "Contract Number",
+        "value": "Project Name : Arthritis of Rats",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.18082545697689056,
+            0.20912623405456543,
+            0.4457008093595505,
+            0.22213757783174515
+        ],
+        "source_file": "votes_fhfb0066_page1.csv"
+    },
+    {
+        "ids": [
+            16,
+            27
+        ],
+        "doc_id": "votes_fhfb0066_page1",
+        "pii_type": "Contract Number",
+        "value": "PROJECT REQUEST",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.4052374064922333,
+            0.17825333774089813,
+            0.5300377868115902,
+            0.1871679062023759
+        ],
+        "source_file": "votes_fhfb0066_page1.csv"
+    },
+    {
+        "ids": [
+            19
+        ],
+        "doc_id": "votes_fhfb0066_page1",
+        "pii_type": "Phone Number",
+        "value": "$8,000c",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.7136401534080505,
+            0.7123588919639587,
+            0.7706396989524364,
+            0.7217345433309674
+        ],
+        "source_file": "votes_fhfb0066_page1.csv"
+    }
+]

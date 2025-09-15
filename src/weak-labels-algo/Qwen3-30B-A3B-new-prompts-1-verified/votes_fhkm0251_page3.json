@@ -1,0 +1,751 @@
+[
+    {
+        "ids": [
+            0,
+            23,
+            40
+        ],
+        "doc_id": "votes_fhkm0251_page3",
+        "pii_type": "Person Name",
+        "value": "Ms Grace Hafner",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            150,
+            155,
+            482,
+            190
+        ],
+        "source_file": "votes_fhkm0251_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            1,
+            24
+        ],
+        "doc_id": "votes_fhkm0251_page3",
+        "pii_type": "Person Name",
+        "value": "Annemieke",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            147,
+            971,
+            357,
+            1005
+        ],
+        "source_file": "votes_fhkm0251_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            2,
+            25,
+            42
+        ],
+        "doc_id": "votes_fhkm0251_page3",
+        "pii_type": "Person Name",
+        "value": "Annemieke Glass",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            148,
+            1067,
+            475,
+            1101
+        ],
+        "source_file": "votes_fhkm0251_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            3,
+            26,
+            41
+        ],
+        "doc_id": "votes_fhkm0251_page3",
+        "pii_type": "Person Name",
+        "value": "Coffey, Tracey R",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            284,
+            1766,
+            590,
+            1810
+        ],
+        "source_file": "votes_fhkm0251_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            4,
+            27,
+            44
+        ],
+        "doc_id": "votes_fhkm0251_page3",
+        "pii_type": "Person Name",
+        "value": "Rehkop, Brenda D",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            227,
+            1917,
+            561,
+            1962
+        ],
+        "source_file": "votes_fhkm0251_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fhkm0251_page3",
+        "pii_type": "Person Name",
+        "value": "Annemieke",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            452,
+            2133,
+            673,
+            2174
+        ],
+        "source_file": "votes_fhkm0251_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            6
+        ],
+        "doc_id": "votes_fhkm0251_page3",
+        "pii_type": "Person Name",
+        "value": "Tracey",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            148,
+            2277,
+            278,
+            2318
+        ],
+        "source_file": "votes_fhkm0251_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            0,
+            1
+        ],
+        "probability": 0.9999882957139282
+    },
+    {
+        "ids": [
+            7,
+            43
+        ],
+        "doc_id": "votes_fhkm0251_page3",
+        "pii_type": "Person Name",
+        "value": "Annemieke Glass",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            227,
+            1868,
+            541,
+            1904
+        ],
+        "source_file": "votes_fhkm0251_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999831994238
+    },
+    {
+        "ids": [
+            8,
+            28,
+            45
+        ],
+        "doc_id": "votes_fhkm0251_page3",
+        "pii_type": "Email Address",
+        "value": "aglass@nl.pfscm.org",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            151,
+            1450,
+            538,
+            1491
+        ],
+        "source_file": "votes_fhkm0251_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            9,
+            29,
+            46
+        ],
+        "doc_id": "votes_fhkm0251_page3",
+        "pii_type": "Phone Number",
+        "value": "+84906236253",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1514,
+            538,
+            1789,
+            574
+        ],
+        "source_file": "votes_fhkm0251_page3.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999296257712
+    },
+    {
+        "ids": [
+            10,
+            30,
+            47
+        ],
+        "doc_id": "votes_fhkm0251_page3",
+        "pii_type": "Phone Number",
+        "value": "+8449454563",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            151,
+            586,
+            404,
+            621
+        ],
+        "source_file": "votes_fhkm0251_page3.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            0,
+            1,
+            0
+        ],
+        "probability": 0.9996620347830243
+    },
+    {
+        "ids": [
+            11,
+            31,
+            48
+        ],
+        "doc_id": "votes_fhkm0251_page3",
+        "pii_type": "Phone Number",
+        "value": "+31-(0)348-489631",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            149,
+            1353,
+            567,
+            1394
+        ],
+        "source_file": "votes_fhkm0251_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999999902387186
+    },
+    {
+        "ids": [
+            12,
+            32,
+            49
+        ],
+        "doc_id": "votes_fhkm0251_page3",
+        "pii_type": "Phone Number",
+        "value": "+31-(0)348-489659",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            140,
+            1401,
+            589,
+            1442
+        ],
+        "source_file": "votes_fhkm0251_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            0,
+            1,
+            0
+        ],
+        "probability": 0.999953108772682
+    },
+    {
+        "ids": [
+            13,
+            33,
+            50
+        ],
+        "doc_id": "votes_fhkm0251_page3",
+        "pii_type": "Location",
+        "value": "25 Bui Thi Xuan",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            150,
+            298,
+            461,
+            333
+        ],
+        "source_file": "votes_fhkm0251_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999997426401738
+    },
+    {
+        "ids": [
+            14,
+            51
+        ],
+        "doc_id": "votes_fhkm0251_page3",
+        "pii_type": "Location",
+        "value": "Quan Hai Ba Trung",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            151,
+            346,
+            525,
+            387
+        ],
+        "source_file": "votes_fhkm0251_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999997426401738
+    },
+    {
+        "ids": [
+            15,
+            52
+        ],
+        "doc_id": "votes_fhkm0251_page3",
+        "pii_type": "Location",
+        "value": "Ha Noi",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            150,
+            394,
+            281,
+            429
+        ],
+        "source_file": "votes_fhkm0251_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999997426401738
+    },
+    {
+        "ids": [
+            16,
+            53
+        ],
+        "doc_id": "votes_fhkm0251_page3",
+        "pii_type": "Location",
+        "value": "VietNam",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            148,
+            442,
+            313,
+            477
+        ],
+        "source_file": "votes_fhkm0251_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999997426401738
+    },
+    {
+        "ids": [
+            17,
+            34,
+            54
+        ],
+        "doc_id": "votes_fhkm0251_page3",
+        "pii_type": "Location",
+        "value": "1616 N.Fort Myer Drive",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            152,
+            1209,
+            581,
+            1251
+        ],
+        "source_file": "votes_fhkm0251_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999997426401738
+    },
+    {
+        "ids": [
+            18,
+            55
+        ],
+        "doc_id": "votes_fhkm0251_page3",
+        "pii_type": "Location",
+        "value": "12th Floor",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            152,
+            1255,
+            336,
+            1293
+        ],
+        "source_file": "votes_fhkm0251_page3.csv",
+        "votes": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "probability": 0.000304418657151677
+    },
+    {
+        "ids": [
+            19,
+            35,
+            56
+        ],
+        "doc_id": "votes_fhkm0251_page3",
+        "pii_type": "Location",
+        "value": "Arlington, VA 22209",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            148,
+            1305,
+            518,
+            1347
+        ],
+        "source_file": "votes_fhkm0251_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999997426401738
+    },
+    {
+        "ids": [
+            20,
+            36,
+            57
+        ],
+        "doc_id": "votes_fhkm0251_page3",
+        "pii_type": "Organization Name",
+        "value": "SCMS",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            150,
+            253,
+            267,
+            285
+        ],
+        "source_file": "votes_fhkm0251_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0
+        ],
+        "probability": 0.356245838390667
+    },
+    {
+        "ids": [
+            21,
+            37,
+            59
+        ],
+        "doc_id": "votes_fhkm0251_page3",
+        "pii_type": "Organization Name",
+        "value": "PFSCM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            310,
+            1497,
+            453,
+            1531
+        ],
+        "source_file": "votes_fhkm0251_page3.csv",
+        "votes": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.9999159454539699
+    },
+    {
+        "ids": [
+            22,
+            38,
+            60
+        ],
+        "doc_id": "votes_fhkm0251_page3",
+        "pii_type": "Date",
+        "value": "Wednesday, August 06, 2008 11:11 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            269,
+            1816,
+            998,
+            1860
+        ],
+        "source_file": "votes_fhkm0251_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "probability": 0.999999713175462
+    },
+    {
+        "ids": [
+            39,
+            61
+        ],
+        "doc_id": "votes_fhkm0251_page3",
+        "pii_type": "Contract Number",
+        "value": "MNKOI 0005175557",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            2088,
+            3303,
+            2468,
+            3340
+        ],
+        "source_file": "votes_fhkm0251_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0
+        ],
+        "probability": 0.055470585935080884
+    },
+    {
+        "ids": [
+            58
+        ],
+        "doc_id": "votes_fhkm0251_page3",
+        "pii_type": "Organization Name",
+        "value": "SCMS",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            309,
+            1546,
+            428,
+            1579
+        ],
+        "source_file": "votes_fhkm0251_page3.csv",
+        "votes": [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0
+        ],
+        "probability": 0.356245838390667
+    }
+]

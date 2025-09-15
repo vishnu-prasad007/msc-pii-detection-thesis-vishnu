@@ -1,0 +1,526 @@
+[
+    {
+        "ids": [
+            0,
+            15,
+            26
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Person Name",
+        "value": "Christopher J. Ferraro",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.41831299662590027,
+            0.3117554783821106,
+            0.588786393404007,
+            0.32788075134158134
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            1,
+            14,
+            16,
+            21,
+            27,
+            52
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": [
+            "Organization Name",
+            "Person Name"
+        ],
+        "value": "Edmistoor",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.17762117087841034,
+            0.43259939551353455,
+            0.35751214623451233,
+            0.47747085615992546
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            2,
+            28,
+            50
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "Club Name: EDNA'S",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.11189360916614532,
+            0.08345886319875717,
+            0.2865912839770317,
+            0.09854292869567871
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            3,
+            29
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Location",
+        "value": "Page 5",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.11180472373962402,
+            0.09987542778253555,
+            0.16350256837904453,
+            0.11562535725533962
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            4,
+            35
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Location",
+        "value": "By:",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.39005324244499207,
+            0.29460766911506653,
+            0.4165314510464668,
+            0.31027866899967194
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            5,
+            32
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Location",
+        "value": "Very truly yours,",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.39128121733665466,
+            0.20544077455997467,
+            0.5173097476363182,
+            0.22143124882131815
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            6,
+            13,
+            20,
+            33,
+            51
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "THE AFFINITY MANAGEMENT GROUP, INC.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3905382752418518,
+            0.24127085506916046,
+            0.7899661287665367,
+            0.25728918705135584
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            7,
+            22,
+            23,
+            37,
+            54
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "ACCEPTED AND AGREED AS OF THE DATE OF THIS LETTER: As LETTER",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.13501350581645966,
+            0.38344264030456543,
+            0.6948563456535339,
+            0.3968989970162511
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            8,
+            38
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Location",
+        "value": "CLUB NAME: EDNA'S",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.13605600595474243,
+            0.41587725281715393,
+            0.3526652008295059,
+            0.43332651257514954
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            9,
+            39
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Location",
+        "value": "By: Edmistoor",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.13479618728160858,
+            0.43259939551353455,
+            0.35751214623451233,
+            0.47747085615992546
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            10,
+            40
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Location",
+        "value": "Title: manager",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.1351894736289978,
+            0.47381094098091125,
+            0.3688710629940033,
+            0.5187804251909256
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            11,
+            18,
+            49
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Location",
+        "value": "Source: https://www.industrydocuments.ucsf.edu/docs/fhxk0019",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.22080543637275696,
+            0.9800363183021545,
+            0.7834212481975555,
+            0.9978555720299482
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            12,
+            17,
+            19
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "EDNA'S",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.2122042328119278,
+            0.08345886319875717,
+            0.2865912839770317,
+            0.09854292869567871
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            24,
+            41
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "Taxpayer ID Number:",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.13502785563468933,
+            0.5255163311958313,
+            0.3012330010533333,
+            0.5419279839843512
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            25,
+            48
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": [
+            "Location",
+            "Contract Number"
+        ],
+        "value": "3-AO-V",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.10870096832513809,
+            0.8995035886764526,
+            0.15829933434724808,
+            0.9097404051572084
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            30,
+            53
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "If the foregoing accurately sets forth our understanding, please signify your acceptance and agreement",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.13849377632141113,
+            0.13315865397453308,
+            0.8680549338459969,
+            0.15077473782002926
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            31
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Location",
+        "value": "by executing and returning both of the enclosed copies of this letter to the undersigned. We will then",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.1383163034915924,
+            0.1512155383825302,
+            0.8682092912495136,
+            0.16839853674173355
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            34
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Location",
+        "value": "Ch",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.5042939782142639,
+            0.2500097453594208,
+            0.7085102498531342,
+            0.3209146559238434
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            36
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Location",
+        "value": "Christopher J. Ferraro, President",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.41831299662590027,
+            0.3117554783821106,
+            0.6631891950964928,
+            0.32788075134158134
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            42
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Location",
+        "value": "Select One:",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.1349187046289444,
+            0.6153573989868164,
+            0.22172283381223679,
+            0.6278240289539099
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            43
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Location",
+        "value": "Sole Partnership",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.1748824417591095,
+            0.6508612632751465,
+            0.2977951541543007,
+            0.6669047307223082
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            44
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Location",
+        "value": "Partnership",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.17394055426120758,
+            0.6693307161331177,
+            0.2602236270904541,
+            0.6846971306949854
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            45
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Location",
+        "value": "Corporation",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.1746741086244583,
+            0.6870152950286865,
+            0.2665763646364212,
+            0.7027528434991837
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            46
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Location",
+        "value": "Limited Liability Company",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.17468300461769104,
+            0.7048953175544739,
+            0.3744451105594635,
+            0.7207319522276521
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    },
+    {
+        "ids": [
+            47
+        ],
+        "doc_id": "votes_fhxk0019_page5",
+        "pii_type": "Location",
+        "value": "Other",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.17515546083450317,
+            0.7229676842689514,
+            0.219087652862072,
+            0.7357839280739427
+        ],
+        "source_file": "votes_fhxk0019_page5.csv"
+    }
+]

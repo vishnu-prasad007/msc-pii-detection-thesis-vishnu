@@ -1,0 +1,350 @@
+[
+    {
+        "ids": [
+            0,
+            12,
+            23
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Mr H F Dymond",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            801,
+            796,
+            1081,
+            835
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            1,
+            13,
+            24
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Dr R Baker",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            801,
+            845,
+            993,
+            877
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            2,
+            14,
+            25
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Mr I C Brown",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            801,
+            896,
+            1039,
+            928
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            3,
+            15,
+            26
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Dr L Rudge",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            802,
+            944,
+            999,
+            985
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            4,
+            16,
+            27
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Ray Thornton",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            802,
+            1041,
+            1030,
+            1081
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            5,
+            17,
+            29
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Location",
+        "value": "Southampton",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1119,
+            796,
+            1333,
+            835
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.996034042417568
+    },
+    {
+        "ids": [
+            6,
+            18,
+            30
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Location",
+        "value": "Southampton",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1029,
+            845,
+            1242,
+            883
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.996034042417568
+    },
+    {
+        "ids": [
+            7,
+            19,
+            31
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Location",
+        "value": "Southampton",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1075,
+            895,
+            1289,
+            935
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.996034042417568
+    },
+    {
+        "ids": [
+            8,
+            20,
+            32
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Location",
+        "value": "Staines",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1038,
+            945,
+            1152,
+            976
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.996034042417568
+    },
+    {
+        "ids": [
+            9
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Location",
+        "value": "Millbank",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1243,
+            1430,
+            1402,
+            1461
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.12886882919786594
+    },
+    {
+        "ids": [
+            10,
+            21,
+            33
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Date",
+        "value": "13th January 1992",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            583,
+            1140,
+            880,
+            1180
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            11,
+            22,
+            34
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Date",
+        "value": "Thursday 30th January",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            813,
+            1430,
+            1187,
+            1471
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            28
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Alan Heard",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1472,
+            1380,
+            1662,
+            1413
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.019094487779212622
+    },
+    {
+        "ids": [
+            35
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Contract Number",
+        "value": "INVITATION FOR:",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            576,
+            675,
+            1050,
+            719
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.06019907678829865
+    },
+    {
+        "ids": [
+            36
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Contract Number",
+        "value": "From:\tRay Thornton",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            580,
+            1041,
+            1030,
+            1081
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.06019907678829865
+    },
+    {
+        "ids": [
+            37
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Contract Number",
+        "value": "Source: https://www.industrydocuments.ucsf.edu/docs/fgmp0191",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            561,
+            3236,
+            1994,
+            3291
+        ],
+        "source_file": "votes_fgmp0191_page1.csv",
+        "probability": 0.06019907678829865
+    }
+]

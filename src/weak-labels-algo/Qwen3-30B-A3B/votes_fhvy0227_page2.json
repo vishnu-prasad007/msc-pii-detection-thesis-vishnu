@@ -1,0 +1,25 @@
+[
+    {
+        "ids": [
+            0,
+            1,
+            2
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": "Person Name",
+        "value": "Rhona",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            433,
+            311,
+            575,
+            353
+        ],
+        "source_file": "votes_fhvy0227_page2.csv",
+        "probability": 0.9999239053749461
+    }
+]

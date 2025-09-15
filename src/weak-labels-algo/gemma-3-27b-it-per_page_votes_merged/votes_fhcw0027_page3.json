@@ -1,0 +1,195 @@
+[
+    {
+        "ids": [
+            0,
+            5,
+            12
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": "Person Name",
+        "value": "Mr. Jones",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.33212459087371826,
+            0.3584320545196533,
+            0.4310106635093689,
+            0.36860985308885574
+        ],
+        "source_file": "votes_fhcw0027_page3.csv"
+    },
+    {
+        "ids": [
+            1,
+            6,
+            13
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": "Person Name",
+        "value": "Mr. Bluett",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.26569879055023193,
+            0.4249294400215149,
+            0.3958074674010277,
+            0.43627958465367556
+        ],
+        "source_file": "votes_fhcw0027_page3.csv"
+    },
+    {
+        "ids": [
+            2,
+            7,
+            14
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": "Person Name",
+        "value": "Miss Edwards",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5447695255279541,
+            0.42477861046791077,
+            0.6984508112072945,
+            0.43636674527078867
+        ],
+        "source_file": "votes_fhcw0027_page3.csv"
+    },
+    {
+        "ids": [
+            3,
+            8,
+            10,
+            15,
+            18
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": [
+            "Location",
+            "Organization Name"
+        ],
+        "value": "Mayo Clinic",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.26646196842193604,
+            0.9518883228302002,
+            0.39882753044366837,
+            0.9689765386283398
+        ],
+        "source_file": "votes_fhcw0027_page3.csv"
+    },
+    {
+        "ids": [
+            4,
+            11,
+            19
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": "Date",
+        "value": "28 March 2002",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.40483152866363525,
+            0.952157199382782,
+            0.569887176156044,
+            0.9661694066599011
+        ],
+        "source_file": "votes_fhcw0027_page3.csv"
+    },
+    {
+        "ids": [
+            9,
+            17,
+            21
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "BATCo",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.43336495757102966,
+            0.240218847990036,
+            0.4977888762950897,
+            0.24971962068229914
+        ],
+        "source_file": "votes_fhcw0027_page3.csv"
+    },
+    {
+        "ids": [
+            16
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": "Location",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fhcw0027",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.2722807824611664,
+            0.9820130467414856,
+            0.8043240010738373,
+            0.9973558206111193
+        ],
+        "source_file": "votes_fhcw0027_page3.csv"
+    },
+    {
+        "ids": [
+            20
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": "Contract Number",
+        "value": "BATCo/Machado current account",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.34788456559181213,
+            0.10539276897907257,
+            0.6694932281970978,
+            0.11589621007442474
+        ],
+        "source_file": "votes_fhcw0027_page3.csv"
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": "Contract Number",
+        "value": "BATCo",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.022928932681679726,
+            0.9514064788818359,
+            0.10168165899813175,
+            0.9643920743837953
+        ],
+        "source_file": "votes_fhcw0027_page3.csv"
+    }
+]

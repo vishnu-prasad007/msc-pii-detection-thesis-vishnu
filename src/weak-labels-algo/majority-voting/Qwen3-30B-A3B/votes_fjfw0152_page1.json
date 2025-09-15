@@ -1,0 +1,201 @@
+[
+    {
+        "ids": [
+            0,
+            9,
+            16
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Person Name",
+        "value": "Collett Thach",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            897,
+            1114,
+            1257,
+            1173
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            10,
+            17
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Person Name",
+        "value": "Valerie Vaughan",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            896,
+            1197,
+            1343,
+            1268
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            11,
+            18
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Person Name",
+        "value": "Leonard Jones",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            892,
+            1280,
+            1276,
+            1338
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            12,
+            19
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Person Name",
+        "value": "Don Kisling",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            894,
+            1442,
+            1219,
+            1515
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            20
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Person Name",
+        "value": "Kelli Scruggs",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1846,
+            3572,
+            2218,
+            3645
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            5,
+            13,
+            21
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Organization Name",
+        "value": "Lorillard",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1378,
+            288,
+            1960,
+            479
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Organization Name",
+        "value": "TOBACCO COMPANY",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1611,
+            433,
+            1935,
+            472
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            7,
+            14,
+            22
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Date",
+        "value": "March 26, 1999",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            501,
+            868,
+            924,
+            938
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            8,
+            15
+        ],
+        "doc_id": "votes_fjfw0152_page1",
+        "pii_type": "Date",
+        "value": "March 19, 1999",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            716,
+            2100,
+            1152,
+            2170
+        ],
+        "source_file": "votes_fjfw0152_page1.csv",
+        "probability": 0.6666666666666666
+    }
+]

@@ -1,0 +1,317 @@
+[
+    {
+        "ids": [
+            0,
+            6,
+            18,
+            24,
+            37,
+            43
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "W. Bell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1894848346710205,
+            0.5442581176757812,
+            0.2602614499628544,
+            0.5543099157512188
+        ],
+        "source_file": "votes_fgvk0122_page3.csv"
+    },
+    {
+        "ids": [
+            1,
+            7,
+            19,
+            25,
+            38,
+            44
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "W. Callaham",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18939515948295593,
+            0.5606326460838318,
+            0.3003230020403862,
+            0.5708591677248478
+        ],
+        "source_file": "votes_fgvk0122_page3.csv"
+    },
+    {
+        "ids": [
+            2,
+            8,
+            20,
+            26,
+            39,
+            45
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "S. Clark",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1903935968875885,
+            0.5771132111549377,
+            0.269485667347908,
+            0.5871577253565192
+        ],
+        "source_file": "votes_fgvk0122_page3.csv"
+    },
+    {
+        "ids": [
+            3,
+            9,
+            21,
+            27,
+            40,
+            46
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "R. Cox",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1891271322965622,
+            0.5938986539840698,
+            0.2502884529531002,
+            0.6039352342486382
+        ],
+        "source_file": "votes_fgvk0122_page3.csv"
+    },
+    {
+        "ids": [
+            4,
+            10,
+            22,
+            28,
+            41,
+            47
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "D. Spruill",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18912020325660706,
+            0.6103494763374329,
+            0.2889847755432129,
+            0.6221138807013631
+        ],
+        "source_file": "votes_fgvk0122_page3.csv"
+    },
+    {
+        "ids": [
+            5,
+            11,
+            23,
+            29,
+            42,
+            48
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "H. Spielberg",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18943868577480316,
+            0.6269689798355103,
+            0.30886054039001465,
+            0.6393766542896628
+        ],
+        "source_file": "votes_fgvk0122_page3.csv"
+    },
+    {
+        "ids": [
+            12,
+            17,
+            31,
+            34,
+            36,
+            50,
+            55,
+            57
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": [
+            "Date",
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "2031158486",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.737896203994751,
+            0.9372082352638245,
+            0.9176222234964371,
+            0.9568666014820337
+        ],
+        "source_file": "votes_fgvk0122_page3.csv"
+    },
+    {
+        "ids": [
+            13,
+            16,
+            33,
+            49,
+            51
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": [
+            "Phone Number",
+            "Organization Name",
+            "Location"
+        ],
+        "value": "NI",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.7862607836723328,
+            0.08177855610847473,
+            0.82587019354105,
+            0.12003413960337639
+        ],
+        "source_file": "votes_fgvk0122_page3.csv"
+    },
+    {
+        "ids": [
+            14
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": "Location",
+        "value": "Primary locations",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.5791793465614319,
+            0.34297701716423035,
+            0.7467910498380661,
+            0.3550272909924388
+        ],
+        "source_file": "votes_fgvk0122_page3.csv"
+    },
+    {
+        "ids": [
+            15,
+            32,
+            52,
+            54
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "DCC",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2927761375904083,
+            0.4944106340408325,
+            0.3238225970417261,
+            0.5040394589304924
+        ],
+        "source_file": "votes_fgvk0122_page3.csv"
+    },
+    {
+        "ids": [
+            30,
+            35,
+            56,
+            58
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": [
+            "Date",
+            "Email Address",
+            "Contract Number"
+        ],
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fgvk122",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.2230328619480133,
+            0.9811115860939026,
+            0.7827035486698151,
+            0.997580498456955
+        ],
+        "source_file": "votes_fgvk0122_page3.csv"
+    },
+    {
+        "ids": [
+            53
+        ],
+        "doc_id": "votes_fgvk0122_page3",
+        "pii_type": "Location",
+        "value": "https://www.industrydocuments.ucsf.edu",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.2230328619480133,
+            0.9811115860939026,
+            0.7827035486698151,
+            0.997580498456955
+        ],
+        "source_file": "votes_fgvk0122_page3.csv"
+    }
+]

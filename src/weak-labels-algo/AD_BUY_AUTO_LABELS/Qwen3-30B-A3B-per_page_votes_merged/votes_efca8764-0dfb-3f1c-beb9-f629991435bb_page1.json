@@ -1,0 +1,399 @@
+[
+  {
+    "ids": [
+      0,
+      15,
+      32
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1",
+    "pii_type": "Person Name",
+    "value": "Dome, Liz",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      451,
+      143,
+      487,
+      152
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      1,
+      16,
+      33
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1",
+    "pii_type": "Person Name",
+    "value": "BRADLEY PHILIPPS",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      451,
+      158,
+      526,
+      168
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      2,
+      3,
+      17,
+      18,
+      34,
+      35
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1",
+    "pii_type": "Phone Number",
+    "value": "202-955-5342",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      451,
+      169,
+      501,
+      179
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      4
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1",
+    "pii_type": "Location",
+    "value": "650 Massachusetts",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      293,
+      100,
+      362,
+      110
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      5
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1",
+    "pii_type": "Location",
+    "value": "Avenue, NW",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      293,
+      112,
+      338,
+      121
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      6,
+      19,
+      36
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1",
+    "pii_type": "Location",
+    "value": "Washington, DC 20001",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      293,
+      127,
+      375,
+      138
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      7,
+      22,
+      39
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "TARGETED",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      293,
+      73,
+      336,
+      82
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      8,
+      23,
+      40
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "Priorities Usa Action",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      451,
+      73,
+      523,
+      83
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      9,
+      24,
+      41
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "PLATFORM MEDIA",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      293,
+      85,
+      364,
+      93
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      10,
+      25
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "KATZ TELEVISION",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      21,
+      103,
+      221,
+      128
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      11,
+      26,
+      42
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "Nielsen",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      603,
+      127,
+      629,
+      136
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      12,
+      27,
+      43
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1",
+    "pii_type": "Date",
+    "value": "2/14/2020 at 9:05 AM",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      451,
+      42,
+      527,
+      52
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      13,
+      30,
+      44
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1",
+    "pii_type": "Date",
+    "value": "02/17/2020 at 03:49 PM",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      62,
+      816,
+      159,
+      827
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      14
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "26802661",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      293,
+      42,
+      328,
+      51
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      20,
+      37
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1",
+    "pii_type": "Location",
+    "value": "125 West 55th St",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      19,
+      165,
+      80,
+      174
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      21,
+      38
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1",
+    "pii_type": "Location",
+    "value": "New York, NY 10019",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      19,
+      176,
+      94,
+      186
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      28
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1",
+    "pii_type": "Date",
+    "value": "6/2/20",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      451,
+      58,
+      477,
+      68
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      29
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1",
+    "pii_type": "Date",
+    "value": "6/8/20",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      480,
+      58,
+      503,
+      68
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      31,
+      45,
+      46
+    ],
+    "doc_id": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1",
+    "pii_type": [
+      "Invoice Number",
+      "Contract Number"
+    ],
+    "value": "Contract # 26802661",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      249,
+      42,
+      328,
+      51
+    ],
+    "source_file": "votes_efca8764-0dfb-3f1c-beb9-f629991435bb.pdf_page1.csv"
+  }
+]

@@ -1,0 +1,236 @@
+[
+    {
+        "ids": [
+            0,
+            8,
+            17
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Person Name",
+        "value": "KARA QUICK",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3259875476360321,
+            0.13846270740032196,
+            0.4107174202799797,
+            0.1478908583521843
+        ],
+        "source_file": "votes_fhyx0253_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            9,
+            19
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Location",
+        "value": "1 WILEY DR",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3266106843948364,
+            0.21303781867027283,
+            0.4028961695730686,
+            0.22268747724592686
+        ],
+        "source_file": "votes_fhyx0253_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            10,
+            20
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Location",
+        "value": "SOMERSET",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.32724836468696594,
+            0.22936522960662842,
+            0.39886097609996796,
+            0.23866584803909063
+        ],
+        "source_file": "votes_fhyx0253_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            11,
+            21
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Location",
+        "value": "NU",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.32564687728881836,
+            0.24511045217514038,
+            0.34187974222004414,
+            0.2543805940076709
+        ],
+        "source_file": "votes_fhyx0253_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            12,
+            22
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Location",
+        "value": "08873",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3254537284374237,
+            0.2611176073551178,
+            0.36488813534379005,
+            0.270359062589705
+        ],
+        "source_file": "votes_fhyx0253_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            13,
+            23
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Location",
+        "value": "UNITED STATES",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.32587751746177673,
+            0.2770896852016449,
+            0.42924176156520844,
+            0.28681450616568327
+        ],
+        "source_file": "votes_fhyx0253_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            14,
+            18,
+            25
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "JOHNWILEY & SONS INC",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3255804479122162,
+            0.18820904195308685,
+            0.4873141162097454,
+            0.1978459618985653
+        ],
+        "source_file": "votes_fhyx0253_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            16,
+            27
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Date",
+        "value": "05/13/2011 Fri",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3257312774658203,
+            0.05994075536727905,
+            0.4171374458819628,
+            0.06889303587377071
+        ],
+        "source_file": "votes_fhyx0253_page1.csv"
+    },
+    {
+        "ids": [
+            15
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Organization Name",
+        "value": "JWS WILEY PUBLISHERS800-758-9477 NJ",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.32543283700942993,
+            0.0848519429564476,
+            0.5942164529114962,
+            0.09440688882023096
+        ],
+        "source_file": "votes_fhyx0253_page1.csv"
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Organization Name",
+        "value": "American Express",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.26071596145629883,
+            0.020849769935011864,
+            0.36715632304549217,
+            0.03089962061494589
+        ],
+        "source_file": "votes_fhyx0253_page1.csv"
+    },
+    {
+        "ids": [
+            26
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Date",
+        "value": "5/1/12",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.02266964502632618,
+            0.020559970289468765,
+            0.06004383601248264,
+            0.02923196367919445
+        ],
+        "source_file": "votes_fhyx0253_page1.csv"
+    }
+]

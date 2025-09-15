@@ -1,0 +1,185 @@
+[
+    {
+        "ids": [
+            0,
+            6,
+            10
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Organization Name",
+        "value": "B&W",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            156,
+            153,
+            278,
+            199
+        ],
+        "source_file": "votes_fjbw0138_page1.csv",
+        "probability": 0.9937329907926641
+    },
+    {
+        "ids": [
+            1
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Organization Name",
+        "value": "B&W",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            354,
+            485,
+            407,
+            504
+        ],
+        "source_file": "votes_fjbw0138_page1.csv",
+        "probability": 0.0666910951015001
+    },
+    {
+        "ids": [
+            2,
+            7,
+            12
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Organization Name",
+        "value": "CARLTON",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            395,
+            511,
+            499,
+            530
+        ],
+        "source_file": "votes_fjbw0138_page1.csv",
+        "probability": 0.9937329907926641
+    },
+    {
+        "ids": [
+            3,
+            13
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Date",
+        "value": "09/03/96",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            677,
+            1335,
+            763,
+            1354
+        ],
+        "source_file": "votes_fjbw0138_page1.csv",
+        "probability": 0.8701436970236002
+    },
+    {
+        "ids": [
+            4
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Contract Number",
+        "value": "C #2311",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            677,
+            1309,
+            757,
+            1328
+        ],
+        "source_file": "votes_fjbw0138_page1.csv",
+        "probability": 0.1538226533628269
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Phone Number",
+        "value": "621915825",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            824,
+            1366,
+            1007,
+            1391
+        ],
+        "source_file": "votes_fjbw0138_page1.csv",
+        "probability": 0.02223634462557693
+    },
+    {
+        "ids": [
+            8
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Organization Name",
+        "value": "CARLTON",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            127,
+            692,
+            230,
+            711
+        ],
+        "source_file": "votes_fjbw0138_page1.csv",
+        "probability": 0.050651127642433146
+    },
+    {
+        "ids": [
+            9,
+            14
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Contract Number",
+        "value": "C #2311 (CC)",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            677,
+            1309,
+            812,
+            1333
+        ],
+        "source_file": "votes_fjbw0138_page1.csv",
+        "probability": 0.5025832043137454
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Organization Name",
+        "value": "CARLTON",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            318,
+            366,
+            461,
+            390
+        ],
+        "source_file": "votes_fjbw0138_page1.csv",
+        "probability": 0.05285594042746515
+    }
+]

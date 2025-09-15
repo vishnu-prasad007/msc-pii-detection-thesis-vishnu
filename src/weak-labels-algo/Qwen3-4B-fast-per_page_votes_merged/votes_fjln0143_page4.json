@@ -1,0 +1,68 @@
+[
+    {
+        "ids": [
+            0,
+            1
+        ],
+        "doc_id": "votes_fjln0143_page4",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "KOOL",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.4139663279056549,
+            0.30001306533813477,
+            0.4473082721233368,
+            0.30840395484119654
+        ],
+        "source_file": "votes_fjln0143_page4.csv"
+    },
+    {
+        "ids": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "doc_id": "votes_fjln0143_page4",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "6761 5 5 5 5 9",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.24933069944381714,
+            0.9113684296607971,
+            0.5169505719095469,
+            0.9390999265015125
+        ],
+        "source_file": "votes_fjln0143_page4.csv"
+    },
+    {
+        "ids": [
+            6
+        ],
+        "doc_id": "votes_fjln0143_page4",
+        "pii_type": "Contract Number",
+        "value": "6761",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.24933069944381714,
+            0.9113684296607971,
+            0.3530152440071106,
+            0.9384231176227331
+        ],
+        "source_file": "votes_fjln0143_page4.csv"
+    }
+]

@@ -1,0 +1,159 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            14
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Person Name",
+        "value": "Jeffrey Dear",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.15210548043251038,
+            0.10701550543308258,
+            0.2667916864156723,
+            0.12212105561047792
+        ],
+        "source_file": "votes_fjcx0221_page2.csv"
+    },
+    {
+        "ids": [
+            1,
+            8
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Person Name",
+        "value": "Martin Falk",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.2778837978839874,
+            0.1944265067577362,
+            0.37137946859002113,
+            0.20671019051223993
+        ],
+        "source_file": "votes_fjcx0221_page2.csv"
+    },
+    {
+        "ids": [
+            2,
+            9,
+            15
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Person Name",
+        "value": "Roland Greinwald",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2779887318611145,
+            0.3506643772125244,
+            0.41968484967947006,
+            0.36293383222073317
+        ],
+        "source_file": "votes_fjcx0221_page2.csv"
+    },
+    {
+        "ids": [
+            3,
+            19
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "2009",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.9120250940322876,
+            0.9028273224830627,
+            0.9297846555709839,
+            0.9369742125272751
+        ],
+        "source_file": "votes_fjcx0221_page2.csv"
+    },
+    {
+        "ids": [
+            4,
+            10,
+            11,
+            16
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": [
+            "Phone Number",
+            "Location"
+        ],
+        "value": "70013 3630",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.013228756375610828,
+            0.9709508419036865,
+            0.11607528105378151,
+            0.9838903760537505
+        ],
+        "source_file": "votes_fjcx0221_page2.csv"
+    },
+    {
+        "ids": [
+            5,
+            12,
+            17
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Date",
+        "value": "April 5",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.30184370279312134,
+            0.1419532299041748,
+            0.35751613415777683,
+            0.15699072554707527
+        ],
+        "source_file": "votes_fjcx0221_page2.csv"
+    },
+    {
+        "ids": [
+            6,
+            13,
+            18
+        ],
+        "doc_id": "votes_fjcx0221_page2",
+        "pii_type": "Date",
+        "value": "9.00 a.m.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.26444557309150696,
+            0.17675764858722687,
+            0.34574102237820625,
+            0.18920284137129784
+        ],
+        "source_file": "votes_fjcx0221_page2.csv"
+    }
+]

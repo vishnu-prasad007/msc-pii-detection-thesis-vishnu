@@ -1,0 +1,149 @@
+[
+    {
+        "ids": [
+            0,
+            5,
+            10,
+            15,
+            17
+        ],
+        "doc_id": "votes_fjln0143_page4",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number",
+            "Location"
+        ],
+        "value": "6761 5 5 5 5 9",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            299,
+            1435,
+            620,
+            1479
+        ],
+        "source_file": "votes_fjln0143_page4.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            6,
+            12,
+            16
+        ],
+        "doc_id": "votes_fjln0143_page4",
+        "pii_type": [
+            "Location",
+            "Organization Name"
+        ],
+        "value": "KOOL",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            497,
+            473,
+            537,
+            486
+        ],
+        "source_file": "votes_fjln0143_page4.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            7,
+            13
+        ],
+        "doc_id": "votes_fjln0143_page4",
+        "pii_type": [
+            "Location",
+            "Organization Name"
+        ],
+        "value": "KOOL",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            324,
+            705,
+            363,
+            718
+        ],
+        "source_file": "votes_fjln0143_page4.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            8
+        ],
+        "doc_id": "votes_fjln0143_page4",
+        "pii_type": "Contract Number",
+        "value": "6761",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            299,
+            1435,
+            424,
+            1478
+        ],
+        "source_file": "votes_fjln0143_page4.csv",
+        "probability": 0.8204214183823086
+    },
+    {
+        "ids": [
+            4,
+            9,
+            14
+        ],
+        "doc_id": "votes_fjln0143_page4",
+        "pii_type": [
+            "Location",
+            "Email Address"
+        ],
+        "value": ":ttps://www.industrydocuments.ucsf.edu/docs/fjln0143 https://www.industrydocuments.ucsf.edu/docs/fjln0143 ttps://www.industrydocuments.ucsf.edu/docs/fjln0143",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            333,
+            1544,
+            948,
+            1571
+        ],
+        "source_file": "votes_fjln0143_page4.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            11
+        ],
+        "doc_id": "votes_fjln0143_page4",
+        "pii_type": "Location",
+        "value": "is",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            909,
+            293,
+            920,
+            313
+        ],
+        "source_file": "votes_fjln0143_page4.csv",
+        "probability": 0.11727918502265558
+    }
+]

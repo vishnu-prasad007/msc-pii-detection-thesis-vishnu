@@ -1,0 +1,76 @@
+[
+    {
+        "ids": [
+            0,
+            3,
+            7,
+            9
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "Rhona",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.12734082341194153,
+            0.07058658450841904,
+            0.16908637061715126,
+            0.08022764697670937
+        ],
+        "source_file": "votes_fhvy0227_page2.csv"
+    },
+    {
+        "ids": [
+            1,
+            2,
+            5,
+            6,
+            10,
+            11
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fhvy0227 https://www.industrydocuments.ucsf.edu",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.22242401540279388,
+            0.9808186888694763,
+            0.7785425633192062,
+            0.9974790886044502
+        ],
+        "source_file": "votes_fhvy0227_page2.csv"
+    },
+    {
+        "ids": [
+            4,
+            8
+        ],
+        "doc_id": "votes_fhvy0227_page2",
+        "pii_type": "Person Name",
+        "value": "CONFIDENTIALITY NOTICE",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.1274050772190094,
+            0.13119155168533325,
+            0.33365559205412865,
+            0.14094148110598326
+        ],
+        "source_file": "votes_fhvy0227_page2.csv"
+    }
+]

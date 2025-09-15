@@ -1,0 +1,618 @@
+[
+  {
+    "ids": [
+      0,
+      21,
+      43
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Person Name",
+    "value": "Julia Prata",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      533,
+      63,
+      562,
+      70
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      1,
+      22,
+      44
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Person Name",
+    "value": "MARABLE,HARTWELL",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      307,
+      163,
+      366,
+      172
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      2,
+      23,
+      45
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Location",
+    "value": "299 S Main St",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      122,
+      80,
+      165,
+      88
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      3,
+      24,
+      46
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Location",
+    "value": "Salt Lake City, UT 84111",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      122,
+      108,
+      200,
+      119
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      4,
+      27
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "Moore for Congress UT-R (136642)",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      308,
+      63,
+      402,
+      73
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      5,
+      28
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "Strategic Media Placement (6694)",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      307,
+      81,
+      399,
+      89
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      6
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "TeleRep/DC, Washington DC (2995)",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      307,
+      130,
+      405,
+      139
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      7
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "TeleRep Washington DC",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      307,
+      147,
+      373,
+      156
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      8,
+      29
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "Strategic Media Placement",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      30,
+      161,
+      112,
+      170
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      9,
+      30,
+      47
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "MOORE FOR CONGRESS",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      307,
+      246,
+      364,
+      253
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      10
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "Salt Lake City (KJZZ)",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      609,
+      425,
+      658,
+      434
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      11
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "Salt Lake City (KJZZ)",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      609,
+      442,
+      658,
+      450
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      12
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "Salt Lake City (KJZZ)",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      609,
+      460,
+      658,
+      467
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      13
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "Salt Lake City (KJZZ)",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      609,
+      476,
+      658,
+      483
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      14
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "Salt Lake City (KJZZ)",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      609,
+      493,
+      658,
+      500
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      15
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "Salt Lake City (KJZZ)",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      609,
+      509,
+      658,
+      516
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      16,
+      33,
+      49
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Date",
+    "value": "06/09/20",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      533,
+      33,
+      559,
+      41
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      17
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Date",
+    "value": "06/09/20",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      535,
+      49,
+      559,
+      58
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      18,
+      34
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Date",
+    "value": "6/9/20",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      789,
+      425,
+      804,
+      432
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      19,
+      40
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Date",
+    "value": "June 9 2020",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      122,
+      808,
+      162,
+      817
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      20,
+      42,
+      51
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Contract Number",
+    "value": "4396160",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      307,
+      32,
+      350,
+      41
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      25
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Location",
+    "value": "7669 Stagers Loop",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      30,
+      174,
+      88,
+      185
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      26
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Location",
+    "value": "Delaware, OH 43015",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      30,
+      189,
+      95,
+      199
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      31
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "KJZZ",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      122,
+      65,
+      139,
+      73
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      32,
+      48
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Organization Name",
+    "value": "KJZZ14",
+    "annotators": [
+      1,
+      2
+    ],
+    "bbox": [
+      31,
+      71,
+      113,
+      119
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      35
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Date",
+    "value": "6/9/20",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      789,
+      442,
+      804,
+      449
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      36
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Date",
+    "value": "6/9/20",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      788,
+      460,
+      805,
+      467
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      37
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Date",
+    "value": "6/9/20",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      789,
+      476,
+      804,
+      483
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      38
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Date",
+    "value": "6/9/20",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      789,
+      493,
+      804,
+      500
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      39
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Date",
+    "value": "6/9/20",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      788,
+      509,
+      805,
+      516
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      41
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Date",
+    "value": "01:14 PM",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      50,
+      808,
+      80,
+      817
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  },
+  {
+    "ids": [
+      50
+    ],
+    "doc_id": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1",
+    "pii_type": "Date",
+    "value": "01:14 PM on Tuesday, June 9 2020",
+    "annotators": [
+      2
+    ],
+    "bbox": [
+      50,
+      808,
+      162,
+      818
+    ],
+    "source_file": "votes_e910d31f-0c5a-5041-1a4d-1f1b39606992.pdf_page1.csv"
+  }
+]

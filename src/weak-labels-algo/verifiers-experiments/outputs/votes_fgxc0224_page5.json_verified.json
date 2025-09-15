@@ -1,0 +1,182 @@
+[
+  {
+    "ids": [
+      0,
+      6,
+      12
+    ],
+    "doc_id": "votes_fgxc0224_page5",
+    "pii_type": "Person Name",
+    "value": "William P. Whitlatch",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.1268540322780609,
+      0.42084720730781555,
+      0.32347381114959717,
+      0.43414668645709753
+    ],
+    "source_file": "votes_fgxc0224_page5.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      1,
+      7,
+      13
+    ],
+    "doc_id": "votes_fgxc0224_page5",
+    "pii_type": "Person Name",
+    "value": "Mr. E. J. Fackelman",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.1847720891237259,
+      0.5103060603141785,
+      0.3706231936812401,
+      0.5226737037301064
+    ],
+    "source_file": "votes_fgxc0224_page5.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      2,
+      8,
+      14
+    ],
+    "doc_id": "votes_fgxc0224_page5",
+    "pii_type": "Person Name",
+    "value": "Dr. J. L. Gemma",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.18525323271751404,
+      0.5250377058982849,
+      0.3331032395362854,
+      0.5372802363708615
+    ],
+    "source_file": "votes_fgxc0224_page5.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      3,
+      9,
+      15
+    ],
+    "doc_id": "votes_fgxc0224_page5",
+    "pii_type": "Person Name",
+    "value": "Mr. J. D. Weber",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.18476635217666626,
+      0.5396654605865479,
+      0.3335484005510807,
+      0.5521107036620378
+    ],
+    "source_file": "votes_fgxc0224_page5.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      4,
+      10,
+      16
+    ],
+    "doc_id": "votes_fgxc0224_page5",
+    "pii_type": "Person Name",
+    "value": "Mr. J. R. Moore",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.1843719184398651,
+      0.554613471031189,
+      0.33280767872929573,
+      0.5671932911500335
+    ],
+    "source_file": "votes_fgxc0224_page5.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "ids": [
+      5,
+      11,
+      17
+    ],
+    "doc_id": "votes_fgxc0224_page5",
+    "pii_type": "Date",
+    "value": "February 7, 1991",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      0.1289776861667633,
+      0.09480561316013336,
+      0.2842232286930084,
+      0.10955831874161959
+    ],
+    "source_file": "votes_fgxc0224_page5.csv",
+    "votes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+]

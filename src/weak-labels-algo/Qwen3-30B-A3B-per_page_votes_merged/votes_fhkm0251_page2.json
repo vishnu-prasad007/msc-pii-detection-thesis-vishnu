@@ -1,0 +1,572 @@
+[
+    {
+        "ids": [
+            0,
+            13,
+            39
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Coffey, Tracey R",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.11144032329320908,
+            0.11261841654777527,
+            0.23147738818079233,
+            0.12594348937273026
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            1,
+            14,
+            40
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Annemieke Glass",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.0893465206027031,
+            0.1425597369670868,
+            0.21227548271417618,
+            0.15359942987561226
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            2,
+            15,
+            43
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Rehkop, Brenda D",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.08917407691478729,
+            0.1576615869998932,
+            0.22008899506181479,
+            0.17095860466361046
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            3,
+            16,
+            44
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Annemike, Annemike",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.05784941837191582,
+            0.20455732941627502,
+            0.13520699366927147,
+            0.2160997288301587
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            4,
+            18,
+            41
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Annemieke Glass",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.110732801258564,
+            0.29331308603286743,
+            0.2343636006116867,
+            0.3045945595949888
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            5,
+            19,
+            46
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Coffey, Tracey R",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.08897442370653152,
+            0.3231615424156189,
+            0.20956795290112495,
+            0.3362998990342021
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            6,
+            23,
+            50
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Irma",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.8803715109825134,
+            0.33861666917800903,
+            0.9154071882367134,
+            0.34942988120019436
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            7
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Annemieke Glass (nl.pfscm.org)",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.27803969383239746,
+            0.3531753420829773,
+            0.5075013265013695,
+            0.36672135535627604
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            8,
+            27,
+            53
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Dear Tracey, Tracey",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.0586230494081974,
+            0.41291362047195435,
+            0.15208814665675163,
+            0.4256081450730562
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            9,
+            28,
+            55
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Organization Name",
+        "value": "pfscm.org",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.35077235102653503,
+            0.33832988142967224,
+            0.4382408633828163,
+            0.3518458930775523
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            10,
+            34,
+            56
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Date",
+        "value": "Monday, August 11, 2008 10:57 PM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.10696670413017273,
+            0.1276227980852127,
+            0.3643136825412512,
+            0.14057797752320766
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            11,
+            35,
+            57
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Date",
+        "value": "Thursday, August 07, 2008 8:52 AM",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1055140346288681,
+            0.30798232555389404,
+            0.3661989029496908,
+            0.321365837007761
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            12,
+            38,
+            60
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Contract Number",
+        "value": "MNKOI 0005175556",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.8185904622077942,
+            0.9856470823287964,
+            0.9674106687307358,
+            0.9962791530415416
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            17,
+            45
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Tracey",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.058331988751888275,
+            0.2614748477935791,
+            0.10869503393769264,
+            0.27406324725598097
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            20,
+            47
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Marcel Hendriks",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.23094484210014343,
+            0.33831533789634705,
+            0.3458322435617447,
+            0.34949014242738485
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            21,
+            48
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Pepijn Grau",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.44533684849739075,
+            0.33854660391807556,
+            0.5286131426692009,
+            0.35152080468833447
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            22,
+            49
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Louise Groenenboom",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.6288323402404785,
+            0.3384261727333069,
+            0.7811539620161057,
+            0.3494843803346157
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            24,
+            51
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Karsten",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.05889769643545151,
+            0.3534359633922577,
+            0.11782418563961983,
+            0.365888518281281
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            25,
+            52
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Dominique Zwinkels",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.12412525713443756,
+            0.35345157980918884,
+            0.2729656249284744,
+            0.36640546564012766
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            26,
+            42
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Person Name",
+        "value": "Annemieke Glass",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.27803969383239746,
+            0.3531753420829773,
+            0.4009476341307163,
+            0.3645517658442259
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            29
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Organization Name",
+        "value": "nl.pfscm.org",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.21690870821475983,
+            0.14250557124614716,
+            0.3181131184101105,
+            0.15596781112253666
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            30
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Organization Name",
+        "value": "nl.pfscm.org",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.23919230699539185,
+            0.29357874393463135,
+            0.3407491371035576,
+            0.30638847686350346
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            31
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Organization Name",
+        "value": "nl.pfscm.org",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.40565943717956543,
+            0.35317903757095337,
+            0.5075013265013695,
+            0.36672135535627604
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            32
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Organization Name",
+        "value": "Mallinckrodt",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.31002143025398254,
+            0.7758119106292725,
+            0.4058290496468544,
+            0.7861726693809032
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            33,
+            54
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Organization Name",
+        "value": "SCMS",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.12109844386577606,
+            0.046557363122701645,
+            0.1675896756350994,
+            0.05647279880940914
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            36
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Contract Number",
+        "value": "2804-0 - 1183730",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            0.4501918852329254,
+            0.5124751925468445,
+            0.583733893930912,
+            0.5234010955318809
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            37,
+            59
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Contract Number",
+        "value": "2805-0 - 1183732",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.5099027752876282,
+            0.5125044584274292,
+            0.7619651183485985,
+            0.5229608407244086
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    },
+    {
+        "ids": [
+            58
+        ],
+        "doc_id": "votes_fhkm0251_page2",
+        "pii_type": "Contract Number",
+        "value": "order 2804-0 - 1183730",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.22831498086452484,
+            0.5124751925468445,
+            0.583733893930912,
+            0.5234010955318809
+        ],
+        "source_file": "votes_fhkm0251_page2.csv"
+    }
+]

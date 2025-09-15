@@ -1,0 +1,267 @@
+[
+    {
+        "ids": [
+            0,
+            9,
+            20
+        ],
+        "doc_id": "votes_fhmj0169_page1",
+        "pii_type": "Person Name",
+        "value": "C. F. VEALEY",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1014,
+            4034,
+            1367,
+            4077
+        ],
+        "source_file": "votes_fhmj0169_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            1,
+            10,
+            21
+        ],
+        "doc_id": "votes_fhmj0169_page1",
+        "pii_type": "Person Name",
+        "value": "E. L. watto goe",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            809,
+            4173,
+            1417,
+            4296
+        ],
+        "source_file": "votes_fhmj0169_page1.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            2,
+            8,
+            11,
+            19,
+            22
+        ],
+        "doc_id": "votes_fhmj0169_page1",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "2031323483",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2463,
+            3869,
+            3069,
+            3983
+        ],
+        "source_file": "votes_fhmj0169_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            13,
+            23
+        ],
+        "doc_id": "votes_fhmj0169_page1",
+        "pii_type": "Organization Name",
+        "value": "TIO ENGINEERINGS",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1192,
+            1350,
+            1625,
+            1393
+        ],
+        "source_file": "votes_fhmj0169_page1.csv",
+        "probability": 0.9937329907926641
+    },
+    {
+        "ids": [
+            4,
+            15,
+            26
+        ],
+        "doc_id": "votes_fhmj0169_page1",
+        "pii_type": "Date",
+        "value": "01/17/94",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2773,
+            297,
+            3008,
+            339
+        ],
+        "source_file": "votes_fhmj0169_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            5,
+            16,
+            27
+        ],
+        "doc_id": "votes_fhmj0169_page1",
+        "pii_type": "Date",
+        "value": "1/06/94",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2775,
+            4030,
+            2974,
+            4080
+        ],
+        "source_file": "votes_fhmj0169_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            6,
+            17,
+            28
+        ],
+        "doc_id": "votes_fhmj0169_page1",
+        "pii_type": "Date",
+        "value": "1/06/94",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1051,
+            4102,
+            1246,
+            4145
+        ],
+        "source_file": "votes_fhmj0169_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            7,
+            18,
+            29
+        ],
+        "doc_id": "votes_fhmj0169_page1",
+        "pii_type": "Date",
+        "value": "1/01/94",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2919,
+            4231,
+            3115,
+            4277
+        ],
+        "source_file": "votes_fhmj0169_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            12
+        ],
+        "doc_id": "votes_fhmj0169_page1",
+        "pii_type": "Organization Name",
+        "value": "NEW GRAPHICS",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            2287,
+            423,
+            2633,
+            464
+        ],
+        "source_file": "votes_fhmj0169_page1.csv",
+        "probability": 0.050651127642433146
+    },
+    {
+        "ids": [
+            14
+        ],
+        "doc_id": "votes_fhmj0169_page1",
+        "pii_type": "Organization Name",
+        "value": "BRICA",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1450,
+            2145,
+            1597,
+            2185
+        ],
+        "source_file": "votes_fhmj0169_page1.csv",
+        "probability": 0.050651127642433146
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fhmj0169_page1",
+        "pii_type": "Organization Name",
+        "value": "FULLER",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1016,
+            1753,
+            1191,
+            1793
+        ],
+        "source_file": "votes_fhmj0169_page1.csv",
+        "probability": 0.05285594042746515
+    },
+    {
+        "ids": [
+            25
+        ],
+        "doc_id": "votes_fhmj0169_page1",
+        "pii_type": "Organization Name",
+        "value": "FINDLEY",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1017,
+            1819,
+            1227,
+            1859
+        ],
+        "source_file": "votes_fhmj0169_page1.csv",
+        "probability": 0.05285594042746515
+    }
+]

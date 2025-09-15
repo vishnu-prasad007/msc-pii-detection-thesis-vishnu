@@ -1,0 +1,281 @@
+[
+    {
+        "ids": [
+            0,
+            12,
+            21
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Person Name",
+        "value": "Edward A. Horrigam, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2263660579919815,
+            0.28057461977005005,
+            0.4467138256877661,
+            0.2931712996214628
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            6,
+            17,
+            24,
+            30
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "R. J. Reynolds Tobacco Company",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18708795309066772,
+            0.3062663972377777,
+            0.4803519695997238,
+            0.3179931975901127
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            13,
+            25
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Location",
+        "value": "401- North Main Street",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18775561451911926,
+            0.3184429407119751,
+            0.39189157634973526,
+            0.32877888064831495
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            14,
+            26
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Location",
+        "value": "Winston-Salem North Carolina 27102",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.18757759034633636,
+            0.3310530483722687,
+            0.5295920260250568,
+            0.34210664220154285
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            15,
+            28
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Location",
+        "value": "66\u00a3 Fitth Avenue. New York. New York 10019",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1769171506166458,
+            0.812161386013031,
+            0.40601455233991146,
+            0.8218153472989798
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            16,
+            29
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Organization Name",
+        "value": "Lorillard",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.17724645137786865,
+            0.05611924082040787,
+            0.4268476814031601,
+            0.11157264932990074
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            7
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Organization Name",
+        "value": "N.A.T.D.",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.4502304196357727,
+            0.5755382776260376,
+            0.5255699753761292,
+            0.5850525191053748
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            8
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Organization Name",
+        "value": "N.A.T.D.",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.3226058781147003,
+            0.6507429480552673,
+            0.3988235890865326,
+            0.6604110794141889
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            18,
+            27,
+            31
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "A OF LOEWS THEATRES.INC. LOWES",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.1767149120569229,
+            0.7996055483818054,
+            0.35197481513023376,
+            0.808727690950036
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            19,
+            32
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Date",
+        "value": "March 15, 1982",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5391509532928467,
+            0.2036200314760208,
+            0.6777606345713139,
+            0.21557757165282965
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            11,
+            20,
+            33
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Contract Number",
+        "value": "USX156 405",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.9162018895149231,
+            0.9878884553909302,
+            0.9826499782502651,
+            0.9962129183113575
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Person Name",
+        "value": "Linc Ball",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.4991703927516937,
+            0.4603902995586395,
+            0.5870190635323524,
+            0.4706052653491497
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    },
+    {
+        "ids": [
+            23
+        ],
+        "doc_id": "votes_fhvb0035_page1",
+        "pii_type": "Person Name",
+        "value": "Jim Davis",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.538038432598114,
+            0.4987085461616516,
+            0.6266901902854443,
+            0.5088664693757892
+        ],
+        "source_file": "votes_fhvb0035_page1.csv"
+    }
+]

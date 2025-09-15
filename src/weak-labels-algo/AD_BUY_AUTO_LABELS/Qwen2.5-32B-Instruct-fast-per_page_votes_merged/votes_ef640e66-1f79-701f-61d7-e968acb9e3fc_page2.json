@@ -1,0 +1,782 @@
+[
+  {
+    "ids": [
+      0,
+      31,
+      48
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "KSTC-TV, LLC",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      667,
+      52,
+      742,
+      61
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      1,
+      30,
+      47
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Organization Name",
+    "value": "House Majority PAC",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      439,
+      36,
+      539,
+      45
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      2,
+      32
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "04/08/20 15:42:14 Print Date:",
+    "annotators": [
+      0,
+      1
+    ],
+    "bbox": [
+      560,
+      20,
+      706,
+      28
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      3
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "10/20/20",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      120,
+      68,
+      163,
+      76
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      4
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "10/26/20",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      172,
+      68,
+      215,
+      76
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      5,
+      49
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "10/20/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      75,
+      129,
+      118,
+      137
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      6,
+      50
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "10/26/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      140,
+      129,
+      183,
+      137
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      7,
+      51
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "10/20/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      97,
+      142,
+      140,
+      150
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      8,
+      52
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "10/26/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      146,
+      142,
+      189,
+      150
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      9,
+      10,
+      53
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "10/25/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      97,
+      190,
+      140,
+      198
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      11,
+      55
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "10/19/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      75,
+      225,
+      118,
+      233
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      12,
+      54
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "10/25/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      140,
+      225,
+      183,
+      233
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      13,
+      56
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "10/20/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      97,
+      238,
+      140,
+      246
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      14,
+      57
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "10/26/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      146,
+      238,
+      189,
+      246
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      15
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "10/20/20",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      75,
+      273,
+      118,
+      281
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      16
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "10/26/20",
+    "annotators": [
+      0
+    ],
+    "bbox": [
+      140,
+      273,
+      183,
+      281
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      17,
+      58
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "10/20/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      97,
+      285,
+      140,
+      294
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      18,
+      59
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "10/26/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      146,
+      285,
+      189,
+      294
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      19,
+      20,
+      60
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "10/25/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      97,
+      333,
+      140,
+      341
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      21,
+      62
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "10/19/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      75,
+      368,
+      118,
+      376
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      22,
+      61
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "10/25/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      140,
+      368,
+      183,
+      376
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      23,
+      63
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "10/20/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      97,
+      381,
+      140,
+      389
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      24,
+      64
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "10/26/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      146,
+      381,
+      189,
+      389
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      25,
+      65
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "10/20/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      97,
+      428,
+      140,
+      437
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      26,
+      66
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "10/26/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      146,
+      429,
+      189,
+      437
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      27,
+      67
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "10/20/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      97,
+      476,
+      140,
+      485
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      28,
+      68
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "10/26/20",
+    "annotators": [
+      0,
+      2
+    ],
+    "bbox": [
+      146,
+      476,
+      189,
+      484
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      29,
+      45,
+      46,
+      69
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": [
+      "Contract Number",
+      "Invoice Number"
+    ],
+    "value": "384678",
+    "annotators": [
+      0,
+      1,
+      2
+    ],
+    "bbox": [
+      119,
+      36,
+      157,
+      44
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      33
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "Flight Dates: 10/20/20 10/26/20",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      25,
+      68,
+      215,
+      77
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      34
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "Week: 10/20/20 10/26/20",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      40,
+      129,
+      183,
+      137
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      35
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "N 2 KSTC 10/20/20 10/26/20",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      28,
+      142,
+      189,
+      150
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      36
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "Week: 10/20/20 10/26/20",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      40,
+      177,
+      183,
+      185
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      37
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "N 3 KSTC 10/25/20 10/25/20",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      28,
+      190,
+      140,
+      198
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      38
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "Week: 10/19/20 10/25/20",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      40,
+      225,
+      183,
+      233
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      39
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "N 7 KSTC 10/20/20 10/26/20",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      28,
+      381,
+      189,
+      389
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      40
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "Week: 10/20/20 10/26/20",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      40,
+      416,
+      183,
+      424
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      41
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "N 8 KSTC 10/20/20 10/26/20",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      28,
+      428,
+      189,
+      437
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      42
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "Week: 10/20/20 10/26/20",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      40,
+      464,
+      183,
+      472
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      43
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "N 9 KSTC 10/20/20 10/26/20",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      28,
+      476,
+      189,
+      485
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  },
+  {
+    "ids": [
+      44
+    ],
+    "doc_id": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2",
+    "pii_type": "Date",
+    "value": "Week: 10/20/20 10/26/20",
+    "annotators": [
+      1
+    ],
+    "bbox": [
+      40,
+      511,
+      183,
+      519
+    ],
+    "source_file": "votes_ef640e66-1f79-701f-61d7-e968acb9e3fc.pdf_page2.csv"
+  }
+]

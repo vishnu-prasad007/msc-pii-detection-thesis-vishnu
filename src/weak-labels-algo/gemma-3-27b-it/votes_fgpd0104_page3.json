@@ -1,0 +1,205 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            14,
+            17
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "February 14, 1992",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            880,
+            597,
+            1168,
+            635
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "probability": 0.9999987397789659
+    },
+    {
+        "ids": [
+            1,
+            8,
+            18
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Contract Number",
+        "value": "63583",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            827,
+            678,
+            946,
+            709
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            2,
+            9,
+            19
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Contract Number",
+        "value": "63584",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1208,
+            677,
+            1328,
+            709
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            3,
+            10,
+            20
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Contract Number",
+        "value": "63583",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            703,
+            1299,
+            801,
+            1325
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            4,
+            11,
+            21
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Contract Number",
+        "value": "63584",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1113,
+            1299,
+            1210,
+            1324
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            5,
+            12,
+            22
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Contract Number",
+        "value": "0145C",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1193,
+            1947,
+            1294,
+            1978
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            6,
+            13,
+            23
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Contract Number",
+        "value": "0145A",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1192,
+            2027,
+            1297,
+            2058
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "probability": 0.9982614997233888
+    },
+    {
+        "ids": [
+            15
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Location",
+        "value": "https://www.industrydocuments.ucsf.edu/docs/fgpd0104",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            487,
+            2249,
+            1354,
+            2286
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            16
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Organization Name",
+        "value": "Midas PF 17",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            626,
+            599,
+            821,
+            629
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "probability": 0.023593355075766473
+    }
+]

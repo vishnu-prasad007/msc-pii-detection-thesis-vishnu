@@ -1,0 +1,327 @@
+[
+    {
+        "ids": [
+            0,
+            13,
+            25
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. Kloepfer",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            539,
+            330,
+            884,
+            374
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            14,
+            26
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Person Name",
+        "value": "Paul Knopick",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            542,
+            421,
+            887,
+            468
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            15,
+            27
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Person Name",
+        "value": "Tom Humber",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            416,
+            2385,
+            693,
+            2424
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Location",
+        "value": "Hong Kong",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1680,
+            754,
+            1959,
+            798
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            4
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Location",
+        "value": "Hong Kong",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            536,
+            940,
+            792,
+            985
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            5,
+            16,
+            28
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Organization Name",
+        "value": "UPI",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1079,
+            753,
+            1167,
+            789
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            17
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Organization Name",
+        "value": "National Cancer Institute",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            678,
+            987,
+            1418,
+            1024
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            7,
+            19,
+            29
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Organization Name",
+        "value": "NCI",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            993,
+            1033,
+            1077,
+            1069
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            8,
+            18
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Organization Name",
+        "value": "FTC",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1480,
+            1594,
+            1568,
+            1631
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            9,
+            21,
+            31
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Date",
+        "value": "AUG 4 1981",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1760,
+            302,
+            2034,
+            376
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            10,
+            22,
+            32
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Date",
+        "value": "August 4, 1981",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            539,
+            518,
+            938,
+            565
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            11,
+            23,
+            33
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Date",
+        "value": "2/19/81",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1910,
+            1497,
+            2132,
+            1541
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            12,
+            24,
+            34
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Contract Number",
+        "value": "T109721082",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2144,
+            3121,
+            2424,
+            3166
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            20
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Organization Name",
+        "value": "NCI",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            701,
+            2056,
+            807,
+            2100
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            30
+        ],
+        "doc_id": "votes_fjbv0033_page1",
+        "pii_type": "Organization Name",
+        "value": "NCI",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            536,
+            1125,
+            619,
+            1162
+        ],
+        "source_file": "votes_fjbv0033_page1.csv",
+        "probability": 0.3333333333333333
+    }
+]

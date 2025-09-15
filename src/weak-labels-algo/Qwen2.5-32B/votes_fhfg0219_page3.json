@@ -1,0 +1,234 @@
+[
+    {
+        "ids": [
+            0,
+            8,
+            16,
+            21
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "Dr. A. W. Spears, et al Spears",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            399,
+            337,
+            952,
+            400
+        ],
+        "source_file": "votes_fhfg0219_page3.csv",
+        "probability": 0.9999918784175889
+    },
+    {
+        "ids": [
+            1,
+            9,
+            17,
+            23
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "Haney Bell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1542,
+            1039,
+            1817,
+            1101
+        ],
+        "source_file": "votes_fhfg0219_page3.csv",
+        "probability": 0.9999918784175889
+    },
+    {
+        "ids": [
+            2,
+            10
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": "Person Name",
+        "value": "Jack Reilly",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1544,
+            1321,
+            1814,
+            1380
+        ],
+        "source_file": "votes_fhfg0219_page3.csv",
+        "probability": 0.9041733889926583
+    },
+    {
+        "ids": [
+            3,
+            11,
+            18,
+            24
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "Ron Milstein",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1523,
+            1946,
+            1838,
+            1995
+        ],
+        "source_file": "votes_fhfg0219_page3.csv",
+        "probability": 0.9999918784175889
+    },
+    {
+        "ids": [
+            4,
+            12,
+            19,
+            25
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": [
+            "Person Name",
+            "Contract Number"
+        ],
+        "value": "Michael Shannon",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1523,
+            2435,
+            1945,
+            2486
+        ],
+        "source_file": "votes_fhfg0219_page3.csv",
+        "probability": 0.9999918784175889
+    },
+    {
+        "ids": [
+            5,
+            13
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": "Organization Name",
+        "value": "National Tobacco Council",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            617,
+            1667,
+            1273,
+            1725
+        ],
+        "source_file": "votes_fhfg0219_page3.csv",
+        "probability": 0.722640459594319
+    },
+    {
+        "ids": [
+            6,
+            14
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": "Organization Name",
+        "value": "Lorillard Political Action Committee",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            617,
+            1737,
+            1532,
+            1795
+        ],
+        "source_file": "votes_fhfg0219_page3.csv",
+        "probability": 0.722640459594319
+    },
+    {
+        "ids": [
+            7,
+            15,
+            20
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": "Date",
+        "value": "August 9, 1999",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            399,
+            480,
+            773,
+            539
+        ],
+        "source_file": "votes_fhfg0219_page3.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": "Contract Number",
+        "value": "Insurance and Taxes:",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            398,
+            760,
+            911,
+            809
+        ],
+        "source_file": "votes_fhfg0219_page3.csv",
+        "probability": 0.06019907678829865
+    },
+    {
+        "ids": [
+            26
+        ],
+        "doc_id": "votes_fhfg0219_page3",
+        "pii_type": "Contract Number",
+        "value": "Haney Bell",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1531,
+            3271,
+            1802,
+            3332
+        ],
+        "source_file": "votes_fhfg0219_page3.csv",
+        "probability": 0.06019907678829865
+    }
+]

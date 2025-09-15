@@ -1,0 +1,68 @@
+[
+    {
+        "ids": [
+            0,
+            3
+        ],
+        "doc_id": "votes_fhfx0251_page2",
+        "pii_type": "Email Address",
+        "value": "connie.kisinger@covidien.com",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.06147130951285362,
+            0.04685749486088753,
+            0.25811268016695976,
+            0.06007558852434158
+        ],
+        "source_file": "votes_fhfx0251_page2.csv"
+    },
+    {
+        "ids": [
+            1,
+            2,
+            4,
+            5,
+            6,
+            8
+        ],
+        "doc_id": "votes_fhfx0251_page2",
+        "pii_type": [
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "0005150395 MNKOI",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.8185326457023621,
+            0.9856570363044739,
+            0.9684131219983101,
+            0.9963965667411685
+        ],
+        "source_file": "votes_fhfx0251_page2.csv"
+    },
+    {
+        "ids": [
+            7
+        ],
+        "doc_id": "votes_fhfx0251_page2",
+        "pii_type": "Organization Name",
+        "value": "MNKOI",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            0.8185326457023621,
+            0.9857821464538574,
+            0.873138889670372,
+            0.9963965667411685
+        ],
+        "source_file": "votes_fhfx0251_page2.csv"
+    }
+]

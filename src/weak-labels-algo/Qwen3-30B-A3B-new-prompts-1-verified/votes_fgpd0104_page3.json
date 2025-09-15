@@ -1,0 +1,284 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            12
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Date",
+        "value": "February 14, 1992 1992.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            880,
+            597,
+            1168,
+            635
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "votes": [
+            0,
+            1,
+            1,
+            1,
+            0,
+            0
+        ],
+        "probability": 0.23354713282704523
+    },
+    {
+        "ids": [
+            1,
+            8
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Contract Number",
+        "value": "63583",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            827,
+            678,
+            946,
+            709
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "votes": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0
+        ],
+        "probability": 0.001994199745248797
+    },
+    {
+        "ids": [
+            2,
+            9
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Contract Number",
+        "value": "63584",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1208,
+            677,
+            1328,
+            709
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "votes": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0
+        ],
+        "probability": 0.001994199745248797
+    },
+    {
+        "ids": [
+            3,
+            10
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Contract Number",
+        "value": "#63583",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            703,
+            1299,
+            801,
+            1325
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "votes": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0
+        ],
+        "probability": 0.001994199745248797
+    },
+    {
+        "ids": [
+            4,
+            11
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Contract Number",
+        "value": "#63584",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            1113,
+            1299,
+            1210,
+            1324
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "votes": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0
+        ],
+        "probability": 0.001994199745248797
+    },
+    {
+        "ids": [
+            5
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Contract Number",
+        "value": "0145C",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1193,
+            1947,
+            1294,
+            1978
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "votes": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "probability": 4.346260835575876e-05
+    },
+    {
+        "ids": [
+            6
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Contract Number",
+        "value": "0145A",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1192,
+            2027,
+            1297,
+            2058
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "votes": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "probability": 4.346260835575876e-05
+    },
+    {
+        "ids": [
+            13
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Contract Number",
+        "value": "40 Deal Kit (63583) 100 Deal Kit (63584)",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            639,
+            677,
+            1328,
+            709
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "votes": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "probability": 4.346260835575876e-05
+    },
+    {
+        "ids": [
+            14
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Contract Number",
+        "value": "Display Payment $0.10 per pack 0145C",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            424,
+            1946,
+            1294,
+            1987
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "votes": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "probability": 4.346260835575876e-05
+    },
+    {
+        "ids": [
+            15
+        ],
+        "doc_id": "votes_fgpd0104_page3",
+        "pii_type": "Contract Number",
+        "value": "Free Packs ** 0145A",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            423,
+            2027,
+            1297,
+            2059
+        ],
+        "source_file": "votes_fgpd0104_page3.csv",
+        "votes": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "probability": 4.346260835575876e-05
+    }
+]

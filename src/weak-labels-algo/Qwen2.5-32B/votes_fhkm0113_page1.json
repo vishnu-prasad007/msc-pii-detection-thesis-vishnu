@@ -1,0 +1,236 @@
+[
+    {
+        "ids": [
+            0,
+            6,
+            13
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Person Name",
+        "value": "W. R\u00f5er",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            976,
+            505,
+            1139,
+            536
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            1,
+            7,
+            14
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Person Name",
+        "value": "J.B. Boder",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            975,
+            553,
+            1210,
+            584
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            2,
+            8,
+            15
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Person Name",
+        "value": "W. R\u00f6er",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1582,
+            2451,
+            1745,
+            2483
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            3,
+            9,
+            16
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Person Name",
+        "value": "E. Grossen",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1952,
+            2597,
+            2190,
+            2629
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.9980261363412509
+    },
+    {
+        "ids": [
+            4
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Organization Name",
+        "value": "FTR",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            976,
+            358,
+            1049,
+            386
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.1028057144625539
+    },
+    {
+        "ids": [
+            5,
+            11,
+            17
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Date",
+        "value": "28/04/78",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            471,
+            2894,
+            653,
+            2930
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.9993612816658006
+    },
+    {
+        "ids": [
+            10,
+            18
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": [
+            "Organization Name",
+            "Contract Number"
+        ],
+        "value": "FTR Manufacturing and QC Projects",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            976,
+            353,
+            1744,
+            393
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            12
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "63",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            1193,
+            3300,
+            1249,
+            3334
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.10790801090935494
+    },
+    {
+        "ids": [
+            19
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "KLK Dryer Tests",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            468,
+            826,
+            814,
+            865
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.06019907678829865
+    },
+    {
+        "ids": [
+            20
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "Process Control in the Primary",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            468,
+            1124,
+            1167,
+            1162
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.06019907678829865
+    },
+    {
+        "ids": [
+            21
+        ],
+        "doc_id": "votes_fhkm0113_page1",
+        "pii_type": "Contract Number",
+        "value": "Stem Expansion",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            468,
+            1495,
+            794,
+            1533
+        ],
+        "source_file": "votes_fhkm0113_page1.csv",
+        "probability": 0.06019907678829865
+    }
+]

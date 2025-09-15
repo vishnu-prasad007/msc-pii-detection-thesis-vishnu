@@ -1,0 +1,205 @@
+[
+    {
+        "ids": [
+            0,
+            9
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Person Name",
+        "value": "KARA QUICK",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            831,
+            464,
+            1047,
+            496
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "probability": 0.9223996674224194
+    },
+    {
+        "ids": [
+            1,
+            10,
+            18
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Location",
+        "value": "1 WILEY DR",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            833,
+            714,
+            1027,
+            746
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "probability": 0.9965290942566549
+    },
+    {
+        "ids": [
+            2,
+            11,
+            19
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Location",
+        "value": "SOMERSET",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            834,
+            769,
+            1017,
+            800
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "probability": 0.9965290942566549
+    },
+    {
+        "ids": [
+            3,
+            7,
+            12,
+            20
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": [
+            "Contract Number",
+            "Location"
+        ],
+        "value": "08873",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            830,
+            875,
+            930,
+            906
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "probability": 0.9991601006789272
+    },
+    {
+        "ids": [
+            4,
+            13,
+            21
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Location",
+        "value": "UNITED STATES",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            831,
+            929,
+            1095,
+            961
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "probability": 0.9965290942566549
+    },
+    {
+        "ids": [
+            5,
+            14
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Organization Name",
+        "value": "JOHNWILEY & SONS INC",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            830,
+            631,
+            1243,
+            663
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "probability": 0.7669708737418256
+    },
+    {
+        "ids": [
+            6,
+            15,
+            22
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Date",
+        "value": "05/13/2011 Fri",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            831,
+            201,
+            1064,
+            231
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            8,
+            16,
+            23
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Contract Number",
+        "value": "MNKOI 0006104165",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2088,
+            3304,
+            2466,
+            3340
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "probability": 0.9354416064716374
+    },
+    {
+        "ids": [
+            17
+        ],
+        "doc_id": "votes_fhyx0253_page1",
+        "pii_type": "Phone Number",
+        "value": "Transaction Description: JWS WILEY PUBLISHERS800-758-9477 NJ",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            135,
+            284,
+            1515,
+            322
+        ],
+        "source_file": "votes_fhyx0253_page1.csv",
+        "probability": 0.022236344625576943
+    }
+]

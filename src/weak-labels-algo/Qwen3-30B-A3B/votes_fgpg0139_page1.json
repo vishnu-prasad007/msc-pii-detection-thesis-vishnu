@@ -1,0 +1,155 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            10
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. R. D. Chumney, Jr.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            179,
+            209,
+            471,
+            230
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            1,
+            8,
+            11
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Person Name",
+        "value": "J. E. Mann",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            181,
+            275,
+            315,
+            292
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            2,
+            9,
+            12
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Person Name",
+        "value": "D. E. Cawthon",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            220,
+            275,
+            554,
+            292
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "probability": 0.9999239053749461
+    },
+    {
+        "ids": [
+            3,
+            13
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Location",
+        "value": "Reidsville",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            578,
+            888,
+            711,
+            906
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "probability": 0.9565216787357466
+    },
+    {
+        "ids": [
+            4,
+            14
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Organization Name",
+        "value": "PT Bukit Muria Jaya",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            394,
+            1109,
+            645,
+            1129
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "probability": 0.8389384874757518
+    },
+    {
+        "ids": [
+            5,
+            15
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Organization Name",
+        "value": "Mundet",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            392,
+            1131,
+            473,
+            1148
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "probability": 0.8389384874757518
+    },
+    {
+        "ids": [
+            6,
+            16
+        ],
+        "doc_id": "votes_fgpg0139_page1",
+        "pii_type": "Date",
+        "value": "May 13, 1993",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            871,
+            209,
+            1030,
+            230
+        ],
+        "source_file": "votes_fgpg0139_page1.csv",
+        "probability": 0.9803386886027677
+    }
+]

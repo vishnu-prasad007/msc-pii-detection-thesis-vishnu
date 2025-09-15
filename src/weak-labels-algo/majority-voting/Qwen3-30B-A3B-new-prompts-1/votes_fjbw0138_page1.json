@@ -1,0 +1,218 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            15
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Organization Name",
+        "value": "B&W",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            156,
+            153,
+            278,
+            199
+        ],
+        "source_file": "votes_fjbw0138_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            8
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Organization Name",
+        "value": "B&W",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            354,
+            485,
+            407,
+            504
+        ],
+        "source_file": "votes_fjbw0138_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            2,
+            9
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Organization Name",
+        "value": "Now",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            576,
+            1130,
+            625,
+            1151
+        ],
+        "source_file": "votes_fjbw0138_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            3,
+            10,
+            17
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Organization Name",
+        "value": "Virginia Slims",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            631,
+            1129,
+            770,
+            1152
+        ],
+        "source_file": "votes_fjbw0138_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            11,
+            18
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Organization Name",
+        "value": "Merit Ultima",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            778,
+            1131,
+            895,
+            1150
+        ],
+        "source_file": "votes_fjbw0138_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            13,
+            20
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Date",
+        "value": "09/03/96",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            677,
+            1335,
+            763,
+            1354
+        ],
+        "source_file": "votes_fjbw0138_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            14,
+            21
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Contract Number",
+        "value": "C #2311 (CC)",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            677,
+            1309,
+            812,
+            1333
+        ],
+        "source_file": "votes_fjbw0138_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            12,
+            19
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Organization Name",
+        "value": "Marlboro",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            268,
+            1153,
+            360,
+            1172
+        ],
+        "source_file": "votes_fjbw0138_page1.csv",
+        "probability": 0.6666666666666666
+    },
+    {
+        "ids": [
+            16
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Organization Name",
+        "value": "CARLTON",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            318,
+            366,
+            461,
+            390
+        ],
+        "source_file": "votes_fjbw0138_page1.csv",
+        "probability": 0.3333333333333333
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fjbw0138_page1",
+        "pii_type": "Contract Number",
+        "value": "621915825",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            824,
+            1366,
+            1007,
+            1391
+        ],
+        "source_file": "votes_fjbw0138_page1.csv",
+        "probability": 0.3333333333333333
+    }
+]

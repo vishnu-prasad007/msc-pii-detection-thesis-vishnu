@@ -1,0 +1,216 @@
+[
+    {
+        "ids": [
+            0,
+            10,
+            18
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Person Name",
+        "value": "Mr. Stuart Facey",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2055092304944992,
+            0.21727558970451355,
+            0.29790960997343063,
+            0.22858978807926178
+        ],
+        "source_file": "votes_fgck0201_page1.csv"
+    },
+    {
+        "ids": [
+            1,
+            11,
+            19
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Person Name",
+        "value": "Stuart",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.23392397165298462,
+            0.31609606742858887,
+            0.27059346064925194,
+            0.32626271340996027
+        ],
+        "source_file": "votes_fgck0201_page1.csv"
+    },
+    {
+        "ids": [
+            2,
+            12,
+            20
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Person Name",
+        "value": "Eleanor Yu",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.19890804588794708,
+            0.6157618165016174,
+            0.2647286131978035,
+            0.6247213799506426
+        ],
+        "source_file": "votes_fgck0201_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            13,
+            21
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Location",
+        "value": "Woking, Surrey GU21 1YB",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.20495417714118958,
+            0.2669507563114166,
+            0.3523246217519045,
+            0.2781250113621354
+        ],
+        "source_file": "votes_fgck0201_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            14,
+            22
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Location",
+        "value": "Florida Florida.",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2161312848329544,
+            0.44967272877693176,
+            0.25870470330119133,
+            0.458382242359221
+        ],
+        "source_file": "votes_fgck0201_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            23
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Location",
+        "value": "England",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.2040199190378189,
+            0.2791522145271301,
+            0.24846963956952095,
+            0.290208550170064
+        ],
+        "source_file": "votes_fgck0201_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            15,
+            24
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Organization Name",
+        "value": "BAAT [U.K. and Export] Limited",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.20467810332775116,
+            0.24196866154670715,
+            0.38453759625554085,
+            0.25408334750682116
+        ],
+        "source_file": "votes_fgck0201_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            16,
+            25
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Date",
+        "value": "June 17, 1991",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.20554859936237335,
+            0.18104960024356842,
+            0.279416736215353,
+            0.1912702163681388
+        ],
+        "source_file": "votes_fgck0201_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            17
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Date",
+        "value": "July 1st",
+        "annotators": [
+            0,
+            1
+        ],
+        "bbox": [
+            0.6127371788024902,
+            0.4374922811985016,
+            0.6538897277787328,
+            0.448377656750381
+        ],
+        "source_file": "votes_fgck0201_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            26
+        ],
+        "doc_id": "votes_fgck0201_page1",
+        "pii_type": "Contract Number",
+        "value": "F.02",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            0.6770395040512085,
+            0.12654384970664978,
+            0.7043972089886665,
+            0.13299337355419993
+        ],
+        "source_file": "votes_fgck0201_page1.csv"
+    }
+]

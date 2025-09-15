@@ -1,0 +1,366 @@
+[
+    {
+        "ids": [
+            0,
+            16,
+            31
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Mr H F Dymond - Southampton",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.3127117455005646,
+            0.2410685271024704,
+            0.5205825790762901,
+            0.2530742222443223
+        ],
+        "source_file": "votes_fgmp0191_page1.csv"
+    },
+    {
+        "ids": [
+            1
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Dr R Baker - Southampton",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.31289246678352356,
+            0.25604474544525146,
+            0.48498088866472244,
+            0.267532660625875
+        ],
+        "source_file": "votes_fgmp0191_page1.csv"
+    },
+    {
+        "ids": [
+            2
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Mr I C Brown - Southampton",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.3129178285598755,
+            0.2712570130825043,
+            0.5033479332923889,
+            0.2834817850962281
+        ],
+        "source_file": "votes_fgmp0191_page1.csv"
+    },
+    {
+        "ids": [
+            3,
+            19,
+            34
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Dr L Rudge - Staines",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.31323257088661194,
+            0.2861502468585968,
+            0.450064729899168,
+            0.2983814384788275
+        ],
+        "source_file": "votes_fgmp0191_page1.csv"
+    },
+    {
+        "ids": [
+            4,
+            20,
+            35
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Ray Thornton",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.31331294775009155,
+            0.31551775336265564,
+            0.4023682326078415,
+            0.327718086540699
+        ],
+        "source_file": "votes_fgmp0191_page1.csv"
+    },
+    {
+        "ids": [
+            5,
+            21,
+            36
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Alan Heard",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5749556422233582,
+            0.4183291792869568,
+            0.649274431169033,
+            0.42806360963732004
+        ],
+        "source_file": "votes_fgmp0191_page1.csv"
+    },
+    {
+        "ids": [
+            6,
+            22,
+            37
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Tina",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.5110862255096436,
+            0.46314185857772827,
+            0.5413235407322645,
+            0.47250599414110184
+        ],
+        "source_file": "votes_fgmp0191_page1.csv"
+    },
+    {
+        "ids": [
+            7,
+            23,
+            38
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Ray",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.22807204723358154,
+            0.594351589679718,
+            0.25393843092024326,
+            0.6059752879664302
+        ],
+        "source_file": "votes_fgmp0191_page1.csv"
+    },
+    {
+        "ids": [
+            8,
+            24,
+            39
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Location",
+        "value": "Southampton",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4373043477535248,
+            0.2410685271024704,
+            0.5205825790762901,
+            0.25304657500237226
+        ],
+        "source_file": "votes_fgmp0191_page1.csv"
+    },
+    {
+        "ids": [
+            9,
+            25,
+            40
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Location",
+        "value": "Southampton",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.4018678069114685,
+            0.25604474544525146,
+            0.48498088866472244,
+            0.267532660625875
+        ],
+        "source_file": "votes_fgmp0191_page1.csv"
+    },
+    {
+        "ids": [
+            10,
+            26,
+            41
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Location",
+        "value": "Southampton",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.41987141966819763,
+            0.2712570130825043,
+            0.5033479332923889,
+            0.2834817850962281
+        ],
+        "source_file": "votes_fgmp0191_page1.csv"
+    },
+    {
+        "ids": [
+            11,
+            27,
+            42
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Location",
+        "value": "Staines",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.40552037954330444,
+            0.2862144708633423,
+            0.450064729899168,
+            0.29569420684129
+        ],
+        "source_file": "votes_fgmp0191_page1.csv"
+    },
+    {
+        "ids": [
+            12,
+            13,
+            28,
+            29,
+            43,
+            44
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "Millbank",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.48568931221961975,
+            0.4331821799278259,
+            0.5475311316549778,
+            0.4427961530163884
+        ],
+        "source_file": "votes_fgmp0191_page1.csv"
+    },
+    {
+        "ids": [
+            14,
+            30,
+            45
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Date",
+        "value": "13th January 1992",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            0.2275528907775879,
+            0.3455358147621155,
+            0.3438542913645506,
+            0.3576175682246685
+        ],
+        "source_file": "votes_fgmp0191_page1.csv"
+    },
+    {
+        "ids": [
+            15
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Date",
+        "value": "Thursday 30th January",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            0.3174792230129242,
+            0.43323224782943726,
+            0.46375445649027824,
+            0.4456725586205721
+        ],
+        "source_file": "votes_fgmp0191_page1.csv"
+    },
+    {
+        "ids": [
+            17,
+            32
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Dr R Baker",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.31289246678352356,
+            0.256164014339447,
+            0.3878064639866352,
+            0.26576426811516285
+        ],
+        "source_file": "votes_fgmp0191_page1.csv"
+    },
+    {
+        "ids": [
+            18,
+            33
+        ],
+        "doc_id": "votes_fgmp0191_page1",
+        "pii_type": "Person Name",
+        "value": "Mr I C Brown",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            0.3129178285598755,
+            0.2716241776943207,
+            0.4059396833181381,
+            0.28113352227956057
+        ],
+        "source_file": "votes_fgmp0191_page1.csv"
+    }
+]

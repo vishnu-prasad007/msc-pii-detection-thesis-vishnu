@@ -1,0 +1,275 @@
+[
+    {
+        "ids": [
+            0,
+            14
+        ],
+        "doc_id": "votes_fgwj0106_page2",
+        "pii_type": "Person Name",
+        "value": "Keith Eckberg",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            1029,
+            270,
+            1418,
+            317
+        ],
+        "source_file": "votes_fgwj0106_page2.csv",
+        "probability": 0.8622531513884912
+    },
+    {
+        "ids": [
+            1,
+            15
+        ],
+        "doc_id": "votes_fgwj0106_page2",
+        "pii_type": "Person Name",
+        "value": "J. Cunningham",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            634,
+            2037,
+            1022,
+            2086
+        ],
+        "source_file": "votes_fgwj0106_page2.csv",
+        "probability": 0.8622531513884912
+    },
+    {
+        "ids": [
+            2,
+            16
+        ],
+        "doc_id": "votes_fgwj0106_page2",
+        "pii_type": "Person Name",
+        "value": "B. Cutler",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            635,
+            2090,
+            903,
+            2129
+        ],
+        "source_file": "votes_fgwj0106_page2.csv",
+        "probability": 0.8622531513884912
+    },
+    {
+        "ids": [
+            3,
+            17
+        ],
+        "doc_id": "votes_fgwj0106_page2",
+        "pii_type": "Person Name",
+        "value": "F. Goehl",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            635,
+            2138,
+            873,
+            2177
+        ],
+        "source_file": "votes_fgwj0106_page2.csv",
+        "probability": 0.8622531513884912
+    },
+    {
+        "ids": [
+            4,
+            18
+        ],
+        "doc_id": "votes_fgwj0106_page2",
+        "pii_type": "Person Name",
+        "value": "J. Sully",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            635,
+            2188,
+            874,
+            2234
+        ],
+        "source_file": "votes_fgwj0106_page2.csv",
+        "probability": 0.8622531513884912
+    },
+    {
+        "ids": [
+            5,
+            19
+        ],
+        "doc_id": "votes_fgwj0106_page2",
+        "pii_type": "Person Name",
+        "value": "M. Mancuso",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            634,
+            2240,
+            934,
+            2276
+        ],
+        "source_file": "votes_fgwj0106_page2.csv",
+        "probability": 0.8622531513884912
+    },
+    {
+        "ids": [
+            6,
+            20
+        ],
+        "doc_id": "votes_fgwj0106_page2",
+        "pii_type": "Person Name",
+        "value": "T. Walsh",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            635,
+            2288,
+            875,
+            2329
+        ],
+        "source_file": "votes_fgwj0106_page2.csv",
+        "probability": 0.8622531513884912
+    },
+    {
+        "ids": [
+            7,
+            21
+        ],
+        "doc_id": "votes_fgwj0106_page2",
+        "pii_type": "Person Name",
+        "value": "J. Woods",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            635,
+            2342,
+            873,
+            2381
+        ],
+        "source_file": "votes_fgwj0106_page2.csv",
+        "probability": 0.8622531513884912
+    },
+    {
+        "ids": [
+            8,
+            11,
+            22
+        ],
+        "doc_id": "votes_fgwj0106_page2",
+        "pii_type": "Organization Name",
+        "value": "Stout Industries",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            463,
+            270,
+            937,
+            311
+        ],
+        "source_file": "votes_fgwj0106_page2.csv",
+        "probability": 0.9937329907926641
+    },
+    {
+        "ids": [
+            9,
+            12,
+            23
+        ],
+        "doc_id": "votes_fgwj0106_page2",
+        "pii_type": "Date",
+        "value": "11/4/85",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1174,
+            1429,
+            1399,
+            1471
+        ],
+        "source_file": "votes_fgwj0106_page2.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            10,
+            25
+        ],
+        "doc_id": "votes_fgwj0106_page2",
+        "pii_type": "Contract Number",
+        "value": "04446A7A142 COMP",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            134,
+            203,
+            364,
+            230
+        ],
+        "source_file": "votes_fgwj0106_page2.csv",
+        "probability": 0.7676520611868158
+    },
+    {
+        "ids": [
+            13
+        ],
+        "doc_id": "votes_fgwj0106_page2",
+        "pii_type": "Contract Number",
+        "value": "#15Q7",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            207,
+            156,
+            281,
+            176
+        ],
+        "source_file": "votes_fgwj0106_page2.csv",
+        "probability": 0.05266526739555767
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fgwj0106_page2",
+        "pii_type": "Contract Number",
+        "value": "FORM #15Q7",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            119,
+            156,
+            281,
+            178
+        ],
+        "source_file": "votes_fgwj0106_page2.csv",
+        "probability": 0.18724450043103621
+    }
+]

@@ -1,0 +1,501 @@
+[
+    {
+        "ids": [
+            0,
+            15,
+            29,
+            46,
+            60
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "Jim Morgan",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            337,
+            313,
+            491,
+            346
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            16,
+            30,
+            47,
+            61
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "G. C. Bible",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            333,
+            1059,
+            485,
+            1086
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            17,
+            31,
+            48,
+            62
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "W. I. Campbell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            333,
+            1092,
+            541,
+            1124
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            18,
+            32,
+            49,
+            63
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "J. F. Cullman 3rd",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            332,
+            1124,
+            580,
+            1151
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            19,
+            33,
+            50,
+            64
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "W. H. Dunn",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            333,
+            1156,
+            495,
+            1182
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            20,
+            34,
+            51,
+            65
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "M. S. Goldberg",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            333,
+            1188,
+            539,
+            1220
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            6,
+            21,
+            35,
+            52,
+            66
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "J. M. Keenan",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            332,
+            1221,
+            516,
+            1247
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            7,
+            22,
+            36,
+            53,
+            67
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "H. Maxwell",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            332,
+            1253,
+            486,
+            1280
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            8,
+            23,
+            37,
+            54,
+            68
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "R. P. Mayer",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            332,
+            1286,
+            501,
+            1317
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            9,
+            24,
+            38,
+            55,
+            69
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "M. A. Miles",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            332,
+            1318,
+            488,
+            1344
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            10,
+            25,
+            39,
+            56,
+            70
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "R. W. Murray",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            332,
+            1350,
+            516,
+            1382
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            11,
+            12,
+            43,
+            44,
+            74,
+            75,
+            79
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Location",
+            "Contract Number",
+            "Phone Number"
+        ],
+        "value": "120 PARK AVENUE, NEW YORK, NY 10017-5592",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            940,
+            117,
+            1549,
+            147
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.9991371871122463
+    },
+    {
+        "ids": [
+            13,
+            76
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Location",
+        "value": "https://www.industrydocuments.ucsf.edu",
+        "annotators": [
+            0,
+            2
+        ],
+        "bbox": [
+            382,
+            2113,
+            1359,
+            2151
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.7673998145928828
+    },
+    {
+        "ids": [
+            14,
+            45,
+            77
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Date",
+        "value": "October 15, 1992",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1185,
+            213,
+            1411,
+            243
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.9980073602097371
+    },
+    {
+        "ids": [
+            26,
+            40,
+            57,
+            71
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "M. H. Bring",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            333,
+            1416,
+            495,
+            1447
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            27,
+            41,
+            58,
+            72
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "C. L. Fuller",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            333,
+            1447,
+            495,
+            1474
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            28,
+            42,
+            59,
+            73
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": [
+            "Email Address",
+            "Person Name"
+        ],
+        "value": "H. G. Storr",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            332,
+            1480,
+            484,
+            1507
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            78
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Contract Number",
+        "value": "PHILIP MORRIS MANAGEMENT CORP.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            195,
+            77,
+            952,
+            110
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.054906893014309066
+    },
+    {
+        "ids": [
+            80
+        ],
+        "doc_id": "votes_fhcy0038_page1",
+        "pii_type": "Contract Number",
+        "value": "1993 CALENDAR",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            338,
+            414,
+            580,
+            441
+        ],
+        "source_file": "votes_fhcy0038_page1.csv",
+        "probability": 0.054906893014309066
+    }
+]

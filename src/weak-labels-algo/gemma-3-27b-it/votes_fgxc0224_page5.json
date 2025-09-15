@@ -1,0 +1,591 @@
+[
+    {
+        "ids": [
+            0,
+            7,
+            16,
+            39
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "William P. Whitlatch",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            431,
+            1852,
+            1100,
+            1910
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            1,
+            8,
+            17,
+            42
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "Mr. E. J. Fackelman",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            628,
+            2245,
+            1260,
+            2300
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            2,
+            9,
+            18,
+            43
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "Dr. J. L. Gemma",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            630,
+            2310,
+            1133,
+            2364
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            3,
+            10,
+            19,
+            44
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "Mr. J. D. Weber",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            628,
+            2375,
+            1134,
+            2429
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            4,
+            11,
+            20,
+            45
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": [
+            "Person Name",
+            "Location"
+        ],
+        "value": "Mr. J. R. Moore",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            627,
+            2440,
+            1132,
+            2496
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            5,
+            14,
+            21,
+            47
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": [
+            "Date",
+            "Location"
+        ],
+        "value": "February 7, 1991",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            439,
+            417,
+            967,
+            482
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 0.9999987397789659
+    },
+    {
+        "ids": [
+            6,
+            15,
+            48
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Date",
+        "value": "March",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            2801,
+            1523,
+            2995,
+            1578
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 0.9999806273337076
+    },
+    {
+        "ids": [
+            12,
+            40
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": [
+            "Location",
+            "Organization Name"
+        ],
+        "value": "Business Information and Analysis Department",
+        "annotators": [
+            1,
+            2
+        ],
+        "bbox": [
+            433,
+            1918,
+            1898,
+            1984
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 1.0
+    },
+    {
+        "ids": [
+            13
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Organization Name",
+        "value": "MORE",
+        "annotators": [
+            1
+        ],
+        "bbox": [
+            435,
+            680,
+            572,
+            730
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 0.07003450320163163
+    },
+    {
+        "ids": [
+            22
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Location",
+        "value": "Page Five",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            439,
+            484,
+            736,
+            551
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            23
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Location",
+        "value": "MORE DIRECT MARKETING REPORT - COMPETITIVE CONTINUITY WAVE II",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            435,
+            676,
+            2469,
+            730
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            24
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Location",
+        "value": "Results from research conducted following the second competitive",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            635,
+            803,
+            3038,
+            870
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            25
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Location",
+        "value": "containing four $2.00 off 3 packs/carton coupons and a",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1263,
+            870,
+            3039,
+            937
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            26
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Location",
+        "value": "tortoise-shell lighter, were reported.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            635,
+            938,
+            1918,
+            1002
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            27
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Location",
+        "value": "This research provided further",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            2008,
+            934,
+            3039,
+            998
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            28
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Location",
+        "value": "confirmation of the effectiveness of the continuity efforts in maintaining",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            637,
+            1001,
+            3038,
+            1065
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            29
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Location",
+        "value": "the momentum generated by the initial phases of the MORE direct marketing",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            636,
+            1066,
+            3036,
+            1132
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            30
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Location",
+        "value": "program.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            635,
+            1145,
+            897,
+            1205
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            31
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Location",
+        "value": "With the second continuity mailer, brand and product perceptions",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            953,
+            1131,
+            3037,
+            1198
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            32
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Location",
+        "value": "remained at consistently strong levels while the brand's performance on",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            635,
+            1199,
+            3038,
+            1264
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            33
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Location",
+        "value": "the subsequent purchase behavior measure improved significantly.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            634,
+            1262,
+            2810,
+            1328
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            34
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Location",
+        "value": "participants to MORE, thereby representing a significant business building",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            636,
+            1391,
+            3036,
+            1457
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            35
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Location",
+        "value": "opportunity for the brand.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            633,
+            1457,
+            1483,
+            1523
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            36
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Location",
+        "value": "A final report incorporating results from the",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            1162,
+            1456,
+            2909,
+            1522
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            37
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Location",
+        "value": "third continuity mailer to competitive smokers will be issued in March.",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            635,
+            1523,
+            2995,
+            1589
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            38
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Location",
+        "value": "Biu",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            329,
+            1617,
+            695,
+            1861
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            41
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Location",
+        "value": "WPW/lw",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            430,
+            2112,
+            636,
+            2181
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 0.11727918502265558
+    },
+    {
+        "ids": [
+            46
+        ],
+        "doc_id": "votes_fgxc0224_page5",
+        "pii_type": "Location",
+        "value": "https://www.industrydocuments.ucs\u00ed.edu/docs/igxc0224",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            758,
+            4319,
+            2640,
+            4386
+        ],
+        "source_file": "votes_fgxc0224_page5.csv",
+        "probability": 0.11727918502265558
+    }
+]

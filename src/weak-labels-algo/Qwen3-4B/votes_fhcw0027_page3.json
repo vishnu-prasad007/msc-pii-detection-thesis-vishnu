@@ -1,0 +1,206 @@
+[
+    {
+        "ids": [
+            0,
+            11,
+            16
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": "Person Name",
+        "value": "Mr. Jones",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            802,
+            1244,
+            1041,
+            1280
+        ],
+        "source_file": "votes_fhcw0027_page3.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            1,
+            12,
+            17
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": "Person Name",
+        "value": "Miss Edwards",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1316,
+            1475,
+            1687,
+            1515
+        ],
+        "source_file": "votes_fhcw0027_page3.csv",
+        "probability": 0.9981287820578209
+    },
+    {
+        "ids": [
+            2,
+            5,
+            14,
+            18,
+            21
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": [
+            "Organization Name",
+            "Location"
+        ],
+        "value": "Mayo Clinic",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            644,
+            3305,
+            964,
+            3364
+        ],
+        "source_file": "votes_fhcw0027_page3.csv",
+        "probability": 0.9991371871122463
+    },
+    {
+        "ids": [
+            3,
+            8,
+            13,
+            19
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "BATCo",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            1047,
+            834,
+            1203,
+            867
+        ],
+        "source_file": "votes_fhcw0027_page3.csv",
+        "probability": 0.9994792922522238
+    },
+    {
+        "ids": [
+            4,
+            9
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": [
+            "Contract Number",
+            "Organization Name"
+        ],
+        "value": "BATCo",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            55,
+            3303,
+            246,
+            3348
+        ],
+        "source_file": "votes_fhcw0027_page3.csv",
+        "probability": 0.014890382015924125
+    },
+    {
+        "ids": [
+            6,
+            15,
+            22
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": "Date",
+        "value": "28 March 2002",
+        "annotators": [
+            0,
+            1,
+            2
+        ],
+        "bbox": [
+            978,
+            3306,
+            1377,
+            3355
+        ],
+        "source_file": "votes_fhcw0027_page3.csv",
+        "probability": 0.999455223694533
+    },
+    {
+        "ids": [
+            7
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": "Contract Number",
+        "value": "BATCo/Machado",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            840,
+            366,
+            1183,
+            402
+        ],
+        "source_file": "votes_fhcw0027_page3.csv",
+        "probability": 0.1538226533628269
+    },
+    {
+        "ids": [
+            10
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": "Contract Number",
+        "value": "BEPORE",
+        "annotators": [
+            0
+        ],
+        "bbox": [
+            1411,
+            1597,
+            1811,
+            1803
+        ],
+        "source_file": "votes_fhcw0027_page3.csv",
+        "probability": 0.1538226533628269
+    },
+    {
+        "ids": [
+            20
+        ],
+        "doc_id": "votes_fhcw0027_page3",
+        "pii_type": "Organization Name",
+        "value": "Machado",
+        "annotators": [
+            2
+        ],
+        "bbox": [
+            638,
+            1105,
+            829,
+            1140
+        ],
+        "source_file": "votes_fhcw0027_page3.csv",
+        "probability": 0.05285594042746515
+    }
+]
