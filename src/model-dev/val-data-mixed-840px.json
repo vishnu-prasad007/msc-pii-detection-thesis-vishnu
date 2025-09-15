@@ -1,0 +1,1372 @@
+[
+    {
+        "file_name": "fhpb0032_page1",
+        "labels": [
+            {
+                "entity_type": "Person Name",
+                "value": "Kim Logue",
+                "bbox": [
+                    235,
+                    127,
+                    307,
+                    139
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "Ben Kelahan",
+                "bbox": [
+                    235,
+                    154,
+                    316,
+                    164
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "Frankel",
+                "bbox": [
+                    304,
+                    397,
+                    352,
+                    407
+                ]
+            },
+            {
+                "entity_type": "Date",
+                "value": "March 12, 1996",
+                "bbox": [
+                    560,
+                    84,
+                    661,
+                    96
+                ]
+            },
+            {
+                "entity_type": "Contract Number",
+                "value": "TI30610009",
+                "bbox": [
+                    726,
+                    810,
+                    817,
+                    821
+                ]
+            },
+            {
+                "entity_type": "Date",
+                "value": "3-11-96",
+                "bbox": [
+                    144,
+                    508,
+                    185,
+                    516
+                ]
+            },
+            {
+                "entity_type": "Date",
+                "value": "3-11-96",
+                "bbox": [
+                    144,
+                    520,
+                    185,
+                    528
+                ]
+            },
+            {
+                "entity_type": "Date",
+                "value": "3-4-96",
+                "bbox": [
+                    143,
+                    544,
+                    179,
+                    552
+                ]
+            },
+            {
+                "entity_type": "Date",
+                "value": "3-4-96",
+                "bbox": [
+                    144,
+                    532,
+                    179,
+                    540
+                ]
+            },
+            {
+                "entity_type": "Date",
+                "value": "2-28-96",
+                "bbox": [
+                    305,
+                    441,
+                    355,
+                    451
+                ]
+            },
+            {
+                "entity_type": "Date",
+                "value": "2-28-96",
+                "bbox": [
+                    143,
+                    556,
+                    186,
+                    564
+                ]
+            },
+            {
+                "entity_type": "Date",
+                "value": "2-23-96",
+                "bbox": [
+                    143,
+                    568,
+                    186,
+                    576
+                ]
+            }
+        ]
+    },
+    {
+        "file_name": "fgjy0234_page2",
+        "labels": [
+            {
+                "entity_type": "Person Name",
+                "value": "Ed Grelle",
+                "bbox": [
+                    49,
+                    36,
+                    111,
+                    45
+                ]
+            },
+            {
+                "entity_type": "Location",
+                "value": "675 McDonnell Blvd",
+                "bbox": [
+                    49,
+                    94,
+                    180,
+                    102
+                ]
+            },
+            {
+                "entity_type": "Location",
+                "value": "Hazelwood, MO 63042",
+                "bbox": [
+                    49,
+                    113,
+                    196,
+                    123
+                ]
+            },
+            {
+                "entity_type": "Organization Name",
+                "value": "Covidien",
+                "bbox": [
+                    49,
+                    75,
+                    105,
+                    83
+                ]
+            },
+            {
+                "entity_type": "Contract Number",
+                "value": "MNKOI 0000280196",
+                "bbox": [
+                    687,
+                    827,
+                    813,
+                    836
+                ]
+            },
+            {
+                "entity_type": "Phone Number",
+                "value": "314-654-3549",
+                "bbox": [
+                    87,
+                    129,
+                    186,
+                    144
+                ]
+            },
+            {
+                "entity_type": "Phone Number",
+                "value": "314-402-2317",
+                "bbox": [
+                    89,
+                    146,
+                    188,
+                    163
+                ]
+            }
+        ]
+    },
+    {
+        "file_name": "fhfg0219_page6",
+        "labels": [
+            {
+                "entity_type": "Person Name",
+                "value": "Dr. A. W. Spears Spears, et al",
+                "bbox": [
+                    99,
+                    66,
+                    237,
+                    77
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "Ron Milstein",
+                "bbox": [
+                    377,
+                    172,
+                    456,
+                    181
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "Ronald S. Milstein",
+                "bbox": [
+                    438,
+                    305,
+                    551,
+                    315
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "Barry Hirsch",
+                "bbox": [
+                    146,
+                    359,
+                    229,
+                    370
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "Gary Garson",
+                "bbox": [
+                    147,
+                    372,
+                    228,
+                    384
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "Glen Zarin",
+                "bbox": [
+                    146,
+                    385,
+                    216,
+                    396
+                ]
+            },
+            {
+                "entity_type": "Date",
+                "value": "August 9, 1999",
+                "bbox": [
+                    99,
+                    92,
+                    192,
+                    104
+                ]
+            },
+            {
+                "entity_type": "Signature",
+                "value": "",
+                "bbox": [
+                    418,
+                    268,
+                    571,
+                    303
+                ]
+            }
+        ]
+    },
+    {
+        "file_name": "fhhp0238_page1",
+        "labels": [
+            {
+                "entity_type": "Person Name",
+                "value": "Becker, Steven A",
+                "bbox": [
+                    164,
+                    88,
+                    272,
+                    98
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "Yaeger, Ed",
+                "bbox": [
+                    122,
+                    352,
+                    192,
+                    363
+                ]
+            },
+            {
+                "entity_type": "Phone Number",
+                "value": "651 260 4668",
+                "bbox": [
+                    126,
+                    280,
+                    209,
+                    289
+                ]
+            },
+            {
+                "entity_type": "Phone Number",
+                "value": "651 405 1885",
+                "bbox": [
+                    125,
+                    292,
+                    209,
+                    301
+                ]
+            },
+            {
+                "entity_type": "Organization Name",
+                "value": "Covidien Mallinckrodt",
+                "bbox": [
+                    98,
+                    257,
+                    237,
+                    265
+                ]
+            },
+            {
+                "entity_type": "Organization Name",
+                "value": "Covidien Mallinckrodt",
+                "bbox": [
+                    98,
+                    616,
+                    231,
+                    625
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "Becker, Steven A",
+                "bbox": [
+                    122,
+                    701,
+                    230,
+                    710
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "D'Andrea, Michael",
+                "bbox": [
+                    161,
+                    73,
+                    277,
+                    87
+                ]
+            },
+            {
+                "entity_type": "Email Address",
+                "value": "Michael.D'Andrea@henryschein.com",
+                "bbox": [
+                    280,
+                    73,
+                    512,
+                    89
+                ]
+            },
+            {
+                "entity_type": "Email Address",
+                "value": "steven.becker@covidien.com",
+                "bbox": [
+                    91,
+                    303,
+                    282,
+                    315
+                ]
+            },
+            {
+                "entity_type": "Email Address",
+                "value": "Michael.D'Andrea@henryschein.com",
+                "bbox": [
+                    252,
+                    315,
+                    535,
+                    328
+                ]
+            },
+            {
+                "entity_type": "Email Address",
+                "value": "Steven.Becker@Covidien.com",
+                "bbox": [
+                    248,
+                    469,
+                    492,
+                    484
+                ]
+            },
+            {
+                "entity_type": "Email Address",
+                "value": "steven.becker@covidien.com",
+                "bbox": [
+                    93,
+                    662,
+                    284,
+                    676
+                ]
+            },
+            {
+                "entity_type": "Email Address",
+                "value": "Michael.D'Andrea@henryschein.com",
+                "bbox": [
+                    251,
+                    677,
+                    534,
+                    688
+                ]
+            },
+            {
+                "entity_type": "Date",
+                "value": "Thur 12/15/2011 5:21:29 PM",
+                "bbox": [
+                    164,
+                    100,
+                    339,
+                    109
+                ]
+            },
+            {
+                "entity_type": "Date",
+                "value": "Thursday, December 15, 2011 9:13 AM",
+                "bbox": [
+                    134,
+                    326,
+                    322,
+                    340
+                ]
+            },
+            {
+                "entity_type": "Date",
+                "value": "Thursday, December 15, 2011 9:57 AM",
+                "bbox": [
+                    133,
+                    482,
+                    323,
+                    495
+                ]
+            },
+            {
+                "entity_type": "Date",
+                "value": "Thursday, December 15, 2011 8:49 AM",
+                "bbox": [
+                    136,
+                    687,
+                    321,
+                    700
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "Steve",
+                "bbox": [
+                    145,
+                    434,
+                    185,
+                    449
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "Steven Becker",
+                "bbox": [
+                    96,
+                    578,
+                    191,
+                    591
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "D'Andrea, Michael",
+                "bbox": [
+                    136,
+                    676,
+                    252,
+                    686
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "Steven Becker",
+                "bbox": [
+                    97,
+                    217,
+                    193,
+                    230
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "Becker, Steven A",
+                "bbox": [
+                    122,
+                    340,
+                    230,
+                    350
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "Becker, Steven A",
+                "bbox": [
+                    136,
+                    470,
+                    248,
+                    482
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "D'Andrea, Michael",
+                "bbox": [
+                    135,
+                    316,
+                    252,
+                    327
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "D'Andrea, Michael",
+                "bbox": [
+                    119,
+                    495,
+                    242,
+                    507
+                ]
+            },
+            {
+                "entity_type": "Phone Number",
+                "value": "651454 2736",
+                "bbox": [
+                    120,
+                    266,
+                    206,
+                    279
+                ]
+            },
+            {
+                "entity_type": "Phone Number",
+                "value": "651454 2736",
+                "bbox": [
+                    119,
+                    625,
+                    211,
+                    639
+                ]
+            },
+            {
+                "entity_type": "Phone Number",
+                "value": "651 260 4668",
+                "bbox": [
+                    125,
+                    640,
+                    214,
+                    651
+                ]
+            },
+            {
+                "entity_type": "Phone Number",
+                "value": "651 405 1885",
+                "bbox": [
+                    121,
+                    650,
+                    213,
+                    660
+                ]
+            },
+            {
+                "entity_type": "Contract Number",
+                "value": "MNKOI 0001856177",
+                "bbox": [
+                    687,
+                    827,
+                    813,
+                    836
+                ]
+            }
+        ]
+    },
+    {
+        "file_name": "fhlv0084_page1",
+        "labels": [
+            {
+                "entity_type": "Person Name",
+                "value": "J. L. HENDRICKS",
+                "bbox": [
+                    279,
+                    191,
+                    423,
+                    201
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "F. E. McKeown",
+                "bbox": [
+                    280,
+                    218,
+                    404,
+                    228
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "J. R. Roudebush",
+                "bbox": [
+                    280,
+                    231,
+                    410,
+                    241
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "J. V. Fagg",
+                "bbox": [
+                    279,
+                    245,
+                    367,
+                    257
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "C. E. Smoot, Jr",
+                "bbox": [
+                    280,
+                    272,
+                    415,
+                    283
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "M. E. Nichols",
+                "bbox": [
+                    385,
+                    407,
+                    497,
+                    416
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "J. E. Richards",
+                "bbox": [
+                    385,
+                    460,
+                    503,
+                    470
+                ]
+            },
+            {
+                "entity_type": "Contract Number",
+                "value": "680074521",
+                "bbox": [
+                    0,
+                    801,
+                    85,
+                    810
+                ]
+            },
+            {
+                "entity_type": "Location",
+                "value": "P. O. Box 994",
+                "bbox": [
+                    385,
+                    420,
+                    492,
+                    429
+                ]
+            },
+            {
+                "entity_type": "Location",
+                "value": "N. Little Rock, Arkansas 72115",
+                "bbox": [
+                    384,
+                    433,
+                    638,
+                    444
+                ]
+            },
+            {
+                "entity_type": "Location",
+                "value": "111 W. Pershing",
+                "bbox": [
+                    387,
+                    487,
+                    516,
+                    498
+                ]
+            },
+            {
+                "entity_type": "Location",
+                "value": "N. Little Rock, Arkansas 72114",
+                "bbox": [
+                    385,
+                    500,
+                    640,
+                    511
+                ]
+            },
+            {
+                "entity_type": "Date",
+                "value": "July 21, 1976",
+                "bbox": [
+                    280,
+                    299,
+                    383,
+                    311
+                ]
+            },
+            {
+                "entity_type": "Organization Name",
+                "value": "Holiday Inn",
+                "bbox": [
+                    417,
+                    474,
+                    504,
+                    485
+                ]
+            }
+        ]
+    },
+    {
+        "file_name": "fhcy0038_page1",
+        "labels": [
+            {
+                "entity_type": "Person Name",
+                "value": "Jim Morgan",
+                "bbox": [
+                    163,
+                    121,
+                    238,
+                    134
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "G. C. Bible",
+                "bbox": [
+                    161,
+                    412,
+                    235,
+                    423
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "W. I. Campbell",
+                "bbox": [
+                    161,
+                    425,
+                    262,
+                    437
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "J. F. Cullman 3rd",
+                "bbox": [
+                    161,
+                    437,
+                    281,
+                    448
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "W. H. Dunn",
+                "bbox": [
+                    161,
+                    450,
+                    240,
+                    460
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "M. S. Goldberg",
+                "bbox": [
+                    161,
+                    462,
+                    262,
+                    475
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "J. M. Keenan",
+                "bbox": [
+                    161,
+                    475,
+                    250,
+                    485
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "H. Maxwell",
+                "bbox": [
+                    161,
+                    488,
+                    236,
+                    498
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "R. P. Mayer",
+                "bbox": [
+                    161,
+                    501,
+                    243,
+                    513
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "M. A. Miles",
+                "bbox": [
+                    161,
+                    513,
+                    237,
+                    523
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "R. W. Murray",
+                "bbox": [
+                    161,
+                    525,
+                    250,
+                    538
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "M. H. Bring",
+                "bbox": [
+                    161,
+                    551,
+                    240,
+                    563
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "C. L. Fuller",
+                "bbox": [
+                    161,
+                    563,
+                    240,
+                    574
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "H. G. Storr",
+                "bbox": [
+                    161,
+                    576,
+                    235,
+                    587
+                ]
+            },
+            {
+                "entity_type": "Date",
+                "value": "October 15, 1992",
+                "bbox": [
+                    576,
+                    82,
+                    685,
+                    94
+                ]
+            },
+            {
+                "entity_type": "Location",
+                "value": "120 PARK AVENUE, NEW YORK, NY 10017-5592",
+                "bbox": [
+                    450,
+                    40,
+                    766,
+                    60
+                ]
+            },
+            {
+                "entity_type": "Signature",
+                "value": "",
+                "bbox": [
+                    400,
+                    329,
+                    670,
+                    429
+                ]
+            },
+            {
+                "entity_type": "Organization Name",
+                "value": "PHILIP MORRIS MANAGEMENT CORP",
+                "bbox": [
+                    94,
+                    30,
+                    462,
+                    42
+                ]
+            }
+        ]
+    },
+    {
+        "file_name": "fhmj0169_page1",
+        "labels": [
+            {
+                "entity_type": "Person Name",
+                "value": "C. F. VEALEY",
+                "bbox": [
+                    250,
+                    770,
+                    337,
+                    778
+                ]
+            },
+            {
+                "entity_type": "Signature",
+                "value": "",
+                "bbox": [
+                    199,
+                    796,
+                    350,
+                    820
+                ]
+            },
+            {
+                "entity_type": "Invoice Number",
+                "value": "2031323483",
+                "bbox": [
+                    608,
+                    738,
+                    758,
+                    760
+                ]
+            },
+            {
+                "entity_type": "Date",
+                "value": "1/06/94",
+                "bbox": [
+                    676,
+                    766,
+                    737,
+                    780
+                ]
+            },
+            {
+                "entity_type": "Date",
+                "value": "4/01/94",
+                "bbox": [
+                    711,
+                    802,
+                    790,
+                    826
+                ]
+            },
+            {
+                "entity_type": "Date",
+                "value": "1/06/94",
+                "bbox": [
+                    255,
+                    781,
+                    315,
+                    793
+                ]
+            },
+            {
+                "entity_type": "Date",
+                "value": "01/17/94",
+                "bbox": [
+                    685,
+                    56,
+                    743,
+                    64
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "E. L. watto goe",
+                "bbox": [
+                    199,
+                    796,
+                    350,
+                    820
+                ]
+            },
+            {
+                "entity_type": "Organization Name",
+                "value": "TIO ENGINEERINGS",
+                "bbox": [
+                    294,
+                    257,
+                    401,
+                    265
+                ]
+            }
+        ]
+    },
+    {
+        "file_name": "fgpb0239_page2",
+        "labels": [
+            {
+                "entity_type": "Person Name",
+                "value": "Trudy",
+                "bbox": [
+                    246,
+                    40,
+                    285,
+                    50
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "Hightower, Annette",
+                "bbox": [
+                    336,
+                    164,
+                    469,
+                    175
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "Williams, Jane L",
+                "bbox": [
+                    319,
+                    192,
+                    435,
+                    202
+                ]
+            },
+            {
+                "entity_type": "Person Name",
+                "value": "Annette Hightower",
+                "bbox": [
+                    295,
+                    483,
+                    394,
+                    492
+                ]
+            },
+            {
+                "entity_type": "Location",
+                "value": "555 W. 57th Street, 12th Floor New York, NY 10019",
+                "bbox": [
+                    296,
+                    509,
+                    719,
+                    519
+                ]
+            },
+            {
+                "entity_type": "Organization Name",
+                "value": "Innovatix",
+                "bbox": [
+                    467,
+                    68,
+                    527,
+                    76
+                ]
+            },
+            {
+                "entity_type": "Organization Name",
+                "value": "Innovatix",
+                "bbox": [
+                    296,
+                    472,
+                    347,
+                    480
+                ]
+            },
+            {
+                "entity_type": "Organization Name",
+                "value": "Innovatix",
+                "bbox": [
+                    296,
+                    509,
+                    356,
+                    519
+                ]
+            },
+            {
+                "entity_type": "Date",
+                "value": "November 11, 2013, 10:26:17 AM EST",
+                "bbox": [
+                    333,
+                    178,
+                    566,
+                    188
+                ]
+            },
+            {
+                "entity_type": "Contract Number",
+                "value": "00406900076",
+                "bbox": [
+                    526,
+                    298,
+                    602,
+                    307
+                ]
+            },
+            {
+                "entity_type": "Contract Number",
+                "value": "00406907576",
+                "bbox": [
+                    526,
+                    315,
+                    601,
+                    324
+                ]
+            },
+            {
+                "entity_type": "Contract Number",
+                "value": "00406036501",
+                "bbox": [
+                    526,
+                    332,
+                    600,
+                    341
+                ]
+            },
+            {
+                "entity_type": "Contract Number",
+                "value": "00406036562",
+                "bbox": [
+                    526,
+                    349,
+                    601,
+                    357
+                ]
+            },
+            {
+                "entity_type": "Contract Number",
+                "value": "00406036601",
+                "bbox": [
+                    526,
+                    366,
+                    600,
+                    374
+                ]
+            },
+            {
+                "entity_type": "Contract Number",
+                "value": "00406036662",
+                "bbox": [
+                    527,
+                    383,
+                    600,
+                    391
+                ]
+            },
+            {
+                "entity_type": "Contract Number",
+                "value": "00406345434",
+                "bbox": [
+                    526,
+                    399,
+                    601,
+                    407
+                ]
+            },
+            {
+                "entity_type": "Contract Number",
+                "value": "00406577101",
+                "bbox": [
+                    526,
+                    416,
+                    600,
+                    424
+                ]
+            },
+            {
+                "entity_type": "Contract Number",
+                "value": "00406577162",
+                "bbox": [
+                    526,
+                    433,
+                    601,
+                    441
+                ]
+            },
+            {
+                "entity_type": "Email Address",
+                "value": "ahightower@innovatix.com",
+                "bbox": [
+                    472,
+                    160,
+                    663,
+                    176
+                ]
+            },
+            {
+                "entity_type": "Email Address",
+                "value": "Jane.WiILLIAMS@maillinckrodt.com",
+                "bbox": [
+                    439,
+                    190,
+                    671,
+                    206
+                ]
+            },
+            {
+                "entity_type": "Email Address",
+                "value": "ahightower@innovatix.com",
+                "bbox": [
+                    516,
+                    522,
+                    696,
+                    535
+                ]
+            },
+            {
+                "entity_type": "Phone Number",
+                "value": "212-901-1307",
+                "bbox": [
+                    308,
+                    521,
+                    402,
+                    534
+                ]
+            },
+            {
+                "entity_type": "Phone Number",
+                "value": "646-638-0792",
+                "bbox": [
+                    419,
+                    523,
+                    505,
+                    532
+                ]
+            },
+            {
+                "entity_type": "Phone Number",
+                "value": "646-638-0792",
+                "bbox": [
+                    419,
+                    523,
+                    505,
+                    532
+                ]
+            },
+            {
+                "entity_type": "Organization Name",
+                "value": "Innovatix, LLC",
+                "bbox": [
+                    296,
+                    472,
+                    367,
+                    480
+                ]
+            },
+            {
+                "entity_type": "Organization Name",
+                "value": "Mallinckrodt, Inc",
+                "bbox": [
+                    616,
+                    299,
+                    709,
+                    309
+                ]
+            },
+            {
+                "entity_type": "Organization Name",
+                "value": "Mallinckrodt, Inc",
+                "bbox": [
+                    616,
+                    316,
+                    709,
+                    326
+                ]
+            },
+            {
+                "entity_type": "Organization Name",
+                "value": "Mallinckrodt, Inc",
+                "bbox": [
+                    616,
+                    332,
+                    709,
+                    342
+                ]
+            },
+            {
+                "entity_type": "Organization Name",
+                "value": "Mallinckrodt, Inc",
+                "bbox": [
+                    615,
+                    349,
+                    709,
+                    359
+                ]
+            },
+            {
+                "entity_type": "Organization Name",
+                "value": "Mallinckrodt, Inc",
+                "bbox": [
+                    615,
+                    366,
+                    709,
+                    376
+                ]
+            },
+            {
+                "entity_type": "Organization Name",
+                "value": "Mallinckrodt, Inc",
+                "bbox": [
+                    615,
+                    382,
+                    709,
+                    392
+                ]
+            },
+            {
+                "entity_type": "Organization Name",
+                "value": "Mallinckrodt, Inc",
+                "bbox": [
+                    615,
+                    399,
+                    709,
+                    409
+                ]
+            },
+            {
+                "entity_type": "Organization Name",
+                "value": "Mallinckrodt, Inc",
+                "bbox": [
+                    616,
+                    416,
+                    709,
+                    426
+                ]
+            },
+            {
+                "entity_type": "Organization Name",
+                "value": "Mallinckrodt, Inc",
+                "bbox": [
+                    615,
+                    433,
+                    709,
+                    442
+                ]
+            }
+        ]
+    }
+]
