@@ -1,0 +1,7 @@
+
+# Ignore large data archives
+data/*.zip
+data/*.tar
+data/*.tar.gz
+data/*.7z
+data/*.rar
